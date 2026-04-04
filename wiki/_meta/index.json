@@ -12,6 +12,19 @@
     "sources": []
   },
   {
+    "slug": "ba-yi-ceremonial-dance",
+    "title": "Ba Yi (Eight Rows) / 八佾",
+    "summary": "The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.",
+    "tags": [
+      "confucian-rituals",
+      "analects",
+      "ceremony",
+      "social-order",
+      "confucian-concepts"
+    ],
+    "sources": []
+  },
+  {
     "slug": "benevolent-government",
     "title": "Benevolent Government / 仁政",
     "summary": "Benevolent government is characterized by a ruler's compassion and morality, leading to harmony in society.",
@@ -30,6 +43,20 @@
       "mencius-commentary",
       "han-dynasty",
       "classical-scholarship"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "confucian-music-yue",
+    "title": "Confucian View of Music (Yue) / 儒家的音乐观（乐）",
+    "summary": "Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.",
+    "tags": [
+      "confucian-philosophy",
+      "music",
+      "ritual",
+      "moral-cultivation",
+      "analects",
+      "confucian-concepts"
     ],
     "sources": []
   },

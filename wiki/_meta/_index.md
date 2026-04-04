@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-04T17:53:24.145554+00:00
+updated: 2026-04-04T18:07:32.299311+00:00
 ---
 
 # Knowledge Base Index
@@ -12,6 +12,8 @@ updated: 2026-04-04T17:53:24.145554+00:00
 
 ## Analects
 
+- [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
+- [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
 
 ## Ancient-China
@@ -23,6 +25,10 @@ updated: 2026-04-04T17:53:24.145554+00:00
 - [[benevolent-government|Benevolent Government / 仁政]] — Benevolent government is characterized by a ruler's compassion and morality, leading to harmony in society.
 - [[ministerial-advice|Ministerial Advice / 大臣的劝谏]] — The role of ministerial advice is crucial in ensuring benevolent governance and societal harmony.
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
+
+## Ceremony
+
+- [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
 
 ## Chinese-Philosophy
 
@@ -42,9 +48,19 @@ updated: 2026-04-04T17:53:24.145554+00:00
 
 - [[chaou-ke|Chaou K'e / 赵岐]] — Han dynasty scholar who created the first major commentary on Mencius
 
+## Confucian-Concepts
+
+- [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
+- [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
+
 ## Confucian-Philosophy
 
+- [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
+
+## Confucian-Rituals
+
+- [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
 
 ## Confucianism
 
@@ -109,6 +125,10 @@ updated: 2026-04-04T17:53:24.145554+00:00
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
 
+## Moral-Cultivation
+
+- [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
+
 ## Moral-Psychology
 
 - [[fixed-livelihood|Fixed Livelihood / 恒产论]] — Mencius's economic theory that stable property ownership is essential for moral stability
@@ -124,6 +144,10 @@ updated: 2026-04-04T17:53:24.145554+00:00
 
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
 
+## Music
+
+- [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
+
 ## Passion-Nature
 
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
@@ -133,9 +157,17 @@ updated: 2026-04-04T17:53:24.145554+00:00
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
 
+## Ritual
+
+- [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
+
 ## Ritual-Propriety
 
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
+
+## Social-Order
+
+- [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
 
 ## Social-Stability
 
@@ -191,4 +223,4 @@ updated: 2026-04-04T17:53:24.145554+00:00
 
 
 ---
-*15 articles indexed*
+*17 articles indexed*
