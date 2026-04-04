@@ -25,6 +25,17 @@
     "sources": []
   },
   {
+    "slug": "benevolence",
+    "title": "Benevolence / 仁",
+    "summary": "Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.",
+    "tags": [
+      "benevolence",
+      "ethics",
+      "confucianism"
+    ],
+    "sources": []
+  },
+  {
     "slug": "benevolent-government",
     "title": "Benevolent Government / 仁政",
     "summary": "Benevolent government is characterized by a ruler's compassion and morality, leading to harmony in society.",
@@ -32,6 +43,32 @@
       "mencius",
       "benevolent-government",
       "moral-responsibility"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "brahma-fourfold-teaching",
+    "title": "Brahma's Fourfold Teaching on Liberation / 梵天王四法",
+    "summary": "Mahābrahmā's teachings on the four conditions for rebirth in the Brahma realm: non-self practice, one-pointedness of mind, compassionate liberation, and abandoning defilements.",
+    "tags": [
+      "brahma",
+      "liberation",
+      "rebirth-brahma-realm",
+      "four-conditions",
+      "defilements"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "changahan-jing",
+    "title": "Chang Ahan Jing (Long Discourses of the Buddha) / 長阿含經",
+    "summary": "The Dīrgha-āgama, the longest collection of the Buddha's long discourses in early Buddhist scripture, compiled in four sections and five recitations.",
+    "tags": [
+      "buddhist-texts",
+      "agama",
+      "chinese-buddhism",
+      "sutra",
+      "hindic-buddhism"
     ],
     "sources": []
   },
@@ -87,6 +124,30 @@
     "sources": []
   },
   {
+    "slug": "governance-leadership",
+    "title": "Governance and Leadership / 治理与领导",
+    "summary": "Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.",
+    "tags": [
+      "governance",
+      "leadership",
+      "ethics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "great-firm-brahman",
+    "title": "The Great Firm Brahman / 大堅固婆羅門",
+    "summary": "A jātaka-like narrative about a minister named Humeng who became an arhat through renunciation and taught the Dharma, later identified as a past life of the Buddha.",
+    "tags": [
+      "jataka",
+      "brahmin",
+      "arhat",
+      "renunciation",
+      "past-life-narrative"
+    ],
+    "sources": []
+  },
+  {
     "slug": "han-dynasty-mencius-reception",
     "title": "Han Dynasty Reception of Mencius / 汉代孟子接受史",
     "summary": "Historical process of Mencius's recognition and preservation during the Han dynasty",
@@ -128,6 +189,35 @@
       "墨家",
       "墨子"
     ],
+    "sources": []
+  },
+  {
+    "slug": "junzi",
+    "title": "The Role of the Junzi / 君子的角色",
+    "summary": "Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "junzi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "knowledge-learning",
+    "title": "Knowledge and Learning / 知识与学习",
+    "summary": "Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.",
+    "tags": [
+      "learning",
+      "knowledge",
+      "education"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mendicant-life-three-conditions",
+    "title": "mendicant-life-three-conditions",
+    "summary": "",
+    "tags": [],
     "sources": []
   },
   {
@@ -177,6 +267,19 @@
     "sources": []
   },
   {
+    "slug": "tathagata-eight-rare-qualities",
+    "title": "Eight Rare Qualities of a Tathagata / 如來八希有法",
+    "summary": "Eight exceptional qualities that appear when a Buddha enters the world, as taught by Indra and repeated by Brahma, forming a unique doctrinal teaching of this sutra.",
+    "tags": [
+      "tathagata",
+      "rare-qualities",
+      "indra",
+      "brahma",
+      "buddha-appearances"
+    ],
+    "sources": []
+  },
+  {
     "slug": "three-years-mourning",
     "title": "Three Years Mourning / 三年之丧",
     "summary": "The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.",
@@ -184,6 +287,17 @@
       "xiao",
       "moral-responsibility",
       "three-years-mourning"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "virtue-ethics",
+    "title": "Virtue and Ethics / 德与伦理",
+    "summary": "Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.",
+    "tags": [
+      "ethics",
+      "virtue",
+      "confucianism"
     ],
     "sources": []
   },

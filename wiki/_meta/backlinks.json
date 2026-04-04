@@ -20,6 +20,33 @@
   "qin-dynasty": [
     "mengzi"
   ],
+  "tathagata": [
+    "tathagata-eight-rare-qualities"
+  ],
+  "śakra": [
+    "tathagata-eight-rare-qualities"
+  ],
+  "mahābrahmā": [
+    "tathagata-eight-rare-qualities",
+    "brahma-fourfold-teaching",
+    "great-firm-brahman"
+  ],
+  "śrāvaka": [
+    "tathagata-eight-rare-qualities",
+    "great-firm-brahman"
+  ],
+  "riddhi": [
+    "tathagata-eight-rare-qualities"
+  ],
+  "nirvana": [
+    "tathagata-eight-rare-qualities"
+  ],
+  "five-tufted-gandharva-prince": [
+    "tathagata-eight-rare-qualities"
+  ],
+  "声聞": [
+    "tathagata-eight-rare-qualities"
+  ],
   "the-analects": [
     "ba-yi-ceremonial-dance",
     "confucian-music-yue"
@@ -31,8 +58,36 @@
   "zhi-qing-relation": [
     "ba-yi-ceremonial-dance"
   ],
+  "brahma-realm": [
+    "brahma-fourfold-teaching"
+  ],
+  "samsara": [
+    "brahma-fourfold-teaching"
+  ],
+  "brahminical": [
+    "brahma-fourfold-teaching"
+  ],
+  "defilements": [
+    "brahma-fourfold-teaching",
+    "great-firm-brahman"
+  ],
+  "buddhist": [
+    "brahma-fourfold-teaching"
+  ],
   "孟子": [
     "zhi-qing-relation"
+  ],
+  "arhat": [
+    "great-firm-brahman"
+  ],
+  "arhatship": [
+    "great-firm-brahman"
+  ],
+  "如來八希有法": [
+    "great-firm-brahman"
+  ],
+  "阿羅漢果": [
+    "great-firm-brahman"
   ],
   "fixed-livelihood": [
     "agricultural-foundation"
@@ -42,6 +97,18 @@
   ],
   "恒産論": [
     "agricultural-foundation"
+  ],
+  "twelve-links-of-dependent-origination": [
+    "changahan-jing"
+  ],
+  "four-noble-truths": [
+    "changahan-jing"
+  ],
+  "十二因縁": [
+    "changahan-jing"
+  ],
+  "四聖諦": [
+    "changahan-jing"
   ],
   "教育": [
     "human-nature-is-good"

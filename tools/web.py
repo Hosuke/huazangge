@@ -60,6 +60,23 @@ def create_web_app(base_dir: Path | None = None):
             "total_words": total_words,
         })
 
+    @app.route("/api/taxonomy")
+    def api_taxonomy():
+        """Get or generate hierarchical category taxonomy."""
+        from .taxonomy import load_taxonomy, generate_taxonomy
+        taxonomy = load_taxonomy(base)
+        if not taxonomy.get("categories"):
+            # Auto-generate on first request
+            taxonomy = generate_taxonomy(base)
+        return jsonify(taxonomy)
+
+    @app.route("/api/taxonomy/rebuild", methods=["POST"])
+    def api_taxonomy_rebuild():
+        """Regenerate taxonomy from current articles."""
+        from .taxonomy import generate_taxonomy
+        taxonomy = generate_taxonomy(base)
+        return jsonify({"status": "ok", "categories": len(taxonomy.get("categories", []))})
+
     @app.route("/api/collections")
     def api_collections():
         """Group articles into collections by tags."""
@@ -206,6 +223,21 @@ def create_web_app(base_dir: Path | None = None):
         else:
             results = lint(base)
             return jsonify({"results": results})
+
+    @app.route("/api/wiki/export")
+    def api_wiki_export():
+        """Export all wiki articles as JSON (for backup/sync)."""
+        cfg = load_config(base)
+        concepts_dir = Path(cfg["paths"]["concepts"])
+        articles = {}
+        if concepts_dir.exists():
+            for md_file in sorted(concepts_dir.glob("*.md")):
+                post = frontmatter.load(str(md_file))
+                articles[md_file.stem] = {
+                    "metadata": dict(post.metadata),
+                    "content": post.content,
+                }
+        return jsonify({"articles": articles, "count": len(articles)})
 
     @app.route("/api/index/rebuild", methods=["POST"])
     def api_rebuild_index():
