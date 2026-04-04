@@ -3,11 +3,14 @@ created: '2026-04-04T17:47:25.082756+00:00'
 summary: Moral responsibility emphasizes the ethical obligations individuals hold
   towards society and each other.
 tags:
+- analects
+- benevolent-government
+- confucianism
 - mencius
 - moral-responsibility
-- benevolent-government
+- philosophy
 title: Moral Responsibility / 道德责任
-updated: '2026-04-04T17:47:25.082760+00:00'
+updated: '2026-04-04T19:16:41.470197+00:00'
 ---
 
 ## English
@@ -39,3 +42,84 @@ Moreover, moral responsibility extends beyond individual actions to include fami
 統治の文脈において、統治者は秩序を維持する責任があるだけでなく、市民の道徳的発展を育む義務も持っています。これは、孟子の言葉に表れています。慈悲深い統治者は仁愛の環境を育て、倫理的な行動が繁栄する社会を構築します。
 
 さらに、道徳的責任は個人の行動を越え、家族や社会への義務を含みます。これにより、個人は倫理的で良心的な行動を取らざるを得ない状況に置かれ、自分の行動が社会に与える広範な影響を認識します。孟子の教えは、道徳的責任を怠ることで社会が混乱し秩序が失われる可能性があることを強調しています。
+
+---
+
+## English
+
+### Confucian Moral Responsibility
+
+Chapter Xian Wen extensively discusses the concept of [[moral-responsibility]] in both political and personal contexts, outlining the ethical duties of rulers, ministers, and gentlemen.
+
+#### Political Responsibility and Shame
+
+Confucius defines political shame in terms of context-aware conduct:
+> "邦有道，穀；邦無道，穀，恥也。"
+> "When the state is well-governed, receiving an official salary is acceptable; when the state is ill-governed, receiving an official salary is shameful."
+
+This establishes that [[moral-responsibility]] involves understanding one's role in the broader political context and acting accordingly.
+
+#### The Gentleman's Social Responsibility
+
+The concept of the [[junzi]] carries heavy social responsibilities:
+> "士而懷居，不足以為士矣。"
+> "A scholar who is attached to comfort is not worthy to be called a scholar."
+
+> "愛之，能勿勞乎？忠焉，能勿誨乎？"
+> "If you love someone, can you avoid working hard for them? If you are loyal to someone, can you avoid instructing them?"
+
+#### Service to the State
+
+Confucius emphasizes the importance of capable ministers in maintaining the state:
+> "仲叔圉治賓客，祝鮀治宗廟，王孫賈治軍旅。夫如是，奚其喪？"
+> "With Zhongshu Yu managing foreign guests, Zhu Tuo managing ancestral temples, and Wangsun Jia managing military affairs - with such ministers, how could the state perish?"
+
+## 中文
+
+### 儒家道德责任观
+
+《论语·宪问》篇深入探讨了政治与个人层面的[[moral-responsibility|道德责任]]概念，阐述了君主、臣子与君子的伦理职责。
+
+#### 政治责任与耻辱观
+
+孔子根据情境定义政治耻辱：
+> "邦有道，穀；邦無道，穀，恥也。"
+
+这确立了[[moral-responsibility|道德责任]]包含理解个人在更广阔政治背景中的角色并相应行动。
+
+#### 君子的社会责任
+
+[[junzi|君子]]概念承载着重大的社会责任：
+> "士而懷居，不足以為士矣。"
+
+> "愛之，能勿勞乎？忠焉，能勿誨乎？"
+
+#### 对国家服务的重视
+
+孔子强调能臣对国家存续的重要性：
+> "仲叔圉治賓客，祝鮀治宗廟，王孫賈治軍旅。夫如是，奚其喪？"
+
+## 日本語
+
+### 儒家の道徳的責任
+
+憲問篇は、政治的および個人的文脈における[[moral-responsibility|道徳的責任]]の概念を広範に議論し、統治者、大臣、君子の倫理的義務を概説している。
+
+#### 政治的責任と恥
+
+孔子は状況認識のある行為において政治的恥を定義する：
+> "邦有道，穀；邦無道，穀，恥也。"
+
+これは、[[moral-responsibility|道徳的責任]]がより広い政治的文脈における自分の役割を理解し、それに応じて行動することを含むことを確立する。
+
+#### 君子の社会的責任
+
+[[junzi|君子]]の概念は重い社会的責任を負う：
+> "士而懷居，不足以為士矣。"
+
+> "愛之，能勿勞乎？忠焉，能勿誨乎？"
+
+#### 国家への奉仕
+
+孔子は国家維持における有能な大臣の重要性を強調する：
+> "仲叔圉治賓客，祝鮀治宗廟，王孫賈治軍旅。夫如是，奚其喪？"

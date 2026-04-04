@@ -1,9 +1,19 @@
 {
   "benevolent-government": [
-    "fixed-livelihood"
+    "fixed-livelihood",
+    "junzi",
+    "confucian-trust-verification",
+    "benevolence",
+    "confucian-political-philosophy",
+    "confucian-ethics",
+    "benevolent-government"
   ],
   "仁政": [
-    "fixed-livelihood"
+    "fixed-livelihood",
+    "junzi",
+    "confucian-trust-verification",
+    "benevolence",
+    "confucian-ethics"
   ],
   "the-works-of-mencius": [
     "mengzi"
@@ -31,13 +41,139 @@
     "great-firm-brahman-backstory"
   ],
   "human-nature": [
-    "twelve-links-dependent-origination"
+    "twelve-links-dependent-origination",
+    "confucian-trust-verification",
+    "confucian-ethics",
+    "knowledge-learning"
   ],
   "止觀": [
     "twelve-links-dependent-origination"
   ],
   "さとり": [
     "twelve-links-dependent-origination"
+  ],
+  "benevolence": [
+    "junzi",
+    "virtue-ethics",
+    "confucian-trust-verification",
+    "benevolence",
+    "human-nature",
+    "confucian-self-examination",
+    "confucian-ethics",
+    "knowledge-learning"
+  ],
+  "knowledge-learning": [
+    "junzi",
+    "virtue-ethics",
+    "confucian-trust-verification",
+    "human-nature",
+    "confucian-ethics",
+    "knowledge-learning"
+  ],
+  "confucian-self-examination": [
+    "junzi",
+    "confucian-trust-verification",
+    "benevolence",
+    "confucian-ethics",
+    "knowledge-learning",
+    "junzi-cultivation"
+  ],
+  "仁爱": [
+    "junzi",
+    "benevolence",
+    "confucian-self-examination"
+  ],
+  "知识学习": [
+    "junzi",
+    "confucian-trust-verification",
+    "confucian-ethics"
+  ],
+  "儒家自省": [
+    "junzi",
+    "confucian-trust-verification",
+    "benevolence",
+    "confucian-ethics"
+  ],
+  "仁愛": [
+    "junzi",
+    "benevolence",
+    "confucian-self-examination"
+  ],
+  "知識学習": [
+    "junzi",
+    "confucian-trust-verification",
+    "confucian-ethics"
+  ],
+  "confucian-ethics": [
+    "junzi",
+    "virtue-ethics",
+    "confucian-trust-verification",
+    "benevolence",
+    "human-nature",
+    "confucian-self-examination",
+    "confucian-political-philosophy",
+    "knowledge-learning"
+  ],
+  "ren": [
+    "junzi",
+    "analects-disciples",
+    "ren",
+    "confucian-ethics"
+  ],
+  "li": [
+    "junzi",
+    "confucian-ethics"
+  ],
+  "yan-hui": [
+    "junzi",
+    "analects-disciples",
+    "ren",
+    "confucian-ethics"
+  ],
+  "仁": [
+    "junzi",
+    "analects-disciples",
+    "confucian-self-examination",
+    "confucian-ethics",
+    "knowledge-learning",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "礼": [
+    "junzi"
+  ],
+  "颜回": [
+    "junzi",
+    "analects-disciples",
+    "ren",
+    "confucian-ethics"
+  ],
+  "顔回": [
+    "junzi",
+    "analects-disciples",
+    "ren",
+    "confucian-ethics"
+  ],
+  "virtue-ethics": [
+    "virtue-ethics",
+    "confucian-trust-verification",
+    "benevolence",
+    "great-firm-brahman-backstory",
+    "confucian-self-examination",
+    "confucian-ethics",
+    "knowledge-learning",
+    "junzi-cultivation"
+  ],
+  "human-immortal-ren-xian": [
+    "bimbisara-king-magadha-ren-xian"
+  ],
+  "four-bases-supernatural-power-siddhartha": [
+    "bimbisara-king-magadha-ren-xian"
+  ],
+  "人仙": [
+    "bimbisara-king-magadha-ren-xian"
+  ],
+  "四神足": [
+    "bimbisara-king-magadha-ren-xian"
   ],
   "tathagata": [
     "tathagata-eight-rare-qualities"
@@ -66,6 +202,100 @@
   "声聞": [
     "tathagata-eight-rare-qualities"
   ],
+  "confucius-etiquette-xiang-dang": [
+    "confucian-trust-verification",
+    "confucian-ethics"
+  ],
+  "han-dynasty-mencius-reception": [
+    "confucian-trust-verification"
+  ],
+  "analects": [
+    "confucian-trust-verification",
+    "analects-disciples",
+    "confucian-ethics"
+  ],
+  "moral-responsibility": [
+    "confucian-trust-verification",
+    "confucian-self-examination",
+    "confucian-political-philosophy",
+    "confucian-ethics",
+    "moral-responsibility"
+  ],
+  "junzi": [
+    "confucian-trust-verification",
+    "benevolence",
+    "human-nature",
+    "confucian-sincerity-cheng",
+    "central-harmony-zhonghe",
+    "confucian-self-examination",
+    "confucian-ethics",
+    "knowledge-learning",
+    "moral-responsibility",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "论语": [
+    "confucian-trust-verification"
+  ],
+  "道德责任": [
+    "confucian-trust-verification",
+    "confucian-self-examination",
+    "confucian-ethics"
+  ],
+  "君子": [
+    "confucian-trust-verification",
+    "benevolence",
+    "confucian-sincerity-cheng",
+    "central-harmony-zhonghe",
+    "confucian-self-examination",
+    "confucian-ethics"
+  ],
+  "論語": [
+    "confucian-trust-verification"
+  ],
+  "道徳的責任": [
+    "confucian-trust-verification",
+    "confucian-self-examination",
+    "confucian-ethics"
+  ],
+  "xin": [
+    "confucian-trust-verification"
+  ],
+  "confucius-analects": [
+    "confucian-trust-verification"
+  ],
+  "儒家伦理": [
+    "confucian-trust-verification",
+    "confucian-self-examination"
+  ],
+  "儒教的倫理": [
+    "confucian-trust-verification"
+  ],
+  "儒教的自省": [
+    "confucian-trust-verification"
+  ],
+  "benevolent": [
+    "benevolence"
+  ],
+  "仁者": [
+    "benevolence"
+  ],
+  "zilu": [
+    "analects-disciples",
+    "confucian-ethics"
+  ],
+  "zigong": [
+    "analects-disciples"
+  ],
+  "子路": [
+    "analects-disciples",
+    "confucian-ethics"
+  ],
+  "子贡": [
+    "analects-disciples"
+  ],
+  "子貢": [
+    "analects-disciples"
+  ],
   "the-analects": [
     "ba-yi-ceremonial-dance",
     "confucian-music-yue"
@@ -88,6 +318,7 @@
   ],
   "twelve-links-dependent-origination": [
     "great-firm-brahman-backstory",
+    "an-shigao-translated-agama-zhengxing-sutra",
     "thirty-three-heavens",
     "seven-buddhas-current-kalpa"
   ],
@@ -97,8 +328,16 @@
   "twenty-realms-of-existence": [
     "great-firm-brahman-backstory"
   ],
-  "virtue-ethics": [
-    "great-firm-brahman-backstory"
+  "mengzi": [
+    "human-nature"
+  ],
+  "yin-yang-dao-philosophy": [
+    "dao-de-jing-silk-manuscript",
+    "dao-the-way-taoism"
+  ],
+  "governance-virtue-de": [
+    "dao-de-jing-silk-manuscript",
+    "dao-the-way-taoism"
   ],
   "brahma-realm": [
     "brahma-fourfold-teaching"
@@ -116,8 +355,61 @@
   "buddhist": [
     "brahma-fourfold-teaching"
   ],
+  "an-shigao-translation-methodology": [
+    "an-shigao-translated-agama-zhengxing-sutra"
+  ],
+  "安世高譯經方法論": [
+    "an-shigao-translated-agama-zhengxing-sutra"
+  ],
+  "十二因緣": [
+    "an-shigao-translated-agama-zhengxing-sutra",
+    "seven-buddhas-current-kalpa"
+  ],
+  "十二因縁": [
+    "an-shigao-translated-agama-zhengxing-sutra",
+    "changahan-jing",
+    "seven-buddhas-current-kalpa"
+  ],
   "孟子": [
     "zhi-qing-relation"
+  ],
+  "doctrine-of-the-mean-(zhongyong)": [
+    "confucian-sincerity-cheng",
+    "central-harmony-zhonghe"
+  ],
+  "confucian-self-cultivation": [
+    "confucian-sincerity-cheng",
+    "central-harmony-zhonghe",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "human-nature-in-confucianism": [
+    "confucian-sincerity-cheng",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "中庸": [
+    "confucian-sincerity-cheng",
+    "central-harmony-zhonghe"
+  ],
+  "修身": [
+    "confucian-sincerity-cheng",
+    "central-harmony-zhonghe",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "人性善": [
+    "confucian-sincerity-cheng",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "wu-wei-non-action-taoism": [
+    "dao-the-way-taoism"
+  ],
+  "無為": [
+    "dao-the-way-taoism"
+  ],
+  "emotional-regulation-in-classical-chinese-philosophy": [
+    "central-harmony-zhonghe"
+  ],
+  "天人合一": [
+    "central-harmony-zhonghe"
   ],
   "six-realms-of-existence": [
     "thirty-three-heavens"
@@ -127,6 +419,67 @@
   ],
   "dependent-origination": [
     "thirty-three-heavens"
+  ],
+  "德行伦理": [
+    "confucian-self-examination",
+    "confucian-ethics",
+    "knowledge-learning"
+  ],
+  "儒教倫理": [
+    "confucian-self-examination"
+  ],
+  "徳倫理学": [
+    "confucian-self-examination",
+    "confucian-ethics",
+    "knowledge-learning"
+  ],
+  "defilement-accumulation-in-practice": [
+    "an-shigao-translation-methodology"
+  ],
+  "shi-bao-teachings-numerical-classification": [
+    "an-shigao-translation-methodology"
+  ],
+  "confucian-music-yue": [
+    "confucian-ethics",
+    "knowledge-learning"
+  ],
+  "孔子乡党礼仪": [
+    "confucian-ethics"
+  ],
+  "儒家音乐": [
+    "confucian-ethics"
+  ],
+  "人性": [
+    "confucian-ethics"
+  ],
+  "儒家自己省察": [
+    "confucian-ethics"
+  ],
+  "孔子郷党礼儀": [
+    "confucian-ethics"
+  ],
+  "儒家音楽": [
+    "confucian-ethics"
+  ],
+  "人間性": [
+    "confucian-ethics"
+  ],
+  "自我省察": [
+    "confucian-ethics",
+    "knowledge-learning"
+  ],
+  "知与学": [
+    "confucian-ethics"
+  ],
+  "自己省察": [
+    "confucian-ethics",
+    "knowledge-learning"
+  ],
+  "知と学": [
+    "confucian-ethics"
+  ],
+  "xiao": [
+    "confucian-ethics"
   ],
   "arhat": [
     "great-firm-brahman"
@@ -139,6 +492,18 @@
   ],
   "阿羅漢果": [
     "great-firm-brahman"
+  ],
+  "ba-yi-ceremonial-dance": [
+    "knowledge-learning"
+  ],
+  "confucian-political-philosophy": [
+    "knowledge-learning"
+  ],
+  "the-noble-eightfold-path": [
+    "arhat-stages-buddhist-liberation"
+  ],
+  "consciousness-only-mind-only": [
+    "arhat-stages-buddhist-liberation"
   ],
   "fixed-livelihood": [
     "agricultural-foundation"
@@ -155,20 +520,19 @@
   "four-noble-truths": [
     "changahan-jing"
   ],
-  "十二因縁": [
-    "changahan-jing",
-    "seven-buddhas-current-kalpa"
-  ],
   "四聖諦": [
     "changahan-jing"
   ],
   "教育": [
     "human-nature-is-good"
   ],
-  "十二因緣": [
-    "seven-buddhas-current-kalpa"
-  ],
   "如來八難得": [
     "seven-buddhas-current-kalpa"
+  ],
+  "four-books": [
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "四書": [
+    "doctrine-of-the-mean-zhongyong"
   ]
 }
