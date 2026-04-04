@@ -20,6 +20,25 @@
   "qin-dynasty": [
     "mengzi"
   ],
+  "tathagata-eight-rare-qualities": [
+    "twelve-links-dependent-origination",
+    "great-firm-brahman-backstory",
+    "thirty-three-heavens",
+    "seven-buddhas-current-kalpa"
+  ],
+  "mendicant-life-three-conditions": [
+    "twelve-links-dependent-origination",
+    "great-firm-brahman-backstory"
+  ],
+  "human-nature": [
+    "twelve-links-dependent-origination"
+  ],
+  "止觀": [
+    "twelve-links-dependent-origination"
+  ],
+  "さとり": [
+    "twelve-links-dependent-origination"
+  ],
   "tathagata": [
     "tathagata-eight-rare-qualities"
   ],
@@ -58,6 +77,29 @@
   "zhi-qing-relation": [
     "ba-yi-ceremonial-dance"
   ],
+  "thirty-three-heavens": [
+    "great-firm-brahman-backstory"
+  ],
+  "three-jewels": [
+    "great-firm-brahman-backstory"
+  ],
+  "four-immeasurables": [
+    "great-firm-brahman-backstory"
+  ],
+  "twelve-links-dependent-origination": [
+    "great-firm-brahman-backstory",
+    "thirty-three-heavens",
+    "seven-buddhas-current-kalpa"
+  ],
+  "great-firm-brahman": [
+    "great-firm-brahman-backstory"
+  ],
+  "twenty-realms-of-existence": [
+    "great-firm-brahman-backstory"
+  ],
+  "virtue-ethics": [
+    "great-firm-brahman-backstory"
+  ],
   "brahma-realm": [
     "brahma-fourfold-teaching"
   ],
@@ -76,6 +118,15 @@
   ],
   "孟子": [
     "zhi-qing-relation"
+  ],
+  "six-realms-of-existence": [
+    "thirty-three-heavens"
+  ],
+  "four-continents": [
+    "thirty-three-heavens"
+  ],
+  "dependent-origination": [
+    "thirty-three-heavens"
   ],
   "arhat": [
     "great-firm-brahman"
@@ -105,12 +156,19 @@
     "changahan-jing"
   ],
   "十二因縁": [
-    "changahan-jing"
+    "changahan-jing",
+    "seven-buddhas-current-kalpa"
   ],
   "四聖諦": [
     "changahan-jing"
   ],
   "教育": [
     "human-nature-is-good"
+  ],
+  "十二因緣": [
+    "seven-buddhas-current-kalpa"
+  ],
+  "如來八難得": [
+    "seven-buddhas-current-kalpa"
   ]
 }

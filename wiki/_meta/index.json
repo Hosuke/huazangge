@@ -12,6 +12,18 @@
     "sources": []
   },
   {
+    "slug": "analects-xue-er",
+    "title": "Learning and Its Practice / 学而时习之",
+    "summary": "The opening chapter of the Analects emphasizing the importance of continuous learning, review, and friendship in personal cultivation.",
+    "tags": [
+      "confucianism",
+      "learning",
+      "self-cultivation",
+      "analects"
+    ],
+    "sources": []
+  },
+  {
     "slug": "ba-yi-ceremonial-dance",
     "title": "Ba Yi (Eight Rows) / 八佾",
     "summary": "The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.",
@@ -98,6 +110,18 @@
     "sources": []
   },
   {
+    "slug": "confucian-self-examination",
+    "title": "Self-Examination in Confucianism / 三省吾身",
+    "summary": "The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.",
+    "tags": [
+      "confucianism",
+      "self-cultivation",
+      "moral-philosophy",
+      "reflection"
+    ],
+    "sources": []
+  },
+  {
     "slug": "confucius-etiquette-xiang-dang",
     "title": "Confucius's Etiquette in Public Life / 孔子乡党礼仪",
     "summary": "Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.",
@@ -108,6 +132,19 @@
       "etiquette",
       "ritual-propriety",
       "confucianism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "eightfold-noble-path-human-immortal-sutra",
+    "title": "Eightfold Noble Path (Human Immortal Sutra) / 八正道",
+    "summary": "The Eightfold Noble Path as expounded in the Sutra of the Human Immortal, taught by Mahabrahma Deva as the method for achieving pure contemplation and liberation.",
+    "tags": [
+      "buddhism",
+      "noble-path",
+      "eightfold-path",
+      "mahabrahma",
+      "liberation"
     ],
     "sources": []
   },
@@ -124,6 +161,32 @@
     "sources": []
   },
   {
+    "slug": "four-bases-supernatural-power-siddhartha",
+    "title": "Four Bases of Supernatural Power / 四神足",
+    "summary": "The Four Bases of Supernatural Power (rddhipāda) taught by Mahabrahma Deva, describing the spiritual faculties of desire, endeavor, mind, and investigation.",
+    "tags": [
+      "buddhism",
+      "meditation",
+      "supernatural-powers",
+      "mahabrahma",
+      "four-bases"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-castes-origin-buddhist-cosmology",
+    "title": "Buddhist Origin of the Four Castes / 四姓起源",
+    "summary": "Buddhist cosmological account of how the four varnas (brahman, kshatriya, vaishya, shudra) arose from primordial beings and the Buddha's teaching on karmic equality.",
+    "tags": [
+      "buddhism",
+      "caste",
+      "cosmology",
+      "brahmins",
+      "origin-of-society"
+    ],
+    "sources": []
+  },
+  {
     "slug": "governance-leadership",
     "title": "Governance and Leadership / 治理与领导",
     "summary": "Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.",
@@ -131,6 +194,35 @@
       "governance",
       "leadership",
       "ethics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "governance-virtue-de",
+    "title": "Governance through Virtue / 为政以德",
+    "summary": "Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.",
+    "tags": [
+      "confucianism",
+      "governance",
+      "political-philosophy",
+      "virtue",
+      "analects"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "great-firm-brahman-backstory",
+    "title": "The Origin Story of the Great Firm Brāhmaṇa / 大堅固婆羅門緣起",
+    "summary": "A Buddhist sūtra recounting how King Linu's minister Mahākakuda meets the Buddha, attains stream-entry, renounces worldly life, and becomes an arhat, inspiring seven kings, seven thousand brāhmaṇas, and countless laypeople to follow the Dharma.",
+    "tags": [
+      "mahākakuda",
+      "great-firm-brāhmaṇa",
+      "renunciation",
+      "arhat",
+      "prthag-jana",
+      "buddhist-narrative",
+      "indian-buddhism",
+      "three-jewels"
     ],
     "sources": []
   },
@@ -155,6 +247,19 @@
       "textual-transmission",
       "classical-canon",
       "intellectual-history"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "human-immortal-ren-xian",
+    "title": "Human Immortal / 人仙",
+    "summary": "A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger revealing the karmic fate of King Bimbisara.",
+    "tags": [
+      "buddhism",
+      "sutras",
+      "celestial-beings",
+      "reincarnation",
+      "magadha"
     ],
     "sources": []
   },
@@ -256,6 +361,19 @@
     "sources": []
   },
   {
+    "slug": "seven-buddhas-current-kalpa",
+    "title": "Seven Buddhas of the Current Kalpa / 七佛",
+    "summary": "The seven Buddhas who have appeared in the current kalpa, from Vipassin to Shakyamuni.",
+    "tags": [
+      "buddhist-cosmology",
+      "buddhist-history",
+      "seven-buddhas",
+      "mahapadana",
+      "agama"
+    ],
+    "sources": []
+  },
+  {
     "slug": "tang-wan-kung",
     "title": "Tang Wan Kung / 唐宓公",
     "summary": "Overview of the historical and philosophical significance of Tang Wan Kung in Confucianism.",
@@ -280,6 +398,21 @@
     "sources": []
   },
   {
+    "slug": "thirty-three-heavens",
+    "title": "Trayastriṃśa Heaven / 三十三天（忉利天）",
+    "summary": "The Heaven of Thirty-Three Gods where the initial discourse of the Great Firm Brāhmaṇa Sūtra takes place, presided over by Śakra (帝釋天主) and the site of the first teaching of the eight rare qualities.",
+    "tags": [
+      "trayastriṃśa",
+      "śakra",
+      "thirty-three-heavens",
+      "deva-realm",
+      "buddhist-cosmology",
+      "heavenly-assembly",
+      "tathagata-eight-rare-qualities"
+    ],
+    "sources": []
+  },
+  {
     "slug": "three-years-mourning",
     "title": "Three Years Mourning / 三年之丧",
     "summary": "The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.",
@@ -287,6 +420,19 @@
       "xiao",
       "moral-responsibility",
       "three-years-mourning"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "twelve-links-dependent-origination",
+    "title": "Twelve Links of Dependent Origination / 十二因緣",
+    "summary": "The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.",
+    "tags": [
+      "buddhist-doctrine",
+      "pratityasamutpada",
+      "meditation",
+      "liberation",
+      "philosophy"
     ],
     "sources": []
   },
