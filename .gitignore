@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+.claude/
+node_modules/
+*.log
+
+# PDFs stay local (too large for git)
+raw/**/*.pdf
+raw/*.pdf
+
+# These are generated
+.opencli/

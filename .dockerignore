@@ -1,0 +1,16 @@
+.env
+.git
+.gitignore
+.claude
+.opencli
+__pycache__
+*.pyc
+*.pdf
+*.log
+node_modules
+raw
+compile_*.py
+ingest_*.py
+README.md
+AGENT.md
+LICENSE

@@ -1,0 +1,38 @@
+# 华藏阁 Configuration — Autonomous Learning Server
+
+branding:
+  name: "華藏閣"
+  name_short: "華"
+  tagline: "您的經典知識庫"
+  powered_by_label: "Powered by LLMBase"
+  powered_by_url: "https://github.com/Hosuke/llmbase"
+
+llm:
+  max_tokens: 8192
+
+paths:
+  raw: "./raw"
+  wiki: "./wiki"
+  outputs: "./wiki/outputs"
+  meta: "./wiki/_meta"
+  concepts: "./wiki/concepts"
+
+compile:
+  batch_size: 5
+  backlinks: true
+
+search:
+  port: 5555
+
+lint:
+  web_search: false
+
+# Autonomous worker — server learns on its own
+worker:
+  enabled: true
+  # Ingest new sutras from CBETA every 6 hours
+  learn_source: cbeta
+  learn_interval_hours: 6
+  learn_batch_size: 10
+  # Compile unprocessed docs every hour
+  compile_interval_hours: 1

@@ -1,0 +1,177 @@
+[
+  {
+    "slug": "agricultural-foundation",
+    "title": "Agricultural Foundation / 农本思想",
+    "summary": "Mencius's governance principle that agricultural development is fundamental to state prosperity",
+    "tags": [
+      "agriculture",
+      "economic-policy",
+      "statecraft",
+      "ancient-china"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "benevolent-government",
+    "title": "Benevolent Government / 仁政",
+    "summary": "Benevolent government is characterized by a ruler's compassion and morality, leading to harmony in society.",
+    "tags": [
+      "mencius",
+      "benevolent-government",
+      "moral-responsibility"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "chaou-ke",
+    "title": "Chaou K'e / 赵岐",
+    "summary": "Han dynasty scholar who created the first major commentary on Mencius",
+    "tags": [
+      "mencius-commentary",
+      "han-dynasty",
+      "classical-scholarship"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "confucius-etiquette-xiang-dang",
+    "title": "Confucius's Etiquette in Public Life / 孔子乡党礼仪",
+    "summary": "Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.",
+    "tags": [
+      "confucius",
+      "analects",
+      "chinese-philosophy",
+      "etiquette",
+      "ritual-propriety",
+      "confucianism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "fixed-livelihood",
+    "title": "Fixed Livelihood / 恒产论",
+    "summary": "Mencius's economic theory that stable property ownership is essential for moral stability",
+    "tags": [
+      "economics",
+      "moral-psychology",
+      "social-stability",
+      "land-reform"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "han-dynasty-mencius-reception",
+    "title": "Han Dynasty Reception of Mencius / 汉代孟子接受史",
+    "summary": "Historical process of Mencius's recognition and preservation during the Han dynasty",
+    "tags": [
+      "textual-transmission",
+      "classical-canon",
+      "intellectual-history"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "human-nature-is-good",
+    "title": "human-nature-is-good",
+    "summary": "",
+    "tags": [],
+    "sources": []
+  },
+  {
+    "slug": "human-nature",
+    "title": "Human Nature / 人性",
+    "summary": "Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.",
+    "tags": [
+      "human-nature",
+      "mencius",
+      "philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "jian-ai",
+    "title": "Universal Love (兼愛) / 兼愛",
+    "summary": "The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.",
+    "tags": [
+      "mozism",
+      "chinese-philosophy",
+      "ethics",
+      "universalism",
+      "兼愛",
+      "墨家",
+      "墨子"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi",
+    "title": "Mencius / 孟子",
+    "summary": "Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.",
+    "tags": [
+      "confucian-philosophy",
+      "chinese-philosophy",
+      "classical-chinese-texts",
+      "mengzi",
+      "warring-states-period"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "ministerial-advice",
+    "title": "Ministerial Advice / 大臣的劝谏",
+    "summary": "The role of ministerial advice is crucial in ensuring benevolent governance and societal harmony.",
+    "tags": [
+      "mencius",
+      "benevolent-government",
+      "moral-responsibility"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "moral-responsibility",
+    "title": "Moral Responsibility / 道德责任",
+    "summary": "Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.",
+    "tags": [
+      "mencius",
+      "moral-responsibility",
+      "benevolent-government"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "tang-wan-kung",
+    "title": "Tang Wan Kung / 唐宓公",
+    "summary": "Overview of the historical and philosophical significance of Tang Wan Kung in Confucianism.",
+    "tags": [
+      "tang-wan-kung",
+      "mencius",
+      "confucianism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "three-years-mourning",
+    "title": "Three Years Mourning / 三年之丧",
+    "summary": "The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.",
+    "tags": [
+      "xiao",
+      "moral-responsibility",
+      "three-years-mourning"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhi-qing-relation",
+    "title": "Will and Passion-Nature / 志與情的關係",
+    "summary": "Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)",
+    "tags": [
+      "mengzi",
+      "will",
+      "passion-nature",
+      "human-nature",
+      "cultivation",
+      "philosophy"
+    ],
+    "sources": []
+  }
+]
