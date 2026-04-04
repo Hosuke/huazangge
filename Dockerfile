@@ -24,3 +24,4 @@ RUN mkdir -p raw wiki/outputs
 ENV PORT=5555
 EXPOSE ${PORT}
 CMD gunicorn --bind 0.0.0.0:${PORT} --workers 1 --threads 4 --timeout 300 wsgi:app
+# 2026-04-04T18:17:57Z
