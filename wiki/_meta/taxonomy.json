@@ -1,342 +1,259 @@
 {
   "categories": [
     {
-      "id": "confucian-philosophy",
+      "id": "philosophy",
       "label": {
-        "en": "Confucian Philosophy",
-        "zh": "儒家哲学",
-        "ja": "儒家哲学"
+        "en": "Philosophy",
+        "zh": "哲学",
+        "ja": "哲学"
       },
       "children": [
         {
-          "id": "confucian-ethics",
+          "id": "confucianism",
           "label": {
-            "en": "Confucian Ethics",
-            "zh": "儒家伦理",
-            "ja": "儒家倫理"
+            "en": "Confucianism",
+            "zh": "儒家",
+            "ja": "儒教"
           },
-          "children": [],
+          "children": [
+            {
+              "id": "confucian-ethics",
+              "label": {
+                "en": "Confucian Ethics",
+                "zh": "儒家伦理",
+                "ja": "儒教倫理"
+              },
+              "children": [
+                {
+                  "id": "benevolence",
+                  "label": {
+                    "en": "Benevolence",
+                    "zh": "仁",
+                    "ja": "仁"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "benevolence",
+                    "ren"
+                  ]
+                },
+                {
+                  "id": "moral-responsibility",
+                  "label": {
+                    "en": "Moral Responsibility",
+                    "zh": "道德责任",
+                    "ja": "道徳的責任"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "moral-responsibility"
+                  ]
+                },
+                {
+                  "id": "self-cultivation",
+                  "label": {
+                    "en": "Self-Cultivation",
+                    "zh": "修身",
+                    "ja": "修身"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "self-cultivation"
+                  ]
+                }
+              ],
+              "article_slugs": [
+                "confucian-ethics"
+              ]
+            },
+            {
+              "id": "political-philosophy",
+              "label": {
+                "en": "Political Philosophy",
+                "zh": "政治哲学",
+                "ja": "政治哲学"
+              },
+              "children": [
+                {
+                  "id": "benevolent-government",
+                  "label": {
+                    "en": "Benevolent Government",
+                    "zh": "仁政",
+                    "ja": "仁政"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "benevolent-government",
+                    "benevolent-government-ren-zheng"
+                  ]
+                },
+                {
+                  "id": "governance-virtue",
+                  "label": {
+                    "en": "Governance Through Virtue",
+                    "zh": "为政以德",
+                    "ja": "道徳による支配"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "governance-virtue-de"
+                  ]
+                },
+                {
+                  "id": "political-theory",
+                  "label": {
+                    "en": "Political Theory",
+                    "zh": "政治理论",
+                    "ja": "政治理論"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "political-philosophy-analects"
+                  ]
+                }
+              ],
+              "article_slugs": [
+                "confucian-political-philosophy",
+                "governance-leadership"
+              ]
+            },
+            {
+              "id": "human-nature",
+              "label": {
+                "en": "Human Nature",
+                "zh": "人性",
+                "ja": "人性"
+              },
+              "children": [
+                {
+                  "id": "moral-psychology",
+                  "label": {
+                    "en": "Moral Psychology",
+                    "zh": "道德心理学",
+                    "ja": "道徳心理学"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "four-beginnings-mencius",
+                    "moral-cultivation-methods",
+                    "human-nature",
+                    "mengzi"
+                  ]
+                }
+              ],
+              "article_slugs": [
+                "human-nature-in-confucianism",
+                "human-nature-is-good"
+              ]
+            }
+          ],
           "article_slugs": [
-            "benevolence",
-            "confucian-ethics",
-            "ren",
-            "virtue-ethics",
-            "confucian-sincerity-cheng",
-            "extending-kindness-pushing-grace-tui-en",
-            "internal-benevolence-external-righteousness-debate",
-            "righteousness-internal-versus-external",
-            "mengzi-gift-accepting-principles",
-            "mengzi-ritual-food-debate",
-            "rites-food-debate-gaozi"
-          ]
-        },
-        {
-          "id": "confucian-political-philosophy",
-          "label": {
-            "en": "Political Philosophy",
-            "zh": "政治哲学",
-            "ja": "政治哲学"
-          },
-          "children": [],
-          "article_slugs": [
-            "benevolent-government-ren-zheng",
-            "benevolent-government",
-            "benevolent-invincible-renzhe-wudi",
-            "confucian-political-philosophy",
-            "governance-virtue-de",
-            "mengzi-hegemon-true-king-ba-wang-distinction",
-            "mengzi-political-philosophy-benevolent-rule",
-            "mengzi-righteousness-profit-debate",
-            "mengzi-unity-through-non-killing-ding-yu-yi",
-            "wang-dao-true-king-hegemon",
-            "de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu",
-            "tian-shi-di-li-ren-he",
-            "tian-xia-you-da-zun-san",
-            "unsummoned-ministers-bu-zhao-zhi-chen",
-            "ministerial-responsibility-resignation",
-            "five-hundred-years-sage-king-cycles",
-            "five-hundred-years-sage-king",
-            "providing-people-sustenance-zhi-min-zhi-chan",
-            "shared-joy-with-the-people-yu-min-xie-le",
-            "fixed-livelihood",
-            "human-harmony-he-ren",
-            "mengzi-people-heart-minjian",
-            "agricultural-foundation",
-            "deben-cai-mo",
-            "adversity-birth-comfort-death"
-          ]
-        },
-        {
-          "id": "self-cultivation",
-          "label": {
-            "en": "Self-Cultivation",
-            "zh": "自我修养",
-            "ja": "自己修養"
-          },
-          "children": [],
-          "article_slugs": [
+            "confucian",
+            "confucian-education-principles",
             "confucian-self-cultivation",
-            "confucian-self-examination",
-            "moral-cultivation-methods",
-            "heart-mind-moral-cultivation-mengzi",
-            "mengzi-indomitable-heart-budongxin",
-            "mengzi-losing-original-heart",
-            "mengzi-moral-cultivation-lost-mind",
-            "mengzi-universal-sagehood-potential",
-            "mind-as-organ-of-thought",
-            "great-qi-haoran-zhi-qi",
-            "mengzi-haoran-qi-vast-flowing-vital-energy",
-            "zhi-qing-relation",
-            "central-harmony-zhonghe",
-            "investigating-things-extending-knowledge-gewu-zhizhi",
-            "teaching-many-methods-mencius"
+            "confucius-analects"
           ]
         },
         {
-          "id": "human-nature",
+          "id": "buddhism",
           "label": {
-            "en": "Human Nature",
-            "zh": "人性论",
-            "ja": "人性論"
+            "en": "Buddhism",
+            "zh": "佛教",
+            "ja": "仏教"
           },
-          "children": [],
+          "children": [
+            {
+              "id": "buddhist-doctrine",
+              "label": {
+                "en": "Buddhist Doctrine",
+                "zh": "佛教教义",
+                "ja": "仏教教理"
+              },
+              "children": [
+                {
+                  "id": "dependent-origination",
+                  "label": {
+                    "en": "Dependent Origination",
+                    "zh": "因缘生起",
+                    "ja": "因縁生起"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "twelve-links-dependent-origination",
+                    "twelve-links-dependent-origination-an-shigao-commentary"
+                  ]
+                },
+                {
+                  "id": "four-castes",
+                  "label": {
+                    "en": "Four Castes",
+                    "zh": "四姓",
+                    "ja": "四姓"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "moral-equality-four-castes-buddhism",
+                    "four-castes-origin-buddhist-cosmology"
+                  ]
+                }
+              ],
+              "article_slugs": [
+                "arhat",
+                "human-immortal",
+                "human-harmony-he-ren"
+              ]
+            },
+            {
+              "id": "buddhist-practice",
+              "label": {
+                "en": "Buddhist Practice",
+                "zh": "佛教修行",
+                "ja": "仏教実践"
+              },
+              "children": [
+                {
+                  "id": "meditation",
+                  "label": {
+                    "en": "Meditation",
+                    "zh": "禅修",
+                    "ja": "瞑想"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "four-inversions-buddhist",
+                    "five-aggregates-contemplation-buddhist"
+                  ]
+                },
+                {
+                  "id": "ascetic-practice",
+                  "label": {
+                    "en": "Ascetic Practice",
+                    "zh": "苦行",
+                    "ja": "苦行"
+                  },
+                  "children": [],
+                  "article_slugs": [
+                    "mendicant-life-three-conditions",
+                    "toutuo-xing"
+                  ]
+                }
+              ],
+              "article_slugs": [
+                "bimbisara-king-magadha-ren-xian",
+                "defilement-accumulation-in-practice",
+                "buddhist-origin-caste"
+              ]
+            }
+          ],
           "article_slugs": [
-            "four-beginnings-mencius-doctrine",
-            "four-beginnings-mencius",
-            "four-beginnings-si-duan",
-            "mengzi-four-beginnings-sidu",
-            "mengzi-four-beginnings-siduan",
-            "human-nature-is-good",
-            "human-nature-mencius-debate",
-            "human-nature",
-            "human-nature-in-confucianism",
-            "mengzi-gaozi-debate",
-            "willow-cup-metaphor-gaozi"
+            "satori",
+            "ananda-compiled-scriptures"
           ]
         }
       ],
       "article_slugs": [
-        "analects-confucius",
-        "analects-disciples",
-        "analects-xue-er",
-        "analects-zhengzhi",
-        "confucius-analects-jishi",
-        "confucius-analects",
-        "confucius-etiquette-xiang-dang",
-        "doctrine-of-the-mean-zhongyong",
-        "great-learning-da-xue",
-        "great-learning-daxue",
-        "junzi-characteristics",
-        "junzi-cultivation",
-        "junzi",
-        "knowing-destiny-rites-words",
-        "knowledge-learning",
-        "learning-attitude-analcepts",
-        "political-philosophy-analects",
-        "three-years-mourning",
-        "ba-yi-ceremonial-dance",
-        "confucian-music-yue",
-        "five-virtues-four-vices",
-        "governance-leadership",
-        "moral-responsibility",
-        "ministerial-advice",
-        "confucian-education-principles",
-        "confucian",
-        "confucian-trust-verification",
-        "mencius",
-        "mengzi",
-        "mengzi-seven-chapters-gongsun-chou-part-two",
-        "mengzi-seven-chapters-structural-analysis",
-        "chaou-ke",
-        "han-dynasty-mencius-reception",
-        "tang-wan-kung",
-        "the-works-of-mencius",
-        "仁政",
-        "修身",
-        "儒家",
-        "君子"
-      ]
-    },
-    {
-      "id": "buddhist-philosophy",
-      "label": {
-        "en": "Buddhist Philosophy",
-        "zh": "佛教哲学",
-        "ja": "仏教哲学"
-      },
-      "children": [
-        {
-          "id": "buddhist-meditation",
-          "label": {
-            "en": "Buddhist Meditation",
-            "zh": "佛教禅修",
-            "ja": "仏教瞑想"
-          },
-          "children": [],
-          "article_slugs": [
-            "an-shigao-seven-places-three-contemplations",
-            "five-aggregates-contemplation-buddhist",
-            "five-aggregates-seven-aspects-an-shigao",
-            "five-roots-five-powers-an-shigao-commentary",
-            "four-agnas-four-absorptions-buddhist-meditation",
-            "four-contemplations-buddhist-practice-ahang",
-            "four-foundations-mindfulness-an-shigao-commentary",
-            "four-right-exertions-an-shigao-commentary",
-            "mind-stillness-buddhist-meditation-stone-water",
-            "seven-factors-awakening-an-shigao-commentary",
-            "thirty-seven-bodhiparamitas-an-shigao",
-            "san-chong-guan-threefold-contemplation",
-            "nirodha-samapatti",
-            "lan-ruo",
-            "toutuo-xing"
-          ]
-        },
-        {
-          "id": "buddhist-ethics",
-          "label": {
-            "en": "Buddhist Ethics",
-            "zh": "佛教伦理",
-            "ja": "仏教倫理"
-          },
-          "children": [],
-          "article_slugs": [
-            "bao-en-pin",
-            "dana-paramita-bodhisattva-giving",
-            "defilement-accumulation-in-practice",
-            "four-types-people-self-other-care-buddhist",
-            "moral-equality-four-castes-buddhism",
-            "nine-unnatural-deaths-buddhist",
-            "si-en",
-            "three-evil-roots-buddhist",
-            "three-roots-of-unwholesomeness",
-            "virtue-merit-buddhist-doctrine-de-pin"
-          ]
-        },
-        {
-          "id": "buddhist-cosmology",
-          "label": {
-            "en": "Buddhist Cosmology",
-            "zh": "佛教宇宙论",
-            "ja": "仏教宇宙論"
-          },
-          "children": [],
-          "article_slugs": [
-            "arhat-stages-buddhist-liberation",
-            "brahma-fourfold-teaching",
-            "bu-chu-yi-sheng-yu-chu",
-            "four-castes-origin-buddhist-cosmology",
-            "great-brahma-fourfold-teaching",
-            "human-immortal-ren-xian",
-            "light-sound-heaven-buddhist-cosmology",
-            "seven-buddhas-current-kalpa",
-            "thirty-three-heavens",
-            "white-cloth-golden-banner-two-brahmins-origin-sutra"
-          ]
-        }
-      ],
-      "article_slugs": [
-        "an-shigao-translated-agama-zhengxing-sutra",
-        "an-shigao-translation-methodology",
-        "ananda-compiled-scriptures",
-        "baiyi-jinzhuang-brahmin-origin-sutra",
-        "changahan-jing",
-        "changahan-shi-bao-jing",
-        "da-cheng-ben-sheng-xin-di-guan-jing",
-        "eightfold-noble-path-human-immortal-sutra",
-        "fenbie-gongde-lun",
-        "five-thieves-buddhist-doctrine",
-        "four-agamas-commentary-commentary-on-four-collections",
-        "four-bases-supernatural-power-siddhartha",
-        "four-inversions-buddhist",
-        "four-āgama-commentary-ā-hán-mù-chao-jiě",
-        "great-collection-dharma-gate-sutra",
-        "great-firm-brahman-backstory",
-        "great-firm-brahman",
-        "great-firm-brahmin-origin-sutra",
-        "human-desire-to-be-born-sutra",
-        "human-immortal-sutra-foshuo-renxian-jing",
-        "human-immortal-sutra-ren-xian-jing",
-        "mahakasyapa-buddhist-disciple-collected-sutras",
-        "mahasanghika-great-collection-teaching",
-        "mendicant-life-three-conditions",
-        "nikuda-brahmin-sutra",
-        "niyagrodha-brahma-sutra-discourse",
-        "san-dharmas-upaya-buddhist-classification",
-        "san-fa-du-lun-three-dharmas-treatise",
-        "shi-men-tong-pan",
-        "tathagata-eight-rare-qualities",
-        "three-dharmas-buddhist-philosophy",
-        "three-treasuries-four-collections",
-        "twelve-links-dependent-origination",
-        "xianshou-wu-jiao",
-        "xu-fen-buddhist-prologue",
-        "さとり"
-      ]
-    },
-    {
-      "id": "daoist-philosophy",
-      "label": {
-        "en": "Daoist Philosophy",
-        "zh": "道家哲学",
-        "ja": "道家哲学"
-      },
-      "children": [],
-      "article_slugs": [
-        "dao-de-jing-silk-manuscript",
-        "dao-the-way-taoism"
-      ]
-    },
-    {
-      "id": "other-chinese-philosophy",
-      "label": {
-        "en": "Other Chinese Philosophy",
-        "zh": "其他中国哲学",
-        "ja": "その他の中国哲学"
-      },
-      "children": [],
-      "article_slugs": [
-        "bagua-formation-trigrams-yijing",
-        "jian-ai"
-      ]
-    },
-    {
-      "id": "digital-humanities",
-      "label": {
-        "en": "Digital Humanities",
-        "zh": "数字人文",
-        "ja": "デジタル人文科学"
-      },
-      "children": [],
-      "article_slugs": [
-        "google-books-digitization-project"
-      ]
-    },
-    {
-      "id": "artificial-intelligence",
-      "label": {
-        "en": "Artificial Intelligence",
-        "zh": "人工智能",
-        "ja": "人工知能"
-      },
-      "children": [],
-      "article_slugs": [
-        "gemma-ai-model",
-        "gguf-model-format",
-        "model-quantization",
-        "ollama-framework"
-      ]
-    },
-    {
-      "id": "historical-studies",
-      "label": {
-        "en": "Historical Studies",
-        "zh": "历史研究",
-        "ja": "歴史研究"
-      },
-      "children": [],
-      "article_slugs": [
-        "han-dynasty",
-        "qin-dynasty"
+        "dao-the-way-taoism",
+        "dao-de-jing-silk-manuscript"
       ]
     },
     {
@@ -348,14 +265,166 @@
       },
       "children": [],
       "article_slugs": [
-        "arhat-stages",
-        "doctrine-of-the-mean-(zhongyong)",
-        "中庸",
-        "止觀",
-        "bimbisara-king-magadha-ren-xian",
+        "adversity-birth-comfort-death",
+        "agricultural-foundation",
+        "an-shigao-seven-places-three-contemplations",
+        "an-shigao-translated-agama-zhengxing-sutra",
+        "an-shigao-translation-methodology",
+        "analects-confucius",
+        "analects-disciples",
+        "analects-xue-er",
+        "analects-zhengzhi",
+        "arhat-stages-buddhist-liberation",
+        "ba-yi-ceremonial-dance",
+        "bagua-formation-trigrams-yijing",
+        "baiyi-jinzhuang-brahmin-origin-sutra",
+        "bao-en-pin",
+        "benevolent-invincible-renzhe-wudi",
+        "born-in-adversity-die-in-comfort",
+        "brahma-fourfold-teaching",
+        "bu-chu-yi-sheng-yu-chu",
+        "central-harmony-zhonghe",
+        "changahan-jing",
+        "changahan-shi-bao-jing",
+        "chaou-ke",
+        "confucian-music-yue",
+        "confucian-self-examination",
+        "confucian-sincerity-cheng",
+        "confucian-trust-verification",
+        "confucius-analects-jishi",
+        "confucius-etiquette-xiang-dang",
+        "da-cheng-ben-sheng-xin-di-guan-jing",
+        "dana-paramita-bodhisattva-giving",
+        "de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu",
+        "deben-cai-mo",
+        "doctrine-of-the-mean",
+        "doctrine-of-the-mean-zhongyong",
+        "eightfold-noble-path-human-immortal-sutra",
+        "evil-classification-buddhism-e",
+        "extending-kindness-pushing-grace-tui-en",
+        "fenbie-gongde-lun",
+        "five-aggregates-seven-aspects-an-shigao",
+        "five-hundred-years-sage-king",
+        "five-hundred-years-sage-king-cycles",
+        "five-roots-five-powers-an-shigao-commentary",
+        "five-thieves-buddhist-doctrine",
+        "five-virtues-four-vices",
+        "fixed-livelihood",
+        "four-agamas-commentary-commentary-on-four-collections",
+        "four-agnas-four-absorptions-buddhist-meditation",
+        "four-bases-supernatural-power-siddhartha",
+        "four-beginnings-mencius-doctrine",
+        "four-beginnings-si-duan",
+        "four-contemplations-buddhist-practice-ahang",
+        "four-foundations-mindfulness-an-shigao-commentary",
+        "four-right-exertions-an-shigao-commentary",
+        "four-types-people-self-other-care-buddhist",
+        "four-āgama-commentary-ā-hán-mù-chao-jiě",
+        "gemma-ai-model",
+        "gguf-model-format",
+        "google-books-digitization-project",
         "great-body-small-body-mencius",
+        "great-brahma-fourfold-teaching",
+        "great-collection-dharma-gate-sutra",
+        "great-firm-brahman",
+        "great-firm-brahman-backstory",
+        "great-firm-brahmin-origin-sutra",
+        "great-learning-da-xue",
+        "great-learning-daxue",
+        "great-qi-haoran-zhi-qi",
+        "han-dynasty",
+        "han-dynasty-mencius-reception",
+        "heart-mind-moral-cultivation-mengzi",
+        "human-desire-to-be-born-sutra",
+        "human-immortal-ren-xian",
+        "human-immortal-sutra-foshuo-renxian-jing",
+        "human-immortal-sutra-ren-xian-jing",
+        "human-nature-mencius-debate",
+        "internal-benevolence-external-righteousness-debate",
+        "investigating-things-extending-knowledge-gewu-zhizhi",
+        "jian-ai",
+        "junzi",
+        "junzi-characteristics",
+        "junzi-cultivation",
+        "knowing-destiny-rites-words",
+        "knowledge-learning",
         "kumarrow-translation-commentary",
-        "learning-attitude-analects"
+        "lan-ruo",
+        "learning-attitude-analects",
+        "light-sound-heaven-buddhist-cosmology",
+        "mahakasyapa-buddhist-disciple-collected-sutras",
+        "mahasanghika-great-collection-teaching",
+        "mencius",
+        "mengzi-four-beginnings-sidu",
+        "mengzi-four-beginnings-siduan",
+        "mengzi-gaozi-debate",
+        "mengzi-gift-accepting-principles",
+        "mengzi-haoran-qi-vast-flowing-vital-energy",
+        "mengzi-hegemon-true-king-ba-wang-distinction",
+        "mengzi-indomitable-heart-budongxin",
+        "mengzi-losing-original-heart",
+        "mengzi-moral-cultivation-lost-mind",
+        "mengzi-people-heart-minjian",
+        "mengzi-political-philosophy-benevolent-rule",
+        "mengzi-righteousness-profit-debate",
+        "mengzi-ritual-food-debate",
+        "mengzi-seven-chapters-gongsun-chou-part-two",
+        "mengzi-seven-chapters-structural-analysis",
+        "mengzi-unity-through-non-killing-ding-yu-yi",
+        "mengzi-universal-sagehood-potential",
+        "mind-as-organ-of-thought",
+        "mind-stillness-buddhist-meditation-stone-water",
+        "ministerial-advice",
+        "ministerial-responsibility-resignation",
+        "model-quantization",
+        "nikuda-brahmin-sutra",
+        "nine-unnatural-deaths-buddhist",
+        "nirodha-samapatti",
+        "niyagrodha-brahma-sutra-discourse",
+        "ollama-framework",
+        "providing-people-sustenance-zhi-min-zhi-chan",
+        "righteousness-internal-versus-external",
+        "rites-food-debate-gaozi",
+        "san-chong-guan-threefold-contemplation",
+        "san-dharmas-upaya-buddhist-classification",
+        "san-fa-du-lun-three-dharmas-treatise",
+        "seven-buddhas-current-kalpa",
+        "seven-factors-awakening-an-shigao-commentary",
+        "shared-joy-with-the-people-yu-min-xie-le",
+        "shi-men-tong-pan",
+        "si-en",
+        "tang-wan-kung",
+        "tathagata-eight-rare-qualities",
+        "teaching-many-methods-mencius",
+        "ten-remembrances-buddhist-meditation",
+        "thirty-seven-bodhiparamitas-an-shigao",
+        "thirty-seven-bodhiparamitas-an-shigao-commentary",
+        "thirty-three-heavens",
+        "three-dharmas-buddhist-philosophy",
+        "three-dharmas-framework-buddhism",
+        "three-evil-roots-buddhist",
+        "three-roots-of-unwholesomeness",
+        "three-treasuries-four-collections",
+        "three-years-mourning",
+        "tian-shi-di-li-ren-he",
+        "tian-xia-you-da-zun-san",
+        "unsummoned-ministers-bu-zhao-zhi-chen",
+        "upaya-expedient-means-buddhism",
+        "virtue-ethics",
+        "virtue-merit-buddhism-de",
+        "virtue-merit-buddhist-doctrine-de-pin",
+        "wang-dao-true-king-hegemon",
+        "white-cloth-golden-banner-two-brahmins-origin-sutra",
+        "willow-cup-metaphor-gaozi",
+        "xianshou-wu-jiao",
+        "xu-fen-buddhist-prologue",
+        "zhi-qing-relation",
+        "さとり",
+        "人性善",
+        "仁政",
+        "修身",
+        "儒家",
+        "君子"
       ]
     }
   ],
