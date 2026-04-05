@@ -159,7 +159,7 @@ def _sync_taxonomy_to_tags(tree: list[dict], concepts_dir: Path, path: list[str]
     For each article assigned in the taxonomy tree, adds a `category:xxx`
     tag reflecting its position. This unifies taxonomy and wiki tags.
 
-    Example: an article under Buddhism > Practice gets:
+    Example: an article under "Science > Physics" gets:
       tags: [...existing..., "category:buddhism", "category:buddhism/practice"]
     """
     if path is None:
@@ -394,16 +394,44 @@ def _fallback_taxonomy(articles: list[dict]) -> list[dict]:
     return categories
 
 
+def _localize_title(title: str, lang: str) -> str:
+    """Extract the language-specific part of a bilingual title.
+
+    "Mencius / 孟子" + lang=zh → "孟子"
+    "Mencius / 孟子" + lang=en → "Mencius"
+    "Mencius / 孟子" + lang=zh-en → "Mencius / 孟子"
+    "some-slug-only" → "some-slug-only" (no change)
+    """
+    import re
+    if not title or "/" not in title:
+        return title
+    if lang == "zh-en":
+        return title
+
+    parts = [p.strip() for p in title.split("/") if p.strip()]
+    if len(parts) < 2:
+        return title
+
+    has_cjk = lambda s: bool(re.search(r'[\u4e00-\u9fff\u3400-\u4dbf\u3040-\u309f\u30a0-\u30ff]', s))
+
+    if lang in ("zh", "ja"):
+        cjk = next((p for p in parts if has_cjk(p)), None)
+        return cjk or parts[-1]
+    else:
+        en = next((p for p in parts if not has_cjk(p)), None)
+        return en or parts[0]
+
+
 def _localize_tree(tree: list[dict], lang: str, title_map: dict[str, str]) -> list[dict]:
     """Convert raw taxonomy tree to the format the web API expects.
 
-    Resolves article_slugs to {slug, title} objects and picks
-    the label for the requested language.
+    Resolves article_slugs to {slug, title} objects. Both category labels
+    AND article titles are localized to the requested language.
     """
     result = []
     for node in tree:
         slugs = node.get("article_slugs", [])
-        articles = [{"slug": s, "title": title_map.get(s, s)} for s in slugs]
+        articles = [{"slug": s, "title": _localize_title(title_map.get(s, s), lang)} for s in slugs]
 
         children = _localize_tree(node.get("children", []), lang, title_map)
         child_count = sum(c["total"] for c in children)
