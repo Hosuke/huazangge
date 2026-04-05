@@ -945,33 +945,6 @@
     "sources": []
   },
   {
-    "slug": "four-beginnings-mencius-doctrine",
-    "title": "Four Beginnings (四端說) / 四端說",
-    "summary": "Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.",
-    "tags": [
-      "classical-confucianism",
-      "confucian-ethics",
-      "four-beginnings",
-      "human-nature",
-      "mengzi",
-      "moral-psychology"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "four-beginnings-mencius",
-    "title": "Four Beginnings / 四端說 / 四端說",
-    "summary": "Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.",
-    "tags": [
-      "confucian-philosophy",
-      "ethics",
-      "moral-psychology",
-      "mengzi",
-      "human-nature"
-    ],
-    "sources": []
-  },
-  {
     "slug": "four-beginnings-si-duan",
     "title": "Four Beginnings / 四端 / 四端説",
     "summary": "Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.",
@@ -1265,12 +1238,13 @@
     "sources": []
   },
   {
-    "slug": "great-learning-da-xue",
-    "title": "The Great Learning (Da Xue) / 大學",
-    "summary": "A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.",
+    "slug": "great-learning-daxue",
+    "title": "The Great Learning / 大學",
+    "summary": "A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.",
     "tags": [
       "chinese-classics",
       "chinese-philosophy",
+      "classical-chinese-philosophy",
       "confucian-classics",
       "confucianism",
       "four-books",
@@ -1280,19 +1254,6 @@
       "political-philosophy",
       "self-cultivation",
       "zhu-xi"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "great-learning-daxue",
-    "title": "The Great Learning / 大學",
-    "summary": "A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.",
-    "tags": [
-      "confucianism",
-      "classical-chinese-philosophy",
-      "four-books",
-      "self-cultivation",
-      "political-philosophy"
     ],
     "sources": []
   },
@@ -1776,46 +1737,23 @@
     "sources": []
   },
   {
-    "slug": "mencius",
-    "title": "Mencius / 孟子",
-    "summary": "Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.",
-    "tags": [
-      "confucianism",
-      "chinese philosophy",
-      "mencius",
-      "warring states period",
-      "classical chinese literature",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "mengzi-four-beginnings-sidu",
-    "title": "Mencius's Four Beginnings (Sìduān) / 四端說",
-    "summary": "Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues",
-    "tags": [
-      "confucianism",
-      "moral-psychology",
-      "human-nature",
-      "virtue-ethics",
-      "sinology",
-      "classical-chinese-philosophy"
-    ],
-    "sources": []
-  },
-  {
     "slug": "mengzi-four-beginnings-siduan",
     "title": "Four Beginnings (四端) / 四端說",
     "summary": "Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.",
     "tags": [
       "classical-chinese-philosophy",
+      "classical-confucianism",
       "confucian-ethics",
       "confucian-philosophy",
+      "confucianism",
+      "ethics",
       "four-beginnings",
       "human-nature",
       "human-nature-is-good",
       "mengzi",
-      "moral-psychology"
+      "moral-psychology",
+      "sinology",
+      "virtue-ethics"
     ],
     "sources": []
   },
@@ -2008,10 +1946,16 @@
     "title": "Mencius / 孟子",
     "summary": "Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.",
     "tags": [
-      "confucian-philosophy",
+      "chinese philosophy",
       "chinese-philosophy",
+      "classical chinese literature",
       "classical-chinese-texts",
+      "confucian-philosophy",
+      "confucianism",
+      "mencius",
       "mengzi",
+      "stub",
+      "warring states period",
       "warring-states-period"
     ],
     "sources": []

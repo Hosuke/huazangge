@@ -1,12 +1,20 @@
 ---
 created: '2026-04-04T16:14:40.126507+00:00'
+merged_from:
+- mencius
 summary: Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after
   Confucius, known for his doctrine of the innate goodness of human nature.
 tags:
-- confucian-philosophy
+- chinese philosophy
 - chinese-philosophy
+- classical chinese literature
 - classical-chinese-texts
+- confucian-philosophy
+- confucianism
+- mencius
 - mengzi
+- stub
+- warring states period
 - warring-states-period
 title: Mencius / 孟子
 updated: '2026-04-04T16:14:40.126532+00:00'
@@ -114,3 +122,12 @@ Additionally, the philosophical debates surrounding human nature, particularly b
   韓嬰や董仲舒（紀元前179年頃-104年）などの漢代初期の学者は頻繁に孟子を引用しており、そのテキストの利用可能性と学術的関与を示している。揚雄（紀元前53年頃-紀元18年）は宋代まで存続した注釈を執筆し、王充（27年頃-100年）は孟子哲学に対する批判的論評を残した。
   
   政治的混乱を通じたこの著作の保存と皇室カリキュラムへの一時的包含は、漢代形成期における中国古典哲学におけるその重要性の増大を実証している。
+
+---
+
+## English
+
+Mencius (c. 372–289 BCE), birth name Meng Ke, was a Chinese philosopher of the Warring States period and the most important early interpreter of Confucian thought. His teachings, preserved in the text known as the *Mencius* (《孟子》), represent a systematic development and defense of Confucian ethics and political theory.
+
+### Life
+Mencius was born in Zou (modern Zoucheng, Shandong). According to traditional accounts, he studied under the disciples of the Confucian school and later traveled from court to court, offering counsel to rulers such as King Hui of Liang and King Xuan of Qi. His diplomatic missions emphasized the

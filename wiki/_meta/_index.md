@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-05T14:51:20.231244+00:00
+updated: 2026-04-05T14:56:38.830183+00:00
 ---
 
 # Knowledge Base Index
@@ -666,7 +666,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[confucian-ethics|Confucian Ethics / 儒家伦理]] — This article explores the key concepts of Confucian ethics as presented in the Analects, focusing on filial piety and social conduct.
 - [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
-- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
+- [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
 
 ## Chinese-Beliefs
@@ -705,7 +705,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[dao-de-jing-silk-manuscript|Dao De Jing (Silk Manuscript) / 道德經帛書本 / 道德経帛書本]] — The Dao De Jing Silk Manuscript presents the earliest complete version of Laozi's text, with its distinctive chapter ordering placing virtue before the Way.
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 
 ## Chinese-Ethics
 
@@ -726,7 +726,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[four-permutations-fate-liezi|Four Permutations of Fate / 四可之命]] — The doctrine of four possible outcomes regarding life and death, each potentially either heavenly blessing or punishment depending on alignment with natural order.
 - [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
 - [[guan-bao-friendship-liezi|Guan Zhong and Bao Shuya Friendship / 管鮑之交]] — The paradigmatic friendship between Guan Zhong and Bao Shuya, reinterpreted by Liezi as an example of fate determining social outcomes rather than personal virtue.
 - [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
@@ -746,7 +746,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Classical Chinese Literature
 
-- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
+- [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 
 ## Classical-Canon
 
@@ -760,7 +760,6 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
-- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
 - [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
@@ -773,7 +772,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Classical-Confucianism
 
-- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 
 ## Classical-Learning
 
@@ -809,7 +808,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Confucian-Classics
 
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 
 ## Confucian-Concepts
 
@@ -835,7 +834,6 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[born-in-adversity-die-in-comfort|Born in Adversity, Die in Comfort / 生于忧患，死于安乐]] — Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.
 - [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
-- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-gift-accepting-principles|Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿]] — Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.
 - [[mengzi-people-heart-minjian|The People's Heart / 民心]] — Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.
@@ -854,7 +852,6 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Confucian-Philosophy
 
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
-- [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
 - [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
@@ -912,7 +909,6 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
 - [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
@@ -924,11 +920,11 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
 - [[learning-attitude-analects|Learning Attitude in Analects / 论语学习态度]] — Confucian perspective on learning as urgent pursuit and lifelong commitment
-- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
-- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-political-philosophy-benevolent-rule|Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想]] — Analysis of Mencius's theory of benevolent government (wangdao) as moral governance
 - [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
 - [[mengzi-seven-chapters-structural-analysis|Mencius Seven Chapters / 孟子七篇結構]] — Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance
+- [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[ministerial-responsibility|Ministerial Responsibility / 臣責]] — A concept in Chinese political philosophy concerning the duties and obligations of ministers toward their rulers.
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
@@ -1269,11 +1265,11 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
-- [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[governance-leadership|Governance and Leadership / 治理与领导]] — Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
 - [[moral-equality-four-castes-buddhism|Moral Equality of the Four Castes in Buddhism / 佛教四姓道德平等說]] — The Buddhist doctrine that all four social castes are equal in moral agency and spiritual potential, regardless of birth.
 - [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
@@ -1383,7 +1379,6 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Four-Beginnings
 
-- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 
 ## Four-Beginnings-Mencius
@@ -1398,7 +1393,6 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 
 ## Four-Castes
@@ -1507,7 +1501,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
 - [[governance-leadership|Governance and Leadership / 治理与领导]] — Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[human-harmony-he-ren|Human Harmony (人和) / 人和]] — A Confucian concept asserting that human unity and social harmony are more consequential than external advantages or natural circumstances.
 - [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
 - [[mengzi-people-heart-minjian|The People's Heart / 民心]] — Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.
@@ -1663,11 +1657,8 @@ Potential Tags: "Mencius"
 ## Human-Nature
 
 - [[born-in-adversity-die-in-comfort|Born in Adversity, Die in Comfort / 生于忧患，死于安乐]] — Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.
-- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
-- [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
-- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
 - [[willow-cup-metaphor-gaozi|Willow-Cup Metaphor / 杞柳桮棬]] — Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.
@@ -2027,7 +2018,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 - [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
-- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
+- [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[ministerial-advice|Ministerial Advice / 大臣的劝谏]] — The role of ministerial advice is crucial in ensuring benevolent governance and societal harmony.
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 - [[tang-wan-kung|Tang Wan Kung / 唐宓公]] — Overview of the historical and philosophical significance of Tang Wan Kung in Confucianism.
@@ -2046,8 +2037,6 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
 - [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
 - [[five-hundred-years-sage-king|Five Hundred Years必有王者興 / 五百年必有王者興]] — Mencius's famous prophecy that a sage king will arise every five hundred years, with one marked by the appearance of a world-ordering figure.
-- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
-- [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
 - [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
@@ -2228,7 +2217,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[mind-as-organ-of-thought|The Mind as the Organ of Thought / 心之官則思]] — Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.
 
 ## Moral-Principles
@@ -2240,10 +2229,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 - [[fixed-livelihood|Fixed Livelihood / 恒产论]] — Mencius's economic theory that stable property ownership is essential for moral stability
-- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
-- [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
 - [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
-- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
 
@@ -2294,7 +2280,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 ## Neo-Confucianism
 
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
 
 ## Nikaya-Literature
@@ -2470,7 +2456,6 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[born-in-adversity-die-in-comfort|Born in Adversity, Die in Comfort / 生于忧患，死于安乐]] — Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.
 - [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[human-harmony-he-ren|Human Harmony (人和) / 人和]] — A Confucian concept asserting that human unity and social harmony are more consequential than external advantages or natural circumstances.
 - [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
@@ -2665,7 +2650,6 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
 - [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
 - [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
 - [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
@@ -2733,7 +2717,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 ## Sinology
 
-- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-political-philosophy-benevolent-rule|Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想]] — Analysis of Mencius's theory of benevolent government (wangdao) as moral governance
 - [[mengzi-seven-chapters-structural-analysis|Mencius Seven Chapters / 孟子七篇結構]] — Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance
 
@@ -2818,7 +2802,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
 - [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
 - [[initial-awakening|Initial Awakening / 初發心 / 初発の覚醒]] — An early stage of spiritual realization in Buddhist practice, marking the first awakening on the path to liberation.
-- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
+- [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[ministerial-responsibility|Ministerial Responsibility / 臣責]] — A concept in Chinese political philosophy concerning the duties and obligations of ministers toward their rulers.
 - [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
 - [[three-treasures|Three Treasures / 三宝]] — The three foundational refuges of Buddhism—Buddha, Dharma, and Sangha—considered precious objects of veneration and sources of spiritual refuge.
@@ -3149,7 +3133,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[junzi-characteristics|Junzi Characteristics / 君子品格]] — Confucian ideal of the cultivated person who can be entrusted with governance and maintains integrity in crisis
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
-- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-righteousness-profit-debate|Mencius on Righteousness vs. Profit / 孟子论义利]] — Mencius' argument that rulers should be persuaded through benevolence and righteousness rather than profit, with profound implications for political philosophy.
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
 - [[tian-xia-you-da-zun-san|Three Universally Honored Things / 天下有三尊]] — Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.
@@ -3169,7 +3153,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 ## Warring States Period
 
-- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
+- [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 
 ## Warring-States
 
@@ -3229,7 +3213,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 ## Zhu-Xi
 
-- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 
 ## Āgama Literature
 
@@ -3285,4 +3269,4 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 
 ---
-*232 articles indexed*
+*227 articles indexed*
