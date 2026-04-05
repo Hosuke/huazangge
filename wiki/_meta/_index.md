@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-05T06:26:49.131970+00:00
+updated: 2026-04-05T07:47:38.875883+00:00
 ---
 
 # Knowledge Base Index
@@ -2357,31 +2357,20 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Stub
 
-- [[arhat-stages|English Title / 中文标题]] — One-line summary in English
 - [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
-- [[arhatship|English Title / 中文标题]] — One-line summary in English
 - [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
 - [[confucian|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system from ancient China that emphasizes moral cultivation, ritual propriety, and harmonious social relationships.
-- [[defilements|English Title / 中文标题]] — One-line summary in English
-- [[doctrine-of-the-mean-(zhongyong)|English Title / 中文标题]] — One-line summary in English
 - [[doctrine-of-the-mean|Doctrine Of The Mean]] — 
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
 - [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
-- [[mahābrahmā|English Title / 中文标题]] — One-line summary in English
 - [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
-- [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
-- [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
 - [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
 - [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
-- [[中庸|English Title / 中文标题]] — One-line summary in English
-- [[人仙|English Title / 中文标题]] — One-line summary in English
 - [[人性善|... / ...]] — ...
 - [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
 - [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
-- [[四神足|English Title / 中文标题]] — One-line summary in English
-- [[止觀|English Title / 中文标题]] — One-line summary in English
 
 ## Suffering
 
@@ -2415,34 +2404,6 @@ The article and supplementary source detail the progressive renunciation process
 ## Symbolism
 
 - [[bagua-formation-trigrams-yijing|Eight Trigrams Formation / 八卦成列]] — The philosophical principle of how the eight trigrams are arranged to manifest all phenomena in the Yijing
-
-## Tag1
-
-- [[arhat-stages|English Title / 中文标题]] — One-line summary in English
-- [[arhatship|English Title / 中文标题]] — One-line summary in English
-- [[defilements|English Title / 中文标题]] — One-line summary in English
-- [[doctrine-of-the-mean-(zhongyong)|English Title / 中文标题]] — One-line summary in English
-- [[mahābrahmā|English Title / 中文标题]] — One-line summary in English
-- [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
-- [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
-- [[中庸|English Title / 中文标题]] — One-line summary in English
-- [[人仙|English Title / 中文标题]] — One-line summary in English
-- [[四神足|English Title / 中文标题]] — One-line summary in English
-- [[止觀|English Title / 中文标题]] — One-line summary in English
-
-## Tag2
-
-- [[arhat-stages|English Title / 中文标题]] — One-line summary in English
-- [[arhatship|English Title / 中文标题]] — One-line summary in English
-- [[defilements|English Title / 中文标题]] — One-line summary in English
-- [[doctrine-of-the-mean-(zhongyong)|English Title / 中文标题]] — One-line summary in English
-- [[mahābrahmā|English Title / 中文标题]] — One-line summary in English
-- [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
-- [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
-- [[中庸|English Title / 中文标题]] — One-line summary in English
-- [[人仙|English Title / 中文标题]] — One-line summary in English
-- [[四神足|English Title / 中文标题]] — One-line summary in English
-- [[止觀|English Title / 中文标题]] — One-line summary in English
 
 ## Tang-Dynasty-Buddhism
 
@@ -2763,4 +2724,4 @@ The article and supplementary source detail the progressive renunciation process
 
 
 ---
-*206 articles indexed*
+*195 articles indexed*

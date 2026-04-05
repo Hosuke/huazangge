@@ -143,17 +143,6 @@
     "sources": []
   },
   {
-    "slug": "arhat-stages",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
     "slug": "arhat",
     "title": "Arhat / 阿罗汉",
     "summary": "An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.",
@@ -163,17 +152,6 @@
       "nirvana",
       "theravada",
       "mahayana",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "arhatship",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
       "stub"
     ],
     "sources": []
@@ -656,28 +634,6 @@
       "ascetic-practice",
       "mental-afflictions",
       "buddhist-psychology"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "defilements",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "doctrine-of-the-mean-(zhongyong)",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
-      "stub"
     ],
     "sources": []
   },
@@ -1588,17 +1544,6 @@
     "sources": []
   },
   {
-    "slug": "mahābrahmā",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
     "slug": "mencius",
     "title": "Mencius / 孟子",
     "summary": "Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.",
@@ -2066,17 +2011,6 @@
     "sources": []
   },
   {
-    "slug": "qin-dynasty",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
     "slug": "ren",
     "title": "Ren (Benevolence) / 仁",
     "summary": "Central Confucian virtue of humaneness and perfect virtue",
@@ -2265,17 +2199,6 @@
       "mindfulness",
       "ananda",
       "three-treasuries"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "the-works-of-mencius",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
-      "stub"
     ],
     "sources": []
   },
@@ -2638,28 +2561,6 @@
     "sources": []
   },
   {
-    "slug": "中庸",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "人仙",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
     "slug": "人性善",
     "title": "... / ...",
     "summary": "...",
@@ -2719,28 +2620,6 @@
       "moral-ideal",
       "chinese-philosophy",
       "junzi",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "四神足",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "止觀",
-    "title": "English Title / 中文标题",
-    "summary": "One-line summary in English",
-    "tags": [
-      "tag1",
-      "tag2",
       "stub"
     ],
     "sources": []
