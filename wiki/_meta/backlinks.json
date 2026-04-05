@@ -2,24 +2,50 @@
   "benevolent-government": [
     "fixed-livelihood",
     "junzi",
+    "mengzi-seven-chapters-structural-analysis",
+    "human-harmony-he-ren",
     "confucian-trust-verification",
     "benevolence",
     "confucian-political-philosophy",
     "confucian-ethics",
-    "benevolent-government"
+    "benevolent-government",
+    "unsummoned-ministers-bu-zhao-zhi-chen",
+    "mengzi-hegemon-true-king-ba-wang-distinction"
   ],
   "仁政": [
     "fixed-livelihood",
     "junzi",
+    "human-harmony-he-ren",
     "confucian-trust-verification",
     "benevolence",
-    "confucian-ethics"
+    "confucian-ethics",
+    "unsummoned-ministers-bu-zhao-zhi-chen"
+  ],
+  "confucian-political-philosophy": [
+    "mengzi-political-philosophy-benevolent-rule",
+    "benevolent-government-ren-zheng",
+    "five-hundred-years-sage-king-cycles",
+    "mengzi-seven-chapters-structural-analysis",
+    "human-harmony-he-ren",
+    "great-learning-daxue",
+    "benevolent-invincible-renzhe-wudi",
+    "mengzi-seven-chapters-gongsun-chou-part-two",
+    "tian-shi-di-li-ren-he",
+    "four-beginnings-mencius",
+    "mengzi-righteousness-profit-debate",
+    "knowledge-learning",
+    "great-learning-da-xue",
+    "mengzi-hegemon-true-king-ba-wang-distinction"
   ],
   "the-works-of-mencius": [
-    "mengzi"
+    "mengzi",
+    "confucian-trust-verification"
   ],
   "mencius": [
     "mengzi",
+    "confucian",
+    "four-beginnings-mencius-doctrine",
+    "four-beginnings-mencius",
     "zhi-qing-relation",
     "han-dynasty-mencius-reception",
     "chaou-ke"
@@ -29,6 +55,75 @@
   ],
   "qin-dynasty": [
     "mengzi"
+  ],
+  "benevolence": [
+    "benevolent-government-ren-zheng",
+    "junzi",
+    "confucius-analects",
+    "virtue-ethics",
+    "confucian-trust-verification",
+    "mengzi-haoran-qi-vast-flowing-vital-energy",
+    "benevolence",
+    "three-years-mourning",
+    "four-beginnings-mencius",
+    "human-nature",
+    "mengzi-righteousness-profit-debate",
+    "central-harmony-zhonghe",
+    "confucian-self-examination",
+    "confucian-ethics",
+    "knowledge-learning",
+    "five-virtues-four-vices",
+    "junzi-characteristics"
+  ],
+  "human-nature-is-good": [
+    "benevolent-government-ren-zheng",
+    "mengzi-seven-chapters-structural-analysis",
+    "four-beginnings-mencius-doctrine",
+    "four-beginnings-mencius",
+    "mengzi-four-beginnings-sidu",
+    "mengzi-four-beginnings-siduan",
+    "great-qi-haoran-zhi-qi",
+    "mengzi-unity-through-non-killing-ding-yu-yi",
+    "four-beginnings-si-duan",
+    "mengzi-universal-sagehood-potential",
+    "providing-people-sustenance-zhi-min-zhi-chan"
+  ],
+  "mengzi-four-beginnings-si-duan": [
+    "benevolent-government-ren-zheng"
+  ],
+  "mengzi-haoran-qi-vast-flowing-vital-energy": [
+    "benevolent-government-ren-zheng",
+    "mengzi-indomitable-heart-budongxin",
+    "mengzi-unity-through-non-killing-ding-yu-yi"
+  ],
+  "mandate-of-heaven": [
+    "five-hundred-years-sage-king-cycles"
+  ],
+  "doctrine-of-the-mean": [
+    "five-hundred-years-sage-king-cycles",
+    "中庸"
+  ],
+  "儒家政治哲學": [
+    "five-hundred-years-sage-king-cycles",
+    "human-harmony-he-ren",
+    "mengzi-seven-chapters-gongsun-chou-part-two"
+  ],
+  "中庸": [
+    "five-hundred-years-sage-king-cycles",
+    "中庸",
+    "confucian-sincerity-cheng",
+    "central-harmony-zhonghe",
+    "great-learning-da-xue"
+  ],
+  "天命": [
+    "five-hundred-years-sage-king-cycles"
+  ],
+  "儒家政治哲学": [
+    "five-hundred-years-sage-king-cycles",
+    "human-harmony-he-ren",
+    "mengzi-seven-chapters-gongsun-chou-part-two",
+    "mengzi-righteousness-profit-debate",
+    "five-virtues-four-vices"
   ],
   "tathagata-eight-rare-qualities": [
     "twelve-links-dependent-origination",
@@ -43,9 +138,14 @@
   ],
   "human-nature": [
     "twelve-links-dependent-origination",
+    "mengzi-seven-chapters-structural-analysis",
     "confucian-trust-verification",
+    "mengzi-haoran-qi-vast-flowing-vital-energy",
+    "mengzi-four-beginnings-siduan",
+    "four-beginnings-si-duan",
     "confucian-ethics",
-    "knowledge-learning"
+    "knowledge-learning",
+    "great-learning-da-xue"
   ],
   "止觀": [
     "twelve-links-dependent-origination"
@@ -62,35 +162,29 @@
   "initial-awakening": [
     "san-fa-du-lun-three-dharmas-treatise"
   ],
-  "benevolence": [
-    "junzi",
-    "confucius-analects",
-    "virtue-ethics",
-    "confucian-trust-verification",
-    "benevolence",
-    "human-nature",
-    "central-harmony-zhonghe",
-    "confucian-self-examination",
-    "confucian-ethics",
-    "knowledge-learning",
-    "five-virtues-four-vices",
-    "junzi-characteristics"
-  ],
   "knowledge-learning": [
     "junzi",
     "virtue-ethics",
     "confucian-trust-verification",
+    "great-learning-daxue",
     "human-nature",
+    "mengzi-ritual-food-debate",
     "confucian-ethics",
     "knowledge-learning"
   ],
   "confucian-self-examination": [
     "junzi",
     "confucian-trust-verification",
+    "mengzi-haoran-qi-vast-flowing-vital-energy",
     "benevolence",
+    "mengzi-indomitable-heart-budongxin",
+    "mengzi-four-beginnings-siduan",
+    "great-qi-haoran-zhi-qi",
+    "four-beginnings-si-duan",
     "confucian-ethics",
     "knowledge-learning",
-    "junzi-cultivation"
+    "junzi-cultivation",
+    "great-learning-da-xue"
   ],
   "仁爱": [
     "junzi",
@@ -121,15 +215,18 @@
   "confucian-ethics": [
     "junzi",
     "virtue-ethics",
+    "four-beginnings-mencius-doctrine",
     "confucian-trust-verification",
     "benevolence",
     "human-nature",
+    "mengzi-ritual-food-debate",
     "confucian-self-examination",
     "confucian-political-philosophy",
     "knowledge-learning"
   ],
   "ren": [
     "junzi",
+    "confucian",
     "analects-disciples",
     "ren",
     "confucian-ethics"
@@ -147,6 +244,10 @@
   "仁": [
     "junzi",
     "confucius-analects",
+    "confucian",
+    "confucian-trust-verification",
+    "benevolence",
+    "three-years-mourning",
     "analects-disciples",
     "confucian-self-examination",
     "confucian-ethics",
@@ -156,7 +257,8 @@
     "doctrine-of-the-mean-zhongyong"
   ],
   "礼": [
-    "junzi"
+    "junzi",
+    "confucian"
   ],
   "颜回": [
     "junzi",
@@ -192,27 +294,33 @@
     "three-years-mourning",
     "learning-attitude-analects",
     "confucius-analects-jishi",
+    "four-beginnings-si-duan",
     "moral-cultivation-methods",
     "junzi-characteristics",
     "political-philosophy-analects"
   ],
   "junzi": [
+    "junzi",
     "confucius-analects",
     "confucian-trust-verification",
     "benevolence",
     "human-nature",
     "confucian-sincerity-cheng",
     "confucius-analects-jishi",
+    "mengzi-righteousness-profit-debate",
     "central-harmony-zhonghe",
+    "four-beginnings-si-duan",
     "confucian-self-examination",
     "confucian-ethics",
     "knowledge-learning",
     "moral-cultivation-methods",
     "moral-responsibility",
     "knowing-destiny-rites-words",
+    "unsummoned-ministers-bu-zhao-zhi-chen",
     "doctrine-of-the-mean-zhongyong"
   ],
   "君子": [
+    "junzi",
     "confucius-analects",
     "confucian-trust-verification",
     "benevolence",
@@ -221,14 +329,21 @@
     "confucian-self-examination",
     "confucian-ethics",
     "moral-cultivation-methods",
-    "knowing-destiny-rites-words"
+    "knowing-destiny-rites-words",
+    "unsummoned-ministers-bu-zhao-zhi-chen"
+  ],
+  "义": [
+    "junzi",
+    "benevolence"
   ],
   "virtue-ethics": [
     "virtue-ethics",
     "confucian-trust-verification",
     "benevolence",
     "great-firm-brahman-backstory",
+    "four-beginnings-mencius",
     "confucian-sincerity-cheng",
+    "mengzi-righteousness-profit-debate",
     "confucian-self-examination",
     "confucian-ethics",
     "knowledge-learning",
@@ -252,6 +367,12 @@
     "four-agamas-commentary-commentary-on-four-collections",
     "san-chong-guan-threefold-contemplation"
   ],
+  "human-harmony": [
+    "human-harmony-he-ren"
+  ],
+  "人和": [
+    "human-harmony-he-ren"
+  ],
   "thirty-three-heavens": [
     "great-firm-brahmin-origin-sutra",
     "great-firm-brahman-backstory",
@@ -272,9 +393,51 @@
     "an-shigao-translated-agama-zhengxing-sutra",
     "baiyi-jinzhuang-brahmin-origin-sutra",
     "thirty-three-heavens",
+    "four-contemplations-buddhist-practice-ahang",
     "four-inversions-buddhist",
     "four-agamas-commentary-commentary-on-four-collections",
+    "mind-stillness-buddhist-meditation-stone-water",
     "seven-buddhas-current-kalpa"
+  ],
+  "xunzi": [
+    "confucian"
+  ],
+  "zhu-xi": [
+    "confucian"
+  ],
+  "wang-yangming": [
+    "confucian"
+  ],
+  "confucius": [
+    "confucian",
+    "five-virtues-four-vices",
+    "knowing-destiny-rites-words"
+  ],
+  "neo-confucianism": [
+    "confucian"
+  ],
+  "li-(ritual)": [
+    "confucian"
+  ],
+  "filial-piety": [
+    "confucian",
+    "three-years-mourning"
+  ],
+  "孔子": [
+    "confucian",
+    "five-virtues-four-vices",
+    "knowing-destiny-rites-words"
+  ],
+  "孟子": [
+    "confucian",
+    "four-beginnings-mencius-doctrine",
+    "zhi-qing-relation"
+  ],
+  "荀子": [
+    "confucian"
+  ],
+  "新儒学": [
+    "confucian"
   ],
   "four-bases-supernatural-power-siddhartha": [
     "three-dharmas-buddhist-philosophy",
@@ -350,6 +513,40 @@
   "karma": [
     "bao-en-pin"
   ],
+  "four-beginnings-(sìdu)": [
+    "four-beginnings-mencius-doctrine"
+  ],
+  "moral-cultivation": [
+    "four-beginnings-mencius-doctrine",
+    "mengzi-righteousness-profit-debate"
+  ],
+  "人性善": [
+    "four-beginnings-mencius-doctrine",
+    "confucian-sincerity-cheng",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "四端": [
+    "four-beginnings-mencius-doctrine"
+  ],
+  "浩然之氣": [
+    "four-beginnings-mencius-doctrine"
+  ],
+  "不忍人之心": [
+    "four-beginnings-mencius-doctrine"
+  ],
+  "儒家倫理學": [
+    "four-beginnings-mencius-doctrine"
+  ],
+  "浩然之気": [
+    "four-beginnings-mencius-doctrine"
+  ],
+  "不忍人の心": [
+    "four-beginnings-mencius-doctrine"
+  ],
+  "儒教倫理": [
+    "four-beginnings-mencius-doctrine",
+    "confucian-self-examination"
+  ],
   "confucius-etiquette-xiang-dang": [
     "confucian-trust-verification",
     "confucian-ethics"
@@ -368,7 +565,8 @@
     "confucian-self-examination",
     "confucian-political-philosophy",
     "confucian-ethics",
-    "moral-responsibility"
+    "moral-responsibility",
+    "mengzi-universal-sagehood-potential"
   ],
   "论语": [
     "confucian-trust-verification",
@@ -415,14 +613,38 @@
   "analects-disciples": [
     "confucian-trust-verification"
   ],
+  "analects-of-confucius": [
+    "confucian-trust-verification"
+  ],
+  "mengzi-political-philosophy-benevolent-rule": [
+    "benevolent-invincible-renzhe-wudi",
+    "mengzi-unity-through-non-killing-ding-yu-yi"
+  ],
+  "mengzi-four-beginnings-siduan": [
+    "benevolent-invincible-renzhe-wudi",
+    "mengzi-unity-through-non-killing-ding-yu-yi"
+  ],
+  "benevolent-government-ren-zheng": [
+    "benevolent-invincible-renzhe-wudi",
+    "wang-dao-true-king-hegemon",
+    "extending-kindness-pushing-grace-tui-en",
+    "mengzi-people-heart-minjian",
+    "providing-people-sustenance-zhi-min-zhi-chan"
+  ],
   "benevolent": [
     "benevolence"
   ],
   "仁者": [
     "benevolence"
   ],
-  "filial-piety": [
-    "three-years-mourning"
+  "mencius's-political-philosophy": [
+    "mengzi-seven-chapters-gongsun-chou-part-two"
+  ],
+  "孟子政治哲學": [
+    "mengzi-seven-chapters-gongsun-chou-part-two"
+  ],
+  "孟子の政治哲学": [
+    "mengzi-seven-chapters-gongsun-chou-part-two"
   ],
   "孝道": [
     "three-years-mourning"
@@ -442,6 +664,10 @@
   ],
   "five-aggregates-contemplation-buddhist": [
     "five-thieves-buddhist-doctrine"
+  ],
+  "mengzi": [
+    "tian-xia-you-da-zun-san",
+    "human-nature"
   ],
   "zilu": [
     "analects-disciples",
@@ -546,16 +772,14 @@
   "buddhist-meditation-three-serene-steps": [
     "four-agnas-four-absorptions-buddhist-meditation"
   ],
-  "mengzi": [
-    "human-nature"
-  ],
   "yin-yang-dao-philosophy": [
     "dao-de-jing-silk-manuscript",
     "dao-the-way-taoism"
   ],
   "governance-virtue-de": [
     "dao-de-jing-silk-manuscript",
-    "dao-the-way-taoism"
+    "dao-the-way-taoism",
+    "mengzi-people-heart-minjian"
   ],
   "brahma-realm": [
     "brahma-fourfold-teaching"
@@ -589,12 +813,10 @@
     "changahan-jing",
     "seven-buddhas-current-kalpa"
   ],
-  "孟子": [
-    "zhi-qing-relation"
-  ],
   "doctrine-of-the-mean-(zhongyong)": [
     "confucian-sincerity-cheng",
-    "central-harmony-zhonghe"
+    "central-harmony-zhonghe",
+    "great-learning-da-xue"
   ],
   "confucian-self-cultivation": [
     "confucian-sincerity-cheng",
@@ -605,17 +827,9 @@
     "confucian-sincerity-cheng",
     "doctrine-of-the-mean-zhongyong"
   ],
-  "中庸": [
-    "confucian-sincerity-cheng",
-    "central-harmony-zhonghe"
-  ],
   "修身": [
     "confucian-sincerity-cheng",
     "central-harmony-zhonghe",
-    "doctrine-of-the-mean-zhongyong"
-  ],
-  "人性善": [
-    "confucian-sincerity-cheng",
     "doctrine-of-the-mean-zhongyong"
   ],
   "thirty-seven-factors-enlightenment": [
@@ -623,6 +837,12 @@
     "four-right-exertions-an-shigao-commentary",
     "five-roots-five-powers-an-shigao-commentary",
     "four-foundations-mindfulness-an-shigao-commentary"
+  ],
+  "confucian": [
+    "mengzi-ritual-food-debate"
+  ],
+  "儒家": [
+    "mengzi-ritual-food-debate"
   ],
   "four-castes-origin-buddhist-cosmology": [
     "baiyi-jinzhuang-brahmin-origin-sutra"
@@ -635,6 +855,12 @@
   ],
   "大梵相応": [
     "baiyi-jinzhuang-brahmin-origin-sutra"
+  ],
+  "moral-cultivation-methods": [
+    "mengzi-righteousness-profit-debate"
+  ],
+  "道徳修養": [
+    "mengzi-righteousness-profit-debate"
   ],
   "wu-wei-non-action-taoism": [
     "dao-the-way-taoism"
@@ -661,7 +887,14 @@
     "confucian-education-principles"
   ],
   "four-foundations-mindfulness-an-shigao-commentary": [
-    "four-right-exertions-an-shigao-commentary"
+    "four-right-exertions-an-shigao-commentary",
+    "four-contemplations-buddhist-practice-ahang"
+  ],
+  "great-learning-da-xue": [
+    "great-qi-haoran-zhi-qi"
+  ],
+  "benevolent-invincible-renzhe-wudi": [
+    "mengzi-unity-through-non-killing-ding-yu-yi"
   ],
   "six-realms-of-existence": [
     "thirty-three-heavens"
@@ -691,13 +924,13 @@
   "three-trainings": [
     "great-collection-dharma-gate-sutra"
   ],
+  "political-philosophy-analects": [
+    "investigating-things-extending-knowledge-gewu-zhizhi"
+  ],
   "德行伦理": [
     "confucian-self-examination",
     "confucian-ethics",
     "knowledge-learning"
-  ],
-  "儒教倫理": [
-    "confucian-self-examination"
   ],
   "徳倫理学": [
     "confucian-self-examination",
@@ -721,7 +954,8 @@
   ],
   "confucian-music-yue": [
     "confucian-ethics",
-    "knowledge-learning"
+    "knowledge-learning",
+    "shared-joy-with-the-people-yu-min-xie-le"
   ],
   "孔子乡党礼仪": [
     "confucian-ethics"
@@ -768,7 +1002,8 @@
     "great-firm-brahman"
   ],
   "four-inversions-buddhist": [
-    "four-foundations-mindfulness-an-shigao-commentary"
+    "four-foundations-mindfulness-an-shigao-commentary",
+    "mind-stillness-buddhist-meditation-stone-water"
   ],
   "chan-haan-shi-bao-jing": [
     "four-foundations-mindfulness-an-shigao-commentary"
@@ -776,13 +1011,13 @@
   "an-shigao-seven-places-three-contemplations": [
     "four-foundations-mindfulness-an-shigao-commentary"
   ],
+  "mengzi-losing-original-heart": [
+    "wang-dao-true-king-hegemon"
+  ],
   "great-brahma-fourfold-teaching": [
     "dana-paramita-bodhisattva-giving"
   ],
   "ba-yi-ceremonial-dance": [
-    "knowledge-learning"
-  ],
-  "confucian-political-philosophy": [
     "knowledge-learning"
   ],
   "the-noble-eightfold-path": [
@@ -791,27 +1026,16 @@
   "consciousness-only-mind-only": [
     "arhat-stages-buddhist-liberation"
   ],
-  "confucius": [
-    "five-virtues-four-vices",
-    "knowing-destiny-rites-words"
-  ],
   "zizhang": [
     "five-virtues-four-vices"
   ],
   "humanism": [
     "five-virtues-four-vices"
   ],
-  "孔子": [
-    "five-virtues-four-vices",
-    "knowing-destiny-rites-words"
-  ],
   "子张": [
     "five-virtues-four-vices"
   ],
   "德治": [
-    "five-virtues-four-vices"
-  ],
-  "儒家政治哲学": [
     "five-virtues-four-vices"
   ],
   "子張": [
@@ -826,6 +1050,9 @@
   "儒教的誠": [
     "moral-cultivation-methods"
   ],
+  "four-beginnings-mencius-doctrine": [
+    "four-contemplations-buddhist-practice-ahang"
+  ],
   "fixed-livelihood": [
     "agricultural-foundation"
   ],
@@ -839,6 +1066,37 @@
     "xu-fen-buddhist-prologue",
     "san-chong-guan-threefold-contemplation"
   ],
+  "confucian-education-principles": [
+    "mengzi-universal-sagehood-potential",
+    "providing-people-sustenance-zhi-min-zhi-chan"
+  ],
+  "confucian-sincerity-(cheng)": [
+    "great-learning-da-xue"
+  ],
+  "人性-(human-nature)": [
+    "great-learning-da-xue"
+  ],
+  "中庸-(doctrine-of-the-mean)": [
+    "great-learning-da-xue"
+  ],
+  "儒家真誠-(confucian-sincerity)": [
+    "great-learning-da-xue"
+  ],
+  "君子修養-(junzi-cultivation)": [
+    "great-learning-da-xue"
+  ],
+  "儒教の自己反省": [
+    "great-learning-da-xue"
+  ],
+  "君子の人格形成": [
+    "great-learning-da-xue"
+  ],
+  "tian-xia-you-da-zun-san": [
+    "mengzi-people-heart-minjian"
+  ],
+  "mengzi-unity-through-non-killing-ding-yu-yi": [
+    "mengzi-people-heart-minjian"
+  ],
   "教育": [
     "human-nature-is-good"
   ],
@@ -850,5 +1108,11 @@
   ],
   "四書": [
     "doctrine-of-the-mean-zhongyong"
+  ],
+  "human-desire-to-be-born-sutra": [
+    "providing-people-sustenance-zhi-min-zhi-chan"
+  ],
+  "governance-leadership": [
+    "mengzi-hegemon-true-king-ba-wang-distinction"
   ]
 }

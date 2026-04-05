@@ -8,10 +8,11 @@ tags:
 - moral-responsibility
 - mourning-practices
 - ritual
+- ritual-practice
 - three-years-mourning
 - xiao
 title: Three Years Mourning / 三年之丧
-updated: '2026-04-05T05:29:36.959118+00:00'
+updated: '2026-04-05T05:47:04.184523+00:00'
 ---
 
 ## English
@@ -60,3 +61,44 @@ The three-year period symbolizes the length of time parents cared for their chil
 『[[confucius-analects|論語]]』「学而」篇において、孔子は「父在りては其の志を観、父没しては其の行いを観、三年父の道を改めざるは、孝と謂うべし」と述べています。これは真の孝道が単なる儀式的遵守を超え、父母の道徳的道を体現することにあることを強調しています。
 
 三年間の喪期間は、父母が幼児期に子女を養育した期間を象徴し、ケアと尊重の相互関係を創出します。この慣行は儒教的社会倫理における家族の継続性と道徳的継承の重要性を強化します。
+
+---
+
+## English
+The **Three Years Mourning** is a Confucian ritual practice where children mourn their deceased parents for a period of three years. This practice demonstrates deep filial piety and respect for parental authority and guidance.
+
+In the Analects, Confucius states: "If for three years he does not alter from the way of his father, he may be called filial." This suggests that maintaining the father's way of life and principles during the mourning period is an expression of genuine filial devotion.
+
+The practice reflects:
+- The importance of continuity in family traditions
+- Respect for parental teachings and values
+- The emotional and spiritual connection between generations
+- The Confucian emphasis on [[benevolence]] expressed through filial piety
+
+This mourning practice is closely related to other Confucian virtues and represents the concrete application of [[benevolence]] in family relationships.
+
+## 中文
+**三年之丧**是儒家丧礼中的重要制度，子女为父母守丧三年，体现了深厚的孝道和对父母权威的尊重。
+
+孔子在《论语》中提出："三年无改于父之道，可谓孝矣。"这表明在守丧期间不改变父亲的生活方式原则是真正孝道的表现。
+
+这一制度反映了：
+- 家族传统延续的重要性
+- 对父母教诲和价值观的尊重
+- 代际间的情感与精神联系
+- 儒家通过孝道表达[[仁]]的重视
+
+三年之丧与其他儒家美德密切相关，是[[仁]]在家庭关系中的具体体现，也是儒家礼制实践的重要组成部分。
+
+## 日本語
+**三年の喪**は儒教の儀礼慣行であり、子女が亡き父母のために三年間喪に服する。この慣行は深い孝行と親の権威への敬意を示している。
+
+『論語』において、孔子は「三年父の道を改めざれば、孝と謂うべし」と述べている。これは喪中の期間に父の生き方と原則を維持することが真の孝行の表現であることを示唆している。
+
+この慣行は以下を反映している：
+- 家族伝統の継続性の重要性
+- 親の教えと価値観への敬意
+- 世代間の感情的・精神的つながり
+- 孝行を通じて表現される[[仁]]への儒教的強調
+
+この喪の慣行は他の儒教的美徳と密接に関連しており、家族関係における[[仁]]の具体的適用を表している。

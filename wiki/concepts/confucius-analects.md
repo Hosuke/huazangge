@@ -11,7 +11,7 @@ tags:
 - philosophy
 - teachings
 title: Analects of Confucius / 论语
-updated: '2026-04-05T05:29:36.954626+00:00'
+updated: '2026-04-05T05:47:04.181391+00:00'
 ---
 
 ## English
@@ -436,3 +436,100 @@ The text emphasizes practical ethics, proper social relationships, and moral sel
 - 礼楽制度と社会調和
 
 本章は、孔子と弟子たちの対話を通じて、儒教が日常的倫理を重視し、道徳的実践を強調する思想的特徴を示し、中国伝統倫理思想の基本的枠組みを確立しました。
+
+---
+
+## English
+The Analects of Confucius, or 论语, is a compilation of the sayings and ideas attributed to the Chinese philosopher Confucius and his disciples. The text focuses on various themes such as virtue, governance, moral integrity, and the cultivation of personal character.
+
+### Key Teachings
+- **Shame and Honor**: Confucius states, "In a morally upright state, there is no shame in being poor. In a morally corrupt state, poverty is a source of shame." This illustrates the distinction between ethical and unethical societies.
+- **Deeds Over Words**: The idea that a gentleman's actions must reflect their words is emphasized; "A gentleman is ashamed to speak before acting."
+- **Valuing Virtue**: Confucius argues that possessing a moral character leads to true respect and admiration from others.
+  
+### Leadership and Governance
+- Confucius highlights the characteristics of a good ruler: "A leader who is understood ought not to rely solely on force but should instead have moral authority."
+- He differentiates between compulsion and intrinsic moral duty, stating, "A good ruler inspires loyalty and virtue in his subjects."
+
+### Personal Development
+- The discourse encourages self-cultivation and continuous learning. As Confucius states, "The one who learns but does not think is lost; the one who thinks but does not learn is in great danger."
+- Emphasizing relationships, Confucius teaches that respecting one's parents and elders is essential in building a moral society.
+
+### Conclusion
+The Analects continues to influence the moral framework, highlighting the importance of ethics in personal conduct and governance. 
+
+## 中文
+《论语》是中国哲学家孔子及其弟子的言论和思想的汇编，主要集中在伦理道德和治国理政的主题上。
+
+### 主要教义
+- **羞耻与荣誉**：孔子指出，“邦有道，穀；邦无道，穀，耻也。”此言体现了道德社会与非道德社会的区别。
+- **言行一致**：强调君子的言行需要相符，“君子耻其言而过其行”。
+- **重视德行**：孔子认为，品德高尚的人自然会赢得他人的尊重和钦佩。
+
+### 领导与治理
+- 孔子指出良好统治者的特征：“君子宜以信为先，不应只依赖武力。”
+- 他区分了强制与内在的道德责任，认为“一个良好的统治者激励他的臣民以忠诚和美德”。
+
+### 个人修养
+- 本书鼓励自我修养和不断学习，孔子说：“学而不思则罔，思而不学则殆。”
+- 强调人际关系，孔子教导，尊重父母和长辈是建立道德社会的基础。
+
+### 结论
+《论语》对道德框架的影响深远，凸显了伦理在个人行为和治理中的重要性。
+
+## 日本語
+『論語』は、中国の哲学者孔子とその弟子たちの言葉や思想をまとめたもので、倫理や統治に関するテーマに焦点を当てています。
+
+### 主な教え
+- **恥と名誉**：孔子は「邦有道、穀；邦無道、穀、恥也」と述べ、道徳的社会と非道徳的社会の違いを示しています。
+- **言行一致**：君子は「言に恥じ、行に過ちなし」と強調し、行動と言葉が一致しなければならないことを主張しています。
+- **徳を重視すること**：孔子は、道徳的な性格が本当の尊敬と admirationをもたらすと述べます。
+
+### リーダーシップと統治
+- 孔子は良い統治者の特徴を強調し、「君子は信を以て先んずるべし、力に依存してはならない」と教えます。
+- 彼は強制と内面的道徳責任を区別し、「良い統治者は臣下に忠誠と美徳を促す」と述べます。
+
+### 自己修養
+- 論語は自己修養と継続的な学びを奨励します。孔子は「学ばざれば必ず忘れ、思わざれば必ず危うし」と言います。
+- 人間関係を重視し、孔子は父母と長老を尊重することが道徳的な社会を築くために重要だと教えます。
+
+### 結論
+『論語』は道徳的枠組みに影響を与え続けており、個人の行動と統治における倫理の重要性を際立たせています。
+
+---
+
+## English
+The **Analects of Confucius** (论语) is a collection of sayings and ideas attributed to the Chinese philosopher Confucius and his contemporaries, traditionally believed to have been compiled by his followers. The text covers a wide range of philosophical and ethical topics, including [[benevolence]], righteousness, filial piety, and governance.
+
+The "Liren" (里仁) chapter specifically focuses on the concept of [[benevolence]] and its practical applications in daily life. Confucius emphasizes that living in an environment of benevolence is essential for cultivating virtue, and that the [[junzi]] (superior person) never departs from benevolence even in the most challenging circumstances.
+
+Key teachings from this chapter include:
+- The importance of choosing to dwell in benevolence
+- How only the benevolent can properly love and hate others
+- The relationship between [[benevolence]] and wisdom
+- The [[junzi]]'s constant adherence to benevolence
+- The distinction between the [[junzi]] who understands righteousness and the petty person who understands only profit
+
+## 中文
+《论语》是记录孔子及其弟子言行的经典著作，为儒家思想的核心文本。其中《里仁》篇集中论述了[[仁]]这一核心概念及其在实践中的应用。
+
+孔子在《里仁》篇中系统阐述了[[仁]]的本质与实践方法：
+- 强调居住环境对道德修养的重要性："里仁为美"
+- 指出只有仁者才能正确地爱人憎人
+- 阐明[[君子]]在任何情况下都不违背仁道
+- 区分[[君子]]怀德与小人的区别
+- 提出"朝闻道，夕死可矣"的求道精神
+
+本篇还涉及孝道、言行关系、交友之道等多个方面，体现了儒家思想中[[仁]]作为核心德目的统摄地位。通过曾子对"吾道一以贯之"的解释，明确了忠恕之道作为孔子思想体系的主线。
+
+## 日本語
+『論語』は孔子とその弟子たちの言行を記録した儒教の基本経典である。『里仁』篇では、[[仁]]の概念とその実践方法について集中的に論じられている。
+
+孔子は『里仁』篇において以下のように教えている：
+- 仁のある環境に住むことの重要性
+- 仁者のみが適切に人を愛し憎むことができる
+- [[君子]]はどんな状況でも仁から離れない
+- [[君子]]は義を理解し、小人は利のみを理解する
+- 「朝に道を聞かば、夕に死すとも可なり」という求道精神
+
+また、親孝行、言行一致、交友関係など多岐にわたる教えを通じて、儒家思想における[[仁]]の核心的地位が明らかにされている。曾子による「夫子の道は忠恕のみ」という解釈は、孔子の思想体系の基本線を示している。

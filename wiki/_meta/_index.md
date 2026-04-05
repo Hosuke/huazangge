@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-05T05:36:27.763955+00:00
+updated: 2026-04-05T06:02:12.332856+00:00
 ---
 
 # Knowledge Base Index
@@ -141,9 +141,22 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[four-āgama-commentary-ā-hán-mù-chao-jiě|四阿鋡暮抄解 / Four Āgama Commentary (Ā Hán Mù Chao Jiě)]] — A Buddhist commentary on the Four Āgama text, presenting a systematic analysis of the "Three Factors" framework for Buddhist practice and liberation.
 
+## Confucian Learning
+
+- [[mengzi-moral-cultivation-lost-mind|Moral Cultivation and the Lost Mind in Mencius / 放心与求其放心]] — The concept of "the lost mind" (放心) and the importance of recovering it through learning, as articulated in Mencius's moral philosophy.
+
+## Confucian Philosophy
+
+- [[great-body-small-body-mencius|The Great and Small Bodies in Mencius / 大体与小体]] — Mencius's distinction between the "great body" (mind/heart) and the "small body" (senses), and its implications for moral cultivation.
+- [[human-nature-mencius-debate|The Mencian Debate on Human Nature / 孟子人性论辩]] — A philosophical examination of the debate between Mencius and Gaozi regarding the nature of human beings, including key analogies and arguments.
+
 ## Contemplation Practice
 
 - [[san-chong-guan-threefold-contemplation|三種觀 / Threefold Contemplation Practice]] — The three meditation methods of empty view, phenomenal view, and middle way observation central to Mahayana Buddhist practice.
+
+## Gaozi
+
+- [[human-nature-mencius-debate|The Mencian Debate on Human Nature / 孟子人性论辩]] — A philosophical examination of the debate between Mencius and Gaozi regarding the nature of human beings, including key analogies and arguments.
 
 ## Mahayana Buddhism
 
@@ -152,6 +165,12 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Mahayana Philosophy
 
 - [[san-chong-guan-threefold-contemplation|三種觀 / Threefold Contemplation Practice]] — The three meditation methods of empty view, phenomenal view, and middle way observation central to Mahayana Buddhist practice.
+
+## Mencius
+
+- [[great-body-small-body-mencius|The Great and Small Bodies in Mencius / 大体与小体]] — Mencius's distinction between the "great body" (mind/heart) and the "small body" (senses), and its implications for moral cultivation.
+- [[human-nature-mencius-debate|The Mencian Debate on Human Nature / 孟子人性论辩]] — A philosophical examination of the debate between Mencius and Gaozi regarding the nature of human beings, including key analogies and arguments.
+- [[mengzi-moral-cultivation-lost-mind|Moral Cultivation and the Lost Mind in Mencius / 放心与求其放心]] — The concept of "the lost mind" (放心) and the importance of recovering it through learning, as articulated in Mencius's moral philosophy.
 
 ## Spiritual Progress
 
@@ -169,10 +188,20 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[san-chong-guan-threefold-contemplation|三種觀 / Threefold Contemplation Practice]] — The three meditation methods of empty view, phenomenal view, and middle way observation central to Mahayana Buddhist practice.
 
+## Adversity
+
+- [[adversity-birth-comfort-death|Born from Hardship, Death from Comfort / 生于忧患，死于安乐]] — Mencius's philosophical thesis that adversity and suffering are essential for moral development, while comfort and prosperity lead to moral decline and national ruin.
+
 ## Agama
 
 - [[changahan-jing|Chang Ahan Jing (Long Discourses of the Buddha) / 長阿含經]] — The Dīrgha-āgama, the longest collection of the Buddha's long discourses in early Buddhist scripture, compiled in four sections and five recitations.
 - [[seven-buddhas-current-kalpa|Seven Buddhas of the Current Kalpa / 七佛]] — The seven Buddhas who have appeared in the current kalpa, from Vipassin to Shakyamuni.
+- [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
+
+## Agama-Buddhism
+
+- [[four-contemplations-buddhist-practice-ahang|Four Contemplations / 四事 / 四つの観法]] — Buddhist contemplative practice of observing body, sensations, mind, and dharma in oneself and others, as taught in the Ahang正行經.
+- [[mind-stillness-buddhist-meditation-stone-water|Mind Stillness Analogies in Buddhist Meditation / 持心如石與心如流水 / 仏教瞑想における心の静止の比喩]] — Two key meditation analogies—holding the mind like stone and the mind flowing like water—from the Ahang正行經 for achieving mental stability and understanding impermanence.
 
 ## Agama-Literature
 
@@ -192,11 +221,16 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[an-shigao-translated-agama-zhengxing-sutra|Fo Shuo Ahán Zhèng Xíng Jīng (The Sutra of Proper Conduct in Āgama) / 佛說阿含正行經]] — An Eastern Han translation by An Shigao presenting core Buddhist teachings on proper conduct, the five thieves, and mental cultivation.
 - [[an-shigao-translation-methodology|An Shigao's Translation Methodology / 安世高譯經方法]] — The translation techniques and contribution of An Shigao, the seminal Parthian monk who translated over 90 Buddhist texts into Chinese during the Eastern Han dynasty.
 - [[changahan-shi-bao-jing|Chang A Han Shi Bao Jing (Long Discourses Tenfold Teachings Sutra) / 長阿含十報法經]] — An early Buddhist sutra presenting systematic teachings from one to ten, translated by An Shigao during the Eastern Han dynasty.
+- [[five-aggregates-seven-aspects-an-shigao|Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法]] — An Shigao's systematic method of analyzing each of the five aggregates (form, feeling, perception, formations, consciousness) through seven contemplative aspects.
 - [[five-roots-five-powers-an-shigao-commentary|Five Roots and Five Powers / 五根五力]] — The Five Roots (信進念定慧) and Five Powers (信力精進力念力定力慧力) as expounded in An Shigao's Han Dynasty Buddhist commentary.
+- [[four-contemplations-buddhist-practice-ahang|Four Contemplations / 四事 / 四つの観法]] — Buddhist contemplative practice of observing body, sensations, mind, and dharma in oneself and others, as taught in the Ahang正行經.
 - [[four-foundations-mindfulness-an-shigao-commentary|Four Foundations of Mindfulness / 四意止]] — The Four Foundations of Mindfulness (四意止) as interpreted in An Shigao's Han Dynasty commentary on the Satipatthana Sutra.
 - [[four-right-exertions-an-shigao-commentary|Four Right Exertions / 四意斷]] — The Four Right Exertions (四意斷) as explained in An Shigao's Han Dynasty commentary on Buddhist meditation practice.
+- [[four-types-people-self-other-care-buddhist|Four Types of People: Self-Care and Care for Others / 四等人自護護他]] — A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
+- [[mind-stillness-buddhist-meditation-stone-water|Mind Stillness Analogies in Buddhist Meditation / 持心如石與心如流水 / 仏教瞑想における心の静止の比喩]] — Two key meditation analogies—holding the mind like stone and the mind flowing like water—from the Ahang正行經 for achieving mental stability and understanding impermanence.
 - [[seven-factors-awakening-an-shigao-commentary|Seven Factors of Awakening / 七覺意]] — The Seven Factors of Awakening (念、择法、精进、喜、轻安、定、捨) as explained in An Shigao's Han Dynasty Buddhist commentary.
+- [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 
 ## Analects
 
@@ -289,10 +323,15 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
+- [[internal-benevolence-external-righteousness-debate|Internal Benevolence and External Righteousness Debate / 仁內義外之辯]] — The philosophical controversy over whether benevolence originates internally and righteousness externally in human nature.
 
 ## Benevolent-Government
 
+- [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
 - [[benevolent-government|Benevolent Government / 仁政]] — Benevolent government is characterized by a ruler's compassion and morality, leading to harmony in society.
+- [[benevolent-invincible-renzhe-wudi|The Benevolent Are Invincible / 仁者無敵]] — Mencius' doctrine that a ruler who practices benevolent government will be undefeatable due to moral authority.
+- [[mengzi-people-heart-minjian|The People's Heart / 民心]] — Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.
+- [[mengzi-political-philosophy-benevolent-rule|Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想]] — Analysis of Mencius's theory of benevolent government (wangdao) as moral governance
 - [[ministerial-advice|Ministerial Advice / 大臣的劝谏]] — The role of ministerial advice is crucial in ensuring benevolent governance and societal harmony.
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 
@@ -412,6 +451,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Buddhist-Ethics
 
 - [[defilement-accumulation-in-practice|Defilement Accumulation in Religious Practice / 修行中的烦恼随增]] — Buddhist teaching that external religious practices can still accumulate mental defilements when motivated by pride, desire for respect, jealousy, or other afflictions.
+- [[four-types-people-self-other-care-buddhist|Four Types of People: Self-Care and Care for Others / 四等人自護護他]] — A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.
 - [[nine-unnatural-deaths-buddhist|Nine Unnatural/Unexplained Deaths / 九橫 / 九横]] — Nine categories of untimely deaths caused by preventable causes such as improper eating, wrong conduct, and association with evil companions.
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
 - [[three-dharmas-buddhist-philosophy|Three Dharmas / 三法]] — A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.
@@ -432,10 +472,13 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[an-shigao-seven-places-three-contemplations|An Shigao's Contribution: Seven Places and Three Contemplations / 安世高與七處三觀經]] — The Han dynasty translator An Shigao's systematic introduction of Buddhist meditative analysis through his translation of the Seven Places and Three Contemplations sutra.
 - [[five-aggregates-contemplation-buddhist|Five Aggregates Contemplation / 五陰觀 / 五蘊の観想]] — Systematic contemplation on the five aggregates (form, sensation, perception, formations, consciousness) as a path to understanding non-self and achieving liberation.
+- [[five-aggregates-seven-aspects-an-shigao|Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法]] — An Shigao's systematic method of analyzing each of the five aggregates (form, feeling, perception, formations, consciousness) through seven contemplative aspects.
 - [[five-roots-five-powers-an-shigao-commentary|Five Roots and Five Powers / 五根五力]] — The Five Roots (信進念定慧) and Five Powers (信力精進力念力定力慧力) as expounded in An Shigao's Han Dynasty Buddhist commentary.
 - [[four-agnas-four-absorptions-buddhist-meditation|四種阿那般那 / Four Ānāpānas / 四つの阿那般那]] — A Buddhist meditation practice involving four types of breath contemplation and mental development stages.
+- [[four-contemplations-buddhist-practice-ahang|Four Contemplations / 四事 / 四つの観法]] — Buddhist contemplative practice of observing body, sensations, mind, and dharma in oneself and others, as taught in the Ahang正行經.
 - [[four-foundations-mindfulness-an-shigao-commentary|Four Foundations of Mindfulness / 四意止]] — The Four Foundations of Mindfulness (四意止) as interpreted in An Shigao's Han Dynasty commentary on the Satipatthana Sutra.
 - [[four-right-exertions-an-shigao-commentary|Four Right Exertions / 四意斷]] — The Four Right Exertions (四意斷) as explained in An Shigao's Han Dynasty commentary on Buddhist meditation practice.
+- [[mind-stillness-buddhist-meditation-stone-water|Mind Stillness Analogies in Buddhist Meditation / 持心如石與心如流水 / 仏教瞑想における心の静止の比喩]] — Two key meditation analogies—holding the mind like stone and the mind flowing like water—from the Ahang正行經 for achieving mental stability and understanding impermanence.
 - [[seven-factors-awakening-an-shigao-commentary|Seven Factors of Awakening / 七覺意]] — The Seven Factors of Awakening (念、择法、精进、喜、轻安、定、捨) as explained in An Shigao's Han Dynasty Buddhist commentary.
 
 ## Buddhist-Narrative
@@ -455,6 +498,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Buddhist-Practice
 
 - [[lan-ruo|蘭若 / Forest Hermitage Practice]] — 蘭若指佛教修行者居住之寂靜處所，遠離喧鬧，修習頭陀行與止觀禪定
+- [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 
 ## Buddhist-Psychology
 
@@ -530,8 +574,11 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Chinese Philosophy
 
+- [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
+- [[confucian|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system from ancient China that emphasizes moral cultivation, ritual propriety, and harmonious social relationships.
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 - [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
+- [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
 
 ## Chinese Thought
 
@@ -548,6 +595,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[kumarrow-translation-commentary|Kumārajīva's Translation Methodology in Four Āgamas Commentary / 鳩摩羅什譯經方法]] — Documentation of Kumārajīva's translation practices during the Former Qin dynasty, including team translation methods and philological approaches.
 - [[shi-men-tong-pan|十門通判 / Ten-Fold Framework for Sutra Exposition]] — A systematic ten-category methodology for analyzing and expounding Buddhist sutras, originating with Xianshou Fazang and elaborated by later masters.
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
+- [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 - [[xianshou-wu-jiao|賢首五教 / Five Teachings of Xianshou / 賢首五教（けんじゅぎょう）]] — A five-tiered doctrinal classification system developed by Fazang (Xianshou) of the Huayan school, categorizing all Buddhist teachings from Hinayana to the highest Yogacara-Tathagatagarbha doctrines.
 
 ## Chinese-Buddhism-History
@@ -562,6 +610,7 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
 - [[dao-de-jing-silk-manuscript|Dao De Jing (Silk Manuscript) / 道德經帛書本 / 道德経帛書本]] — The Dao De Jing Silk Manuscript presents the earliest complete version of Laozi's text, with its distinctive chapter ordering placing virtue before the Way.
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
 
 ## Chinese-Ethics
 
@@ -570,13 +619,28 @@ The article and supplementary source detail the progressive renunciation process
 ## Chinese-Philosophy
 
 - [[bagua-formation-trigrams-yijing|Eight Trigrams Formation / 八卦成列]] — The philosophical principle of how the eight trigrams are arranged to manifest all phenomena in the Yijing
+- [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
 - [[dao-the-way-taoism|Dao (The Way) / 道]] — The fundamental Taoist concept of Dao (The Way), the ultimate reality and principle underlying the universe.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
+- [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
+- [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
+- [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
+- [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
+
+## Chinese-Thought
+
+- [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
+
+## Classical Chinese Thought
+
+- [[human-nature-mencius-debate|The Mencian Debate on Human Nature / 孟子人性论辩]] — A philosophical examination of the debate between Mencius and Gaozi regarding the nature of human beings, including key analogies and arguments.
 
 ## Classical Chinese Literature
 
@@ -586,9 +650,28 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[han-dynasty-mencius-reception|Han Dynasty Reception of Mencius / 汉代孟子接受史]] — Historical process of Mencius's recognition and preservation during the Han dynasty
 
+## Classical-Chinese
+
+- [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
+
+## Classical-Chinese-Philosophy
+
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
+- [[internal-benevolence-external-righteousness-debate|Internal Benevolence and External Righteousness Debate / 仁內義外之辯]] — The philosophical controversy over whether benevolence originates internally and righteousness externally in human nature.
+- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
+- [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
+- [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
+- [[mengzi-seven-chapters-structural-analysis|Mencius Seven Chapters / 孟子七篇結構]] — Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance
+- [[willow-cup-metaphor-gaozi|Willow-Cup Metaphor / 杞柳桮棬]] — Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.
+
 ## Classical-Chinese-Texts
 
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
+
+## Classical-Confucianism
+
+- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
 
 ## Classical-Learning
 
@@ -610,6 +693,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[model-quantization|Model Quantization / 模型量化 / モデル量子化]] — A technique for reducing AI model size and computational requirements by representing model parameters with lower-precision data types.
 
+## Confucian-Classics
+
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+
 ## Confucian-Concepts
 
 - [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
@@ -618,19 +705,71 @@ The article and supplementary source detail the progressive renunciation process
 ## Confucian-Cultivation
 
 - [[knowing-destiny-rites-words|Knowing Destiny, Rites, and Words / 知命知礼知言]] — Confucius's three essential knowledges for becoming a true gentleman in the Analects
+- [[mengzi-haoran-qi-vast-flowing-vital-energy|Vast Flowing Qi (浩然之氣) / 浩然之氣]] — Mencius's concept of moral cultivated vital energy that fills the universe when properly nurtured through accumulated righteousness.
+
+## Confucian-Education
+
+- [[teaching-many-methods-mencius|Teaching Has Many Methods / 教亦多术]] — Mencius's pedagogical philosophy that不屑之教诲 (disdainful teaching) is itself a valid and effective method of moral education, representing a sophisticated understanding of educational psychology.
+
+## Confucian-Ethics
+
+- [[adversity-birth-comfort-death|Born from Hardship, Death from Comfort / 生于忧患，死于安乐]] — Mencius's philosophical thesis that adversity and suffering are essential for moral development, while comfort and prosperity lead to moral decline and national ruin.
+- [[benevolent-invincible-renzhe-wudi|The Benevolent Are Invincible / 仁者無敵]] — Mencius' doctrine that a ruler who practices benevolent government will be undefeatable due to moral authority.
+- [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
+- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
+- [[internal-benevolence-external-righteousness-debate|Internal Benevolence and External Righteousness Debate / 仁內義外之辯]] — The philosophical controversy over whether benevolence originates internally and righteousness externally in human nature.
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
+- [[mengzi-gift-accepting-principles|Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿]] — Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.
+- [[mengzi-people-heart-minjian|The People's Heart / 民心]] — Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.
+- [[mengzi-ritual-food-debate|Mencius on Ritual Propriety vs. Necessity / 孟子论礼与食]] — The debate about whether ritual propriety or practical necessities like food and marriage take precedence, illustrating Confucian value hierarchies.
+- [[mengzi-unity-through-non-killing-ding-yu-yi|Unity Through Non-Killing / 定於一]] — Mencius' doctrine that unity of the realm is achieved through rulers who do not delight in killing.
+- [[rites-food-debate-gaozi|The Debate on Rites versus Food / 礼与食孰重]] — The philosophical debate in Mencius about whether ceremonial rites (li) should take precedence over practical necessities like food and marriage, exploring the tension between moral principles and human needs.
 
 ## Confucian-Governance
 
 - [[five-virtues-four-vices|Five Virtues and Four Vices / 五美四恶]] — Confucius's political philosophy outlining five virtues to cultivate and four vices to avoid in governance
 
+## Confucian-Methodology
+
+- [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
+
 ## Confucian-Philosophy
 
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
+- [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
+- [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
+- [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
+- [[mind-as-organ-of-thought|The Mind as the Organ of Thought / 心之官則思]] — Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.
+- [[willow-cup-metaphor-gaozi|Willow-Cup Metaphor / 杞柳桮棬]] — Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.
+
+## Confucian-Political-Philosophy
+
+- [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
+- [[de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu|De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助]] — The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.
+- [[five-hundred-years-sage-king|Five Hundred Years必有王者興 / 五百年必有王者興]] — Mencius's famous prophecy that a sage king will arise every five hundred years, with one marked by the appearance of a world-ordering figure.
+- [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
+- [[mengzi-righteousness-profit-debate|Mencius on Righteousness vs. Profit / 孟子论义利]] — Mencius' argument that rulers should be persuaded through benevolence and righteousness rather than profit, with profound implications for political philosophy.
+- [[mengzi-ritual-food-debate|Mencius on Ritual Propriety vs. Necessity / 孟子论礼与食]] — The debate about whether ritual propriety or practical necessities like food and marriage take precedence, illustrating Confucian value hierarchies.
+- [[ministerial-responsibility-resignation|Official's Duty and Right to Resign / 有官守者，不得其職則去]] — The Confucian principle that officials must resign when they cannot fulfill their duties or speak their mind.
+- [[providing-people-sustenance-zhi-min-zhi-chan|Providing the People with Sustenance (制民之產) / 民に産業を制する]] — Mencius argued that benevolent government requires establishing the people's material welfare first—providing land, livestock, and education—because only those with stable livelihoods can develop constant virtue, making economic security the foundation of moral governance.
+- [[shared-joy-with-the-people-yu-min-xie-le|Shared Joy with the People (與民偕樂) / 民と偕に楽む]] — Mencius's principle that rulers should share enjoyment with the people, not hoard pleasures for themselves.
+- [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
+- [[tian-xia-you-da-zun-san|Three Universally Honored Things / 天下有三尊]] — Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.
+- [[wang-dao-true-king-hegemon|The Way of the True King vs. Hegemony (王道與霸道) / 王道と霸道]] — Mencius's distinction between righteous rule through virtue and coercive rule through force.
 
 ## Confucian-Rituals
 
 - [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
+
+## Confucian-Self-Examination
+
+- [[mind-as-organ-of-thought|The Mind as the Organ of Thought / 心之官則思]] — Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.
+
+## Confucian-Spirituality
+
+- [[mengzi-indomitable-heart-budongxin|Indefatigable Heart (不動心) / 不動心]] — Mencius's concept of the steadfast moral heart, cultivated through courage, righteosness, and the accumulation of moral energy.
 
 ## Confucian-Studies
 
@@ -641,20 +780,31 @@ The article and supplementary source detail the progressive renunciation process
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
 - [[analects-xue-er|Learning and Its Practice / 学而时习之]] — The opening chapter of the Analects emphasizing the importance of continuous learning, review, and friendship in personal cultivation.
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
+- [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
 - [[benevolent-government|Benevolent Government / 仁政]] — Benevolent government is characterized by a ruler's compassion and morality, leading to harmony in society.
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
 - [[confucian-education-principles|Confucian Education Principles / 儒家教育原则]] — Confucius's educational philosophy emphasizing poetry, rituals, and music as foundations for character development
 - [[confucian-ethics|Confucian Ethics / 儒家伦理]] — This article explores the key concepts of Confucian ethics as presented in the Analects, focusing on filial piety and social conduct.
 - [[confucian-political-philosophy|Confucian Political Philosophy / 儒家政治哲学]] — Confucius' teachings on governance, social order, and the proper exercise of power
+- [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+- [[confucian|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system from ancient China that emphasizes moral cultivation, ritual propriety, and harmonious social relationships.
 - [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
+- [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
+- [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
+- [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
+- [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
+- [[human-harmony-he-ren|Human Harmony (人和) / 人和]] — A Confucian concept asserting that human unity and social harmony are more consequential than external advantages or natural circumstances.
+- [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
 - [[junzi-characteristics|Junzi Characteristics / 君子品格]] — Confucian ideal of the cultivated person who can be entrusted with governance and maintains integrity in crisis
@@ -663,14 +813,23 @@ The article and supplementary source detail the progressive renunciation process
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
 - [[learning-attitude-analects|Learning Attitude in Analects / 论语学习态度]] — Confucian perspective on learning as urgent pursuit and lifelong commitment
 - [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
+- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
+- [[mengzi-political-philosophy-benevolent-rule|Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想]] — Analysis of Mencius's theory of benevolent government (wangdao) as moral governance
+- [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
+- [[mengzi-seven-chapters-structural-analysis|Mencius Seven Chapters / 孟子七篇結構]] — Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 - [[political-philosophy-analects|Political Philosophy in Analects / 论语政治哲学]] — Confucian governance principles including meritocracy, moral leadership, and social stability
 - [[ren|Ren (Benevolence) / 仁]] — Central Confucian virtue of humaneness and perfect virtue
+- [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
 - [[tang-wan-kung|Tang Wan Kung / 唐宓公]] — Overview of the historical and philosophical significance of Tang Wan Kung in Confucianism.
 - [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
+- [[unsummoned-ministers-bu-zhao-zhi-chen|Unsummoned Ministers / 不召之臣]] — A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
 - [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
+- [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
+- [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
+- [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
 
 ## Confucius
 
@@ -680,9 +839,21 @@ The article and supplementary source detail the progressive renunciation process
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
 
+## Contemplation-Methods
+
+- [[five-aggregates-seven-aspects-an-shigao|Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法]] — An Shigao's systematic method of analyzing each of the five aggregates (form, feeling, perception, formations, consciousness) through seven contemplative aspects.
+
 ## Contemplation-Practice
 
 - [[five-aggregates-contemplation-buddhist|Five Aggregates Contemplation / 五陰觀 / 五蘊の観想]] — Systematic contemplation on the five aggregates (form, sensation, perception, formations, consciousness) as a path to understanding non-self and achieving liberation.
+
+## Contemplative-Practice
+
+- [[four-contemplations-buddhist-practice-ahang|Four Contemplations / 四事 / 四つの観法]] — Buddhist contemplative practice of observing body, sensations, mind, and dharma in oneself and others, as taught in the Ahang正行經.
+
+## Copyright
+
+- [[google-books-digitization-project|Google Books Digitization Project / 谷歌图书数字化项目]] — Google's initiative to digitize public domain books and make them universally accessible
 
 ## Core Concepts
 
@@ -692,6 +863,14 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[bagua-formation-trigrams-yijing|Eight Trigrams Formation / 八卦成列]] — The philosophical principle of how the eight trigrams are arranged to manifest all phenomena in the Yijing
 - [[four-castes-origin-buddhist-cosmology|Buddhist Origin of the Four Castes / 四姓起源]] — Buddhist cosmological account of how the four varnas (brahman, kshatriya, vaishya, shudra) arose from primordial beings and the Buddha's teaching on karmic equality.
+
+## Courage
+
+- [[mengzi-indomitable-heart-budongxin|Indefatigable Heart (不動心) / 不動心]] — Mencius's concept of the steadfast moral heart, cultivated through courage, righteosness, and the accumulation of moral energy.
+
+## Ctext
+
+- [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
 
 ## Cuatro-Deudas-De-Gratitud
 
@@ -746,9 +925,17 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[changahan-shi-bao-jing|Chang A Han Shi Bao Jing (Long Discourses Tenfold Teachings Sutra) / 長阿含十報法經]] — An early Buddhist sutra presenting systematic teachings from one to ten, translated by An Shigao during the Eastern Han dynasty.
 
+## Digital-Ethics
+
+- [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+
 ## Digital-Humanities
 
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+
+## Digitization
+
+- [[google-books-digitization-project|Google Books Digitization Project / 谷歌图书数字化项目]] — Google's initiative to digitize public domain books and make them universally accessible
 
 ## Disciples
 
@@ -779,7 +966,9 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Early-Buddhism
 
+- [[five-aggregates-seven-aspects-an-shigao|Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法]] — An Shigao's systematic method of analyzing each of the five aggregates (form, feeling, perception, formations, consciousness) through seven contemplative aspects.
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
+- [[four-types-people-self-other-care-buddhist|Four Types of People: Self-Care and Care for Others / 四等人自護護他]] — A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.
 
 ## Early-Buddhist-Translations
 
@@ -802,6 +991,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Economic-Ethics
 
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
+- [[providing-people-sustenance-zhi-min-zhi-chan|Providing the People with Sustenance (制民之產) / 民に産業を制する]] — Mencius argued that benevolent government requires establishing the people's material welfare first—providing land, livestock, and education—because only those with stable livelihoods can develop constant virtue, making economic security the foundation of moral governance.
 
 ## Economic-Policy
 
@@ -818,6 +1008,10 @@ The article and supplementary source detail the progressive renunciation process
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
 - [[learning-attitude-analects|Learning Attitude in Analects / 论语学习态度]] — Confucian perspective on learning as urgent pursuit and lifelong commitment
+
+## Educational-Psychology
+
+- [[teaching-many-methods-mencius|Teaching Has Many Methods / 教亦多术]] — Mencius's pedagogical philosophy that不屑之教诲 (disdainful teaching) is itself a valid and effective method of moral education, representing a sophisticated understanding of educational psychology.
 
 ## Eight-Rare-Qualities
 
@@ -839,10 +1033,17 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[four-right-exertions-an-shigao-commentary|Four Right Exertions / 四意斷]] — The Four Right Exertions (四意斷) as explained in An Shigao's Han Dynasty commentary on Buddhist meditation practice.
 - [[seven-factors-awakening-an-shigao-commentary|Seven Factors of Awakening / 七覺意]] — The Seven Factors of Awakening (念、择法、精进、喜、轻安、定、捨) as explained in An Shigao's Han Dynasty Buddhist commentary.
+- [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 
 ## Epistemology
 
+- [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
+
+## Eschatology
+
+- [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
+- [[five-hundred-years-sage-king|Five Hundred Years必有王者興 / 五百年必有王者興]] — Mencius's famous prophecy that a sage king will arise every five hundred years, with one marked by the appearance of a world-ordering figure.
 
 ## Ethical-Teaching
 
@@ -853,17 +1054,24 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[confucian-ethics|Confucian Ethics / 儒家伦理]] — This article explores the key concepts of Confucian ethics as presented in the Analects, focusing on filial piety and social conduct.
+- [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+- [[confucian|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system from ancient China that emphasizes moral cultivation, ritual propriety, and harmonious social relationships.
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
+- [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
+- [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[governance-leadership|Governance and Leadership / 治理与领导]] — Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
 - [[junzi-cultivation|Junzi Cultivation / 君子修养]] — Confucius' teachings on the cultivation of moral character and virtuous conduct
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
+- [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
 - [[moral-equality-four-castes-buddhism|Moral Equality of the Four Castes in Buddhism / 佛教四姓道德平等說]] — The Buddhist doctrine that all four social castes are equal in moral agency and spiritual potential, regardless of birth.
 - [[ren|Ren (Benevolence) / 仁]] — Central Confucian virtue of humaneness and perfect virtue
+- [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
+- [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
 
 ## Etiquette
 
@@ -897,12 +1105,17 @@ The article and supplementary source detail the progressive renunciation process
 ## Five-Aggregates
 
 - [[five-aggregates-contemplation-buddhist|Five Aggregates Contemplation / 五陰觀 / 五蘊の観想]] — Systematic contemplation on the five aggregates (form, sensation, perception, formations, consciousness) as a path to understanding non-self and achieving liberation.
+- [[five-aggregates-seven-aspects-an-shigao|Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法]] — An Shigao's systematic method of analyzing each of the five aggregates (form, feeling, perception, formations, consciousness) through seven contemplative aspects.
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 - [[four-foundations-mindfulness-an-shigao-commentary|Four Foundations of Mindfulness / 四意止]] — The Four Foundations of Mindfulness (四意止) as interpreted in An Shigao's Han Dynasty commentary on the Satipatthana Sutra.
 
 ## Forest-Monasticism
 
 - [[lan-ruo|蘭若 / Forest Hermitage Practice]] — 蘭若指佛教修行者居住之寂靜處所，遠離喧鬧，修習頭陀行與止觀禪定
+
+## Four Books
+
+- [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
 
 ## Four-Agamas
 
@@ -923,6 +1136,15 @@ The article and supplementary source detail the progressive renunciation process
 - [[great-brahma-fourfold-teaching|Great Brahma's Fourfold Teaching / 大梵天王四神足說]] — The teaching on the Four Bases of Supernatural Power delivered by Great Brahma King to the thirty-three heavens assembly.
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
 
+## Four-Beginnings
+
+- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
+
+## Four-Beginnings-Mencius
+
+- [[mengzi-universal-sagehood-potential|Universal Potential for Sagehood / 人皆可以为尧舜]] — Mencius' doctrine that every person possesses the innate capacity to become a sage like Yao and Shun, emphasizing moral agency and cultivation.
+
 ## Four-Benefactors
 
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
@@ -932,6 +1154,8 @@ The article and supplementary source detail the progressive renunciation process
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 
 ## Four-Castes
 
@@ -962,6 +1186,11 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
 
+## Gaozi
+
+- [[internal-benevolence-external-righteousness-debate|Internal Benevolence and External Righteousness Debate / 仁內義外之辯]] — The philosophical controversy over whether benevolence originates internally and righteousness externally in human nature.
+- [[willow-cup-metaphor-gaozi|Willow-Cup Metaphor / 杞柳桮棬]] — Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.
+
 ## Gemma-Family
 
 - [[gemma-ai-model|Gemma AI Model / Gemma AI 模型 / Gemma AIモデル]] — Google's open-source family of lightweight, state-of-the-art AI models designed for responsible AI development and efficient deployment.
@@ -975,6 +1204,10 @@ The article and supplementary source detail the progressive renunciation process
 - [[model-quantization|Model Quantization / 模型量化 / モデル量子化]] — A technique for reducing AI model size and computational requirements by representing model parameters with lower-precision data types.
 - [[ollama-framework|Ollama Framework / Ollama 框架 / Ollamaフレームワーク]] — An open-source runtime environment for running large language models locally with quantized GGUF model files.
 
+## Gift-Giving
+
+- [[mengzi-gift-accepting-principles|Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿]] — Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.
+
 ## Google-Ai
 
 - [[gemma-ai-model|Gemma AI Model / Gemma AI 模型 / Gemma AIモデル]] — Google's open-source family of lightweight, state-of-the-art AI models designed for responsible AI development and efficient deployment.
@@ -982,12 +1215,35 @@ The article and supplementary source detail the progressive renunciation process
 ## Governance
 
 - [[analects-zhengzhi|Governance in the Analects / 论语中的治理]] — Examination of Confucius' principles of governance as outlined in the Analects.
+- [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
 - [[confucian-political-philosophy|Confucian Political Philosophy / 儒家政治哲学]] — Confucius' teachings on governance, social order, and the proper exercise of power
 - [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
+- [[de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu|De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助]] — The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
 - [[governance-leadership|Governance and Leadership / 治理与领导]] — Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[human-harmony-he-ren|Human Harmony (人和) / 人和]] — A Confucian concept asserting that human unity and social harmony are more consequential than external advantages or natural circumstances.
+- [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
+- [[mengzi-people-heart-minjian|The People's Heart / 民心]] — Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.
+- [[mengzi-unity-through-non-killing-ding-yu-yi|Unity Through Non-Killing / 定於一]] — Mencius' doctrine that unity of the realm is achieved through rulers who do not delight in killing.
 - [[political-philosophy-analects|Political Philosophy in Analects / 论语政治哲学]] — Confucian governance principles including meritocracy, moral leadership, and social stability
+- [[providing-people-sustenance-zhi-min-zhi-chan|Providing the People with Sustenance (制民之產) / 民に産業を制する]] — Mencius argued that benevolent government requires establishing the people's material welfare first—providing land, livestock, and education—because only those with stable livelihoods can develop constant virtue, making economic security the foundation of moral governance.
+- [[shared-joy-with-the-people-yu-min-xie-le|Shared Joy with the People (與民偕樂) / 民と偕に楽む]] — Mencius's principle that rulers should share enjoyment with the people, not hoard pleasures for themselves.
+- [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
+- [[tian-xia-you-da-zun-san|Three Universally Honored Things / 天下有三尊]] — Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.
+- [[unsummoned-ministers-bu-zhao-zhi-chen|Unsummoned Ministers / 不召之臣]] — A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.
+- [[wang-dao-true-king-hegemon|The Way of the True King vs. Hegemony (王道與霸道) / 王道と霸道]] — Mencius's distinction between righteous rule through virtue and coercive rule through force.
+
+## Governance-Leadership
+
+- [[mengzi-righteousness-profit-debate|Mencius on Righteousness vs. Profit / 孟子论义利]] — Mencius' argument that rulers should be persuaded through benevolence and righteousness rather than profit, with profound implications for political philosophy.
+- [[ministerial-responsibility-resignation|Official's Duty and Right to Resign / 有官守者，不得其職則去]] — The Confucian principle that officials must resign when they cannot fulfill their duties or speak their mind.
+- [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
+
+## Governance-Virtue-De
+
+- [[mengzi-political-philosophy-benevolent-rule|Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想]] — Analysis of Mencius's theory of benevolent government (wangdao) as moral governance
 
 ## Gratitude
 
@@ -997,6 +1253,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[bao-en-pin|報恩品 / The Chapter on Repaying Kindness (Bao'en Pin)]] — A major chapter of the Mahāyāna Sūtra on the Cultivation of the Mind-Ground, systematically explaining the Buddhist doctrine of repaying four kinds of kindness.
 - [[da-cheng-ben-sheng-xin-di-guan-jing|大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground]] — A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.
+
+## Great Body
+
+- [[great-body-small-body-mencius|The Great and Small Bodies in Mencius / 大体与小体]] — Mencius's distinction between the "great body" (mind/heart) and the "small body" (senses), and its implications for moral cultivation.
 
 ## Great-Firm-Brāhmaṇa
 
@@ -1013,6 +1273,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Han-Dynasty
 
 - [[chaou-ke|Chaou K'e / 赵岐]] — Han dynasty scholar who created the first major commentary on Mencius
+- [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 
 ## Han-Dynasty-Buddhism
 
@@ -1025,12 +1286,19 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Han-Dynasty-Translation
 
+- [[five-aggregates-seven-aspects-an-shigao|Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法]] — An Shigao's systematic method of analyzing each of the five aggregates (form, feeling, perception, formations, consciousness) through seven contemplative aspects.
+- [[four-types-people-self-other-care-buddhist|Four Types of People: Self-Care and Care for Others / 四等人自護護他]] — A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
 
 ## Han-Dynasty-Translations
 
 - [[an-shigao-seven-places-three-contemplations|An Shigao's Contribution: Seven Places and Three Contemplations / 安世高與七處三觀經]] — The Han dynasty translator An Shigao's systematic introduction of Buddhist meditative analysis through his translation of the Seven Places and Three Contemplations sutra.
 - [[fenbie-gongde-lun|分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)]] — A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.
+
+## Heart-Mind
+
+- [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
+- [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
 
 ## Heavenly-Assembly
 
@@ -1044,6 +1312,14 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[changahan-jing|Chang Ahan Jing (Long Discourses of the Buddha) / 長阿含經]] — The Dīrgha-āgama, the longest collection of the Buddha's long discourses in early Buddhist scripture, compiled in four sections and five recitations.
 
+## Historical-Providence
+
+- [[five-hundred-years-sage-king|Five Hundred Years必有王者興 / 五百年必有王者興]] — Mencius's famous prophecy that a sage king will arise every five hundred years, with one marked by the appearance of a world-ordering figure.
+
+## Historical-Theory
+
+- [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
+
 ## History
 
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
@@ -1051,6 +1327,11 @@ The article and supplementary source detail the progressive renunciation process
 ## Huayan-School
 
 - [[xianshou-wu-jiao|賢首五教 / Five Teachings of Xianshou / 賢首五教（けんじゅぎょう）]] — A five-tiered doctrinal classification system developed by Fazang (Xianshou) of the Huayan school, categorizing all Buddhist teachings from Hinayana to the highest Yogacara-Tathagatagarbha doctrines.
+
+## Human Nature
+
+- [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
+- [[human-nature-mencius-debate|The Mencian Debate on Human Nature / 孟子人性论辩]] — A philosophical examination of the debate between Mencius and Gaozi regarding the nature of human beings, including key analogies and arguments.
 
 ## Human Nature.
 
@@ -1060,8 +1341,21 @@ Potential Tags: "Mencius"
 
 ## Human-Nature
 
+- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
+- [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
+- [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
+- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
+- [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
+- [[mengzi-universal-sagehood-potential|Universal Potential for Sagehood / 人皆可以为尧舜]] — Mencius' doctrine that every person possesses the innate capacity to become a sage like Yao and Shun, emphasizing moral agency and cultivation.
+- [[willow-cup-metaphor-gaozi|Willow-Cup Metaphor / 杞柳桮棬]] — Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
+
+## Human-Nature-Is-Good
+
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
+- [[mengzi-universal-sagehood-potential|Universal Potential for Sagehood / 人皆可以为尧舜]] — Mencius' doctrine that every person possesses the innate capacity to become a sage like Yao and Shun, emphasizing moral agency and cultivation.
 
 ## Imperial
 
@@ -1078,6 +1372,10 @@ Potential Tags: "Mencius"
 ## Innate Goodness
 
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
+## Integrity
+
+- [[mengzi-gift-accepting-principles|Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿]] — Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.
 
 ## Intellectual-History
 
@@ -1099,6 +1397,7 @@ Potential Tags: "Mencius"
 
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
+- [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
 
 ## Karma-Teaching
 
@@ -1111,6 +1410,10 @@ Potential Tags: "Mencius"
 ## King-Bimbisara
 
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
+
+## King-Wen
+
+- [[shared-joy-with-the-people-yu-min-xie-le|Shared Joy with the People (與民偕樂) / 民と偕に楽む]] — Mencius's principle that rulers should share enjoyment with the people, not hoard pleasures for themselves.
 
 ## Knowledge
 
@@ -1144,6 +1447,10 @@ Potential Tags: "Mencius"
 - [[analects-xue-er|Learning and Its Practice / 学而时习之]] — The opening chapter of the Analects emphasizing the importance of continuous learning, review, and friendship in personal cultivation.
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
 
+## Li-Rites
+
+- [[rites-food-debate-gaozi|The Debate on Rites versus Food / 礼与食孰重]] — The philosophical debate in Mencius about whether ceremonial rites (li) should take precedence over practical necessities like food and marriage, exploring the tension between moral principles and human needs.
+
 ## Liberation
 
 - [[brahma-fourfold-teaching|Brahma's Fourfold Teaching on Liberation / 梵天王四法]] — Mahābrahmā's teachings on the four conditions for rebirth in the Brahma realm: non-self practice, one-pointedness of mind, compassionate liberation, and abandoning defilements.
@@ -1154,6 +1461,10 @@ Potential Tags: "Mencius"
 ## Liberation-Stages
 
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
+
+## Libraries
+
+- [[google-books-digitization-project|Google Books Digitization Project / 谷歌图书数字化项目]] — Google's initiative to digitize public domain books and make them universally accessible
 
 ## Light-Sound-Heaven
 
@@ -1166,6 +1477,10 @@ Potential Tags: "Mencius"
 ## Local-Ai-Inference
 
 - [[ollama-framework|Ollama Framework / Ollama 框架 / Ollamaフレームワーク]] — An open-source runtime environment for running large language models locally with quantized GGUF model files.
+
+## Lost Mind
+
+- [[mengzi-moral-cultivation-lost-mind|Moral Cultivation and the Lost Mind in Mencius / 放心与求其放心]] — The concept of "the lost mind" (放心) and the importance of recovering it through learning, as articulated in Mencius's moral philosophy.
 
 ## Lowercase
 
@@ -1271,7 +1586,12 @@ The article and supplementary source detail the progressive renunciation process
 - [[four-bases-supernatural-power-siddhartha|Four Bases of Supernatural Power / 四神足]] — The Four Bases of Supernatural Power (rddhipāda) taught by Mahabrahma Deva, describing the spiritual faculties of desire, endeavor, mind, and investigation.
 - [[lan-ruo|蘭若 / Forest Hermitage Practice]] — 蘭若指佛教修行者居住之寂靜處所，遠離喧鬧，修習頭陀行與止觀禪定
 - [[nirodha-samapatti|滅盡定 Nirodhāsamāpatti / Absorption of Cessation]] — A Buddhist meditation attainment where all mental formations cease, enabling practitioners to grant present-world blessings to beings.
+- [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 - [[twelve-links-dependent-origination|Twelve Links of Dependent Origination / 十二因緣]] — The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.
+
+## Meditation-Analogies
+
+- [[mind-stillness-buddhist-meditation-stone-water|Mind Stillness Analogies in Buddhist Meditation / 持心如石與心如流水 / 仏教瞑想における心の静止の比喩]] — Two key meditation analogies—holding the mind like stone and the mind flowing like water—from the Ahang正行經 for achieving mental stability and understanding impermanence.
 
 ## Mencius
 
@@ -1306,7 +1626,47 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Mengzi
 
+- [[adversity-birth-comfort-death|Born from Hardship, Death from Comfort / 生于忧患，死于安乐]] — Mencius's philosophical thesis that adversity and suffering are essential for moral development, while comfort and prosperity lead to moral decline and national ruin.
+- [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
+- [[benevolent-invincible-renzhe-wudi|The Benevolent Are Invincible / 仁者無敵]] — Mencius' doctrine that a ruler who practices benevolent government will be undefeatable due to moral authority.
+- [[de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu|De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助]] — The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.
+- [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
+- [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
+- [[five-hundred-years-sage-king|Five Hundred Years必有王者興 / 五百年必有王者興]] — Mencius's famous prophecy that a sage king will arise every five hundred years, with one marked by the appearance of a world-ordering figure.
+- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
+- [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
+- [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
+- [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
+- [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
+- [[human-harmony-he-ren|Human Harmony (人和) / 人和]] — A Confucian concept asserting that human unity and social harmony are more consequential than external advantages or natural circumstances.
+- [[internal-benevolence-external-righteousness-debate|Internal Benevolence and External Righteousness Debate / 仁內義外之辯]] — The philosophical controversy over whether benevolence originates internally and righteousness externally in human nature.
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
+- [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
+- [[mengzi-gift-accepting-principles|Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿]] — Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.
+- [[mengzi-haoran-qi-vast-flowing-vital-energy|Vast Flowing Qi (浩然之氣) / 浩然之氣]] — Mencius's concept of moral cultivated vital energy that fills the universe when properly nurtured through accumulated righteousness.
+- [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
+- [[mengzi-indomitable-heart-budongxin|Indefatigable Heart (不動心) / 不動心]] — Mencius's concept of the steadfast moral heart, cultivated through courage, righteosness, and the accumulation of moral energy.
+- [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
+- [[mengzi-people-heart-minjian|The People's Heart / 民心]] — Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.
+- [[mengzi-righteousness-profit-debate|Mencius on Righteousness vs. Profit / 孟子论义利]] — Mencius' argument that rulers should be persuaded through benevolence and righteousness rather than profit, with profound implications for political philosophy.
+- [[mengzi-ritual-food-debate|Mencius on Ritual Propriety vs. Necessity / 孟子论礼与食]] — The debate about whether ritual propriety or practical necessities like food and marriage take precedence, illustrating Confucian value hierarchies.
+- [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
+- [[mengzi-seven-chapters-structural-analysis|Mencius Seven Chapters / 孟子七篇結構]] — Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance
+- [[mengzi-unity-through-non-killing-ding-yu-yi|Unity Through Non-Killing / 定於一]] — Mencius' doctrine that unity of the realm is achieved through rulers who do not delight in killing.
+- [[mengzi-universal-sagehood-potential|Universal Potential for Sagehood / 人皆可以为尧舜]] — Mencius' doctrine that every person possesses the innate capacity to become a sage like Yao and Shun, emphasizing moral agency and cultivation.
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
+- [[mind-as-organ-of-thought|The Mind as the Organ of Thought / 心之官則思]] — Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.
+- [[ministerial-responsibility-resignation|Official's Duty and Right to Resign / 有官守者，不得其職則去]] — The Confucian principle that officials must resign when they cannot fulfill their duties or speak their mind.
+- [[providing-people-sustenance-zhi-min-zhi-chan|Providing the People with Sustenance (制民之產) / 民に産業を制する]] — Mencius argued that benevolent government requires establishing the people's material welfare first—providing land, livestock, and education—because only those with stable livelihoods can develop constant virtue, making economic security the foundation of moral governance.
+- [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
+- [[rites-food-debate-gaozi|The Debate on Rites versus Food / 礼与食孰重]] — The philosophical debate in Mencius about whether ceremonial rites (li) should take precedence over practical necessities like food and marriage, exploring the tension between moral principles and human needs.
+- [[shared-joy-with-the-people-yu-min-xie-le|Shared Joy with the People (與民偕樂) / 民と偕に楽む]] — Mencius's principle that rulers should share enjoyment with the people, not hoard pleasures for themselves.
+- [[teaching-many-methods-mencius|Teaching Has Many Methods / 教亦多术]] — Mencius's pedagogical philosophy that不屑之教诲 (disdainful teaching) is itself a valid and effective method of moral education, representing a sophisticated understanding of educational psychology.
+- [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
+- [[tian-xia-you-da-zun-san|Three Universally Honored Things / 天下有三尊]] — Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.
+- [[unsummoned-ministers-bu-zhao-zhi-chen|Unsummoned Ministers / 不召之臣]] — A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.
+- [[wang-dao-true-king-hegemon|The Way of the True King vs. Hegemony (王道與霸道) / 王道と霸道]] — Mencius's distinction between righteous rule through virtue and coercive rule through force.
+- [[willow-cup-metaphor-gaozi|Willow-Cup Metaphor / 杞柳桮棬]] — Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
 
 ## Mental Factors
@@ -1320,6 +1680,10 @@ The article and supplementary source detail the progressive renunciation process
 - [[niyagrodha-brahma-sutra-discourse|The Discourse on Niḡrodha Brahmā / 佛說尼拘陀梵志經]] — A Mahāyāna sutra depicting the Buddha's discourse with the ascetic Niḡrodha, critiquing false ascetic practices and demonstrating the nature of true Buddhist practice.
 - [[three-evil-roots-buddhist|Three Evil Roots / 三惡本 / 三悪根本]] — The three fundamental sources of unwholesome karma: greed (贪), hatred (恚), and delusion (痴), from which all other evils arise.
 
+## Mental-Cultivation
+
+- [[mind-stillness-buddhist-meditation-stone-water|Mind Stillness Analogies in Buddhist Meditation / 持心如石與心如流水 / 仏教瞑想における心の静止の比喩]] — Two key meditation analogies—holding the mind like stone and the mind flowing like water—from the Ahang正行經 for achieving mental stability and understanding impermanence.
+
 ## Merit
 
 - [[three-dharmas-buddhist-philosophy|Three Dharmas / 三法]] — A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.
@@ -1328,13 +1692,27 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[virtue-merit-buddhist-doctrine-de-pin|Virtue Section (德品) - Buddhist Spiritual Cultivation]] — The first section of the Three Dharmas Treatise detailing the cultivation of merit, roots of goodness, and non-evil qualities.
 
+## Messianism
+
+- [[five-hundred-years-sage-king|Five Hundred Years必有王者興 / 五百年必有王者興]] — Mencius's famous prophecy that a sage king will arise every five hundred years, with one marked by the appearance of a world-ordering figure.
+
 ## Metaphysics
 
 - [[dao-the-way-taoism|Dao (The Way) / 道]] — The fundamental Taoist concept of Dao (The Way), the ultimate reality and principle underlying the universe.
 
+## Military-Strategy
+
+- [[benevolent-invincible-renzhe-wudi|The Benevolent Are Invincible / 仁者無敵]] — Mencius' doctrine that a ruler who practices benevolent government will be undefeatable due to moral authority.
+- [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
+
+## Mind-Body Distinction
+
+- [[great-body-small-body-mencius|The Great and Small Bodies in Mencius / 大体与小体]] — Mencius's distinction between the "great body" (mind/heart) and the "small body" (senses), and its implications for moral cultivation.
+
 ## Mind-Cultivation
 
 - [[da-cheng-ben-sheng-xin-di-guan-jing|大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground]] — A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.
+- [[mind-as-organ-of-thought|The Mind as the Organ of Thought / 心之官則思]] — Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.
 
 ## Mind-Practice
 
@@ -1343,6 +1721,11 @@ The article and supplementary source detail the progressive renunciation process
 ## Mindfulness
 
 - [[four-foundations-mindfulness-an-shigao-commentary|Four Foundations of Mindfulness / 四意止]] — The Four Foundations of Mindfulness (四意止) as interpreted in An Shigao's Han Dynasty commentary on the Satipatthana Sutra.
+
+## Ministerial-Advice
+
+- [[mengzi-righteousness-profit-debate|Mencius on Righteousness vs. Profit / 孟子论义利]] — Mencius' argument that rulers should be persuaded through benevolence and righteousness rather than profit, with profound implications for political philosophy.
+- [[ministerial-responsibility-resignation|Official's Duty and Right to Resign / 有官守者，不得其職則去]] — The Confucian principle that officials must resign when they cannot fulfill their duties or speak their mind.
 
 ## Model-Formats
 
@@ -1362,35 +1745,78 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Moral Cultivation
 
+- [[great-body-small-body-mencius|The Great and Small Bodies in Mencius / 大体与小体]] — Mencius's distinction between the "great body" (mind/heart) and the "small body" (senses), and its implications for moral cultivation.
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+- [[mengzi-moral-cultivation-lost-mind|Moral Cultivation and the Lost Mind in Mencius / 放心与求其放心]] — The concept of "the lost mind" (放心) and the importance of recovering it through learning, as articulated in Mencius's moral philosophy.
+
+## Moral Development
+
+- [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
 
 ## Moral Nature
 
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 
+## Moral Practice
+
+- [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
+
 ## Moral-Character
 
 - [[junzi-characteristics|Junzi Characteristics / 君子品格]] — Confucian ideal of the cultivated person who can be entrusted with governance and maintains integrity in crisis
 
+## Moral-Classification
+
+- [[four-types-people-self-other-care-buddhist|Four Types of People: Self-Care and Care for Others / 四等人自護護他]] — A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.
+
 ## Moral-Cultivation
 
+- [[adversity-birth-comfort-death|Born from Hardship, Death from Comfort / 生于忧患，死于安乐]] — Mencius's philosophical thesis that adversity and suffering are essential for moral development, while comfort and prosperity lead to moral decline and national ruin.
 - [[confucian-education-principles|Confucian Education Principles / 儒家教育原则]] — Confucius's educational philosophy emphasizing poetry, rituals, and music as foundations for character development
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
+- [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
+- [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
+- [[teaching-many-methods-mencius|Teaching Has Many Methods / 教亦多术]] — Mencius's pedagogical philosophy that不屑之教诲 (disdainful teaching) is itself a valid and effective method of moral education, representing a sophisticated understanding of educational psychology.
+
+## Moral-Cultivation-Methods
+
+- [[mengzi-universal-sagehood-potential|Universal Potential for Sagehood / 人皆可以为尧舜]] — Mencius' doctrine that every person possesses the innate capacity to become a sage like Yao and Shun, emphasizing moral agency and cultivation.
 
 ## Moral-Development
 
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
 
+## Moral-Ideal
+
+- [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
+
+## Moral-Legitimacy
+
+- [[de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu|De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助]] — The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.
+
 ## Moral-Philosophy
 
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[mind-as-organ-of-thought|The Mind as the Organ of Thought / 心之官則思]] — Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.
+
+## Moral-Principles
+
+- [[rites-food-debate-gaozi|The Debate on Rites versus Food / 礼与食孰重]] — The philosophical debate in Mencius about whether ceremonial rites (li) should take precedence over practical necessities like food and marriage, exploring the tension between moral principles and human needs.
 
 ## Moral-Psychology
 
+- [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 - [[fixed-livelihood|Fixed Livelihood / 恒产论]] — Mencius's economic theory that stable property ownership is essential for moral stability
+- [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
+- [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
+- [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
+- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
+- [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
+- [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
 
 ## Moral-Responsibility
 
@@ -1398,13 +1824,23 @@ The article and supplementary source detail the progressive renunciation process
 - [[confucian-ethics|Confucian Ethics / 儒家伦理]] — This article explores the key concepts of Confucian ethics as presented in the Analects, focusing on filial piety and social conduct.
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
+- [[mengzi-ritual-food-debate|Mencius on Ritual Propriety vs. Necessity / 孟子论礼与食]] — The debate about whether ritual propriety or practical necessities like food and marriage take precedence, illustrating Confucian value hierarchies.
 - [[ministerial-advice|Ministerial Advice / 大臣的劝谏]] — The role of ministerial advice is crucial in ensuring benevolent governance and societal harmony.
+- [[ministerial-responsibility-resignation|Official's Duty and Right to Resign / 有官守者，不得其職則去]] — The Confucian principle that officials must resign when they cannot fulfill their duties or speak their mind.
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 - [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
+
+## Moral-Spirituality
+
+- [[mengzi-haoran-qi-vast-flowing-vital-energy|Vast Flowing Qi (浩然之氣) / 浩然之氣]] — Mencius's concept of moral cultivated vital energy that fills the universe when properly nurtured through accumulated righteousness.
 
 ## Moral-Teaching
 
 - [[nine-unnatural-deaths-buddhist|Nine Unnatural/Unexplained Deaths / 九橫 / 九横]] — Nine categories of untimely deaths caused by preventable causes such as improper eating, wrong conduct, and association with evil companions.
+
+## Moral-Will
+
+- [[mengzi-indomitable-heart-budongxin|Indefatigable Heart (不動心) / 不動心]] — Mencius's concept of the steadfast moral heart, cultivated through courage, righteosness, and the accumulation of moral energy.
 
 ## Mourning Rites
 
@@ -1421,6 +1857,12 @@ The article and supplementary source detail the progressive renunciation process
 ## Music
 
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
+- [[shared-joy-with-the-people-yu-min-xie-le|Shared Joy with the People (與民偕樂) / 民と偕に楽む]] — Mencius's principle that rulers should share enjoyment with the people, not hoard pleasures for themselves.
+
+## Neo-Confucianism
+
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
 
 ## Nikaya-Literature
 
@@ -1465,6 +1907,7 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[changahan-shi-bao-jing|Chang A Han Shi Bao Jing (Long Discourses Tenfold Teachings Sutra) / 長阿含十報法經]] — An early Buddhist sutra presenting systematic teachings from one to ten, translated by An Shigao during the Eastern Han dynasty.
 - [[great-collection-dharma-gate-sutra|Great Collection Dharma Gate Sutra / 大集法門經]] — A Mahayana sutra presenting Buddhist teachings through systematic numerical enumeration from one to ten, taught by Śāriputra.
+- [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 
 ## Once-Returner
 
@@ -1486,6 +1929,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[four-castes-origin-buddhist-cosmology|Buddhist Origin of the Four Castes / 四姓起源]] — Buddhist cosmological account of how the four varnas (brahman, kshatriya, vaishya, shudra) arose from primordial beings and the Buddha's teaching on karmic equality.
 
+## Original-Mind
+
+- [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
+
 ## Parthian-Buddhism
 
 - [[an-shigao-seven-places-three-contemplations|An Shigao's Contribution: Seven Places and Three Contemplations / 安世高與七處三觀經]] — The Han dynasty translator An Shigao's systematic introduction of Buddhist meditative analysis through his translation of the Seven Places and Three Contemplations sutra.
@@ -1498,6 +1945,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Past-Life-Narrative
 
 - [[great-firm-brahman|The Great Firm Brahman / 大堅固婆羅門]] — A jātaka-like narrative about a minister named Humeng who became an arhat through renunciation and taught the Dharma, later identified as a past life of the Buddha.
+
+## Pedagogy
+
+- [[teaching-many-methods-mencius|Teaching Has Many Methods / 教亦多术]] — Mencius's pedagogical philosophy that不屑之教诲 (disdainful teaching) is itself a valid and effective method of moral education, representing a sophisticated understanding of educational psychology.
 
 ## Perhaps "Renunciation"
 
@@ -1516,6 +1967,10 @@ Let me craft a concise one-line summary:
 
 The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
 
+## Personal-Cultivation
+
+- [[four-types-people-self-other-care-buddhist|Four Types of People: Self-Care and Care for Others / 四等人自護護他]] — A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.
+
 ## Philosophy
 
 - [[analects-confucius|The Analects of Confucius / 论语]] — The Analects present the philosophical dialogues and teachings of the ancient Chinese philosopher Confucius.
@@ -1528,6 +1983,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
+- [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
 - [[junzi-cultivation|Junzi Cultivation / 君子修养]] — Confucius' teachings on the cultivation of moral character and virtuous conduct
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
@@ -1536,6 +1992,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[twelve-links-dependent-origination|Twelve Links of Dependent Origination / 十二因緣]] — The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
+- [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
 
 ## Platform-Security
 
@@ -1551,8 +2008,31 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Political-Philosophy
 
+- [[adversity-birth-comfort-death|Born from Hardship, Death from Comfort / 生于忧患，死于安乐]] — Mencius's philosophical thesis that adversity and suffering are essential for moral development, while comfort and prosperity lead to moral decline and national ruin.
+- [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
+- [[benevolent-invincible-renzhe-wudi|The Benevolent Are Invincible / 仁者無敵]] — Mencius' doctrine that a ruler who practices benevolent government will be undefeatable due to moral authority.
+- [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
+- [[human-harmony-he-ren|Human Harmony (人和) / 人和]] — A Confucian concept asserting that human unity and social harmony are more consequential than external advantages or natural circumstances.
+- [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
+- [[mengzi-people-heart-minjian|The People's Heart / 民心]] — Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.
+- [[mengzi-political-philosophy-benevolent-rule|Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想]] — Analysis of Mencius's theory of benevolent government (wangdao) as moral governance
+- [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
+- [[mengzi-unity-through-non-killing-ding-yu-yi|Unity Through Non-Killing / 定於一]] — Mencius' doctrine that unity of the realm is achieved through rulers who do not delight in killing.
 - [[political-philosophy-analects|Political Philosophy in Analects / 论语政治哲学]] — Confucian governance principles including meritocracy, moral leadership, and social stability
+- [[unsummoned-ministers-bu-zhao-zhi-chen|Unsummoned Ministers / 不召之臣]] — A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.
+
+## Political-Theory
+
+- [[de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu|De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助]] — The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.
+- [[mengzi-gift-accepting-principles|Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿]] — Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.
+- [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
+
+## Practical-Wisdom
+
+- [[rites-food-debate-gaozi|The Debate on Rites versus Food / 礼与食孰重]] — The philosophical debate in Mencius about whether ceremonial rites (li) should take precedence over practical necessities like food and marriage, exploring the tension between moral principles and human needs.
 
 ## Practice-Critique
 
@@ -1577,6 +2057,18 @@ The article and supplementary source detail the progressive renunciation process
 ## Prthag-Jana
 
 - [[great-firm-brahman-backstory|The Origin Story of the Great Firm Brāhmaṇa / 大堅固婆羅門緣起]] — A Buddhist sūtra recounting how King Linu's minister Mahākakuda meets the Buddha, attains stream-entry, renounces worldly life, and becomes an arhat, inspiring seven kings, seven thousand brāhmaṇas, and countless laypeople to follow the Dharma.
+
+## Public-Domain
+
+- [[google-books-digitization-project|Google Books Digitization Project / 谷歌图书数字化项目]] — Google's initiative to digitize public domain books and make them universally accessible
+
+## Qi
+
+- [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
+
+## Qi-Vital-Energy
+
+- [[mengzi-haoran-qi-vast-flowing-vital-energy|Vast Flowing Qi (浩然之氣) / 浩然之氣]] — Mencius's concept of moral cultivated vital energy that fills the universe when properly nurtured through accumulated righteousness.
 
 ## Qin-Dynasty
 
@@ -1631,14 +2123,30 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
 
+## Righteousness
+
+- [[internal-benevolence-external-righteousness-debate|Internal Benevolence and External Righteousness Debate / 仁內義外之辯]] — The philosophical controversy over whether benevolence originates internally and righteousness externally in human nature.
+
 ## Ritual
 
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
 - [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
 
+## Ritual Propriety
+
+- [[mengzi-ritual-food-debate|Mencius on Ritual Propriety vs. Necessity / 孟子论礼与食]] — The debate about whether ritual propriety or practical necessities like food and marriage take precedence, illustrating Confucian value hierarchies.
+
+## Ritual-Practice
+
+- [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
+
 ## Ritual-Propriety
 
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
+
+## Ruler-Minister-Relations
+
+- [[unsummoned-ministers-bu-zhao-zhi-chen|Unsummoned Ministers / 不召之臣]] — A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.
 
 ## Samadhi
 
@@ -1661,13 +2169,27 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[analects-xue-er|Learning and Its Practice / 学而时习之]] — The opening chapter of the Analects emphasizing the importance of continuous learning, review, and friendship in personal cultivation.
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
+- [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
+- [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
+- [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
+- [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
+- [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
 - [[knowing-destiny-rites-words|Knowing Destiny, Rites, and Words / 知命知礼知言]] — Confucius's three essential knowledges for becoming a true gentleman in the Analects
 - [[learning-attitude-analects|Learning Attitude in Analects / 论语学习态度]] — Confucian perspective on learning as urgent pursuit and lifelong commitment
+- [[mengzi-haoran-qi-vast-flowing-vital-energy|Vast Flowing Qi (浩然之氣) / 浩然之氣]] — Mencius's concept of moral cultivated vital energy that fills the universe when properly nurtured through accumulated righteousness.
+- [[mengzi-indomitable-heart-budongxin|Indefatigable Heart (不動心) / 不動心]] — Mencius's concept of the steadfast moral heart, cultivated through courage, righteosness, and the accumulation of moral energy.
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
+- [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
+
+## Self-Examination
+
+- [[four-contemplations-buddhist-practice-ahang|Four Contemplations / 四事 / 四つの観法]] — Buddhist contemplative practice of observing body, sensations, mind, and dharma in oneself and others, as taught in the Ahang正行經.
+- [[mengzi-moral-cultivation-lost-mind|Moral Cultivation and the Lost Mind in Mencius / 放心与求其放心]] — The concept of "the lost mind" (放心) and the importance of recovering it through learning, as articulated in Mencius's moral philosophy.
 
 ## Sense-Defilements
 
@@ -1685,9 +2207,28 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[dao-de-jing-silk-manuscript|Dao De Jing (Silk Manuscript) / 道德經帛書本 / 道德経帛書本]] — The Dao De Jing Silk Manuscript presents the earliest complete version of Laozi's text, with its distinctive chapter ordering placing virtue before the Way.
 
+## Sinology
+
+- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
+- [[mengzi-political-philosophy-benevolent-rule|Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想]] — Analysis of Mencius's theory of benevolent government (wangdao) as moral governance
+- [[mengzi-seven-chapters-structural-analysis|Mencius Seven Chapters / 孟子七篇結構]] — Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance
+
 ## Six-Perfections
 
 - [[dana-paramita-bodhisattva-giving|Dāna Pāramitā / 檀波羅蜜 / 檀波羅蜜]] — The perfection of giving in Mahayana Buddhism, exemplified by bodhisattvas who sacrifice everything for the welfare of beings.
+
+## Small Body
+
+- [[great-body-small-body-mencius|The Great and Small Bodies in Mencius / 大体与小体]] — Mencius's distinction between the "great body" (mind/heart) and the "small body" (senses), and its implications for moral cultivation.
+
+## Social-Harmony
+
+- [[human-harmony-he-ren|Human Harmony (人和) / 人和]] — A Confucian concept asserting that human unity and social harmony are more consequential than external advantages or natural circumstances.
+- [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
+
+## Social-Hierarchy
+
+- [[tian-xia-you-da-zun-san|Three Universally Honored Things / 天下有三尊]] — Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.
 
 ## Social-Order
 
@@ -1697,9 +2238,17 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[fixed-livelihood|Fixed Livelihood / 恒产论]] — Mencius's economic theory that stable property ownership is essential for moral stability
 
+## Spiritual-Cultivation
+
+- [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
+
 ## Statecraft
 
 - [[agricultural-foundation|Agricultural Foundation / 农本思想]] — Mencius's governance principle that agricultural development is fundamental to state prosperity
+
+## Strategic-Thinking
+
+- [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
 
 ## Stream-Enterer
 
@@ -1712,13 +2261,21 @@ The article and supplementary source detail the progressive renunciation process
 ## Stub
 
 - [[arhat-stages|English Title / 中文标题]] — One-line summary in English
+- [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
+- [[confucian|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system from ancient China that emphasizes moral cultivation, ritual propriety, and harmonious social relationships.
+- [[doctrine-of-the-mean-(zhongyong)|English Title / 中文标题]] — One-line summary in English
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
+- [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
 - [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
 - [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
 - [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
 - [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
 - [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
+- [[中庸|English Title / 中文标题]] — One-line summary in English
 - [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
+- [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
+- [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
+- [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
 - [[止觀|English Title / 中文标题]] — One-line summary in English
 
 ## Supernatural-Powers
@@ -1753,15 +2310,19 @@ The article and supplementary source detail the progressive renunciation process
 ## Tag1
 
 - [[arhat-stages|English Title / 中文标题]] — One-line summary in English
+- [[doctrine-of-the-mean-(zhongyong)|English Title / 中文标题]] — One-line summary in English
 - [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
 - [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
+- [[中庸|English Title / 中文标题]] — One-line summary in English
 - [[止觀|English Title / 中文标题]] — One-line summary in English
 
 ## Tag2
 
 - [[arhat-stages|English Title / 中文标题]] — One-line summary in English
+- [[doctrine-of-the-mean-(zhongyong)|English Title / 中文标题]] — One-line summary in English
 - [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
 - [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
+- [[中庸|English Title / 中文标题]] — One-line summary in English
 - [[止觀|English Title / 中文标题]] — One-line summary in English
 
 ## Tang-Dynasty-Buddhism
@@ -1796,6 +2357,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Text-Generation
 
 - [[gemma-ai-model|Gemma AI Model / Gemma AI 模型 / Gemma AIモデル]] — Google's open-source family of lightweight, state-of-the-art AI models designed for responsible AI development and efficient deployment.
+
+## Text-Structure
+
+- [[mengzi-seven-chapters-structural-analysis|Mencius Seven Chapters / 孟子七篇結構]] — Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance
 
 ## Textual-Transmission
 
@@ -1889,6 +2454,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
 
+## Trust-Metrics
+
+- [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+
 ## Trust-Systems
 
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
@@ -1900,6 +2469,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Twelve-Links
 
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
+
+## Unity
+
+- [[mengzi-unity-through-non-killing-ding-yu-yi|Unity Through Non-Killing / 定於一]] — Mencius' doctrine that unity of the realm is achieved through rulers who do not delight in killing.
 
 ## Universalism
 
@@ -1924,8 +2497,10 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Virtue
 
+- [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
+- [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
 - [[ren|Ren (Benevolence) / 仁]] — Central Confucian virtue of humaneness and perfect virtue
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
 
@@ -1937,13 +2512,27 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
+- [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
+- [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[junzi-characteristics|Junzi Characteristics / 君子品格]] — Confucian ideal of the cultivated person who can be entrusted with governance and maintains integrity in crisis
+- [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
+- [[mengzi-four-beginnings-sidu|Mencius's Four Beginnings (Sìduān) / 四端說]] — Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues
+- [[mengzi-righteousness-profit-debate|Mencius on Righteousness vs. Profit / 孟子论义利]] — Mencius' argument that rulers should be persuaded through benevolence and righteousness rather than profit, with profound implications for political philosophy.
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
+- [[tian-xia-you-da-zun-san|Three Universally Honored Things / 天下有三尊]] — Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.
+
+## Virtue-Theory
+
+- [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
+
+## Virtue-Vs-Power
+
+- [[wang-dao-true-king-hegemon|The Way of the True King vs. Hegemony (王道與霸道) / 王道と霸道]] — Mencius's distinction between righteous rule through virtue and coercive rule through force.
 
 ## Wang-Bi
 
@@ -1953,9 +2542,17 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
 
+## Warring-States
+
+- [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
+
 ## Warring-States-Period
 
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
+
+## Welfare
+
+- [[providing-people-sustenance-zhi-min-zhi-chan|Providing the People with Sustenance (制民之產) / 民に産業を制する]] — Mencius argued that benevolent government requires establishing the people's material welfare first—providing land, livestock, and education—because only those with stable livelihoods can develop constant virtue, making economic security the foundation of moral governance.
 
 ## Will
 
@@ -1984,6 +2581,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Zhongyong
 
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
+
+## Zhu-Xi
+
+- [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
 
 ## Āgama Literature
 
@@ -2015,4 +2616,4 @@ The article and supplementary source detail the progressive renunciation process
 
 
 ---
-*128 articles indexed*
+*190 articles indexed*

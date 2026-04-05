@@ -12,7 +12,7 @@ tags:
 - philosophy
 - virtue-ethics
 title: Benevolence / 仁
-updated: '2026-04-05T05:29:36.958073+00:00'
+updated: '2026-04-05T05:47:04.182772+00:00'
 ---
 
 ## English
@@ -204,3 +204,38 @@ Ren encompasses both inner moral character and outward ethical conduct, serving 
 - 信実や礼儀作法などの他の徳目と関連する
 
 仁は内面的な道徳的性格と外面的な倫理的実践の両方を包含し、儒教思想における個人修養と社会関係の指導原理として機能します。
+
+---
+
+## English
+**Benevolence** (仁, rén) is the fundamental virtue in Confucian philosophy, representing perfect goodness, humaneness, and the ideal moral character. In the Analects, Confucius describes [[benevolence]] as the highest virtue that should guide all human relationships and conduct.
+
+Key characteristics of [[benevolence]] include:
+- The ability to love others appropriately and dislike what is truly hateful
+- Providing inner stability that allows one to endure hardship and enjoy prosperity without losing moral compass
+- Being attainable through sincere effort and practice
+- Serving as the foundation for all other virtues
+
+Confucius teaches that the [[junzi]] (superior person) never abandons [[benevolence]], even for the duration of a single meal or in moments of haste and distress. This virtue is not merely theoretical but must be embodied in daily life through concrete actions and relationships.
+
+## 中文
+**仁**是儒家思想的核心概念，代表最高的道德境界和完美的人格品质。在《论语》中，孔子对[[仁]]进行了多方面的阐述：
+
+[[仁]]的主要特征包括：
+- 能够正确地爱人憎人
+- 提供内在的安定性，使人在困约与安乐中都能保持道德方向
+- 通过真诚努力可以达到
+- 作为其他一切美德的基础
+
+孔子强调[[君子]]"无终食之间违仁，造次必于是，颠沛必于是"，说明[[仁]]不是抽象理论，而是需要在日常生活中通过具体行为和人际关系来体现的实践品质。[[仁]]的实现需要与[[义]]相结合，形成完整的道德体系。
+
+## 日本語
+**仁**は儒教哲学における根本的な徳目であり、完全な善性、人間性、理想的な道徳的性格を表す。『論語』において、孔子は[[仁]]をすべての人間関係と行為を導くべき最高の徳として描いている。
+
+[[仁]]の主な特徴：
+- 適切に人を愛し、真に憎むべきものを憎む能力
+- 困難に耐え、繁栄を楽しみながらも道徳的指針を失わない内的安定性
+- 誠実な努力と実践によって達成可能であること
+- 他のすべての美徳の基礎として機能すること
+
+孔子は[[君子]]が一時の食事の間も、慌ただしい時も、困難な時も[[仁]]から離れないと教える。この徳は単なる理論ではなく、日常生活における具体的な行動と人間関係を通じて体現されなければならない。

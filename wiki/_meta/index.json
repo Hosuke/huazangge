@@ -1,5 +1,18 @@
 [
   {
+    "slug": "adversity-birth-comfort-death",
+    "title": "Born from Hardship, Death from Comfort / 生于忧患，死于安乐",
+    "summary": "Mencius's philosophical thesis that adversity and suffering are essential for moral development, while comfort and prosperity lead to moral decline and national ruin.",
+    "tags": [
+      "mengzi",
+      "moral-cultivation",
+      "adversity",
+      "political-philosophy",
+      "confucian-ethics"
+    ],
+    "sources": []
+  },
+  {
     "slug": "agricultural-foundation",
     "title": "Agricultural Foundation / 农本思想",
     "summary": "Mencius's governance principle that agricultural development is fundamental to state prosperity",
@@ -209,6 +222,22 @@
     "sources": []
   },
   {
+    "slug": "benevolent-government-ren-zheng",
+    "title": "Benevolent Government / 仁政 / 仁政",
+    "summary": "Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.",
+    "tags": [
+      "benevolent-government",
+      "chinese-philosophy",
+      "confucian-political-philosophy",
+      "confucianism",
+      "governance",
+      "mengzi",
+      "political-philosophy",
+      "virtue-ethics"
+    ],
+    "sources": []
+  },
+  {
     "slug": "benevolent-government",
     "title": "Benevolent Government / 仁政",
     "summary": "Benevolent government is characterized by a ruler's compassion and morality, leading to harmony in society.",
@@ -219,6 +248,19 @@
       "mencius",
       "moral-responsibility",
       "philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "benevolent-invincible-renzhe-wudi",
+    "title": "The Benevolent Are Invincible / 仁者無敵",
+    "summary": "Mencius' doctrine that a ruler who practices benevolent government will be undefeatable due to moral authority.",
+    "tags": [
+      "mengzi",
+      "benevolent-government",
+      "political-philosophy",
+      "confucian-ethics",
+      "military-strategy"
     ],
     "sources": []
   },
@@ -365,6 +407,20 @@
     "sources": []
   },
   {
+    "slug": "confucian-self-cultivation",
+    "title": "Confucian Self-Cultivation / 儒家自我修养",
+    "summary": "The systematic practice of moral and spiritual development based on Confucian teachings.",
+    "tags": [
+      "confucianism",
+      "self-cultivation",
+      "ethics",
+      "chinese philosophy",
+      "moral development",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "confucian-self-examination",
     "title": "Self-Examination in Confucianism / 三省吾身",
     "summary": "The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.",
@@ -406,14 +462,29 @@
       "authentication",
       "confucian-studies",
       "confucianism",
+      "ctext",
+      "digital-ethics",
       "digital-humanities",
       "ethics",
       "philosophy",
       "platform-security",
       "trust",
+      "trust-metrics",
       "trust-systems",
       "verification",
       "verification-systems"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "confucian",
+    "title": "Confucianism / 儒家",
+    "summary": "Confucianism is an ethical and philosophical system from ancient China that emphasizes moral cultivation, ritual propriety, and harmonious social relationships.",
+    "tags": [
+      "confucianism",
+      "chinese philosophy",
+      "ethics",
+      "stub"
     ],
     "sources": []
   },
@@ -513,6 +584,19 @@
     "sources": []
   },
   {
+    "slug": "de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu",
+    "title": "De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助",
+    "summary": "The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.",
+    "tags": [
+      "confucian-political-philosophy",
+      "mengzi",
+      "moral-legitimacy",
+      "governance",
+      "political-theory"
+    ],
+    "sources": []
+  },
+  {
     "slug": "deben-cai-mo",
     "title": "Virtue as Root, Wealth as Branch / 德本財末",
     "summary": "A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.",
@@ -534,6 +618,17 @@
       "ascetic-practice",
       "mental-afflictions",
       "buddhist-psychology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "doctrine-of-the-mean-(zhongyong)",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
+      "stub"
     ],
     "sources": []
   },
@@ -565,6 +660,19 @@
     "sources": []
   },
   {
+    "slug": "extending-kindness-pushing-grace-tui-en",
+    "title": "Extending Kindness (推恩) / 推恩",
+    "summary": "Mencius's doctrine that one should extend one's natural care from self and family to all people.",
+    "tags": [
+      "mengzi",
+      "confucian-ethics",
+      "virtue",
+      "moral-psychology",
+      "self-cultivation"
+    ],
+    "sources": []
+  },
+  {
     "slug": "fenbie-gongde-lun",
     "title": "分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)",
     "summary": "A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.",
@@ -587,6 +695,46 @@
       "contemplation-practice",
       "five-aggregates",
       "non-self"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-aggregates-seven-aspects-an-shigao",
+    "title": "Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法",
+    "summary": "An Shigao's systematic method of analyzing each of the five aggregates (form, feeling, perception, formations, consciousness) through seven contemplative aspects.",
+    "tags": [
+      "buddhist-meditation",
+      "an-shigao",
+      "five-aggregates",
+      "contemplation-methods",
+      "early-buddhism",
+      "han-dynasty-translation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-hundred-years-sage-king-cycles",
+    "title": "Five Hundred Years Theory of Sage Kings / 五百年必有王者興",
+    "summary": "Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.",
+    "tags": [
+      "confucianism",
+      "political-philosophy",
+      "mengzi",
+      "historical-theory",
+      "eschatology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-hundred-years-sage-king",
+    "title": "Five Hundred Years必有王者興 / 五百年必有王者興",
+    "summary": "Mencius's famous prophecy that a sage king will arise every five hundred years, with one marked by the appearance of a world-ordering figure.",
+    "tags": [
+      "confucian-political-philosophy",
+      "messianism",
+      "mengzi",
+      "historical-providence",
+      "eschatology"
     ],
     "sources": []
   },
@@ -680,6 +828,47 @@
     "sources": []
   },
   {
+    "slug": "four-beginnings-mencius-doctrine",
+    "title": "Four Beginnings (四端說) / 四端說",
+    "summary": "Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.",
+    "tags": [
+      "classical-confucianism",
+      "confucian-ethics",
+      "four-beginnings",
+      "human-nature",
+      "mengzi",
+      "moral-psychology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-beginnings-mencius",
+    "title": "Four Beginnings / 四端說 / 四端說",
+    "summary": "Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.",
+    "tags": [
+      "confucian-philosophy",
+      "ethics",
+      "moral-psychology",
+      "mengzi",
+      "human-nature"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-beginnings-si-duan",
+    "title": "Four Beginnings / 四端 / 四端説",
+    "summary": "Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.",
+    "tags": [
+      "chinese-philosophy",
+      "confucianism",
+      "ethics",
+      "human-nature",
+      "mengzi",
+      "virtue-ethics"
+    ],
+    "sources": []
+  },
+  {
     "slug": "four-castes-origin-buddhist-cosmology",
     "title": "Buddhist Origin of the Four Castes / 四姓起源",
     "summary": "Buddhist cosmological account of how the four varnas (brahman, kshatriya, vaishya, shudra) arose from primordial beings and the Buddha's teaching on karmic equality.",
@@ -689,6 +878,19 @@
       "cosmology",
       "brahmins",
       "origin-of-society"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-contemplations-buddhist-practice-ahang",
+    "title": "Four Contemplations / 四事 / 四つの観法",
+    "summary": "Buddhist contemplative practice of observing body, sensations, mind, and dharma in oneself and others, as taught in the Ahang正行經.",
+    "tags": [
+      "buddhist-meditation",
+      "contemplative-practice",
+      "self-examination",
+      "an-shigao",
+      "agama-buddhism"
     ],
     "sources": []
   },
@@ -728,6 +930,20 @@
       "han-dynasty-buddhism",
       "thirty-seven-factors",
       "enlightenment"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-types-people-self-other-care-buddhist",
+    "title": "Four Types of People: Self-Care and Care for Others / 四等人自護護他",
+    "summary": "A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.",
+    "tags": [
+      "buddhist-ethics",
+      "moral-classification",
+      "an-shigao",
+      "early-buddhism",
+      "han-dynasty-translation",
+      "personal-cultivation"
     ],
     "sources": []
   },
@@ -773,6 +989,18 @@
     "sources": []
   },
   {
+    "slug": "google-books-digitization-project",
+    "title": "Google Books Digitization Project / 谷歌图书数字化项目",
+    "summary": "Google's initiative to digitize public domain books and make them universally accessible",
+    "tags": [
+      "digitization",
+      "public-domain",
+      "libraries",
+      "copyright"
+    ],
+    "sources": []
+  },
+  {
     "slug": "governance-leadership",
     "title": "Governance and Leadership / 治理与领导",
     "summary": "Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.",
@@ -793,6 +1021,20 @@
       "political-philosophy",
       "virtue",
       "analects"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "great-body-small-body-mencius",
+    "title": "The Great and Small Bodies in Mencius / 大体与小体",
+    "summary": "Mencius's distinction between the \"great body\" (mind/heart) and the \"small body\" (senses), and its implications for moral cultivation.",
+    "tags": [
+      "Mencius",
+      "moral cultivation",
+      "mind-body distinction",
+      "Confucian philosophy",
+      "great body",
+      "small body"
     ],
     "sources": []
   },
@@ -869,6 +1111,52 @@
     "sources": []
   },
   {
+    "slug": "great-learning-da-xue",
+    "title": "The Great Learning (Da Xue) / 大學",
+    "summary": "A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.",
+    "tags": [
+      "chinese-classics",
+      "chinese-philosophy",
+      "confucian-classics",
+      "confucianism",
+      "four-books",
+      "governance",
+      "moral-philosophy",
+      "neo-confucianism",
+      "political-philosophy",
+      "self-cultivation",
+      "zhu-xi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "great-learning-daxue",
+    "title": "The Great Learning / 大學",
+    "summary": "A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.",
+    "tags": [
+      "confucianism",
+      "classical-chinese-philosophy",
+      "four-books",
+      "self-cultivation",
+      "political-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "great-qi-haoran-zhi-qi",
+    "title": "Great Qi / 浩然之氣 / 浩然之気",
+    "summary": "Mencius's concept of \"great qi\" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.",
+    "tags": [
+      "chinese-philosophy",
+      "confucianism",
+      "mengzi",
+      "moral-cultivation",
+      "qi",
+      "spiritual-cultivation"
+    ],
+    "sources": []
+  },
+  {
     "slug": "han-dynasty-mencius-reception",
     "title": "Han Dynasty Reception of Mencius / 汉代孟子接受史",
     "summary": "Historical process of Mencius's recognition and preservation during the Han dynasty",
@@ -894,6 +1182,19 @@
     "sources": []
   },
   {
+    "slug": "heart-mind-moral-cultivation-mengzi",
+    "title": "Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養",
+    "summary": "Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense",
+    "tags": [
+      "confucianism",
+      "moral-psychology",
+      "self-cultivation",
+      "mengzi",
+      "heart-mind"
+    ],
+    "sources": []
+  },
+  {
     "slug": "human-desire-to-be-born-sutra",
     "title": "Sutra on Human Desire to Be Born / 人本欲生經",
     "summary": "A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.",
@@ -903,6 +1204,19 @@
       "an-shigao",
       "han-dynasty-translation",
       "dependent-origination"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "human-harmony-he-ren",
+    "title": "Human Harmony (人和) / 人和",
+    "summary": "A Confucian concept asserting that human unity and social harmony are more consequential than external advantages or natural circumstances.",
+    "tags": [
+      "confucianism",
+      "political-philosophy",
+      "mengzi",
+      "governance",
+      "social-harmony"
     ],
     "sources": []
   },
@@ -952,6 +1266,18 @@
     "sources": []
   },
   {
+    "slug": "human-nature-in-confucianism",
+    "title": "Human Nature in Confucianism / 儒家人性论",
+    "summary": "An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.",
+    "tags": [
+      "confucianism",
+      "philosophy",
+      "human nature",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "human-nature-is-good",
     "title": "human-nature-is-good",
     "summary": "Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.",
@@ -975,6 +1301,19 @@
     "sources": []
   },
   {
+    "slug": "human-nature-mencius-debate",
+    "title": "The Mencian Debate on Human Nature / 孟子人性论辩",
+    "summary": "A philosophical examination of the debate between Mencius and Gaozi regarding the nature of human beings, including key analogies and arguments.",
+    "tags": [
+      "human nature",
+      "Mencius",
+      "Gaozi",
+      "Confucian philosophy",
+      "classical Chinese thought"
+    ],
+    "sources": []
+  },
+  {
     "slug": "human-nature",
     "title": "Human Nature / 人性",
     "summary": "Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.",
@@ -985,6 +1324,33 @@
       "human-nature",
       "mencius",
       "philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "internal-benevolence-external-righteousness-debate",
+    "title": "Internal Benevolence and External Righteousness Debate / 仁內義外之辯",
+    "summary": "The philosophical controversy over whether benevolence originates internally and righteousness externally in human nature.",
+    "tags": [
+      "mengzi",
+      "gaozi",
+      "benevolence",
+      "righteousness",
+      "confucian-ethics",
+      "classical-chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "investigating-things-extending-knowledge-gewu-zhizhi",
+    "title": "Investigating Things and Extending Knowledge / 格物致知",
+    "summary": "The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.",
+    "tags": [
+      "confucian-methodology",
+      "neo-confucianism",
+      "self-cultivation",
+      "epistemology",
+      "chinese-philosophy"
     ],
     "sources": []
   },
@@ -1040,7 +1406,8 @@
       "moral-cultivation",
       "moral-responsibility",
       "philosophy",
-      "virtue"
+      "virtue",
+      "virtue-ethics"
     ],
     "sources": []
   },
@@ -1182,6 +1549,232 @@
     "sources": []
   },
   {
+    "slug": "mengzi-four-beginnings-sidu",
+    "title": "Mencius's Four Beginnings (Sìduān) / 四端說",
+    "summary": "Mencius's doctrine of the Four Beginnings as innate moral foundations developing into cardinal virtues",
+    "tags": [
+      "confucianism",
+      "moral-psychology",
+      "human-nature",
+      "virtue-ethics",
+      "sinology",
+      "classical-chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-four-beginnings-siduan",
+    "title": "Four Beginnings (四端) / 四端說",
+    "summary": "Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.",
+    "tags": [
+      "classical-chinese-philosophy",
+      "confucian-ethics",
+      "confucian-philosophy",
+      "four-beginnings",
+      "human-nature",
+      "human-nature-is-good",
+      "mengzi",
+      "moral-psychology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-gaozi-debate",
+    "title": "The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論",
+    "summary": "A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.",
+    "tags": [
+      "mengzi",
+      "confucian-philosophy",
+      "human-nature",
+      "classical-chinese-philosophy",
+      "ethics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-gift-accepting-principles",
+    "title": "Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿",
+    "summary": "Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.",
+    "tags": [
+      "mengzi",
+      "confucian-ethics",
+      "integrity",
+      "political-theory",
+      "gift-giving"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-haoran-qi-vast-flowing-vital-energy",
+    "title": "Vast Flowing Qi (浩然之氣) / 浩然之氣",
+    "summary": "Mencius's concept of moral cultivated vital energy that fills the universe when properly nurtured through accumulated righteousness.",
+    "tags": [
+      "mengzi",
+      "qi-vital-energy",
+      "confucian-cultivation",
+      "moral-spirituality",
+      "self-cultivation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-hegemon-true-king-ba-wang-distinction",
+    "title": "Hegemon versus True King (霸道與王道) / 霸道與王道",
+    "summary": "Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).",
+    "tags": [
+      "mengzi",
+      "political-philosophy",
+      "confucian-political-philosophy",
+      "governance",
+      "virtue"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-indomitable-heart-budongxin",
+    "title": "Indefatigable Heart (不動心) / 不動心",
+    "summary": "Mencius's concept of the steadfast moral heart, cultivated through courage, righteosness, and the accumulation of moral energy.",
+    "tags": [
+      "mengzi",
+      "self-cultivation",
+      "courage",
+      "moral-will",
+      "confucian-spirituality"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-losing-original-heart",
+    "title": "Losing and Seeking the Original Heart / 放心",
+    "summary": "Mencius's concept of \"fang xin\" - the loss of one's innate moral consciousness and the imperative to recover it through learning.",
+    "tags": [
+      "mengzi",
+      "original-mind",
+      "moral-cultivation",
+      "confucian-philosophy",
+      "classical-chinese-philosophy",
+      "heart-mind"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-moral-cultivation-lost-mind",
+    "title": "Moral Cultivation and the Lost Mind in Mencius / 放心与求其放心",
+    "summary": "The concept of \"the lost mind\" (放心) and the importance of recovering it through learning, as articulated in Mencius's moral philosophy.",
+    "tags": [
+      "Mencius",
+      "moral cultivation",
+      "lost mind",
+      "Confucian learning",
+      "self-examination"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-people-heart-minjian",
+    "title": "The People's Heart / 民心",
+    "summary": "Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.",
+    "tags": [
+      "mengzi",
+      "political-philosophy",
+      "governance",
+      "confucian-ethics",
+      "benevolent-government"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-political-philosophy-benevolent-rule",
+    "title": "Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想",
+    "summary": "Analysis of Mencius's theory of benevolent government (wangdao) as moral governance",
+    "tags": [
+      "confucianism",
+      "political-philosophy",
+      "benevolent-government",
+      "governance-virtue-de",
+      "sinology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-righteousness-profit-debate",
+    "title": "Mencius on Righteousness vs. Profit / 孟子论义利",
+    "summary": "Mencius' argument that rulers should be persuaded through benevolence and righteousness rather than profit, with profound implications for political philosophy.",
+    "tags": [
+      "confucian-political-philosophy",
+      "governance-leadership",
+      "mengzi",
+      "ministerial-advice",
+      "virtue-ethics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-ritual-food-debate",
+    "title": "Mencius on Ritual Propriety vs. Necessity / 孟子论礼与食",
+    "summary": "The debate about whether ritual propriety or practical necessities like food and marriage take precedence, illustrating Confucian value hierarchies.",
+    "tags": [
+      "confucian-ethics",
+      "mengzi",
+      "ritual propriety",
+      "confucian-political-philosophy",
+      "moral-responsibility"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-seven-chapters-gongsun-chou-part-two",
+    "title": "Mencius: Gongsun Chou Part Two / 孟子·公孫丑下",
+    "summary": "A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.",
+    "tags": [
+      "mengzi",
+      "confucianism",
+      "chinese-philosophy",
+      "political-philosophy",
+      "warring-states"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-seven-chapters-structural-analysis",
+    "title": "Mencius Seven Chapters / 孟子七篇結構",
+    "summary": "Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance",
+    "tags": [
+      "confucianism",
+      "classical-chinese-philosophy",
+      "mengzi",
+      "text-structure",
+      "sinology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-unity-through-non-killing-ding-yu-yi",
+    "title": "Unity Through Non-Killing / 定於一",
+    "summary": "Mencius' doctrine that unity of the realm is achieved through rulers who do not delight in killing.",
+    "tags": [
+      "mengzi",
+      "political-philosophy",
+      "confucian-ethics",
+      "governance",
+      "unity"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mengzi-universal-sagehood-potential",
+    "title": "Universal Potential for Sagehood / 人皆可以为尧舜",
+    "summary": "Mencius' doctrine that every person possesses the innate capacity to become a sage like Yao and Shun, emphasizing moral agency and cultivation.",
+    "tags": [
+      "mengzi",
+      "human-nature",
+      "four-beginnings-mencius",
+      "human-nature-is-good",
+      "moral-cultivation-methods"
+    ],
+    "sources": []
+  },
+  {
     "slug": "mengzi",
     "title": "Mencius / 孟子",
     "summary": "Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.",
@@ -1195,12 +1788,51 @@
     "sources": []
   },
   {
+    "slug": "mind-as-organ-of-thought",
+    "title": "The Mind as the Organ of Thought / 心之官則思",
+    "summary": "Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.",
+    "tags": [
+      "mengzi",
+      "confucian-philosophy",
+      "mind-cultivation",
+      "moral-philosophy",
+      "confucian-self-examination"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mind-stillness-buddhist-meditation-stone-water",
+    "title": "Mind Stillness Analogies in Buddhist Meditation / 持心如石與心如流水 / 仏教瞑想における心の静止の比喩",
+    "summary": "Two key meditation analogies—holding the mind like stone and the mind flowing like water—from the Ahang正行經 for achieving mental stability and understanding impermanence.",
+    "tags": [
+      "buddhist-meditation",
+      "meditation-analogies",
+      "mental-cultivation",
+      "an-shigao",
+      "agama-buddhism"
+    ],
+    "sources": []
+  },
+  {
     "slug": "ministerial-advice",
     "title": "Ministerial Advice / 大臣的劝谏",
     "summary": "The role of ministerial advice is crucial in ensuring benevolent governance and societal harmony.",
     "tags": [
       "mencius",
       "benevolent-government",
+      "moral-responsibility"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "ministerial-responsibility-resignation",
+    "title": "Official's Duty and Right to Resign / 有官守者，不得其職則去",
+    "summary": "The Confucian principle that officials must resign when they cannot fulfill their duties or speak their mind.",
+    "tags": [
+      "confucian-political-philosophy",
+      "governance-leadership",
+      "ministerial-advice",
+      "mengzi",
       "moral-responsibility"
     ],
     "sources": []
@@ -1338,6 +1970,19 @@
     "sources": []
   },
   {
+    "slug": "providing-people-sustenance-zhi-min-zhi-chan",
+    "title": "Providing the People with Sustenance (制民之產) / 民に産業を制する",
+    "summary": "Mencius argued that benevolent government requires establishing the people's material welfare first—providing land, livestock, and education—because only those with stable livelihoods can develop constant virtue, making economic security the foundation of moral governance.",
+    "tags": [
+      "mengzi",
+      "confucian-political-philosophy",
+      "economic-ethics",
+      "governance",
+      "welfare"
+    ],
+    "sources": []
+  },
+  {
     "slug": "qin-dynasty",
     "title": "English Title / 中文标题",
     "summary": "One-line summary in English",
@@ -1356,6 +2001,32 @@
       "ethics",
       "confucianism",
       "virtue"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "righteousness-internal-versus-external",
+    "title": "Internal and External Righteousness / 仁內義外 / 仁内義外",
+    "summary": "The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "mengzi",
+      "virtue-theory",
+      "moral-psychology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "rites-food-debate-gaozi",
+    "title": "The Debate on Rites versus Food / 礼与食孰重",
+    "summary": "The philosophical debate in Mencius about whether ceremonial rites (li) should take precedence over practical necessities like food and marriage, exploring the tension between moral principles and human needs.",
+    "tags": [
+      "mengzi",
+      "confucian-ethics",
+      "li-rites",
+      "practical-wisdom",
+      "moral-principles"
     ],
     "sources": []
   },
@@ -1424,6 +2095,19 @@
     "sources": []
   },
   {
+    "slug": "shared-joy-with-the-people-yu-min-xie-le",
+    "title": "Shared Joy with the People (與民偕樂) / 民と偕に楽む",
+    "summary": "Mencius's principle that rulers should share enjoyment with the people, not hoard pleasures for themselves.",
+    "tags": [
+      "mengzi",
+      "confucian-political-philosophy",
+      "governance",
+      "music",
+      "king-wen"
+    ],
+    "sources": []
+  },
+  {
     "slug": "shi-men-tong-pan",
     "title": "十門通判 / Ten-Fold Framework for Sutra Exposition",
     "summary": "A systematic ten-category methodology for analyzing and expounding Buddhist sutras, originating with Xianshou Fazang and elaborated by later masters.",
@@ -1477,6 +2161,19 @@
     "sources": []
   },
   {
+    "slug": "teaching-many-methods-mencius",
+    "title": "Teaching Has Many Methods / 教亦多术",
+    "summary": "Mencius's pedagogical philosophy that不屑之教诲 (disdainful teaching) is itself a valid and effective method of moral education, representing a sophisticated understanding of educational psychology.",
+    "tags": [
+      "mengzi",
+      "confucian-education",
+      "pedagogy",
+      "moral-cultivation",
+      "educational-psychology"
+    ],
+    "sources": []
+  },
+  {
     "slug": "the-works-of-mencius",
     "title": "English Title / 中文标题",
     "summary": "One-line summary in English",
@@ -1484,6 +2181,22 @@
       "tag1",
       "tag2",
       "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "thirty-seven-bodhiparamitas-an-shigao",
+    "title": "Thirty-Seven Factors of Enlightenment / 三十七道品",
+    "summary": "A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.",
+    "tags": [
+      "buddhist-practice",
+      "an-shigao",
+      "agama",
+      "meditation",
+      "enlightenment",
+      "chinese-buddhism",
+      "han-dynasty",
+      "numerical-teachings"
     ],
     "sources": []
   },
@@ -1564,8 +2277,38 @@
       "moral-responsibility",
       "mourning-practices",
       "ritual",
+      "ritual-practice",
       "three-years-mourning",
       "xiao"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "tian-shi-di-li-ren-he",
+    "title": "Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和",
+    "summary": "The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.",
+    "tags": [
+      "confucian-political-philosophy",
+      "governance",
+      "governance-leadership",
+      "mengzi",
+      "military-strategy",
+      "political-theory",
+      "social-harmony",
+      "strategic-thinking"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "tian-xia-you-da-zun-san",
+    "title": "Three Universally Honored Things / 天下有三尊",
+    "summary": "Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.",
+    "tags": [
+      "confucian-political-philosophy",
+      "mengzi",
+      "social-hierarchy",
+      "virtue-ethics",
+      "governance"
     ],
     "sources": []
   },
@@ -1596,6 +2339,19 @@
     "sources": []
   },
   {
+    "slug": "unsummoned-ministers-bu-zhao-zhi-chen",
+    "title": "Unsummoned Ministers / 不召之臣",
+    "summary": "A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.",
+    "tags": [
+      "confucianism",
+      "political-philosophy",
+      "mengzi",
+      "governance",
+      "ruler-minister-relations"
+    ],
+    "sources": []
+  },
+  {
     "slug": "virtue-ethics",
     "title": "Virtue and Ethics / 德与伦理",
     "summary": "Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.",
@@ -1622,6 +2378,18 @@
     "sources": []
   },
   {
+    "slug": "wang-dao-true-king-hegemon",
+    "title": "The Way of the True King vs. Hegemony (王道與霸道) / 王道と霸道",
+    "summary": "Mencius's distinction between righteous rule through virtue and coercive rule through force.",
+    "tags": [
+      "confucian-political-philosophy",
+      "mengzi",
+      "governance",
+      "virtue-vs-power"
+    ],
+    "sources": []
+  },
+  {
     "slug": "white-cloth-golden-banner-two-brahmins-origin-sutra",
     "title": "White Cloth and Golden Banner Two Brahmins Origin Sutra / 白衣金幢二婆羅門緣起經",
     "summary": "A Buddhist sutra recounting the renunciation of two Brahmins and presenting a Buddhist cosmology of human social origins.",
@@ -1631,6 +2399,19 @@
       "brahmins",
       "four-castes",
       "renunciation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "willow-cup-metaphor-gaozi",
+    "title": "Willow-Cup Metaphor / 杞柳桮棬",
+    "summary": "Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.",
+    "tags": [
+      "mengzi",
+      "gaozi",
+      "human-nature",
+      "confucian-philosophy",
+      "classical-chinese-philosophy"
     ],
     "sources": []
   },
@@ -1686,6 +2467,17 @@
     "sources": []
   },
   {
+    "slug": "中庸",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "仁政",
     "title": "Benevolent Governance / 仁政",
     "summary": "The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.",
@@ -1694,6 +2486,47 @@
       "political philosophy",
       "mencius",
       "chinese thought",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "修身",
+    "title": "Self-Cultivation / 修身",
+    "summary": "The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.",
+    "tags": [
+      "confucianism",
+      "self-cultivation",
+      "moral practice",
+      "chinese philosophy",
+      "four books",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "儒家",
+    "title": "Confucianism / 儒家",
+    "summary": "Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.",
+    "tags": [
+      "confucianism",
+      "philosophy",
+      "chinese-thought",
+      "ethics",
+      "classical-chinese",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "君子",
+    "title": "Junzi (君子) / 君子",
+    "summary": "The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.",
+    "tags": [
+      "confucianism",
+      "moral-ideal",
+      "chinese-philosophy",
+      "junzi",
       "stub"
     ],
     "sources": []

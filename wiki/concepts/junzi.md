@@ -12,8 +12,9 @@ tags:
 - moral-responsibility
 - philosophy
 - virtue
+- virtue-ethics
 title: The Role of the Junzi / 君子的角色
-updated: '2026-04-05T05:29:36.955711+00:00'
+updated: '2026-04-05T05:47:04.183723+00:00'
 ---
 
 ## English
@@ -315,3 +316,41 @@ The junzi serves as a moral exemplar who cultivates inner virtue while maintaini
 - 自分が知られないことを憂えず、他者を知らないことを憂える
 
 君子は道徳的模範として、内面的な徳性の修養と適切な社会的関係の維持を通じて、社会調和に貢献します。
+
+---
+
+## English
+The **junzi** (君子) or "superior person" is the Confucian ideal of the morally cultivated individual who embodies [[benevolence]], righteousness, and wisdom. In contrast to the petty person who is motivated by profit, the [[junzi]] is guided by moral principles.
+
+Characteristics of the [[junzi]] include:
+- Constant adherence to [[benevolence]] in all circumstances
+- Understanding and pursuing righteousness rather than profit
+- Being concerned with virtue rather than material possessions
+- Maintaining moral integrity through self-cultivation
+- Serving as a moral exemplar for society
+
+In the "Liren" chapter, Confucius emphasizes that the [[junzi]] never abandons [[benevolence]], even momentarily. The [[junzi]]'s commitment to virtue is unwavering, whether in times of ease or difficulty, demonstrating the integration of moral principles into every aspect of life.
+
+## 中文
+**君子**是儒家思想中道德修养完善的人格典范，与追求利益的小人形成鲜明对比。[[君子]]以[[仁]]和[[义]]为行为准则，体现了儒家的道德理想。
+
+[[君子]]的主要特征：
+- 在任何情况下都不违背[[仁]]道
+- 理解并追求义而非利
+- 关注德行而非物质利益
+- 通过自我修养保持道德完整性
+- 作为社会的道德典范
+
+在《里仁》篇中，孔子强调[[君子]]"无终食之间违仁"，说明其对美德的执着追求。[[君子]]怀德怀刑，而小人怀土怀惠，这种区分体现了儒家对道德人格的高度重视。
+
+## 日本語
+**君子**は儒教における道徳的に修養された個人の理想像であり、[[仁]]、義、知を体現する。利益に動かされる小人とは対照的に、[[君子]]は道徳的原則によって導かれる。
+
+[[君子]]の特徴：
+- あらゆる状況で常に[[仁]]を守ること
+- 利益ではなく義を理解し追求すること
+- 物質的財産ではなく徳行に関心を持つこと
+- 自己修養を通じて道徳的完全性を維持すること
+- 社会の道徳的手本として機能すること
+
+『里仁』篇において、孔子は[[君子]]が一時も[[仁]]を離れないと強調する。[[君子]]の徳への献身は、安楽な時も困難な時も揺るぎなく、道徳的原則が生活のあらゆる側面に統合されていることを示している。
