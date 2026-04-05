@@ -1,5 +1,3 @@
-# 华藏阁 — Stable deployment (no auto-learn on startup)
-
 branding:
   name: "華藏閣"
   name_short: "華"
@@ -29,12 +27,14 @@ lint:
 
 worker:
   enabled: true
-  learn_source: none
-  learn_interval_hours: 999
-  learn_batch_size: 0
+  learn_source: both
+  learn_interval_hours: 6
+  learn_batch_size: 10
   compile_interval_hours: 1
   taxonomy_interval_hours: 12
   health_check_interval_hours: 24
+  # Don't learn on first startup — wait for the interval
+  skip_initial_learn: true
 
 health:
   auto_fix_broken_links: true
