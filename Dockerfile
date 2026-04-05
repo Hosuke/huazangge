@@ -8,14 +8,21 @@ RUN npm ci && npx vite build
 
 FROM python:3.12-slim
 WORKDIR /app
+
 RUN apt-get update && apt-get install -y --no-install-recommends git && rm -rf /var/lib/apt/lists/*
 RUN pip install --no-cache-dir git+https://github.com/Hosuke/llmbase.git gunicorn
+
 COPY --from=frontend /build/llmbase/static/dist ./static/dist
 COPY config.yaml wsgi.py ./
 COPY tools/ ./tools/
-COPY wiki/ ./wiki/
-RUN mkdir -p raw wiki/outputs
+
+# Seed data: copied to /app/seed, then moved to volume on first boot
+COPY wiki/ ./seed/wiki/
+
+# Entrypoint that initializes volume data if empty
+COPY entrypoint.sh ./
+RUN chmod +x entrypoint.sh
 
 ENV PORT=5555
 EXPOSE ${PORT}
-CMD gunicorn --bind 0.0.0.0:${PORT} --workers 1 --threads 4 --timeout 300 wsgi:app
+ENTRYPOINT ["./entrypoint.sh"]
