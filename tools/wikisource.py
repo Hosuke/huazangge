@@ -172,13 +172,31 @@ def _sb_headers():
 
 
 def _load_ingested() -> set[str]:
-    """Load ingested wikisource works from Supabase."""
-    if not SUPABASE_URL:
-        return set()
-    url = f"{SUPABASE_URL}/rest/v1/{SUPABASE_TABLE}?source=eq.wikisource&select=work_id"
-    resp = requests.get(url, headers=_sb_headers(), timeout=15)
-    resp.raise_for_status()
-    return {r["work_id"] for r in resp.json()}
+    """Load ingested wikisource works from Supabase, with local fallback."""
+    # Try Supabase first
+    if SUPABASE_URL:
+        try:
+            url = f"{SUPABASE_URL}/rest/v1/{SUPABASE_TABLE}?source=eq.wikisource&select=work_id"
+            resp = requests.get(url, headers=_sb_headers(), timeout=15)
+            resp.raise_for_status()
+            return {r["work_id"] for r in resp.json()}
+        except Exception:
+            pass  # Fall through to local check
+
+    # Fallback: scan raw directory for wikisource-* folders
+    raw_dir = Path.cwd() / "raw"
+    if raw_dir.exists():
+        ingested = set()
+        for d in raw_dir.iterdir():
+            if d.name.startswith("wikisource-") and d.is_dir():
+                idx = d / "index.md"
+                if idx.exists():
+                    post = frontmatter.load(str(idx))
+                    work = post.metadata.get("work", "")
+                    if work:
+                        ingested.add(work)
+        return ingested
+    return set()
 
 
 def _save_progress_item(work_id: str, title: str = ""):

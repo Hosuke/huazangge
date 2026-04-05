@@ -66,14 +66,28 @@ def _sb_headers():
 
 
 def load_progress(base_dir: Path = None) -> dict:
-    """Load ingestion progress from Supabase."""
-    if not SUPABASE_URL:
-        return {"ingested_works": [], "total_ingested": 0, "last_run": None}
-    url = f"{SUPABASE_URL}/rest/v1/{SUPABASE_TABLE}?source=eq.cbeta&select=work_id"
-    resp = requests.get(url, headers=_sb_headers(), timeout=15)
-    resp.raise_for_status()
-    rows = resp.json()
-    works = [r["work_id"] for r in rows]
+    """Load ingestion progress from Supabase, with local fallback."""
+    # Try Supabase first
+    if SUPABASE_URL:
+        try:
+            url = f"{SUPABASE_URL}/rest/v1/{SUPABASE_TABLE}?source=eq.cbeta&select=work_id"
+            resp = requests.get(url, headers=_sb_headers(), timeout=15)
+            resp.raise_for_status()
+            rows = resp.json()
+            works = [r["work_id"] for r in rows]
+            return {"ingested_works": works, "total_ingested": len(works)}
+        except Exception:
+            pass  # Fall through to local
+
+    # Fallback: scan raw directory for cbeta-* folders
+    base = Path(base_dir) if base_dir else Path.cwd()
+    raw_dir = base / "raw"
+    works = []
+    if raw_dir.exists():
+        for d in raw_dir.iterdir():
+            if d.name.startswith("cbeta-") and d.is_dir():
+                work_id = d.name.replace("cbeta-", "").upper()
+                works.append(work_id)
     return {"ingested_works": works, "total_ingested": len(works)}
 
 
