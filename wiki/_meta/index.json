@@ -143,6 +143,21 @@
     "sources": []
   },
   {
+    "slug": "arhat-stages",
+    "title": "Arhat Stages / 阿羅漢果位 / 阿羅漢果の段階",
+    "summary": "The progressive levels of spiritual attainment leading to full Arhat liberation in Buddhist practice.",
+    "tags": [
+      "buddhism",
+      "spiritual-attainment",
+      "arhat",
+      "mahayana",
+      "theravada",
+      "stages-of-practice",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "arhat",
     "title": "Arhat / 阿罗汉",
     "summary": "An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.",
@@ -1308,6 +1323,20 @@
     "sources": []
   },
   {
+    "slug": "great-brahma-king",
+    "title": "Great Brahma King / 大梵天王",
+    "summary": "A celestial deity in Buddhist cosmology who taught the Four Bases of Supernatural Power at the Thirty-three Heavens.",
+    "tags": [
+      "buddhist-cosmology",
+      "celestials",
+      "four-bases-supernatural-power",
+      "human-immortal-sutra",
+      "thirty-three-heavens",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "great-collection-dharma-gate-sutra",
     "title": "Great Collection Dharma Gate Sutra / 大集法門經",
     "summary": "A Mahayana sutra presenting Buddhist teachings through systematic numerical enumeration from one to ten, taught by Śāriputra.",
@@ -1589,6 +1618,19 @@
       "human-nature",
       "mencius",
       "philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "initial-awakening",
+    "title": "Initial Awakening / 初發心 / 初発の覚醒",
+    "summary": "An early stage of spiritual realization in Buddhist practice, marking the first awakening on the path to liberation.",
+    "tags": [
+      "buddhism",
+      "spiritual-practice",
+      "stages-of-awakening",
+      "mahayana-terms",
+      "stub"
     ],
     "sources": []
   },
@@ -2276,6 +2318,19 @@
     "sources": []
   },
   {
+    "slug": "ministerial-responsibility",
+    "title": "Ministerial Responsibility / 臣責",
+    "summary": "A concept in Chinese political philosophy concerning the duties and obligations of ministers toward their rulers.",
+    "tags": [
+      "chinese-philosophy",
+      "political-theory",
+      "liezi",
+      "confucianism",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "model-quantization",
     "title": "Model Quantization / 模型量化 / モデル量子化",
     "summary": "A technique for reducing AI model size and computational requirements by representing model parameters with lower-precision data types.",
@@ -2898,6 +2953,19 @@
     "sources": []
   },
   {
+    "slug": "three-treasures",
+    "title": "Three Treasures / 三宝",
+    "summary": "The three foundational refuges of Buddhism—Buddha, Dharma, and Sangha—considered precious objects of veneration and sources of spiritual refuge.",
+    "tags": [
+      "buddhist-doctrine",
+      "three-refuges",
+      "four-debts-of-gratitude",
+      "bao-en-pin",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "three-treasuries-four-collections",
     "title": "三藏三分 Four Āgamas / Tripartite Canon and Quadruple Sūtra Collections",
     "summary": "The organization of the Buddhist canon into three treasures and four sūtra collections, attributed to Ānanda's compilation guided by celestial beings.",
@@ -3223,6 +3291,19 @@
     "sources": []
   },
   {
+    "slug": "yan-hui",
+    "title": "Yan Hui / 颜回 / 顔回",
+    "summary": "Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment in poverty",
+    "tags": [
+      "confucianism",
+      "analects",
+      "disciples",
+      "virtue-ethics",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong",
     "title": "From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖",
     "summary": "A canonical Buddhist gatha stating that attachment is the origin of suffering and fear, and liberation comes from detachment.",
@@ -3277,6 +3358,19 @@
     "sources": []
   },
   {
+    "slug": "义",
+    "title": "Righteousness / 义 / 義",
+    "summary": "A Confucian virtue representing moral duty, righteousness, and the principle of acting justly.",
+    "tags": [
+      "confucianism",
+      "virtue",
+      "ethics",
+      "confucian-virtues",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "五根五力注-(安世高)",
     "title": "Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)",
     "summary": "Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.",
@@ -3302,6 +3396,18 @@
     "sources": []
   },
   {
+    "slug": "仁愛",
+    "title": "仁愛 / 仁爱",
+    "summary": "A Confucian virtue of benevolent love emphasizing genuine compassion in action over mere ritual observance.",
+    "tags": [
+      "confucianism",
+      "virtue-ethics",
+      "moral-philosophy",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "仁政",
     "title": "Benevolent Governance / 仁政",
     "summary": "The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.",
@@ -3310,6 +3416,32 @@
       "political philosophy",
       "mencius",
       "chinese thought",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "仁爱",
+    "title": "仁爱 / Benevolence / 仁愛",
+    "summary": "The supreme virtue in Confucian philosophy representing humanity, compassion, and perfect moral character",
+    "tags": [
+      "confucianism",
+      "virtue",
+      "ethics",
+      "chinese-philosophy",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "仁者",
+    "title": "仁者 / 仁者 / 仁者",
+    "summary": "A person who embodies the Confucian virtue of benevolence (仁) through practice and self-cultivation.",
+    "tags": [
+      "confucianism",
+      "virtue-ethics",
+      "moral-philosophy",
+      "chinese-philosophy",
       "stub"
     ],
     "sources": []
@@ -3365,6 +3497,19 @@
       "political-philosophy",
       "ethics",
       "chinese-thought",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "儒家自省",
+    "title": "Confucian Self-Reflection / 儒家自省",
+    "summary": "A Confucian practice of systematic moral introspection for cultivating virtue and self-improvement.",
+    "tags": [
+      "confucian-philosophy",
+      "self-cultivation",
+      "moral-philosophy",
+      "virtue-ethics",
       "stub"
     ],
     "sources": []

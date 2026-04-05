@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-05T09:42:21.257291+00:00
+updated: 2026-04-05T13:20:25.739256+00:00
 ---
 
 # Knowledge Base Index
@@ -348,6 +348,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
+- [[yan-hui|Yan Hui / 颜回 / 顔回]] — Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment in poverty
 
 ## Ananda
 
@@ -385,6 +386,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Arhat
 
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
+- [[arhat-stages|Arhat Stages / 阿羅漢果位 / 阿羅漢果の段階]] — The progressive levels of spiritual attainment leading to full Arhat liberation in Buddhist practice.
 - [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
 - [[fenbie-gongde-lun|分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)]] — A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.
 - [[great-firm-brahman-backstory|The Origin Story of the Great Firm Brāhmaṇa / 大堅固婆羅門緣起]] — A Buddhist sūtra recounting how King Linu's minister Mahākakuda meets the Buddha, attains stream-entry, renounces worldly life, and becomes an arhat, inspiring seven kings, seven thousand brāhmaṇas, and countless laypeople to follow the Dharma.
@@ -434,6 +436,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Awakening
 
 - [[seven-factors-awakening-an-shigao-commentary|Seven Factors of Awakening / 七覺意]] — The Seven Factors of Awakening (念、择法、精进、喜、轻安、定、捨) as explained in An Shigao's Han Dynasty Buddhist commentary.
+
+## Bao-En-Pin
+
+- [[three-treasures|Three Treasures / 三宝]] — The three foundational refuges of Buddhism—Buddha, Dharma, and Sangha—considered precious objects of veneration and sources of spiritual refuge.
 
 ## Benevolence
 
@@ -560,12 +566,14 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Buddhism
 
+- [[arhat-stages|Arhat Stages / 阿羅漢果位 / 阿羅漢果の段階]] — The progressive levels of spiritual attainment leading to full Arhat liberation in Buddhist practice.
 - [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
 - [[eightfold-noble-path-human-immortal-sutra|Eightfold Noble Path (Human Immortal Sutra) / 八正道]] — The Eightfold Noble Path as expounded in the Sutra of the Human Immortal, taught by Mahabrahma Deva as the method for achieving pure contemplation and liberation.
 - [[four-bases-supernatural-power-siddhartha|Four Bases of Supernatural Power / 四神足]] — The Four Bases of Supernatural Power (rddhipāda) taught by Mahabrahma Deva, describing the spiritual faculties of desire, endeavor, mind, and investigation.
 - [[four-castes-origin-buddhist-cosmology|Buddhist Origin of the Four Castes / 四姓起源]] — Buddhist cosmological account of how the four varnas (brahman, kshatriya, vaishya, shudra) arose from primordial beings and the Buddha's teaching on karmic equality.
 - [[four-noble-truths|Four Noble Truths / 四聖諦]] — The core Buddhist doctrine summarizing the nature of suffering, its origin, cessation, and the path to liberation.
 - [[human-immortal-ren-xian|Human Immortal / 人仙]] — A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger revealing the karmic fate of King Bimbisara.
+- [[initial-awakening|Initial Awakening / 初發心 / 初発の覚醒]] — An early stage of spiritual realization in Buddhist practice, marking the first awakening on the path to liberation.
 - [[jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra|Ten Causes for Teaching the Mind-Ground Sutra / 教起因緣]] — The ten reasons why Shakyamuni Buddha taught the Mahayana Mind-Ground Contemplation Sutra, as enumerated in the commentary.
 - [[lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing|Lai Zhou (來舟) / 來舟法師]] — A Qing Dynasty monk who authored a major commentary on the Mahayana Mind-Ground Contemplation Sutra, synthesizing Huayan and Tiantai classification systems.
 - [[shi-men-tong-pan-ten-gates-framework|Ten Gates Framework / 十門通判]] — A methodological framework for sutra interpretation consisting of ten categories, originating from the Huayan school and used for systematic Buddhist textual analysis.
@@ -629,6 +637,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Buddhist-Cosmology
 
 - [[dacheng-xindi-guanjing-san-shen|如來三身 / Three Bodies of the Tathagata (三身說)]] — The doctrinal classification of the Buddha's three bodies—Dharma-body, Enjoyment-body, and Transformational body—as expounded in the Mahayana Mind-Ground Contemplation Sutra, with detailed elaboration of their characteristics and salvific functions.
+- [[great-brahma-king|Great Brahma King / 大梵天王]] — A celestial deity in Buddhist cosmology who taught the Four Bases of Supernatural Power at the Thirty-three Heavens.
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
 - [[light-sound-heaven-buddhist-cosmology|Light-Sound Heaven / 光音天]] — The second dhyana heaven in Buddhist cosmology from which beings descended to earth according to the White Cloth Golden Banner Sutra.
 - [[lotus-world-buddhist-cosmology|蓮華世界 / Lotus World (Liánhuá Shìjiè)]] — A pure land in Buddhist cosmology described in the Mahāyāna sutras, characterized by lotus imagery, jeweled trees, and spiritual refinement.
@@ -655,6 +664,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[san-fa-du-lun-three-dharmas-treatise|Three Dharmas Treatise (三法度論)]] — A Buddhist philosophical treatise organized into three sections explaining virtue, evil, and liberation paths.
 - [[three-dharmas-framework-buddhism|Three Dharmas / 三法 / 三法]] — A Buddhist doctrinal framework classifying all phenomena into three categories: virtue (德), evil (惡), and basis (依), each containing three subcategories.
 - [[three-evil-roots-buddhist|Three Evil Roots / 三惡本 / 三悪根本]] — The three fundamental sources of unwholesome karma: greed (贪), hatred (恚), and delusion (痴), from which all other evils arise.
+- [[three-treasures|Three Treasures / 三宝]] — The three foundational refuges of Buddhism—Buddha, Dharma, and Sangha—considered precious objects of veneration and sources of spiritual refuge.
 - [[twelve-links-dependent-origination|Twelve Links of Dependent Origination / 十二因緣]] — The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.
 
 ## Buddhist-Enlightenment
@@ -801,6 +811,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[human-immortal-ren-xian|Human Immortal / 人仙]] — A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger revealing the karmic fate of King Bimbisara.
 
+## Celestials
+
+- [[great-brahma-king|Great Brahma King / 大梵天王]] — A celestial deity in Buddhist cosmology who taught the Four Bases of Supernatural Power at the Thirty-three Heavens.
+
 ## Ceremony
 
 - [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
@@ -900,10 +914,13 @@ The article and supplementary source detail the progressive renunciation process
 - [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
+- [[ministerial-responsibility|Ministerial Responsibility / 臣責]] — A concept in Chinese political philosophy concerning the duties and obligations of ministers toward their rulers.
 - [[prince-ming-zhangshan-gongsun-long-liezi|Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟]] — A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.
 - [[self-generating-life-death|Self-Generating Life and Death / 自生自死]] — The Liezi doctrine that life, death, prosperity, and poverty arise spontaneously from fate, not from human control.
 - [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
 - [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
+- [[仁爱|仁爱 / Benevolence / 仁愛]] — The supreme virtue in Confucian philosophy representing humanity, compassion, and perfect moral character
+- [[仁者|仁者 / 仁者 / 仁者]] — A person who embodies the Confucian virtue of benevolence (仁) through practice and self-cultivation.
 - [[儒家政治哲学|儒家政治哲学]] — title: Confucian Political Philosophy / 儒家政治哲学  
 summary: This article explores the origins, core concepts, development, and significance of Confucian political philosophy, highlighting the moral foundations of governance established by Confucius and Mencius.  
 tags: confucianism, political-philosophy, chinese-philosophy, mengzi, moral-governance  
@@ -1046,6 +1063,7 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[mind-as-organ-of-thought|The Mind as the Organ of Thought / 心之官則思]] — Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.
 - [[willow-cup-metaphor-gaozi|Willow-Cup Metaphor / 杞柳桮棬]] — Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.
+- [[儒家自省|Confucian Self-Reflection / 儒家自省]] — A Confucian practice of systematic moral introspection for cultivating virtue and self-improvement.
 
 ## Confucian-Political-Philosophy
 
@@ -1077,6 +1095,10 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 ## Confucian-Studies
 
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+
+## Confucian-Virtues
+
+- [[义|Righteousness / 义 / 義]] — A Confucian virtue representing moral duty, righteousness, and the principle of acting justly.
 
 ## Confucianism
 
@@ -1120,6 +1142,7 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 - [[mengzi-political-philosophy-benevolent-rule|Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想]] — Analysis of Mencius's theory of benevolent government (wangdao) as moral governance
 - [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
 - [[mengzi-seven-chapters-structural-analysis|Mencius Seven Chapters / 孟子七篇結構]] — Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance
+- [[ministerial-responsibility|Ministerial Responsibility / 臣責]] — A concept in Chinese political philosophy concerning the duties and obligations of ministers toward their rulers.
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 - [[political-philosophy-analects|Political Philosophy in Analects / 论语政治哲学]] — Confucian governance principles including meritocracy, moral leadership, and social stability
@@ -1129,7 +1152,12 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 - [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
 - [[unsummoned-ministers-bu-zhao-zhi-chen|Unsummoned Ministers / 不召之臣]] — A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
+- [[yan-hui|Yan Hui / 颜回 / 顔回]] — Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment in poverty
+- [[义|Righteousness / 义 / 義]] — A Confucian virtue representing moral duty, righteousness, and the principle of acting justly.
+- [[仁愛|仁愛 / 仁爱]] — A Confucian virtue of benevolent love emphasizing genuine compassion in action over mere ritual observance.
 - [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
+- [[仁爱|仁爱 / Benevolence / 仁愛]] — The supreme virtue in Confucian philosophy representing humanity, compassion, and perfect moral character
+- [[仁者|仁者 / 仁者 / 仁者]] — A person who embodies the Confucian virtue of benevolence (仁) through practice and self-cultivation.
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
 - [[儒家政治哲學|Confucian Political Philosophy / 儒家政治哲學]] — Confucian political philosophy integrates moral virtue, ritual propriety, and humanistic ethics into the governance of society.
@@ -1319,6 +1347,7 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 ## Disciples
 
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
+- [[yan-hui|Yan Hui / 颜回 / 顔回]] — Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment in poverty
 
 ## Doctrinal-Classification
 
@@ -1491,6 +1520,8 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 - [[ren|Ren (Benevolence) / 仁]] — Central Confucian virtue of humaneness and perfect virtue
 - [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
+- [[义|Righteousness / 义 / 義]] — A Confucian virtue representing moral duty, righteousness, and the principle of acting justly.
+- [[仁爱|仁爱 / Benevolence / 仁愛]] — The supreme virtue in Confucian philosophy representing humanity, compassion, and perfect moral character
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
 - [[儒家政治哲學|Confucian Political Philosophy / 儒家政治哲學]] — Confucian political philosophy integrates moral virtue, ritual propriety, and humanistic ethics into the governance of society.
 
@@ -1598,6 +1629,7 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 ## Four-Bases-Supernatural-Power
 
 - [[great-brahma-fourfold-teaching|Great Brahma's Fourfold Teaching / 大梵天王四神足說]] — The teaching on the Four Bases of Supernatural Power delivered by Great Brahma King to the thirty-three heavens assembly.
+- [[great-brahma-king|Great Brahma King / 大梵天王]] — A celestial deity in Buddhist cosmology who taught the Four Bases of Supernatural Power at the Thirty-three Heavens.
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
 
 ## Four-Beginnings
@@ -1630,6 +1662,10 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 ## Four-Conditions
 
 - [[brahma-fourfold-teaching|Brahma's Fourfold Teaching on Liberation / 梵天王四法]] — Mahābrahmā's teachings on the four conditions for rebirth in the Brahma realm: non-self practice, one-pointedness of mind, compassionate liberation, and abandoning defilements.
+
+## Four-Debts-Of-Gratitude
+
+- [[three-treasures|Three Treasures / 三宝]] — The three foundational refuges of Buddhism—Buddha, Dharma, and Sangha—considered precious objects of veneration and sources of spiritual refuge.
 
 ## Four-Fruits
 
@@ -1877,6 +1913,10 @@ Potential Tags: "Mencius"
 
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 
+## Human-Immortal-Sutra
+
+- [[great-brahma-king|Great Brahma King / 大梵天王]] — A celestial deity in Buddhist cosmology who taught the Four Bases of Supernatural Power at the Thirty-three Heavens.
+
 ## Human-Nature
 
 - [[born-in-adversity-die-in-comfort|Born in Adversity, Die in Comfort / 生于忧患，死于安乐]] — Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.
@@ -2091,6 +2131,7 @@ Potential Tags: "Mencius"
 - [[king-mu-spiritual-flight-liezi|King Mu's Spiritual Flight / 周穆王神遊 / 周穆王のspirit journey]] — The philosophical discourse on spiritual transcendence as described in the Liezi account of King Mu's journey with the transformed person.
 - [[laochengzi-illusion-transformation-liezi|Lao Chengzi's Study of Illusion / 老成子學幻 / 老成子の幻化学]] — The philosophical narrative of Lao Chengzi learning the art of transformation and illusion from Yin Wen, including the Daoist theory of change and the nature of reality.
 - [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
+- [[ministerial-responsibility|Ministerial Responsibility / 臣責]] — A concept in Chinese political philosophy concerning the duties and obligations of ministers toward their rulers.
 - [[prince-ming-zhangshan-gongsun-long-liezi|Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟]] — A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.
 - [[self-generating-life-death|Self-Generating Life and Death / 自生自死]] — The Liezi doctrine that life, death, prosperity, and poverty arise spontaneously from fate, not from human control.
 - [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
@@ -2200,6 +2241,7 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Mahayana
 
+- [[arhat-stages|Arhat Stages / 阿羅漢果位 / 阿羅漢果の段階]] — The progressive levels of spiritual attainment leading to full Arhat liberation in Buddhist practice.
 - [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
 - [[entry-all-knowledge-dharani-gate|入一切種智行陀羅尼門 / Entry into the All-Knowledge Dhāraṇī Gate]] — A profound Mahāyāna dhāraṇī practice for entering complete wisdom, enabling practitioners to obtain countless samādhis,Store dhāraṇīs, and achieve supreme enlightenment.
 - [[fenbie-gongde-lun|分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)]] — A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.
@@ -2252,6 +2294,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Mahayana-Teachings
 
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
+
+## Mahayana-Terms
+
+- [[initial-awakening|Initial Awakening / 初發心 / 初発の覚醒]] — An early stage of spiritual realization in Buddhist practice, marking the first awakening on the path to liberation.
 
 ## Mahākakuda
 
@@ -2521,6 +2567,9 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
 - [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
 - [[mind-as-organ-of-thought|The Mind as the Organ of Thought / 心之官則思]] — Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.
+- [[仁愛|仁愛 / 仁爱]] — A Confucian virtue of benevolent love emphasizing genuine compassion in action over mere ritual observance.
+- [[仁者|仁者 / 仁者 / 仁者]] — A person who embodies the Confucian virtue of benevolence (仁) through practice and self-cultivation.
+- [[儒家自省|Confucian Self-Reflection / 儒家自省]] — A Confucian practice of systematic moral introspection for cultivating virtue and self-improvement.
 
 ## Moral-Principles
 
@@ -2809,6 +2858,7 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 
 - [[de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu|De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助]] — The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.
 - [[mengzi-gift-accepting-principles|Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿]] — Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.
+- [[ministerial-responsibility|Ministerial Responsibility / 臣責]] — A concept in Chinese political philosophy concerning the duties and obligations of ministers toward their rulers.
 - [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
 
 ## Possession
@@ -3018,6 +3068,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
 - [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
+- [[儒家自省|Confucian Self-Reflection / 儒家自省]] — A Confucian practice of systematic moral introspection for cultivating virtue and self-improvement.
 
 ## Self-Examination
 
@@ -3108,6 +3159,7 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Spiritual-Attainment
 
+- [[arhat-stages|Arhat Stages / 阿羅漢果位 / 阿羅漢果の段階]] — The progressive levels of spiritual attainment leading to full Arhat liberation in Buddhist practice.
 - [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
 
 ## Spiritual-Cultivation
@@ -3116,8 +3168,17 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Spiritual-Practice
 
+- [[initial-awakening|Initial Awakening / 初發心 / 初発の覚醒]] — An early stage of spiritual realization in Buddhist practice, marking the first awakening on the path to liberation.
 - [[king-mu-spiritual-flight-liezi|King Mu's Spiritual Flight / 周穆王神遊 / 周穆王のspirit journey]] — The philosophical discourse on spiritual transcendence as described in the Liezi account of King Mu's journey with the transformed person.
 - [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
+
+## Stages-Of-Awakening
+
+- [[initial-awakening|Initial Awakening / 初發心 / 初発の覚醒]] — An early stage of spiritual realization in Buddhist practice, marking the first awakening on the path to liberation.
+
+## Stages-Of-Practice
+
+- [[arhat-stages|Arhat Stages / 阿羅漢果位 / 阿羅漢果の段階]] — The progressive levels of spiritual attainment leading to full Arhat liberation in Buddhist practice.
 
 ## Statecraft
 
@@ -3141,20 +3202,30 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Stub
 
+- [[arhat-stages|Arhat Stages / 阿羅漢果位 / 阿羅漢果の段階]] — The progressive levels of spiritual attainment leading to full Arhat liberation in Buddhist practice.
 - [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
 - [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
 - [[confucian|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system from ancient China that emphasizes moral cultivation, ritual propriety, and harmonious social relationships.
 - [[doctrine-of-the-mean|Doctrine Of The Mean]] — 
 - [[four-noble-truths|Four Noble Truths / 四聖諦]] — The core Buddhist doctrine summarizing the nature of suffering, its origin, cessation, and the path to liberation.
+- [[great-brahma-king|Great Brahma King / 大梵天王]] — A celestial deity in Buddhist cosmology who taught the Four Bases of Supernatural Power at the Thirty-three Heavens.
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
 - [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
+- [[initial-awakening|Initial Awakening / 初發心 / 初発の覚醒]] — An early stage of spiritual realization in Buddhist practice, marking the first awakening on the path to liberation.
 - [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
+- [[ministerial-responsibility|Ministerial Responsibility / 臣責]] — A concept in Chinese political philosophy concerning the duties and obligations of ministers toward their rulers.
 - [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
+- [[three-treasures|Three Treasures / 三宝]] — The three foundational refuges of Buddhism—Buddha, Dharma, and Sangha—considered precious objects of veneration and sources of spiritual refuge.
+- [[yan-hui|Yan Hui / 颜回 / 顔回]] — Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment in poverty
 - [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
 - [[七覺意注-(安世高)|Seven Factors of Enlightenment Commentary (An Shigao) / 七覺意注（安世高）]] — An early Chinese commentary by An Shigao on the seven factors of enlightenment within the thirty‑seven bodhiparamitas.
+- [[义|Righteousness / 义 / 義]] — A Confucian virtue representing moral duty, righteousness, and the principle of acting justly.
 - [[五根五力注-(安世高)|Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)]] — Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.
 - [[人性善|... / ...]] — ...
+- [[仁愛|仁愛 / 仁爱]] — A Confucian virtue of benevolent love emphasizing genuine compassion in action over mere ritual observance.
 - [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
+- [[仁爱|仁爱 / Benevolence / 仁愛]] — The supreme virtue in Confucian philosophy representing humanity, compassion, and perfect moral character
+- [[仁者|仁者 / 仁者 / 仁者]] — A person who embodies the Confucian virtue of benevolence (仁) through practice and self-cultivation.
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
 - [[儒家政治哲学|儒家政治哲学]] — title: Confucian Political Philosophy / 儒家政治哲学  
@@ -3166,6 +3237,7 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 ## 中文  
 儒家政治哲学是强调政治权威道
 - [[儒家政治哲學|Confucian Political Philosophy / 儒家政治哲學]] — Confucian political philosophy integrates moral virtue, ritual propriety, and humanistic ethics into the governance of society.
+- [[儒家自省|Confucian Self-Reflection / 儒家自省]] — A Confucian practice of systematic moral introspection for cultivating virtue and self-improvement.
 - [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
 - [[如來八希有法|Eight Rare Teachings of the Tathāgata / 如來八希有法]] — A set of eight rarely‑occuring doctrines taught by the Buddha that reveal the conditions for attaining ultimate liberation.
 - [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
@@ -3311,6 +3383,7 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Theravada
 
+- [[arhat-stages|Arhat Stages / 阿羅漢果位 / 阿羅漢果の段階]] — The progressive levels of spiritual attainment leading to full Arhat liberation in Buddhist practice.
 - [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
 
 ## Thirty-Seven-Factors
@@ -3322,6 +3395,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Thirty-Three-Heavens
 
 - [[great-brahma-fourfold-teaching|Great Brahma's Fourfold Teaching / 大梵天王四神足說]] — The teaching on the Four Bases of Supernatural Power delivered by Great Brahma King to the thirty-three heavens assembly.
+- [[great-brahma-king|Great Brahma King / 大梵天王]] — A celestial deity in Buddhist cosmology who taught the Four Bases of Supernatural Power at the Thirty-three Heavens.
 - [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
 - [[thirty-three-heavens|Trayastriṃśa Heaven / 三十三天（忉利天）]] — The Heaven of Thirty-Three Gods where the initial discourse of the Great Firm Brāhmaṇa Sūtra takes place, presided over by Śakra (帝釋天主) and the site of the first teaching of the eight rare qualities.
 
@@ -3358,6 +3432,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Three-Poisons
 
 - [[evil-classification-buddhism-e|Evil and Unwholesome Qualities / 惡 / 悪]] — Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.
+
+## Three-Refuges
+
+- [[three-treasures|Three Treasures / 三宝]] — The three foundational refuges of Buddhism—Buddha, Dharma, and Sangha—considered precious objects of veneration and sources of spiritual refuge.
 
 ## Three-Roots
 
@@ -3493,6 +3571,8 @@ The article and supplementary source detail the progressive renunciation process
 - [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
 - [[ren|Ren (Benevolence) / 仁]] — Central Confucian virtue of humaneness and perfect virtue
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
+- [[义|Righteousness / 义 / 義]] — A Confucian virtue representing moral duty, righteousness, and the principle of acting justly.
+- [[仁爱|仁爱 / Benevolence / 仁愛]] — The supreme virtue in Confucian philosophy representing humanity, compassion, and perfect moral character
 
 ## Virtue-Cultivation
 
@@ -3516,6 +3596,10 @@ The article and supplementary source detail the progressive renunciation process
 - [[mengzi-righteousness-profit-debate|Mencius on Righteousness vs. Profit / 孟子论义利]] — Mencius' argument that rulers should be persuaded through benevolence and righteousness rather than profit, with profound implications for political philosophy.
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
 - [[tian-xia-you-da-zun-san|Three Universally Honored Things / 天下有三尊]] — Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.
+- [[yan-hui|Yan Hui / 颜回 / 顔回]] — Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment in poverty
+- [[仁愛|仁愛 / 仁爱]] — A Confucian virtue of benevolent love emphasizing genuine compassion in action over mere ritual observance.
+- [[仁者|仁者 / 仁者 / 仁者]] — A person who embodies the Confucian virtue of benevolence (仁) through practice and self-cultivation.
+- [[儒家自省|Confucian Self-Reflection / 儒家自省]] — A Confucian practice of systematic moral introspection for cultivating virtue and self-improvement.
 
 ## Virtue-Governance". Should We Use Hyphens? It'S Fine.
 
@@ -3658,4 +3742,4 @@ Confucian political philosophy is a framework that emphasizes the moral foundati
 
 
 ---
-*261 articles indexed*
+*272 articles indexed*

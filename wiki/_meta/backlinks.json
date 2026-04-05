@@ -43,9 +43,12 @@
   "benevolent-government-ren-zheng": [
     "fixed-livelihood",
     "junzi",
+    "仁爱",
     "human-harmony-he-ren",
+    "仁者",
     "confucian-trust-verification",
     "benevolent-invincible-renzhe-wudi",
+    "仁愛",
     "benevolence",
     "confucian-ethics",
     "wang-dao-true-king-hegemon",
@@ -186,6 +189,7 @@
     "confucian-ethics",
     "knowledge-learning",
     "five-virtues-four-vices",
+    "义",
     "junzi-characteristics",
     "doctrine-of-the-mean-zhongyong"
   ],
@@ -276,7 +280,8 @@
     "twelve-links-dependent-origination"
   ],
   "three-roots-of-unwholesomeness": [
-    "san-fa-du-lun-three-dharmas-treatise"
+    "san-fa-du-lun-three-dharmas-treatise",
+    "arhat-stages"
   ],
   "arhat-stages": [
     "san-fa-du-lun-three-dharmas-treatise"
@@ -297,6 +302,7 @@
   "confucian-self-examination": [
     "junzi",
     "confucian-trust-verification",
+    "仁愛",
     "mengzi-haoran-qi-vast-flowing-vital-energy",
     "benevolence",
     "mengzi-indomitable-heart-budongxin",
@@ -308,26 +314,27 @@
     "junzi-cultivation",
     "great-learning-da-xue"
   ],
-  "仁爱": [
+  "仁愛": [
     "junzi",
     "benevolence",
+    "儒家自省",
     "confucian-self-examination"
   ],
   "知识学习": [
     "junzi",
     "confucian-trust-verification",
+    "儒家自省",
     "confucian-ethics"
   ],
   "儒家自省": [
     "junzi",
+    "仁爱",
+    "仁者",
     "confucian-trust-verification",
+    "仁愛",
     "benevolence",
+    "儒家自省",
     "confucian-ethics"
-  ],
-  "仁愛": [
-    "junzi",
-    "benevolence",
-    "confucian-self-examination"
   ],
   "知識学習": [
     "junzi",
@@ -341,7 +348,9 @@
     "confucian-trust-verification",
     "benevolence",
     "human-nature",
+    "儒家自省",
     "mengzi-ritual-food-debate",
+    "yan-hui",
     "confucian-self-examination",
     "confucian-political-philosophy",
     "knowledge-learning"
@@ -350,6 +359,7 @@
     "junzi",
     "confucian",
     "analects-disciples",
+    "yan-hui",
     "ren",
     "confucian-ethics"
   ],
@@ -366,18 +376,6 @@
   "礼": [
     "junzi",
     "confucian"
-  ],
-  "颜回": [
-    "junzi",
-    "analects-disciples",
-    "ren",
-    "confucian-ethics"
-  ],
-  "顔回": [
-    "junzi",
-    "analects-disciples",
-    "ren",
-    "confucian-ethics"
   ],
   "confucian-sincerity-cheng": [
     "junzi",
@@ -398,6 +396,7 @@
     "three-years-mourning",
     "born-in-adversity-die-in-comfort",
     "mengzi-ritual-food-debate",
+    "yan-hui",
     "儒家政治哲学"
   ],
   "confucius-analects": [
@@ -416,6 +415,7 @@
     "junzi",
     "confucius-analects",
     "confucian-trust-verification",
+    "仁愛",
     "benevolence",
     "人性善",
     "born-in-adversity-die-in-comfort",
@@ -439,13 +439,18 @@
   "君子": [
     "junzi",
     "confucius-analects",
+    "仁爱",
+    "仁者",
     "confucian-trust-verification",
+    "仁愛",
     "benevolence",
     "人性善",
+    "儒家自省",
     "confucian-sincerity-cheng",
     "central-harmony-zhonghe",
     "confucian-self-examination",
     "confucian-ethics",
+    "义",
     "moral-cultivation-methods",
     "knowing-destiny-rites-words",
     "unsummoned-ministers-bu-zhao-zhi-chen"
@@ -502,6 +507,7 @@
   ],
   "thirty-three-heavens": [
     "great-firm-brahmin-origin-sutra",
+    "great-brahma-king",
     "great-firm-brahman-backstory",
     "human-immortal-sutra-ren-xian-jing",
     "great-brahma-fourfold-teaching"
@@ -576,6 +582,7 @@
   "four-bases-supernatural-power-siddhartha": [
     "three-dharmas-buddhist-philosophy",
     "bimbisara-king-magadha-ren-xian",
+    "great-brahma-king",
     "human-immortal-sutra-ren-xian-jing",
     "great-brahma-fourfold-teaching"
   ],
@@ -684,6 +691,7 @@
   "analects": [
     "confucian-trust-verification",
     "analects-disciples",
+    "yan-hui",
     "confucian-ethics",
     "knowing-destiny-rites-words"
   ],
@@ -723,6 +731,47 @@
   "mengzi-political-philosophy-benevolent-rule": [
     "benevolent-invincible-renzhe-wudi",
     "mengzi-unity-through-non-killing-ding-yu-yi"
+  ],
+  "仁政": [
+    "仁愛",
+    "儒家政治哲学"
+  ],
+  "great-brahma-fourfold-teaching": [
+    "great-brahma-king",
+    "dana-paramita-bodhisattva-giving"
+  ],
+  "vaisravana": [
+    "great-brahma-king",
+    "human-immortal-sutra-ren-xian-jing"
+  ],
+  "sarvastivada-abhidharma": [
+    "great-brahma-king",
+    "human-immortal-sutra-ren-xian-jing"
+  ],
+  "arhat": [
+    "great-brahma-king",
+    "human-immortal-sutra-ren-xian-jing",
+    "great-firm-brahman",
+    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
+  ],
+  "stream-enterer-fruit": [
+    "great-brahma-king",
+    "human-immortal-sutra-ren-xian-jing"
+  ],
+  "三十三天": [
+    "great-brahma-king"
+  ],
+  "毘沙門天": [
+    "great-brahma-king"
+  ],
+  "說一切有部": [
+    "great-brahma-king"
+  ],
+  "須陀洹果": [
+    "great-brahma-king"
+  ],
+  "説一切有部": [
+    "great-brahma-king"
   ],
   "thirty-seven-bodhiparamitas-an-shigao-commentary": [
     "twelve-links-dependent-origination-an-shigao-commentary"
@@ -913,23 +962,9 @@
     "ananda-compiled-scriptures",
     "three-treasuries-four-collections"
   ],
-  "vaisravana": [
-    "human-immortal-sutra-ren-xian-jing"
-  ],
   "great-brahma-king": [
     "human-immortal-sutra-ren-xian-jing",
     "great-brahma-fourfold-teaching"
-  ],
-  "sarvastivada-abhidharma": [
-    "human-immortal-sutra-ren-xian-jing"
-  ],
-  "arhat": [
-    "human-immortal-sutra-ren-xian-jing",
-    "great-firm-brahman",
-    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
-  ],
-  "stream-enterer-fruit": [
-    "human-immortal-sutra-ren-xian-jing"
   ],
   "eightfold-noble-path": [
     "human-immortal-sutra-ren-xian-jing",
@@ -972,6 +1007,12 @@
     "dongmen-wu-grieflessness",
     "force-fate-debate-liezi",
     "self-generating-life-death"
+  ],
+  "道德反思": [
+    "儒家自省"
+  ],
+  "道徳的反省": [
+    "儒家自省"
   ],
   "yin-yang-dao-philosophy": [
     "dao-de-jing-silk-manuscript",
@@ -1197,9 +1238,6 @@
   "neo-confucian": [
     "doctrine-of-the-mean"
   ],
-  "great-brahma-fourfold-teaching": [
-    "dana-paramita-bodhisattva-giving"
-  ],
   "ba-yi-ceremonial-dance": [
     "knowledge-learning"
   ],
@@ -1280,6 +1318,12 @@
     "xu-fen-buddhist-prologue",
     "san-chong-guan-threefold-contemplation"
   ],
+  "merit-cultivation": [
+    "arhat-stages"
+  ],
+  "san-fa-du-lun-three-dharmas-treatise": [
+    "arhat-stages"
+  ],
   "confucian-education-principles": [
     "mengzi-universal-sagehood-potential",
     "providing-people-sustenance-zhi-min-zhi-chan"
@@ -1340,9 +1384,6 @@
   ],
   "身を捨てて虎に食われる": [
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
-  ],
-  "仁政": [
-    "儒家政治哲学"
   ],
   "moral-self‑cultivation": [
     "儒家政治哲学"
