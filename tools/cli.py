@@ -51,6 +51,20 @@ def ingest_file_cmd(ctx, file_path):
     console.print(f"[green]✓[/green] Ingested to: {path}")
 
 
+@ingest.command("pdf")
+@click.argument("pdf_path", type=click.Path(exists=True))
+@click.option("--chunk-pages", type=int, default=20, help="Pages per chunk (0 = single doc)")
+@click.pass_context
+def ingest_pdf_cmd(ctx, pdf_path, chunk_pages):
+    """Ingest a PDF file, converting to markdown chunks automatically."""
+    from .pdf import ingest_pdf
+    with console.status(f"Processing PDF ({chunk_pages} pages/chunk)..."):
+        paths = ingest_pdf(pdf_path, chunk_pages, ctx.obj["base_dir"])
+    console.print(f"[green]✓[/green] Ingested PDF into {len(paths)} chunks:")
+    for p in paths:
+        console.print(f"  • {p}")
+
+
 @ingest.command("dir")
 @click.argument("dir_path", type=click.Path(exists=True))
 @click.pass_context
@@ -105,6 +119,114 @@ def ingest_browse_cmd(ctx, url):
         doc_path = doc_dir / "index.md"
         doc_path.write_text(fm.dumps(post), encoding="utf-8")
         console.print(f"[green]✓[/green] Ingested via browser to: {doc_path}")
+
+
+@ingest.command("wikisource-learn")
+@click.option("--list", "reading_list", type=click.Choice(["confucianism", "daoism", "mohism", "legalism", "military", "history", "poetry", "divination", "zhuzi"]), default=None)
+@click.option("--batch", type=int, default=3, help="Number of works per run")
+@click.pass_context
+def ingest_wikisource_learn_cmd(ctx, reading_list, batch):
+    """Progressive learning from zh.wikisource.org (维基文库)."""
+    from .wikisource import learn
+    console.print(f"[cyan]Learning from Wikisource (list: {reading_list or 'all'})...[/cyan]")
+    with console.status("Fetching from Wikisource..."):
+        results = learn(reading_list, batch, ctx.obj["base_dir"])
+    if results:
+        console.print(f"[green]✓[/green] Ingested {len(results)} works: {', '.join(results)}")
+    else:
+        console.print("[yellow]No new works to ingest.[/yellow]")
+
+
+@ingest.command("wikisource-work")
+@click.argument("title")
+@click.pass_context
+def ingest_wikisource_work_cmd(ctx, title):
+    """Ingest a specific work from Wikisource (e.g. 道德經, 論語)."""
+    from .wikisource import ingest_work
+    with console.status(f"Fetching {title}..."):
+        paths = ingest_work(title, ctx.obj["base_dir"])
+    console.print(f"[green]✓[/green] Ingested {len(paths)} pages from {title}")
+
+
+@ingest.command("cbeta-learn")
+@click.option("--category", type=str, default=None, help="Category: agama, bore, fahua, huayan, chanzong, jingtu, etc.")
+@click.option("--batch", type=int, default=5, help="Number of sutras per run")
+@click.pass_context
+def ingest_cbeta_learn_cmd(ctx, category, batch):
+    """Progressive learning from CBETA. Each run ingests a batch of new sutras."""
+    from .cbeta import learn, status
+    s = status(ctx.obj["base_dir"])
+    console.print(f"[dim]Progress: {s['total_ingested']} sutras ingested so far[/dim]")
+    cat_label = category or "all categories (sequential)"
+    console.print(f"[cyan]Learning {batch} sutras from {cat_label}...[/cyan]")
+    with console.status("Fetching and ingesting..."):
+        results = learn(category, batch, ctx.obj["base_dir"])
+    if results:
+        console.print(f"[green]✓[/green] Ingested {len(results)} new sutras:")
+        for w in results:
+            console.print(f"  • {w}")
+        console.print(f"[dim]Total progress: {s['total_ingested'] + len(results)} sutras[/dim]")
+    else:
+        console.print("[yellow]No new sutras to ingest in this category.[/yellow]")
+
+
+@ingest.command("cbeta-status")
+@click.pass_context
+def ingest_cbeta_status_cmd(ctx):
+    """Show CBETA learning progress."""
+    from .cbeta import status
+    s = status(ctx.obj["base_dir"])
+    console.print(f"[cyan]CBETA Learning Progress[/cyan]")
+    console.print(f"  Total ingested: [green]{s['total_ingested']}[/green] sutras")
+    console.print(f"  Last run: {s.get('last_run', 'never')}")
+    if s.get("ingested_works"):
+        console.print(f"  Recent: {', '.join(s['ingested_works'][:10])}")
+
+
+@ingest.command("cbeta-work")
+@click.argument("work_id")
+@click.pass_context
+def ingest_cbeta_work_cmd(ctx, work_id):
+    """Ingest a specific CBETA work by ID (e.g. T0001, T0235, X1456)."""
+    from .cbeta import ingest_work
+    with console.status(f"Fetching {work_id}..."):
+        path = ingest_work(work_id, base_dir=ctx.obj["base_dir"])
+    if path:
+        console.print(f"[green]✓[/green] Ingested: {path}")
+    else:
+        console.print(f"[yellow]Already ingested or not found: {work_id}[/yellow]")
+
+
+@ingest.command("ctext-book")
+@click.argument("book_name")
+@click.argument("book_path")
+@click.option("--delay", type=float, default=1.5, help="Delay between requests (seconds)")
+@click.option("--browser", is_flag=True, help="Use opencli browser instead of HTTP (handles anti-scraping)")
+@click.pass_context
+def ingest_ctext_book_cmd(ctx, book_name, book_path, delay, browser):
+    """Ingest a book from ctext.org. Example: llmbase ingest ctext-book 论语 /analects/zh"""
+    from .ctext import ingest_book
+    method = "opencli browser" if browser else "HTTP"
+    console.print(f"[cyan]Ingesting {book_name} via {method}...[/cyan]")
+    paths = ingest_book(book_name, book_path, delay, ctx.obj["base_dir"], browser)
+    console.print(f"[green]✓[/green] Ingested {len(paths)} chapters from {book_name}")
+
+
+@ingest.command("ctext-catalog")
+@click.argument("catalog", type=click.Choice(["confucianism", "daoism", "mohism", "legalism", "military", "histories", "medicine"]))
+@click.option("--delay", type=float, default=1.5, help="Delay between requests (seconds)")
+@click.option("--browser", is_flag=True, help="Use opencli browser instead of HTTP")
+@click.pass_context
+def ingest_ctext_catalog_cmd(ctx, catalog, delay, browser):
+    """Ingest an entire catalog from ctext.org (e.g. confucianism, daoism)."""
+    from .ctext import ingest_catalog
+    method = "opencli browser" if browser else "HTTP"
+    console.print(f"[cyan]Ingesting catalog '{catalog}' via {method}...[/cyan]")
+    results = ingest_catalog(catalog, delay, ctx.obj["base_dir"], browser)
+    total = sum(len(v) for v in results.values())
+    console.print(f"\n[green]✓[/green] Ingested {total} chapters from {len(results)} books:")
+    for book, paths in results.items():
+        console.print(f"  • {book}: {len(paths)} chapters")
 
 
 @ingest.command("list")

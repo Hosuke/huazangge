@@ -1,4 +1,4 @@
-# 华藏阁 Configuration — Autonomous Learning Server
+# 华藏阁 — Autonomous Learning Server
 
 branding:
   name: "華藏閣"
@@ -27,12 +27,10 @@ search:
 lint:
   web_search: false
 
-# Autonomous worker — server learns on its own
 worker:
   enabled: true
-  # Ingest new sutras from CBETA every 6 hours
-  learn_source: cbeta
+  learn_source: both
   learn_interval_hours: 6
   learn_batch_size: 10
-  # Compile unprocessed docs every hour
   compile_interval_hours: 1
+  taxonomy_interval_hours: 12
