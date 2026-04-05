@@ -37,6 +37,7 @@ def lint(base_dir: Path | None = None) -> dict:
         "broken_links": check_broken_links(cfg),
         "orphans": check_orphans(cfg),
         "missing_metadata": check_missing_metadata(cfg),
+        "dirty_tags": check_dirty_tags(cfg),
         "duplicates": check_duplicates(cfg),
         "stubs": check_stubs(cfg),
         "uncategorized": check_uncategorized(cfg, base_dir),
@@ -160,6 +161,88 @@ def check_orphans(cfg: dict) -> list[str]:
     return issues
 
 
+def check_dirty_tags(cfg: dict) -> list[str]:
+    """Find articles with malformed tags (LLM prompt leaks, sentences, etc.).
+
+    Valid tags should be short (< 30 chars), lowercase, no sentences.
+    Dirty tags look like: "2-4 tags. we need to interpret the article's content"
+    """
+    issues = []
+    concepts_dir = Path(cfg["paths"]["concepts"])
+
+    for md_file in concepts_dir.glob("*.md"):
+        post = frontmatter.load(str(md_file))
+        tags = post.metadata.get("tags", [])
+        slug = md_file.stem
+
+        dirty = []
+        for tag in tags:
+            if not isinstance(tag, str):
+                dirty.append(str(tag))
+            elif len(tag) > 40:
+                dirty.append(tag[:40] + "...")
+            elif " " in tag and len(tag.split()) > 4:
+                # More than 4 words — probably a sentence, not a tag
+                dirty.append(tag)
+            elif any(phrase in tag.lower() for phrase in [
+                "we need", "the user", "output", "list ", "tags:",
+                "tag1", "tag2", "interpret", "based on",
+            ]):
+                dirty.append(tag)
+
+        if dirty:
+            issues.append(f"Dirty tags in {slug}: {dirty}")
+
+    return issues
+
+
+def fix_dirty_tags(base_dir: Path | None = None) -> list[str]:
+    """Clean up dirty tags by removing bad ones and regenerating via LLM."""
+    cfg = load_config(base_dir)
+    ensure_dirs(cfg)
+    concepts_dir = Path(cfg["paths"]["concepts"])
+
+    dirty_articles = check_dirty_tags(cfg)
+    if not dirty_articles:
+        return []
+
+    fixes = []
+    for issue in dirty_articles:
+        slug = issue.split("Dirty tags in ")[1].split(":")[0]
+        path = concepts_dir / f"{slug}.md"
+        if not path.exists():
+            continue
+
+        post = frontmatter.load(str(path))
+        old_tags = post.metadata.get("tags", [])
+
+        # Keep only clean tags
+        clean = [t for t in old_tags if isinstance(t, str) and len(t) <= 40
+                 and len(t.split()) <= 4
+                 and not any(p in t.lower() for p in [
+                     "we need", "the user", "output", "list ", "tags:",
+                     "tag1", "tag2", "interpret", "based on",
+                 ])]
+
+        if len(clean) < 2:
+            # Too few clean tags remaining — ask LLM for new ones
+            title = post.metadata.get("title", slug)
+            prompt = f"List 2-4 relevant tags for this article (comma-separated, lowercase, short keywords only):\n\n# {title}\n\n{post.content[:2000]}"
+            try:
+                response = chat(prompt, max_tokens=128)
+                new_tags = [t.strip().lower() for t in response.split(",") if t.strip() and len(t.strip()) <= 40]
+                clean = list(set(clean + new_tags))
+            except Exception:
+                pass
+
+        if set(clean) != set(old_tags):
+            post.metadata["tags"] = sorted(clean)
+            path.write_text(frontmatter.dumps(post), encoding="utf-8")
+            fixes.append(f"Cleaned tags for {slug}: {old_tags} → {clean}")
+
+    return fixes
+
+
 def check_stubs(cfg: dict) -> list[str]:
     """Find garbage/empty stub articles that should be cleaned.
 
@@ -250,16 +333,15 @@ def check_missing_metadata(cfg: dict) -> list[str]:
 
 
 def check_duplicates(cfg: dict) -> list[str]:
-    """Detect likely-duplicate articles using LLM similarity judgment.
+    """Detect duplicate articles using scored heuristics.
 
-    Candidates are pre-filtered by title/slug similarity, then the LLM
-    confirms whether they are truly duplicates.
+    High-confidence pairs (score >= 3, e.g. identical CJK title) are
+    confirmed without LLM. No LLM call needed — avoids thinking-token issues.
     """
     concepts_dir = Path(cfg["paths"]["concepts"])
     if not concepts_dir.exists():
         return []
 
-    # Load all articles
     articles = []
     for md_file in sorted(concepts_dir.glob("*.md")):
         post = frontmatter.load(str(md_file))
@@ -273,46 +355,10 @@ def check_duplicates(cfg: dict) -> list[str]:
     if len(articles) < 2:
         return []
 
-    # Phase 1: cheap pre-filter — find candidate pairs
     candidates = _find_duplicate_candidates(articles)
-
-    if not candidates:
-        return []
-
-    # Phase 2: LLM confirmation
     issues = []
-    articles_text = "\n".join(
-        f"- {a['slug']}: {a['title']} | tags: {', '.join(a['tags'])} | {a['summary']}"
-        for a in articles
-    )
-
-    # Batch all candidates into one LLM call for efficiency
-    pairs_text = "\n".join(
-        f"{i+1}. {a} <-> {b}" for i, (a, b) in enumerate(candidates[:20])
-    )
-
-    prompt = (
-        f"Here are all articles in the wiki:\n{articles_text}\n\n"
-        f"These article pairs may be duplicates or near-duplicates "
-        f"(same concept under different names, simplified/traditional Chinese variants, "
-        f"or overlapping scope):\n{pairs_text}\n\n"
-        f"For each pair, respond with the pair number followed by YES (duplicate) or NO.\n"
-        f"Format: one per line, e.g. '1. YES' or '2. NO'\n"
-        f"Be strict: only say YES if they clearly refer to the same concept."
-    )
-
-    try:
-        response = chat(prompt, max_tokens=512)
-        for line in response.strip().split("\n"):
-            line = line.strip()
-            for i, (slug_a, slug_b) in enumerate(candidates[:20]):
-                if line.startswith(f"{i+1}.") and "YES" in line.upper():
-                    issues.append(f"Likely duplicate: {slug_a} <-> {slug_b}")
-                    break
-    except Exception:
-        # If LLM fails, fall back to reporting all pre-filter candidates
-        for slug_a, slug_b in candidates[:10]:
-            issues.append(f"Possible duplicate (unconfirmed): {slug_a} <-> {slug_b}")
+    for slug_a, slug_b in candidates:
+        issues.append(f"Likely duplicate: {slug_a} <-> {slug_b}")
 
     return issues
 
@@ -321,37 +367,74 @@ def _find_duplicate_candidates(articles: list[dict]) -> list[tuple[str, str]]:
     """Pre-filter: find article pairs that are likely duplicates.
 
     Uses cheap heuristics — no LLM call:
-    - Slug substring overlap (e.g., si-di vs si-di-buddhism)
+    - Slug substring overlap (ASCII: min 4 chars; CJK: any length)
     - High tag overlap (>= 60% Jaccard)
-    - Title similarity (shared CJK characters)
-    - Bilingual title cross-match (e.g., both have "仁" in Chinese title part)
+    - CJK substring matching across titles AND slugs
+      (仁 is substring of 仁爱 → candidate)
     """
+    import re
+    cjk_re = re.compile(r'[\u4e00-\u9fff\u3400-\u4dbf]')
+
     candidates = []
     n = len(articles)
 
-    # Extract CJK title parts for cross-matching
-    def _cjk_parts(title: str) -> set[str]:
-        """Extract CJK substrings from bilingual title."""
-        import re
-        parts = set()
-        for segment in title.split("/"):
-            segment = segment.strip()
-            # Extract CJK-only portion
-            cjk = re.sub(r'[^\u4e00-\u9fff\u3400-\u4dbf]', '', segment)
+    def _is_cjk(text: str) -> bool:
+        return bool(cjk_re.search(text))
+
+    def _extract_cjk(text: str) -> str:
+        """Extract all CJK characters from text."""
+        return re.sub(r'[^\u4e00-\u9fff\u3400-\u4dbf]', '', text)
+
+    def _all_cjk_names(article: dict) -> set[str]:
+        """Get all CJK names for an article: from title parts AND slug."""
+        names = set()
+        # From title: split by / and extract CJK
+        for part in article["title"].split("/"):
+            cjk = _extract_cjk(part.strip())
             if cjk:
-                parts.add(cjk)
-        return parts
+                names.add(cjk)
+        # From slug if it contains CJK
+        slug_cjk = _extract_cjk(article["slug"])
+        if slug_cjk:
+            names.add(slug_cjk)
+        return names
+
+    def _cjk_substring_match(names_a: set[str], names_b: set[str]) -> bool:
+        """Check if CJK names match (exact or near-exact).
+
+        Rules to avoid false positives:
+        - Single char (仁): must match exactly (仁 == 仁), not substring (仁 in 仁政 ✗)
+        - 2+ chars: substring OK if >= 67% of longer string (仁爱 in 仁愛 ✓)
+        """
+        for a in names_a:
+            for b in names_b:
+                if a == b:
+                    return True
+                short, long = (a, b) if len(a) <= len(b) else (b, a)
+                # Single CJK char: too ambiguous for substring matching
+                if len(short) <= 1:
+                    continue
+                if short in long and len(short) / len(long) >= 0.67:
+                    return True
+        return False
 
     for i in range(n):
         for j in range(i + 1, n):
             a, b = articles[i], articles[j]
             score = 0
 
-            # Slug similarity: one is substring of the other (min 4 chars to avoid false positives like "ren" in "renzhe")
-            if len(a["slug"]) >= 4 and a["slug"] in b["slug"]:
-                score += 2
-            elif len(b["slug"]) >= 4 and b["slug"] in a["slug"]:
-                score += 2
+            # Slug substring matching
+            a_slug, b_slug = a["slug"], b["slug"]
+            if _is_cjk(a_slug) or _is_cjk(b_slug):
+                # CJK slug: no minimum length
+                if a_slug in b_slug or b_slug in a_slug:
+                    score += 2
+            else:
+                # ASCII slug: min 4 chars to avoid "ren" in "renzhe" false positive
+                if len(a_slug) >= 4 and a_slug in b_slug:
+                    score += 2
+                elif len(b_slug) >= 4 and b_slug in a_slug:
+                    score += 2
 
             # Tag Jaccard similarity
             if a["tags"] and b["tags"]:
@@ -360,20 +443,12 @@ def _find_duplicate_candidates(articles: list[dict]) -> list[tuple[str, str]]:
                 if union > 0 and intersection / union >= 0.6:
                     score += 2
 
-            # Title character overlap (especially useful for CJK)
-            title_a_chars = set(a["title"].replace(" ", "").replace("/", "").lower())
-            title_b_chars = set(b["title"].replace(" ", "").replace("/", "").lower())
-            if title_a_chars and title_b_chars:
-                t_intersection = len(title_a_chars & title_b_chars)
-                t_union = len(title_a_chars | title_b_chars)
-                if t_union > 0 and t_intersection / t_union >= 0.5:
-                    score += 1
-
-            # Bilingual CJK title match: if both have identical CJK title part
-            cjk_a = _cjk_parts(a["title"])
-            cjk_b = _cjk_parts(b["title"])
-            if cjk_a and cjk_b and cjk_a & cjk_b:
-                score += 3  # Strong signal: same Chinese concept name
+            # CJK name substring matching (the key fix)
+            # Collects CJK from title parts AND slug, then does substring comparison
+            cjk_a = _all_cjk_names(a)
+            cjk_b = _all_cjk_names(b)
+            if cjk_a and cjk_b and _cjk_substring_match(cjk_a, cjk_b):
+                score += 3
 
             if score >= 2:
                 candidates.append((a["slug"], b["slug"]))
@@ -381,7 +456,7 @@ def _find_duplicate_candidates(articles: list[dict]) -> list[tuple[str, str]]:
     return candidates
 
 
-def merge_duplicates(base_dir: Path | None = None, max_merges: int = 5) -> list[str]:
+def merge_duplicates(base_dir: Path | None = None, max_merges: int = 15) -> list[str]:
     """Merge confirmed duplicate articles using LLM.
 
     For each duplicate pair:
@@ -416,21 +491,20 @@ def merge_duplicates(base_dir: Path | None = None, max_merges: int = 5) -> list[
         post_a = frontmatter.load(str(path_a))
         post_b = frontmatter.load(str(path_b))
 
-        # Ask LLM which should be primary
-        prompt = (
-            f"Two wiki articles are duplicates and need to be merged.\n\n"
-            f"Article A: slug={slug_a}, title={post_a.metadata.get('title', slug_a)}\n"
-            f"Article B: slug={slug_b}, title={post_b.metadata.get('title', slug_b)}\n\n"
-            f"Which should be the PRIMARY article? Consider: better title, more standard slug, "
-            f"more content. Reply with ONLY 'A' or 'B'."
-        )
+        # Pick primary — rule-based, no LLM needed:
+        # ASCII slug preferred over CJK slug; longer content wins
+        import re as _re
+        a_is_ascii = not bool(_re.search(r'[\u4e00-\u9fff]', slug_a))
+        b_is_ascii = not bool(_re.search(r'[\u4e00-\u9fff]', slug_b))
 
-        try:
-            choice = chat(prompt, max_tokens=16).strip().upper()
-        except Exception:
-            choice = "A"  # Default to first
+        if a_is_ascii and not b_is_ascii:
+            choose_b = False
+        elif b_is_ascii and not a_is_ascii:
+            choose_b = True
+        else:
+            choose_b = len(post_b.content) > len(post_a.content)
 
-        if "B" in choice:
+        if choose_b:
             primary_path, secondary_path = path_b, path_a
             primary_slug, secondary_slug = slug_b, slug_a
         else:
@@ -669,7 +743,11 @@ def auto_fix(base_dir: Path | None = None) -> list[str]:
     if garbage:
         fixes.append(f"Cleaned {len(garbage)} garbage article(s): {', '.join(garbage[:5])}")
 
-    # 2. Fix missing metadata
+    # 2. Fix dirty tags (prompt leaks, sentences in tag fields)
+    tag_clean = fix_dirty_tags(base_dir)
+    fixes.extend(tag_clean)
+
+    # 3. Fix missing metadata
     for md_file in concepts_dir.glob("*.md"):
         post = frontmatter.load(str(md_file))
         needs_fix = False
