@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-05T14:56:38.830183+00:00
+updated: 2026-04-05T15:52:44.867057+00:00
 ---
 
 # Knowledge Base Index
@@ -440,6 +440,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing|Lai Zhou (來舟) / 來舟法師]] — A Qing Dynasty monk who authored a major commentary on the Mahayana Mind-Ground Contemplation Sutra, synthesizing Huayan and Tiantai classification systems.
 - [[shi-men-tong-pan-ten-gates-framework|Ten Gates Framework / 十門通判]] — A methodological framework for sutra interpretation consisting of ten categories, originating from the Huayan school and used for systematic Buddhist textual analysis.
 - [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
+- [[心地法門|Mind-Ground Dharma Gate / 心地法門]] — A central Buddhist practice of cultivating and contemplating the mind-ground as the basis of spiritual awakening.
 
 ## Buddhist Commentaries
 
@@ -499,6 +500,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[five-aggregates-contemplation-buddhist|Five Aggregates Contemplation / 五陰觀 / 五蘊の観想]] — Systematic contemplation on the five aggregates (form, sensation, perception, formations, consciousness) as a path to understanding non-self and achieving liberation.
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 - [[four-inversions-buddhist|Four Inversions / 四顛倒 / 四颠倒]] — The four inverted or perverted views that afflict sentient beings, mistaking suffering as happiness, impermanence as permanence, non-self as self, and impurity as purity.
+- [[mahasanghika|Mahāsaṃghika / 大眾部 / マハーサングヒカ]] — An early Buddhist school known for its transcendent conception of the Buddha and its influence on Mahāyāna developments.
 - [[san-fa-du-lun-three-dharmas-treatise|Three Dharmas Treatise (三法度論)]] — A Buddhist philosophical treatise organized into three sections explaining virtue, evil, and liberation paths.
 - [[three-dharmas-framework-buddhism|Three Dharmas / 三法 / 三法]] — A Buddhist doctrinal framework classifying all phenomena into three categories: virtue (德), evil (惡), and basis (依), each containing three subcategories.
 - [[three-evil-roots-buddhist|Three Evil Roots / 三惡本 / 三悪根本]] — The three fundamental sources of unwholesome karma: greed (贪), hatred (恚), and delusion (痴), from which all other evils arise.
@@ -705,6 +707,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[dao-de-jing-silk-manuscript|Dao De Jing (Silk Manuscript) / 道德經帛書本 / 道德経帛書本]] — The Dao De Jing Silk Manuscript presents the earliest complete version of Laozi's text, with its distinctive chapter ordering placing virtue before the Way.
+- [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 
 ## Chinese-Ethics
@@ -720,6 +723,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
 - [[confucius-western-saint-liezi|Confucius and the Western Saint (西方聖者) / 西方聖者]] — A Liezi account of Confucius making an enigmatic reference to "a saint in the west" who rules without governing, speaks without persuasion, and transforms without coercion.
 - [[dao-the-way-taoism|Dao (The Way) / 道]] — The fundamental Taoist concept of Dao (The Way), the ultimate reality and principle underlying the universe.
+- [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
 - [[dongmen-wu-grieflessness|Dongmen Wu's Grieflessness / 東門吳之無憂]] — The story of Dongmen Wu, who remained unmoved by his son's death because he had previously been without a son and felt no loss.
 - [[force-fate-debate-liezi|Force and Fate Debate / 力命之辯]] — The philosophical dialogue between Force (力) and Fate (命) exploring whether human effort or destiny determines life outcomes.
@@ -739,6 +743,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[self-generating-life-death|Self-Generating Life and Death / 自生自死]] — The Liezi doctrine that life, death, prosperity, and poverty arise spontaneously from fate, not from human control.
 - [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
 - [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
+- [[仁者|仁者 / Benevolent Person]] — A person who has cultivated and embodies the Confucian virtue of benevolence (仁), serving as a moral exemplar.
 
 ## Classical Chinese Thought
 
@@ -759,6 +764,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Classical-Chinese-Philosophy
 
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
+- [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
@@ -785,6 +791,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Classical-Texts
 
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
+- [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
 
 ## Classification
 
@@ -905,6 +912,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
+- [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
 - [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
@@ -934,6 +942,9 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
 - [[unsummoned-ministers-bu-zhao-zhi-chen|Unsummoned Ministers / 不召之臣]] — A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.
 - [[yan-hui|Yan Hui / 颜回 / 顔回]] — Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment in poverty
+- [[仁爱|Ren'ai / 仁爱]] — The supreme virtue of humaneness and compassion in Confucian philosophy, representing the foundation of ethical behavior and ideal human relationships.
+- [[仁者|仁者 / Benevolent Person]] — A person who has cultivated and embodies the Confucian virtue of benevolence (仁), serving as a moral exemplar.
+- [[君子|Junzi / 君子]] — The Confucian ideal of a morally cultivated person who embodies virtue and proper conduct.
 - [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
 
 ## Confucius
@@ -1083,6 +1094,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[mahayana-dharani-of-compassion|大乘悲分陀利經 / Mahāyāna Dhāraṇī of Compassion]] — A Mahāyāna sutra describing the Lotus World, the Lotus-Up Tathāgata, and the profound dhāraṇī practices for achieving supreme enlightenment.
 - [[void-seal-bodhisattva|虛空印菩薩 / Void Seal Bodhisattva (Xūkōng Yìn Púsà)]] — A bodhisattva in Mahāyāna Buddhism who received the teaching of all-knowledge dhāraṇī and later became the Lotus-Up Tathāgata in the Lotus World.
 
+## Dharma-Gate
+
+- [[心地法門|Mind-Ground Dharma Gate / 心地法門]] — A central Buddhist practice of cultivating and contemplating the mind-ground as the basis of spiritual awakening.
+
 ## Dhutanga
 
 - [[toutuo-xing|頭陀行 / Dhutanga Practices]] — 頭陀行乃佛教十三種清淨苦行，修習此法可去衣、食、住之貪著，速得解脫
@@ -1169,6 +1184,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
 - [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 - [[virama-bodhisattva-pusajiamo|Vīrāma (毘羅摩) — Bodhisattva of Giving]] — A minister's son who became chief minister and exemplified the perfection of giving through vast generosity and skillful means.
+
+## Early-Buddhist-Schools
+
+- [[mahasanghika|Mahāsaṃghika / 大眾部 / マハーサングヒカ]] — An early Buddhist school known for its transcendent conception of the Buddha and its influence on Mahāyāna developments.
 
 ## Early-Buddhist-Translations
 
@@ -1265,6 +1284,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
+- [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
 - [[governance-leadership|Governance and Leadership / 治理与领导]] — Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
@@ -1273,6 +1293,8 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
 - [[moral-equality-four-castes-buddhism|Moral Equality of the Four Castes in Buddhism / 佛教四姓道德平等說]] — The Buddhist doctrine that all four social castes are equal in moral agency and spiritual potential, regardless of birth.
 - [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
+- [[仁爱|Ren'ai / 仁爱]] — The supreme virtue of humaneness and compassion in Confucian philosophy, representing the foundation of ethical behavior and ideal human relationships.
+- [[君子|Junzi / 君子]] — The Confucian ideal of a morally cultivated person who embodies virtue and proper conduct.
 
 ## Etiquette
 
@@ -1673,6 +1695,10 @@ Potential Tags: "Mencius"
 
 - [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
 
+## Ideal Person
+
+- [[君子|Junzi / 君子]] — The Confucian ideal of a morally cultivated person who embodies virtue and proper conduct.
+
 ## Illusion
 
 - [[dream-reality-confusion-liezi|Confusion of Dreams and Reality / 夢覺不分 / 夢と現実の混同]] — The Liezi philosophical anecdotes exploring the boundary between dreams and waking life, including the servant who dreamed of kingship and the firewood collector's deer.
@@ -1950,6 +1976,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[si-en-four-graces-buddhism|Four Graces / 四恩 / 四恩]] — Buddhist doctrine of repaying four kinds of kindness: parents, sentient beings, ruler, and Triple Gem
 - [[void-seal-bodhisattva|虛空印菩薩 / Void Seal Bodhisattva (Xūkōng Yìn Púsà)]] — A bodhisattva in Mahāyāna Buddhism who received the teaching of all-knowledge dhāraṇī and later became the Lotus-Up Tathāgata in the Lotus World.
 - [[如来八寶塔-eight-tathagata-stupas|Eight Tathāgata Stupas / 如來八寶塔 / 如来八宝塔]] — The eight sacred stupas representing key events in the Buddha's life, described in the Mahāyāna Mind-Ground Contemplation Sūtra
+- [[心地法門|Mind-Ground Dharma Gate / 心地法門]] — A central Buddhist practice of cultivating and contemplating the mind-ground as the basis of spiritual awakening.
 
 ## Mahayana-Buddhism
 
@@ -1964,6 +1991,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 ## Mahayana-Origin-Story
 
 - [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
+
+## Mahayana-Origins
+
+- [[mahasanghika|Mahāsaṃghika / 大眾部 / マハーサングヒカ]] — An early Buddhist school known for its transcendent conception of the Buddha and its influence on Mahāyāna developments.
 
 ## Mahayana-Philosophy
 
@@ -2009,6 +2040,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 - [[twelve-links-dependent-origination|Twelve Links of Dependent Origination / 十二因緣]] — The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.
 - [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
+- [[心地法門|Mind-Ground Dharma Gate / 心地法門]] — A central Buddhist practice of cultivating and contemplating the mind-ground as the basis of spiritual awakening.
 
 ## Meditation-Analogies
 
@@ -2122,6 +2154,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 ## Mind-Ground
 
 - [[da-cheng-ben-sheng-xin-di-guan-jing|大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground]] — A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.
+- [[心地法門|Mind-Ground Dharma Gate / 心地法門]] — A central Buddhist practice of cultivating and contemplating the mind-ground as the basis of spiritual awakening.
 
 ## Mind-Ground-Contemplation
 
@@ -2208,6 +2241,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 ## Moral-Development
 
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
+
+## Moral-Exemplar
+
+- [[仁者|仁者 / Benevolent Person]] — A person who has cultivated and embodies the Confucian virtue of benevolence (仁), serving as a moral exemplar.
 
 ## Moral-Legitimacy
 
@@ -2432,6 +2469,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[twelve-links-dependent-origination|Twelve Links of Dependent Origination / 十二因緣]] — The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.
 - [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
+- [[仁爱|Ren'ai / 仁爱]] — The supreme virtue of humaneness and compassion in Confucian philosophy, representing the foundation of ethical behavior and ideal human relationships.
 
 ## Philosophy-Of-Mind
 
@@ -2647,6 +2685,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
+- [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
 - [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
 - [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
@@ -2796,12 +2835,14 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
 - [[confucian-ethics|Confucian Ethics / 儒家伦理]] — This article explores the key concepts of Confucian ethics as presented in the Analects, focusing on filial piety and social conduct.
 - [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
+- [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
 - [[doctrine-of-the-mean|Doctrine Of The Mean]] — 
 - [[four-noble-truths|Four Noble Truths / 四聖諦]] — The core Buddhist doctrine summarizing the nature of suffering, its origin, cessation, and the path to liberation.
 - [[great-brahma-king|Great Brahma King / 大梵天王]] — A celestial deity in Buddhist cosmology who taught the Four Bases of Supernatural Power at the Thirty-three Heavens.
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
 - [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
 - [[initial-awakening|Initial Awakening / 初發心 / 初発の覚醒]] — An early stage of spiritual realization in Buddhist practice, marking the first awakening on the path to liberation.
+- [[mahasanghika|Mahāsaṃghika / 大眾部 / マハーサングヒカ]] — An early Buddhist school known for its transcendent conception of the Buddha and its influence on Mahāyāna developments.
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[ministerial-responsibility|Ministerial Responsibility / 臣責]] — A concept in Chinese political philosophy concerning the duties and obligations of ministers toward their rulers.
 - [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
@@ -2810,7 +2851,11 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
 - [[七覺意注-(安世高)|Seven Factors of Enlightenment Commentary (An Shigao) / 七覺意注（安世高）]] — An early Chinese commentary by An Shigao on the seven factors of enlightenment within the thirty‑seven bodhiparamitas.
 - [[五根五力注-(安世高)|Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)]] — Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.
+- [[仁爱|Ren'ai / 仁爱]] — The supreme virtue of humaneness and compassion in Confucian philosophy, representing the foundation of ethical behavior and ideal human relationships.
+- [[仁者|仁者 / Benevolent Person]] — A person who has cultivated and embodies the Confucian virtue of benevolence (仁), serving as a moral exemplar.
+- [[君子|Junzi / 君子]] — The Confucian ideal of a morally cultivated person who embodies virtue and proper conduct.
 - [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
+- [[心地法門|Mind-Ground Dharma Gate / 心地法門]] — A central Buddhist practice of cultivating and contemplating the mind-ground as the basis of spiritual awakening.
 
 ## Stupa
 
@@ -3115,6 +3160,8 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
 - [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
+- [[仁爱|Ren'ai / 仁爱]] — The supreme virtue of humaneness and compassion in Confucian philosophy, representing the foundation of ethical behavior and ideal human relationships.
+- [[君子|Junzi / 君子]] — The Confucian ideal of a morally cultivated person who embodies virtue and proper conduct.
 
 ## Virtue-Cultivation
 
@@ -3138,6 +3185,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
 - [[tian-xia-you-da-zun-san|Three Universally Honored Things / 天下有三尊]] — Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.
 - [[yan-hui|Yan Hui / 颜回 / 顔回]] — Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment in poverty
+- [[仁者|仁者 / Benevolent Person]] — A person who has cultivated and embodies the Confucian virtue of benevolence (仁), serving as a moral exemplar.
 
 ## Virtue-Theory
 
@@ -3269,4 +3317,4 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 
 ---
-*227 articles indexed*
+*233 articles indexed*

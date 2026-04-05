@@ -646,6 +646,22 @@
     "sources": []
   },
   {
+    "slug": "doctrine-of-the-mean-(zhongyong)",
+    "title": "Doctrine of the Mean (Zhongyong) / 中庸",
+    "summary": "A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.",
+    "tags": [
+      "chinese-classics",
+      "chinese-philosophy",
+      "classical-chinese-philosophy",
+      "classical-texts",
+      "confucianism",
+      "ethics",
+      "self-cultivation",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "doctrine-of-the-mean-zhongyong",
     "title": "Doctrine of the Mean (Zhongyong) / 中庸",
     "summary": "A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.",
@@ -1720,6 +1736,18 @@
       "monastic-education",
       "sarvastivada",
       "doctrinal-organization"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mahasanghika",
+    "title": "Mahāsaṃghika / 大眾部 / マハーサングヒカ",
+    "summary": "An early Buddhist school known for its transcendent conception of the Buddha and its influence on Mahāyāna developments.",
+    "tags": [
+      "early-buddhist-schools",
+      "mahayana-origins",
+      "buddhist-doctrine",
+      "stub"
     ],
     "sources": []
   },
@@ -3088,6 +3116,45 @@
     "sources": []
   },
   {
+    "slug": "仁爱",
+    "title": "Ren'ai / 仁爱",
+    "summary": "The supreme virtue of humaneness and compassion in Confucian philosophy, representing the foundation of ethical behavior and ideal human relationships.",
+    "tags": [
+      "confucianism",
+      "virtue",
+      "ethics",
+      "philosophy",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "仁者",
+    "title": "仁者 / Benevolent Person",
+    "summary": "A person who has cultivated and embodies the Confucian virtue of benevolence (仁), serving as a moral exemplar.",
+    "tags": [
+      "confucianism",
+      "virtue-ethics",
+      "chinese-philosophy",
+      "moral-exemplar",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "君子",
+    "title": "Junzi / 君子",
+    "summary": "The Confucian ideal of a morally cultivated person who embodies virtue and proper conduct.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue",
+      "ideal person",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "如来八寶塔-eight-tathagata-stupas",
     "title": "Eight Tathāgata Stupas / 如來八寶塔 / 如来八宝塔",
     "summary": "The eight sacred stupas representing key events in the Buddha's life, described in the Mahāyāna Mind-Ground Contemplation Sūtra",
@@ -3109,6 +3176,20 @@
       "confucianism",
       "political philosophy",
       "chinese philosophy",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "心地法門",
+    "title": "Mind-Ground Dharma Gate / 心地法門",
+    "summary": "A central Buddhist practice of cultivating and contemplating the mind-ground as the basis of spiritual awakening.",
+    "tags": [
+      "buddhism",
+      "mahayana",
+      "meditation",
+      "mind-ground",
+      "dharma-gate",
       "stub"
     ],
     "sources": []

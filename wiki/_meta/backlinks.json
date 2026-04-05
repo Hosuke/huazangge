@@ -32,14 +32,17 @@
     "fixed-livelihood",
     "benevolent-government-ren-zheng",
     "junzi",
+    "仁爱",
     "mengzi-seven-chapters-structural-analysis",
     "human-harmony-he-ren",
+    "仁者",
     "confucian-trust-verification",
     "benevolence",
     "bodhisattva-sacrifice-king-changshou",
     "confucian-political-philosophy",
     "confucian-ethics",
     "wang-dao-true-king-hegemon",
+    "君子",
     "extending-kindness-pushing-grace-tui-en",
     "mengzi-people-heart-minjian",
     "unsummoned-ministers-bu-zhao-zhi-chen",
@@ -124,6 +127,7 @@
     "mengzi-political-philosophy-benevolent-rule",
     "benevolent-government-ren-zheng",
     "five-hundred-years-sage-king-cycles",
+    "doctrine-of-the-mean-(zhongyong)",
     "mengzi-seven-chapters-structural-analysis",
     "human-harmony-he-ren",
     "great-learning-daxue",
@@ -177,6 +181,7 @@
     "confucian-ethics",
     "knowledge-learning",
     "five-virtues-four-vices",
+    "君子",
     "junzi-characteristics",
     "doctrine-of-the-mean-zhongyong"
   ],
@@ -207,11 +212,13 @@
   ],
   "doctrine-of-the-mean": [
     "five-hundred-years-sage-king-cycles",
+    "doctrine-of-the-mean-(zhongyong)",
     "understanding-heaven-knowing-fate-liezi",
     "doctrine-of-the-mean"
   ],
-  "doctrine-of-the-mean-zhongyong": [
+  "doctrine-of-the-mean-(zhongyong)": [
     "five-hundred-years-sage-king-cycles",
+    "doctrine-of-the-mean-(zhongyong)",
     "understanding-heaven-knowing-fate-liezi",
     "great-learning-daxue",
     "confucius-western-saint-liezi",
@@ -238,6 +245,7 @@
   ],
   "human-nature": [
     "twelve-links-dependent-origination",
+    "doctrine-of-the-mean-(zhongyong)",
     "understanding-heaven-knowing-fate-liezi",
     "mengzi-seven-chapters-structural-analysis",
     "confucian-trust-verification",
@@ -277,6 +285,22 @@
   "initial-awakening": [
     "san-fa-du-lun-three-dharmas-treatise"
   ],
+  "心地觀": [
+    "心地法門"
+  ],
+  "si-en-four-graces-buddhism": [
+    "心地法門",
+    "da-cheng-ben-sheng-xin-di-guan-jing"
+  ],
+  "da-cheng-ben-sheng-xin-di-guan-jing": [
+    "心地法門",
+    "da-cheng-ben-sheng-xin-di-guan-jing",
+    "xu-fen-buddhist-prologue",
+    "san-chong-guan-threefold-contemplation"
+  ],
+  "大乗本生心地観経": [
+    "心地法門"
+  ],
   "knowledge-learning": [
     "junzi",
     "confucian-trust-verification",
@@ -311,14 +335,12 @@
   ],
   "儒家自省": [
     "junzi",
+    "仁爱",
+    "仁者",
     "confucian-trust-verification",
     "benevolence",
-    "confucian-ethics"
-  ],
-  "仁愛": [
-    "junzi",
-    "benevolence",
-    "confucian-self-examination"
+    "confucian-ethics",
+    "君子"
   ],
   "知識学習": [
     "junzi",
@@ -409,6 +431,8 @@
   "君子": [
     "junzi",
     "confucius-analects",
+    "仁爱",
+    "仁者",
     "confucian-trust-verification",
     "benevolence",
     "confucian-sincerity-cheng",
@@ -422,10 +446,28 @@
     "junzi",
     "benevolence"
   ],
+  "four-books": [
+    "doctrine-of-the-mean-(zhongyong)",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "四书": [
+    "doctrine-of-the-mean-(zhongyong)"
+  ],
+  "四書": [
+    "doctrine-of-the-mean-(zhongyong)",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "儒教政治哲学": [
+    "doctrine-of-the-mean-(zhongyong)"
+  ],
   "修身": [
     "understanding-heaven-knowing-fate-liezi",
     "confucian-sincerity-cheng",
     "doctrine-of-the-mean-zhongyong"
+  ],
+  "仁者": [
+    "仁爱",
+    "benevolence"
   ],
   "changahan-jing": [
     "kumarrow-translation-commentary",
@@ -677,9 +719,6 @@
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "benevolent": [
-    "benevolence"
-  ],
-  "仁者": [
     "benevolence"
   ],
   "孟子の政治哲学": [
@@ -945,7 +984,7 @@
     "force-fate-debate-liezi",
     "self-generating-life-death"
   ],
-  "thirty-seven-factors-enlightenment": [
+  "thirty-seven-bodhiparamitas-an-shigao": [
     "seven-factors-awakening-an-shigao-commentary",
     "four-right-exertions-an-shigao-commentary",
     "five-roots-five-powers-an-shigao-commentary",
@@ -1041,16 +1080,8 @@
   "xianshou-wu-jiao": [
     "da-cheng-ben-sheng-xin-di-guan-jing"
   ],
-  "si-en-four-graces-buddhism": [
-    "da-cheng-ben-sheng-xin-di-guan-jing"
-  ],
   "心地法門": [
     "da-cheng-ben-sheng-xin-di-guan-jing"
-  ],
-  "da-cheng-ben-sheng-xin-di-guan-jing": [
-    "da-cheng-ben-sheng-xin-di-guan-jing",
-    "xu-fen-buddhist-prologue",
-    "san-chong-guan-threefold-contemplation"
   ],
   "shi-bao-teachings-numerical-classification": [
     "an-shigao-translation-methodology"
@@ -1271,12 +1302,6 @@
   ],
   "如來八難得": [
     "seven-buddhas-current-kalpa"
-  ],
-  "four-books": [
-    "doctrine-of-the-mean-zhongyong"
-  ],
-  "四書": [
-    "doctrine-of-the-mean-zhongyong"
   ],
   "fourfold-noble-path": [
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
