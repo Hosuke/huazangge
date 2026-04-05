@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-05T06:02:12.332856+00:00
+updated: 2026-04-05T06:26:49.131970+00:00
 ---
 
 # Knowledge Base Index
@@ -99,6 +99,10 @@ Let me craft a concise one-line summary:
 
 The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
 
+## ...
+
+- [[人性善|... / ...]] — ...
+
 ## 2-4 Tags.
 
 We Need To Interpret The Article'S Content: It'S About Mencius
@@ -188,6 +192,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[san-chong-guan-threefold-contemplation|三種觀 / Threefold Contemplation Practice]] — The three meditation methods of empty view, phenomenal view, and middle way observation central to Mahayana Buddhist practice.
 
+## Abhidharma
+
+- [[three-dharmas-framework-buddhism|Three Dharmas / 三法 / 三法]] — A Buddhist doctrinal framework classifying all phenomena into three categories: virtue (德), evil (惡), and basis (依), each containing three subcategories.
+
 ## Adversity
 
 - [[adversity-birth-comfort-death|Born from Hardship, Death from Comfort / 生于忧患，死于安乐]] — Mencius's philosophical thesis that adversity and suffering are essential for moral development, while comfort and prosperity lead to moral decline and national ruin.
@@ -230,7 +238,9 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
 - [[mind-stillness-buddhist-meditation-stone-water|Mind Stillness Analogies in Buddhist Meditation / 持心如石與心如流水 / 仏教瞑想における心の静止の比喩]] — Two key meditation analogies—holding the mind like stone and the mind flowing like water—from the Ahang正行經 for achieving mental stability and understanding impermanence.
 - [[seven-factors-awakening-an-shigao-commentary|Seven Factors of Awakening / 七覺意]] — The Seven Factors of Awakening (念、择法、精进、喜、轻安、定、捨) as explained in An Shigao's Han Dynasty Buddhist commentary.
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
 - [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
+- [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 
 ## Analects
 
@@ -260,6 +270,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Ananda
 
 - [[ananda-compiled-scriptures|阿難集經 Ānanda's Compilation of the Buddhist Canon]] — The Buddha's attendant who compiled the sutras after the Buddha's parinirvana, organizing them into the three treasures and four collections.
+- [[ten-remembrances-buddhist-meditation|Ten Remembrances / 十念]] — A Buddhist meditation practice involving ten objects of mindfulness, from the Commentary on Classifying Merit.
 
 ## Anapana
 
@@ -284,6 +295,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Arhat
 
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
+- [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
 - [[fenbie-gongde-lun|分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)]] — A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.
 - [[great-firm-brahman-backstory|The Origin Story of the Great Firm Brāhmaṇa / 大堅固婆羅門緣起]] — A Buddhist sūtra recounting how King Linu's minister Mahākakuda meets the Buddha, attains stream-entry, renounces worldly life, and becomes an arhat, inspiring seven kings, seven thousand brāhmaṇas, and countless laypeople to follow the Dharma.
 - [[great-firm-brahman|The Great Firm Brahman / 大堅固婆羅門]] — A jātaka-like narrative about a minister named Humeng who became an arhat through renunciation and taught the Dharma, later identified as a past life of the Buddha.
@@ -339,6 +351,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
 
+## Bodhiparamitas
+
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
+
 ## Bodhisattva-Practice
 
 - [[bao-en-pin|報恩品 / The Chapter on Repaying Kindness (Bao'en Pin)]] — A major chapter of the Mahāyāna Sūtra on the Cultivation of the Mind-Ground, systematically explaining the Buddhist doctrine of repaying four kinds of kindness.
@@ -388,6 +404,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Buddhism
 
+- [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
 - [[eightfold-noble-path-human-immortal-sutra|Eightfold Noble Path (Human Immortal Sutra) / 八正道]] — The Eightfold Noble Path as expounded in the Sutra of the Human Immortal, taught by Mahabrahma Deva as the method for achieving pure contemplation and liberation.
 - [[four-bases-supernatural-power-siddhartha|Four Bases of Supernatural Power / 四神足]] — The Four Bases of Supernatural Power (rddhipāda) taught by Mahabrahma Deva, describing the spiritual faculties of desire, endeavor, mind, and investigation.
 - [[four-castes-origin-buddhist-cosmology|Buddhist Origin of the Four Castes / 四姓起源]] — Buddhist cosmological account of how the four varnas (brahman, kshatriya, vaishya, shudra) arose from primordial beings and the Buddha's teaching on karmic equality.
@@ -445,16 +462,19 @@ The article and supplementary source detail the progressive renunciation process
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 - [[four-inversions-buddhist|Four Inversions / 四顛倒 / 四颠倒]] — The four inverted or perverted views that afflict sentient beings, mistaking suffering as happiness, impermanence as permanence, non-self as self, and impurity as purity.
 - [[san-fa-du-lun-three-dharmas-treatise|Three Dharmas Treatise (三法度論)]] — A Buddhist philosophical treatise organized into three sections explaining virtue, evil, and liberation paths.
+- [[three-dharmas-framework-buddhism|Three Dharmas / 三法 / 三法]] — A Buddhist doctrinal framework classifying all phenomena into three categories: virtue (德), evil (惡), and basis (依), each containing three subcategories.
 - [[three-evil-roots-buddhist|Three Evil Roots / 三惡本 / 三悪根本]] — The three fundamental sources of unwholesome karma: greed (贪), hatred (恚), and delusion (痴), from which all other evils arise.
 - [[twelve-links-dependent-origination|Twelve Links of Dependent Origination / 十二因緣]] — The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.
 
 ## Buddhist-Ethics
 
 - [[defilement-accumulation-in-practice|Defilement Accumulation in Religious Practice / 修行中的烦恼随增]] — Buddhist teaching that external religious practices can still accumulate mental defilements when motivated by pride, desire for respect, jealousy, or other afflictions.
+- [[evil-classification-buddhism-e|Evil and Unwholesome Qualities / 惡 / 悪]] — Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.
 - [[four-types-people-self-other-care-buddhist|Four Types of People: Self-Care and Care for Others / 四等人自護護他]] — A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.
 - [[nine-unnatural-deaths-buddhist|Nine Unnatural/Unexplained Deaths / 九橫 / 九横]] — Nine categories of untimely deaths caused by preventable causes such as improper eating, wrong conduct, and association with evil companions.
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
 - [[three-dharmas-buddhist-philosophy|Three Dharmas / 三法]] — A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.
+- [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
 
 ## Buddhist-Hermeneutics
 
@@ -480,6 +500,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[four-right-exertions-an-shigao-commentary|Four Right Exertions / 四意斷]] — The Four Right Exertions (四意斷) as explained in An Shigao's Han Dynasty commentary on Buddhist meditation practice.
 - [[mind-stillness-buddhist-meditation-stone-water|Mind Stillness Analogies in Buddhist Meditation / 持心如石與心如流水 / 仏教瞑想における心の静止の比喩]] — Two key meditation analogies—holding the mind like stone and the mind flowing like water—from the Ahang正行經 for achieving mental stability and understanding impermanence.
 - [[seven-factors-awakening-an-shigao-commentary|Seven Factors of Awakening / 七覺意]] — The Seven Factors of Awakening (念、择法、精进、喜、轻安、定、捨) as explained in An Shigao's Han Dynasty Buddhist commentary.
+- [[ten-remembrances-buddhist-meditation|Ten Remembrances / 十念]] — A Buddhist meditation practice involving ten objects of mindfulness, from the Commentary on Classifying Merit.
 
 ## Buddhist-Narrative
 
@@ -499,6 +520,7 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[lan-ruo|蘭若 / Forest Hermitage Practice]] — 蘭若指佛教修行者居住之寂靜處所，遠離喧鬧，修習頭陀行與止觀禪定
 - [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
+- [[upaya-expedient-means-buddhism|Expedient Means / 方便 / 方便]] — Buddhist concept of upaya (expedient means) as the practical methods and path structures for achieving spiritual liberation.
 
 ## Buddhist-Psychology
 
@@ -595,7 +617,9 @@ The article and supplementary source detail the progressive renunciation process
 - [[kumarrow-translation-commentary|Kumārajīva's Translation Methodology in Four Āgamas Commentary / 鳩摩羅什譯經方法]] — Documentation of Kumārajīva's translation practices during the Former Qin dynasty, including team translation methods and philological approaches.
 - [[shi-men-tong-pan|十門通判 / Ten-Fold Framework for Sutra Exposition]] — A systematic ten-category methodology for analyzing and expounding Buddhist sutras, originating with Xianshou Fazang and elaborated by later masters.
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
 - [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
+- [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 - [[xianshou-wu-jiao|賢首五教 / Five Teachings of Xianshou / 賢首五教（けんじゅぎょう）]] — A five-tiered doctrinal classification system developed by Fazang (Xianshou) of the Huayan school, categorizing all Buddhist teachings from Hinayana to the highest Yogacara-Tathagatagarbha doctrines.
 
 ## Chinese-Buddhism-History
@@ -684,6 +708,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Classical-Texts
 
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
+
+## Classification
+
+- [[three-dharmas-framework-buddhism|Three Dharmas / 三法 / 三法]] — A Buddhist doctrinal framework classifying all phenomena into three categories: virtue (德), evil (惡), and basis (依), each containing three subcategories.
 
 ## Comma-Separated
 
@@ -878,7 +906,12 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Cultivation
 
+- [[upaya-expedient-means-buddhism|Expedient Means / 方便 / 方便]] — Buddhist concept of upaya (expedient means) as the practical methods and path structures for achieving spiritual liberation.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
+
+## Cyclic-Existence
+
+- [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 
 ## Dana
 
@@ -904,6 +937,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Dependent-Origination
 
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
+- [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 
 ## Desire-Effort-Mind-Contemplation
 
@@ -969,6 +1003,8 @@ The article and supplementary source detail the progressive renunciation process
 - [[five-aggregates-seven-aspects-an-shigao|Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法]] — An Shigao's systematic method of analyzing each of the five aggregates (form, feeling, perception, formations, consciousness) through seven contemplative aspects.
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 - [[four-types-people-self-other-care-buddhist|Four Types of People: Self-Care and Care for Others / 四等人自護護他]] — A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
+- [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 
 ## Early-Buddhist-Translations
 
@@ -987,6 +1023,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Eastern-Jin-Dynasty
 
 - [[san-fa-du-lun-three-dharmas-treatise|Three Dharmas Treatise (三法度論)]] — A Buddhist philosophical treatise organized into three sections explaining virtue, evil, and liberation paths.
+- [[three-dharmas-framework-buddhism|Three Dharmas / 三法 / 三法]] — A Buddhist doctrinal framework classifying all phenomena into three categories: virtue (德), evil (惡), and basis (依), each containing three subcategories.
 
 ## Economic-Ethics
 
@@ -1079,7 +1116,12 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Evil
 
+- [[evil-classification-buddhism-e|Evil and Unwholesome Qualities / 惡 / 悪]] — Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.
 - [[three-dharmas-buddhist-philosophy|Three Dharmas / 三法]] — A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.
+
+## Expedient-Means
+
+- [[upaya-expedient-means-buddhism|Expedient Means / 方便 / 方便]] — Buddhist concept of upaya (expedient means) as the practical methods and path structures for achieving spiritual liberation.
 
 ## Faith
 
@@ -1108,6 +1150,14 @@ The article and supplementary source detail the progressive renunciation process
 - [[five-aggregates-seven-aspects-an-shigao|Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法]] — An Shigao's systematic method of analyzing each of the five aggregates (form, feeling, perception, formations, consciousness) through seven contemplative aspects.
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 - [[four-foundations-mindfulness-an-shigao-commentary|Four Foundations of Mindfulness / 四意止]] — The Four Foundations of Mindfulness (四意止) as interpreted in An Shigao's Han Dynasty commentary on the Satipatthana Sutra.
+
+## Five-Powers
+
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
+
+## Five-Roots
+
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
 
 ## Forest-Monasticism
 
@@ -1143,6 +1193,7 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Four-Beginnings-Mencius
 
+- [[born-in-adversity-die-in-comfort|Born in Adversity, Die in Comfort / 生于忧患，死于安乐]] — Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.
 - [[mengzi-universal-sagehood-potential|Universal Potential for Sagehood / 人皆可以为尧舜]] — Mencius' doctrine that every person possesses the innate capacity to become a sage like Yao and Shun, emphasizing moral agency and cultivation.
 
 ## Four-Benefactors
@@ -1178,13 +1229,22 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[bao-en-pin|報恩品 / The Chapter on Repaying Kindness (Bao'en Pin)]] — A major chapter of the Mahāyāna Sūtra on the Cultivation of the Mind-Ground, systematically explaining the Buddhist doctrine of repaying four kinds of kindness.
 
+## Four-Mindfulness
+
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
+
 ## Four-Precepts
 
 - [[niyagrodha-brahma-sutra-discourse|The Discourse on Niḡrodha Brahmā / 佛說尼拘陀梵志經]] — A Mahāyāna sutra depicting the Buddha's discourse with the ascetic Niḡrodha, critiquing false ascetic practices and demonstrating the nature of true Buddhist practice.
 
+## Four-Right-Exertions
+
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
+
 ## Four-Supernatural-Powers
 
 - [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
 
 ## Gaozi
 
@@ -1207,6 +1267,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Gift-Giving
 
 - [[mengzi-gift-accepting-principles|Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿]] — Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.
+
+## Giving
+
+- [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
 
 ## Google-Ai
 
@@ -1341,6 +1405,7 @@ Potential Tags: "Mencius"
 
 ## Human-Nature
 
+- [[born-in-adversity-die-in-comfort|Born in Adversity, Die in Comfort / 生于忧患，死于安乐]] — Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.
 - [[four-beginnings-mencius-doctrine|Four Beginnings (四端說) / 四端說]] — Mencius's doctrine of the four moral sprouts—compassion, shame, deference, and judgment of right and wrong—that constitute the innate foundation of human goodness.
 - [[four-beginnings-mencius|Four Beginnings / 四端說 / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts corresponding to benevolence, righteousness, propriety, and wisdom.
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
@@ -1414,6 +1479,10 @@ Potential Tags: "Mencius"
 ## King-Wen
 
 - [[shared-joy-with-the-people-yu-min-xie-le|Shared Joy with the People (與民偕樂) / 民と偕に楽む]] — Mencius's principle that rulers should share enjoyment with the people, not hoard pleasures for themselves.
+
+## Klesha
+
+- [[evil-classification-buddhism-e|Evil and Unwholesome Qualities / 惡 / 悪]] — Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.
 
 ## Knowledge
 
@@ -1544,6 +1613,7 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Mahayana
 
+- [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
 - [[fenbie-gongde-lun|分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)]] — A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.
 - [[four-inversions-buddhist|Four Inversions / 四顛倒 / 四颠倒]] — The four inverted or perverted views that afflict sentient beings, mistaking suffering as happiness, impermanence as permanence, non-self as self, and impurity as purity.
 - [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
@@ -1588,6 +1658,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[nirodha-samapatti|滅盡定 Nirodhāsamāpatti / Absorption of Cessation]] — A Buddhist meditation attainment where all mental formations cease, enabling practitioners to grant present-world blessings to beings.
 - [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 - [[twelve-links-dependent-origination|Twelve Links of Dependent Origination / 十二因緣]] — The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.
+- [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
 
 ## Meditation-Analogies
 
@@ -1629,6 +1700,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[adversity-birth-comfort-death|Born from Hardship, Death from Comfort / 生于忧患，死于安乐]] — Mencius's philosophical thesis that adversity and suffering are essential for moral development, while comfort and prosperity lead to moral decline and national ruin.
 - [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
 - [[benevolent-invincible-renzhe-wudi|The Benevolent Are Invincible / 仁者無敵]] — Mencius' doctrine that a ruler who practices benevolent government will be undefeatable due to moral authority.
+- [[born-in-adversity-die-in-comfort|Born in Adversity, Die in Comfort / 生于忧患，死于安乐]] — Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.
 - [[de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu|De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助]] — The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.
 - [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
 - [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
@@ -1687,6 +1759,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Merit
 
 - [[three-dharmas-buddhist-philosophy|Three Dharmas / 三法]] — A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.
+- [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
 
 ## Merit-Giving
 
@@ -1721,11 +1794,16 @@ The article and supplementary source detail the progressive renunciation process
 ## Mindfulness
 
 - [[four-foundations-mindfulness-an-shigao-commentary|Four Foundations of Mindfulness / 四意止]] — The Four Foundations of Mindfulness (四意止) as interpreted in An Shigao's Han Dynasty commentary on the Satipatthana Sutra.
+- [[ten-remembrances-buddhist-meditation|Ten Remembrances / 十念]] — A Buddhist meditation practice involving ten objects of mindfulness, from the Commentary on Classifying Merit.
 
 ## Ministerial-Advice
 
 - [[mengzi-righteousness-profit-debate|Mencius on Righteousness vs. Profit / 孟子论义利]] — Mencius' argument that rulers should be persuaded through benevolence and righteousness rather than profit, with profound implications for political philosophy.
 - [[ministerial-responsibility-resignation|Official's Duty and Right to Resign / 有官守者，不得其職則去]] — The Confucian principle that officials must resign when they cannot fulfill their duties or speak their mind.
+
+## Misconduct
+
+- [[evil-classification-buddhism-e|Evil and Unwholesome Qualities / 惡 / 悪]] — Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.
 
 ## Model-Formats
 
@@ -1781,6 +1859,7 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Moral-Cultivation-Methods
 
+- [[born-in-adversity-die-in-comfort|Born in Adversity, Die in Comfort / 生于忧患，死于安乐]] — Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.
 - [[mengzi-universal-sagehood-potential|Universal Potential for Sagehood / 人皆可以为尧舜]] — Mencius' doctrine that every person possesses the innate capacity to become a sage like Yao and Shun, emphasizing moral agency and cultivation.
 
 ## Moral-Development
@@ -1876,9 +1955,14 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[mahakasyapa-buddhist-disciple-collected-sutras|迦葉 Mahākāśyapa / Mahākāśyapa and the Assembly of 84,000 Arhats]] — The Buddha's senior disciple who led the first council and is portrayed as having been a pratyekabuddha in a previous life.
 
+## Nirvana
+
+- [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
+
 ## Noble-Eightfold-Path
 
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
 
 ## Noble-Path
 
@@ -1945,6 +2029,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Past-Life-Narrative
 
 - [[great-firm-brahman|The Great Firm Brahman / 大堅固婆羅門]] — A jātaka-like narrative about a minister named Humeng who became an arhat through renunciation and taught the Dharma, later identified as a past life of the Buddha.
+
+## Path
+
+- [[upaya-expedient-means-buddhism|Expedient Means / 方便 / 方便]] — Buddhist concept of upaya (expedient means) as the practical methods and path structures for achieving spiritual liberation.
 
 ## Pedagogy
 
@@ -2049,6 +2137,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Pratyekabuddha
 
 - [[mahakasyapa-buddhist-disciple-collected-sutras|迦葉 Mahākāśyapa / Mahākāśyapa and the Assembly of 84,000 Arhats]] — The Buddha's senior disciple who led the first council and is portrayed as having been a pratyekabuddha in a previous life.
+
+## Precept
+
+- [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
 
 ## Precepts-Meditation
 
@@ -2195,6 +2287,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 
+## Seven-Awakening-Factors
+
+- [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
+
 ## Seven-Buddhas
 
 - [[seven-buddhas-current-kalpa|Seven Buddhas of the Current Kalpa / 七佛]] — The seven Buddhas who have appeared in the current kalpa, from Vipassin to Shakyamuni.
@@ -2216,6 +2312,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Six-Perfections
 
 - [[dana-paramita-bodhisattva-giving|Dāna Pāramitā / 檀波羅蜜 / 檀波羅蜜]] — The perfection of giving in Mahayana Buddhism, exemplified by bodhisattvas who sacrifice everything for the welfare of beings.
+- [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
 
 ## Small Body
 
@@ -2261,22 +2358,34 @@ The article and supplementary source detail the progressive renunciation process
 ## Stub
 
 - [[arhat-stages|English Title / 中文标题]] — One-line summary in English
+- [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
+- [[arhatship|English Title / 中文标题]] — One-line summary in English
 - [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
 - [[confucian|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system from ancient China that emphasizes moral cultivation, ritual propriety, and harmonious social relationships.
+- [[defilements|English Title / 中文标题]] — One-line summary in English
 - [[doctrine-of-the-mean-(zhongyong)|English Title / 中文标题]] — One-line summary in English
+- [[doctrine-of-the-mean|Doctrine Of The Mean]] — 
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
 - [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
+- [[mahābrahmā|English Title / 中文标题]] — One-line summary in English
 - [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
 - [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
 - [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
 - [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
 - [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
 - [[中庸|English Title / 中文标题]] — One-line summary in English
+- [[人仙|English Title / 中文标题]] — One-line summary in English
+- [[人性善|... / ...]] — ...
 - [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
 - [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
+- [[四神足|English Title / 中文标题]] — One-line summary in English
 - [[止觀|English Title / 中文标题]] — One-line summary in English
+
+## Suffering
+
+- [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 
 ## Supernatural-Powers
 
@@ -2310,19 +2419,29 @@ The article and supplementary source detail the progressive renunciation process
 ## Tag1
 
 - [[arhat-stages|English Title / 中文标题]] — One-line summary in English
+- [[arhatship|English Title / 中文标题]] — One-line summary in English
+- [[defilements|English Title / 中文标题]] — One-line summary in English
 - [[doctrine-of-the-mean-(zhongyong)|English Title / 中文标题]] — One-line summary in English
+- [[mahābrahmā|English Title / 中文标题]] — One-line summary in English
 - [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
 - [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
 - [[中庸|English Title / 中文标题]] — One-line summary in English
+- [[人仙|English Title / 中文标题]] — One-line summary in English
+- [[四神足|English Title / 中文标题]] — One-line summary in English
 - [[止觀|English Title / 中文标题]] — One-line summary in English
 
 ## Tag2
 
 - [[arhat-stages|English Title / 中文标题]] — One-line summary in English
+- [[arhatship|English Title / 中文标题]] — One-line summary in English
+- [[defilements|English Title / 中文标题]] — One-line summary in English
 - [[doctrine-of-the-mean-(zhongyong)|English Title / 中文标题]] — One-line summary in English
+- [[mahābrahmā|English Title / 中文标题]] — One-line summary in English
 - [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
 - [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
 - [[中庸|English Title / 中文标题]] — One-line summary in English
+- [[人仙|English Title / 中文标题]] — One-line summary in English
+- [[四神足|English Title / 中文标题]] — One-line summary in English
 - [[止觀|English Title / 中文标题]] — One-line summary in English
 
 ## Tang-Dynasty-Buddhism
@@ -2387,6 +2506,10 @@ Let me craft a concise one-line summary:
 
 The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
 
+## Theravada
+
+- [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
+
 ## Thirty-Seven-Factors
 
 - [[five-roots-five-powers-an-shigao-commentary|Five Roots and Five Powers / 五根五力]] — The Five Roots (信進念定慧) and Five Powers (信力精進力念力定力慧力) as expounded in An Shigao's Han Dynasty Buddhist commentary.
@@ -2403,10 +2526,19 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[four-agamas-commentary-commentary-on-four-collections|Four Āgamas Commentary / 四阿鋡暮抄解]] — A Buddhist philosophical commentary on the Four Āgamas discussing the Three Dharmas of merit, evil, and liberation.
 - [[three-dharmas-buddhist-philosophy|Three Dharmas / 三法]] — A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.
+- [[three-dharmas-framework-buddhism|Three Dharmas / 三法 / 三法]] — A Buddhist doctrinal framework classifying all phenomena into three categories: virtue (德), evil (惡), and basis (依), each containing three subcategories.
 
 ## Three-Jewels
 
 - [[great-firm-brahman-backstory|The Origin Story of the Great Firm Brāhmaṇa / 大堅固婆羅門緣起]] — A Buddhist sūtra recounting how King Linu's minister Mahākakuda meets the Buddha, attains stream-entry, renounces worldly life, and becomes an arhat, inspiring seven kings, seven thousand brāhmaṇas, and countless laypeople to follow the Dharma.
+
+## Three-Poisons
+
+- [[evil-classification-buddhism-e|Evil and Unwholesome Qualities / 惡 / 悪]] — Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.
+
+## Three-Roots
+
+- [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
 
 ## Three-Roots-Goodness
 
@@ -2415,6 +2547,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Three-Treasuries
 
 - [[ananda-compiled-scriptures|阿難集經 Ānanda's Compilation of the Buddhist Canon]] — The Buddha's attendant who compiled the sutras after the Buddha's parinirvana, organizing them into the three treasures and four collections.
+- [[ten-remembrances-buddhist-meditation|Ten Remembrances / 十念]] — A Buddhist meditation practice involving ten objects of mindfulness, from the Commentary on Classifying Merit.
 - [[three-treasuries-four-collections|三藏三分 Four Āgamas / Tripartite Canon and Quadruple Sūtra Collections]] — The organization of the Buddhist canon into three treasures and four sūtra collections, attributed to Ānanda's compilation guided by celestial beings.
 
 ## Three-Years-Mourning
@@ -2469,6 +2602,11 @@ The article and supplementary source detail the progressive renunciation process
 ## Twelve-Links
 
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
+- [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
+
+## Twelve-Nidanas
+
+- [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 
 ## Unity
 
@@ -2478,9 +2616,17 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
 
+## Unwholesome
+
+- [[evil-classification-buddhism-e|Evil and Unwholesome Qualities / 惡 / 悪]] — Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.
+
 ## Unwholesome Roots
 
 - [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
+
+## Upaya
+
+- [[upaya-expedient-means-buddhism|Expedient Means / 方便 / 方便]] — Buddhist concept of upaya (expedient means) as the practical methods and path structures for achieving spiritual liberation.
 
 ## Vaisravana
 
@@ -2513,6 +2659,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
+- [[born-in-adversity-die-in-comfort|Born in Adversity, Die in Comfort / 生于忧患，死于安乐]] — Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
@@ -2616,4 +2763,4 @@ The article and supplementary source detail the progressive renunciation process
 
 
 ---
-*190 articles indexed*
+*206 articles indexed*

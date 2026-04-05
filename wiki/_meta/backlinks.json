@@ -33,6 +33,7 @@
     "tian-shi-di-li-ren-he",
     "four-beginnings-mencius",
     "mengzi-righteousness-profit-debate",
+    "doctrine-of-the-mean",
     "knowledge-learning",
     "great-learning-da-xue",
     "mengzi-hegemon-true-king-ba-wang-distinction"
@@ -45,8 +46,10 @@
     "mengzi",
     "confucian",
     "four-beginnings-mencius-doctrine",
+    "人性善",
     "four-beginnings-mencius",
     "zhi-qing-relation",
+    "doctrine-of-the-mean",
     "han-dynasty-mencius-reception",
     "chaou-ke"
   ],
@@ -101,7 +104,9 @@
   ],
   "doctrine-of-the-mean": [
     "five-hundred-years-sage-king-cycles",
-    "中庸"
+    "中庸",
+    "人性善",
+    "doctrine-of-the-mean"
   ],
   "儒家政治哲學": [
     "five-hundred-years-sage-king-cycles",
@@ -111,8 +116,10 @@
   "中庸": [
     "five-hundred-years-sage-king-cycles",
     "中庸",
+    "人性善",
     "confucian-sincerity-cheng",
     "central-harmony-zhonghe",
+    "doctrine-of-the-mean",
     "great-learning-da-xue"
   ],
   "天命": [
@@ -141,6 +148,7 @@
     "mengzi-seven-chapters-structural-analysis",
     "confucian-trust-verification",
     "mengzi-haoran-qi-vast-flowing-vital-energy",
+    "born-in-adversity-die-in-comfort",
     "mengzi-four-beginnings-siduan",
     "four-beginnings-si-duan",
     "confucian-ethics",
@@ -274,7 +282,9 @@
   ],
   "confucian-sincerity-cheng": [
     "junzi",
+    "人性善",
     "central-harmony-zhonghe",
+    "doctrine-of-the-mean",
     "moral-cultivation-methods"
   ],
   "central-harmony-zhonghe": [
@@ -304,6 +314,8 @@
     "confucius-analects",
     "confucian-trust-verification",
     "benevolence",
+    "人性善",
+    "born-in-adversity-die-in-comfort",
     "human-nature",
     "confucian-sincerity-cheng",
     "confucius-analects-jishi",
@@ -312,6 +324,7 @@
     "four-beginnings-si-duan",
     "confucian-self-examination",
     "confucian-ethics",
+    "doctrine-of-the-mean",
     "knowledge-learning",
     "moral-cultivation-methods",
     "moral-responsibility",
@@ -324,6 +337,7 @@
     "confucius-analects",
     "confucian-trust-verification",
     "benevolence",
+    "人性善",
     "confucian-sincerity-cheng",
     "central-harmony-zhonghe",
     "confucian-self-examination",
@@ -388,6 +402,7 @@
   "twelve-links-dependent-origination": [
     "great-firm-brahmin-origin-sutra",
     "three-dharmas-buddhist-philosophy",
+    "twelve-links-dependent-origination-an-shigao-commentary",
     "five-thieves-buddhist-doctrine",
     "great-firm-brahman-backstory",
     "an-shigao-translated-agama-zhengxing-sutra",
@@ -397,16 +412,23 @@
     "four-inversions-buddhist",
     "four-agamas-commentary-commentary-on-four-collections",
     "mind-stillness-buddhist-meditation-stone-water",
+    "thirty-seven-bodhiparamitas-an-shigao-commentary",
     "seven-buddhas-current-kalpa"
   ],
   "xunzi": [
-    "confucian"
+    "confucian",
+    "人性善",
+    "doctrine-of-the-mean"
   ],
   "zhu-xi": [
-    "confucian"
+    "confucian",
+    "人性善",
+    "doctrine-of-the-mean"
   ],
   "wang-yangming": [
-    "confucian"
+    "confucian",
+    "人性善",
+    "doctrine-of-the-mean"
   ],
   "confucius": [
     "confucian",
@@ -414,7 +436,9 @@
     "knowing-destiny-rites-words"
   ],
   "neo-confucianism": [
-    "confucian"
+    "confucian",
+    "人性善",
+    "doctrine-of-the-mean"
   ],
   "li-(ritual)": [
     "confucian"
@@ -431,10 +455,12 @@
   "孟子": [
     "confucian",
     "four-beginnings-mencius-doctrine",
+    "人性善",
     "zhi-qing-relation"
   ],
   "荀子": [
-    "confucian"
+    "confucian",
+    "人性善"
   ],
   "新儒学": [
     "confucian"
@@ -526,7 +552,8 @@
     "doctrine-of-the-mean-zhongyong"
   ],
   "四端": [
-    "four-beginnings-mencius-doctrine"
+    "four-beginnings-mencius-doctrine",
+    "人性善"
   ],
   "浩然之氣": [
     "four-beginnings-mencius-doctrine"
@@ -631,6 +658,40 @@
     "mengzi-people-heart-minjian",
     "providing-people-sustenance-zhi-min-zhi-chan"
   ],
+  "thirty-seven-bodhiparamitas-an-shigao-commentary": [
+    "twelve-links-dependent-origination-an-shigao-commentary"
+  ],
+  "five-aggregates-seven-aspects-an-shigao": [
+    "twelve-links-dependent-origination-an-shigao-commentary"
+  ],
+  "four-noble-truths-an-shigao": [
+    "twelve-links-dependent-origination-an-shigao-commentary"
+  ],
+  "十二因緣": [
+    "twelve-links-dependent-origination-an-shigao-commentary",
+    "human-immortal-sutra-ren-xian-jing",
+    "an-shigao-translated-agama-zhengxing-sutra",
+    "baiyi-jinzhuang-brahmin-origin-sutra",
+    "thirty-seven-bodhiparamitas-an-shigao-commentary",
+    "seven-buddhas-current-kalpa"
+  ],
+  "三十七品道品注-(安世高)": [
+    "twelve-links-dependent-origination-an-shigao-commentary"
+  ],
+  "五陰七事注-(安世高)": [
+    "twelve-links-dependent-origination-an-shigao-commentary"
+  ],
+  "四聖諦注-(安世高)": [
+    "twelve-links-dependent-origination-an-shigao-commentary"
+  ],
+  "十二因縁": [
+    "twelve-links-dependent-origination-an-shigao-commentary",
+    "an-shigao-translated-agama-zhengxing-sutra",
+    "baiyi-jinzhuang-brahmin-origin-sutra",
+    "thirty-seven-bodhiparamitas-an-shigao-commentary",
+    "changahan-jing",
+    "seven-buddhas-current-kalpa"
+  ],
   "benevolent": [
     "benevolence"
   ],
@@ -665,6 +726,38 @@
   "five-aggregates-contemplation-buddhist": [
     "five-thieves-buddhist-doctrine"
   ],
+  "four-beginnings-mencius-doctrine": [
+    "人性善",
+    "doctrine-of-the-mean",
+    "four-contemplations-buddhist-practice-ahang"
+  ],
+  "four-beginnings": [
+    "人性善",
+    "doctrine-of-the-mean"
+  ],
+  "sincerity": [
+    "人性善",
+    "doctrine-of-the-mean"
+  ],
+  "self-cultivation": [
+    "人性善",
+    "doctrine-of-the-mean"
+  ],
+  "誠": [
+    "人性善"
+  ],
+  "修身": [
+    "人性善",
+    "confucian-sincerity-cheng",
+    "central-harmony-zhonghe",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "朱熹": [
+    "人性善"
+  ],
+  "王陽明": [
+    "人性善"
+  ],
   "mengzi": [
     "tian-xia-you-da-zun-san",
     "human-nature"
@@ -696,6 +789,20 @@
   ],
   "zhi-qing-relation": [
     "ba-yi-ceremonial-dance"
+  ],
+  "confucian": [
+    "born-in-adversity-die-in-comfort",
+    "mengzi-ritual-food-debate"
+  ],
+  "governance-virtue-de": [
+    "born-in-adversity-die-in-comfort",
+    "dao-de-jing-silk-manuscript",
+    "dao-the-way-taoism",
+    "mengzi-people-heart-minjian"
+  ],
+  "儒家": [
+    "born-in-adversity-die-in-comfort",
+    "mengzi-ritual-food-debate"
   ],
   "three-jewels": [
     "great-firm-brahman-backstory"
@@ -743,12 +850,6 @@
     "human-immortal-sutra-ren-xian-jing",
     "great-collection-dharma-gate-sutra"
   ],
-  "十二因緣": [
-    "human-immortal-sutra-ren-xian-jing",
-    "an-shigao-translated-agama-zhengxing-sutra",
-    "baiyi-jinzhuang-brahmin-origin-sutra",
-    "seven-buddhas-current-kalpa"
-  ],
   "四聖諦": [
     "human-immortal-sutra-ren-xian-jing",
     "changahan-jing"
@@ -776,11 +877,6 @@
     "dao-de-jing-silk-manuscript",
     "dao-the-way-taoism"
   ],
-  "governance-virtue-de": [
-    "dao-de-jing-silk-manuscript",
-    "dao-the-way-taoism",
-    "mengzi-people-heart-minjian"
-  ],
   "brahma-realm": [
     "brahma-fourfold-teaching"
   ],
@@ -802,16 +898,11 @@
     "four-inversions-buddhist"
   ],
   "an-shigao-translation-methodology": [
-    "an-shigao-translated-agama-zhengxing-sutra"
+    "an-shigao-translated-agama-zhengxing-sutra",
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
   ],
   "安世高譯經方法論": [
     "an-shigao-translated-agama-zhengxing-sutra"
-  ],
-  "十二因縁": [
-    "an-shigao-translated-agama-zhengxing-sutra",
-    "baiyi-jinzhuang-brahmin-origin-sutra",
-    "changahan-jing",
-    "seven-buddhas-current-kalpa"
   ],
   "doctrine-of-the-mean-(zhongyong)": [
     "confucian-sincerity-cheng",
@@ -827,22 +918,11 @@
     "confucian-sincerity-cheng",
     "doctrine-of-the-mean-zhongyong"
   ],
-  "修身": [
-    "confucian-sincerity-cheng",
-    "central-harmony-zhonghe",
-    "doctrine-of-the-mean-zhongyong"
-  ],
   "thirty-seven-factors-enlightenment": [
     "seven-factors-awakening-an-shigao-commentary",
     "four-right-exertions-an-shigao-commentary",
     "five-roots-five-powers-an-shigao-commentary",
     "four-foundations-mindfulness-an-shigao-commentary"
-  ],
-  "confucian": [
-    "mengzi-ritual-food-debate"
-  ],
-  "儒家": [
-    "mengzi-ritual-food-debate"
   ],
   "four-castes-origin-buddhist-cosmology": [
     "baiyi-jinzhuang-brahmin-origin-sutra"
@@ -888,7 +968,8 @@
   ],
   "four-foundations-mindfulness-an-shigao-commentary": [
     "four-right-exertions-an-shigao-commentary",
-    "four-contemplations-buddhist-practice-ahang"
+    "four-contemplations-buddhist-practice-ahang",
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
   ],
   "great-learning-da-xue": [
     "great-qi-haoran-zhi-qi"
@@ -1014,6 +1095,12 @@
   "mengzi-losing-original-heart": [
     "wang-dao-true-king-hegemon"
   ],
+  "neo-confucian": [
+    "doctrine-of-the-mean"
+  ],
+  "self‑cultivation": [
+    "doctrine-of-the-mean"
+  ],
   "great-brahma-fourfold-teaching": [
     "dana-paramita-bodhisattva-giving"
   ],
@@ -1050,9 +1137,6 @@
   "儒教的誠": [
     "moral-cultivation-methods"
   ],
-  "four-beginnings-mencius-doctrine": [
-    "four-contemplations-buddhist-practice-ahang"
-  ],
   "fixed-livelihood": [
     "agricultural-foundation"
   ],
@@ -1061,6 +1145,42 @@
   ],
   "恒産論": [
     "agricultural-foundation"
+  ],
+  "four-right-exertions-an-shigao-commentary": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "seven-factors-awakening-an-shigao-commentary": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "five-roots-five-powers-an-shigao-commentary": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "四念處注-(安世高)": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "四意斷注-(安世高)": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "七覺意注-(安世高)": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "五根五力注-(安世高)": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "安世高翻譯方法論": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "四念処注-(安世高)": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "四意断注-(安世高)": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "七覚意注-(安世高)": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "安世高翻訳方法論": [
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
   ],
   "da-cheng-ben-sheng-xin-di-guan-jing": [
     "xu-fen-buddhist-prologue",

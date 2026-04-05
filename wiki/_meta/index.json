@@ -154,6 +154,31 @@
     "sources": []
   },
   {
+    "slug": "arhat",
+    "title": "Arhat / 阿罗汉",
+    "summary": "An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.",
+    "tags": [
+      "buddhism",
+      "arhat",
+      "nirvana",
+      "theravada",
+      "mahayana",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "arhatship",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "ba-yi-ceremonial-dance",
     "title": "Ba Yi (Eight Rows) / 八佾",
     "summary": "The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.",
@@ -274,6 +299,19 @@
       "reincarnation",
       "stream-entry",
       "four-heavenly-kings"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "born-in-adversity-die-in-comfort",
+    "title": "Born in Adversity, Die in Comfort / 生于忧患，死于安乐",
+    "summary": "Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.",
+    "tags": [
+      "mengzi",
+      "moral-cultivation-methods",
+      "virtue-ethics",
+      "human-nature",
+      "four-beginnings-mencius"
     ],
     "sources": []
   },
@@ -622,6 +660,17 @@
     "sources": []
   },
   {
+    "slug": "defilements",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "doctrine-of-the-mean-(zhongyong)",
     "title": "English Title / 中文标题",
     "summary": "One-line summary in English",
@@ -647,6 +696,15 @@
     "sources": []
   },
   {
+    "slug": "doctrine-of-the-mean",
+    "title": "Doctrine Of The Mean",
+    "summary": "",
+    "tags": [
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "eightfold-noble-path-human-immortal-sutra",
     "title": "Eightfold Noble Path (Human Immortal Sutra) / 八正道",
     "summary": "The Eightfold Noble Path as expounded in the Sutra of the Human Immortal, taught by Mahabrahma Deva as the method for achieving pure contemplation and liberation.",
@@ -656,6 +714,20 @@
       "eightfold-path",
       "mahabrahma",
       "liberation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "evil-classification-buddhism-e",
+    "title": "Evil and Unwholesome Qualities / 惡 / 悪",
+    "summary": "Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.",
+    "tags": [
+      "buddhist-ethics",
+      "evil",
+      "unwholesome",
+      "three-poisons",
+      "misconduct",
+      "klesha"
     ],
     "sources": []
   },
@@ -1516,6 +1588,17 @@
     "sources": []
   },
   {
+    "slug": "mahābrahmā",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "mencius",
     "title": "Mencius / 孟子",
     "summary": "Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.",
@@ -2174,6 +2257,18 @@
     "sources": []
   },
   {
+    "slug": "ten-remembrances-buddhist-meditation",
+    "title": "Ten Remembrances / 十念",
+    "summary": "A Buddhist meditation practice involving ten objects of mindfulness, from the Commentary on Classifying Merit.",
+    "tags": [
+      "buddhist-meditation",
+      "mindfulness",
+      "ananda",
+      "three-treasuries"
+    ],
+    "sources": []
+  },
+  {
     "slug": "the-works-of-mencius",
     "title": "English Title / 中文标题",
     "summary": "One-line summary in English",
@@ -2181,6 +2276,25 @@
       "tag1",
       "tag2",
       "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "thirty-seven-bodhiparamitas-an-shigao-commentary",
+    "title": "Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜",
+    "summary": "A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.",
+    "tags": [
+      "an-shigao",
+      "bodhiparamitas",
+      "four-mindfulness",
+      "four-right-exertions",
+      "four-supernatural-powers",
+      "five-roots",
+      "five-powers",
+      "seven-awakening-factors",
+      "noble-eightfold-path",
+      "early-buddhism",
+      "chinese-buddhism"
     ],
     "sources": []
   },
@@ -2226,6 +2340,19 @@
       "evil",
       "liberation",
       "buddhist-ethics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "three-dharmas-framework-buddhism",
+    "title": "Three Dharmas / 三法 / 三法",
+    "summary": "A Buddhist doctrinal framework classifying all phenomena into three categories: virtue (德), evil (惡), and basis (依), each containing three subcategories.",
+    "tags": [
+      "buddhist-doctrine",
+      "classification",
+      "three-dharmas",
+      "abhidharma",
+      "eastern-jin-dynasty"
     ],
     "sources": []
   },
@@ -2326,6 +2453,22 @@
     "sources": []
   },
   {
+    "slug": "twelve-links-dependent-origination-an-shigao-commentary",
+    "title": "Twelve Links of Dependent Origination / 十二因緣 / 十二縁起",
+    "summary": "Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.",
+    "tags": [
+      "an-shigao",
+      "dependent-origination",
+      "twelve-links",
+      "twelve-nidanas",
+      "early-buddhism",
+      "chinese-buddhism",
+      "suffering",
+      "cyclic-existence"
+    ],
+    "sources": []
+  },
+  {
     "slug": "twelve-links-dependent-origination",
     "title": "Twelve Links of Dependent Origination / 十二因緣",
     "summary": "The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.",
@@ -2352,6 +2495,19 @@
     "sources": []
   },
   {
+    "slug": "upaya-expedient-means-buddhism",
+    "title": "Expedient Means / 方便 / 方便",
+    "summary": "Buddhist concept of upaya (expedient means) as the practical methods and path structures for achieving spiritual liberation.",
+    "tags": [
+      "buddhist-practice",
+      "upaya",
+      "expedient-means",
+      "path",
+      "cultivation"
+    ],
+    "sources": []
+  },
+  {
     "slug": "virtue-ethics",
     "title": "Virtue and Ethics / 德与伦理",
     "summary": "Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.",
@@ -2361,6 +2517,21 @@
       "ethics",
       "philosophy",
       "virtue"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "virtue-merit-buddhism-de",
+    "title": "Merit and Virtue in Buddhist Practice / 德 / 徳",
+    "summary": "Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.",
+    "tags": [
+      "buddhist-ethics",
+      "merit",
+      "giving",
+      "precept",
+      "meditation",
+      "six-perfections",
+      "three-roots"
     ],
     "sources": []
   },
@@ -2478,6 +2649,27 @@
     "sources": []
   },
   {
+    "slug": "人仙",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "人性善",
+    "title": "... / ...",
+    "summary": "...",
+    "tags": [
+      "...",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "仁政",
     "title": "Benevolent Governance / 仁政",
     "summary": "The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.",
@@ -2527,6 +2719,17 @@
       "moral-ideal",
       "chinese-philosophy",
       "junzi",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "四神足",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
       "stub"
     ],
     "sources": []
