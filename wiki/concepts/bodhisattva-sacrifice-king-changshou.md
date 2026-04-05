@@ -22,7 +22,7 @@ King Changshou's ultimate sacrifice occurs when, in exile, he encounters a Brahm
 
 The Buddha identifies himself as the former King Changshou, Ananda as Prince Changsheng, and Devadatta as the greedy king. This dhāraṇī establishes the narrative's soteriological significance: by observing King Changshou's conduct across lifetimes, one can trace the karmic fruits of non-retaliation and compassion.
 
-Cross-references: [[non-retaliation-buddhist-teaching]], [[king-sibi-pigeon-sacrifice]], [[bodhisattva-practice-body-offering]], [[benevolent-government]]
+Cross-references: [[non-retaliation-buddhist-teaching]], [[king-sibi-pigeon-sacrifice]], [[thousand-lamp-body-offering-bodhisattva-practice]], [[benevolent-government-ren-zheng]]
 
 ## 中文
 
@@ -34,7 +34,7 @@ Cross-references: [[non-retaliation-buddhist-teaching]], [[king-sibi-pigeon-sacr
 
 佛陀於經末明言，長壽王即其過去身，太子長生是阿難，貪王則是調達。此一identifications確立了該經的業報學說意涵：透過觀察長壽王跨世的行為軌跡，可得見不報怨與慈悲之道所結出的解脫果實。
 
-交叉引用：[[non-retaliation-buddhist-teaching]]、[[king-sibi-pigeon-sacrifice]]、[[bodhisattva-practice-body-offering]]、[[benevolent-government]]
+交叉引用：[[non-retaliation-buddhist-teaching]]、[[king-sibi-pigeon-sacrifice]]、[[thousand-lamp-body-offering-bodhisattva-practice]]、[[benevolent-government-ren-zheng]]
 
 ## 日本語
 
@@ -46,4 +46,4 @@ Cross-references: [[non-retaliation-buddhist-teaching]], [[king-sibi-pigeon-sacr
 
 経の末尾で仏陀は、長寿王は過去の自分であり、太子的長生は阿難、貪王は調達であると宣言する。この同定は、経典の業報教説上の意味を確立する。长寿王の来世にまたがる行動パターンを観察することで、不報怨と慈悲の道が結ぶ解脱のefruitを追跡することができる。
 
-相互参照：[[non-retaliation-buddhist-teaching]]、[[king-sibi-pigeon-sacrifice]]、[[bodhisattva-practice-body-offering]]、[[benevolent-government]]
+相互参照：[[non-retaliation-buddhist-teaching]]、[[king-sibi-pigeon-sacrifice]]、[[thousand-lamp-body-offering-bodhisattva-practice]]、[[benevolent-government-ren-zheng]]

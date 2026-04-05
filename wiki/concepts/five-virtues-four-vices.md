@@ -30,7 +30,7 @@ The four vices to eliminate are:
 4. **Petitness** (有司) - Being stingy in giving what is due to others
 
 ### Philosophical Significance
-This framework embodies Confucius's [[virtue-ethics]] approach to governance, emphasizing people-centered policies and moral cultivation. The emphasis on "benefiting according to what benefits the people" and "laboring according to what people can labor" reflects early Chinese [[humanism]] and practical wisdom in administration.
+This framework embodies Confucius's [[confucian-ethics]] approach to governance, emphasizing people-centered policies and moral cultivation. The emphasis on "benefiting according to what benefits the people" and "laboring according to what people can labor" reflects early Chinese [[humanism]] and practical wisdom in administration.
 
 ## 中文
 **五美四恶**是[[孔子]]回答弟子[[子张]]关于从政要领时提出的核心政治哲学，代表了儒家治国理政的完整伦理框架。

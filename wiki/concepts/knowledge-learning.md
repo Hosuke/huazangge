@@ -56,7 +56,7 @@ Confucius established learning as a lifelong process that encompasses both intel
 The Confucian model emphasizes:
 - Reverence for classical texts and traditions
 - Critical reflection and application
-- Integration of knowledge with [[virtue-ethics]]
+- Integration of knowledge with [[confucian-ethics]]
 - Practical implementation in social relationships
 
 ## Educational Philosophy
@@ -141,7 +141,7 @@ The reference to university subscriptions reflects Confucian recognition that kn
 
 **Essential Quote**: "When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it - this is knowledge." (*Analects* 2.17)
 
-**Related Concepts**: [[human-nature]], [[confucian-ethics]], [[virtue-ethics]]
+**Related Concepts**: [[human-nature]], [[confucian-ethics]], [[confucian-ethics]]
 
 ## 中文
 
@@ -163,7 +163,7 @@ The reference to university subscriptions reflects Confucian recognition that kn
 
 **核心引文**："知之为知之，不知为不知，是知也。"（《论语·为政》）
 
-**相关概念**：[[human-nature]], [[confucian-ethics]], [[virtue-ethics]]
+**相关概念**：[[human-nature]], [[confucian-ethics]], [[confucian-ethics]]
 
 ## 日本語
 
@@ -185,7 +185,7 @@ The reference to university subscriptions reflects Confucian recognition that kn
 
 **核心的引用**：「之を知るを之を知ると為し、知らざるを知らざると為せ、是れ知るなり」（『論語』為政篇）
 
-**関連概念**: [[human-nature]], [[confucian-ethics]], [[virtue-ethics]]
+**関連概念**: [[human-nature]], [[confucian-ethics]], [[confucian-ethics]]
 
 ---
 
@@ -280,7 +280,7 @@ This balanced approach connects [[confucian-self-examination]] with external kno
 
 ## Moral Dimensions
 
-Knowledge in Confucian thought is intrinsically linked to [[virtue-ethics]]. The educated person (君子, [[junzi]]) demonstrates not only intellectual attainment but moral excellence:
+Knowledge in Confucian thought is intrinsically linked to [[confucian-ethics]]. The educated person (君子, [[junzi]]) demonstrates not only intellectual attainment but moral excellence:
 
 "君子博学于文，约之以礼，亦可以弗畔矣夫。" (Analects 6.27)
 "The superior man, extensively studying all learning, and keeping himself under the restraint of the rules of propriety, may thus likewise not overstep what is right."
@@ -305,7 +305,7 @@ Confucian learning emphasizes utility and application rather than abstract specu
 
 ## 道德维度
 
-儒家思想中的知识与[[virtue-ethics|德行伦理]]内在关联。受过教育的人（[[junzi|君子]]）不仅展现智力成就，更体现道德卓越：
+儒家思想中的知识与[[confucian-ethics|德行伦理]]内在关联。受过教育的人（[[junzi|君子]]）不仅展现智力成就，更体现道德卓越：
 
 "君子博学于文，约之以礼，亦可以弗畔矣夫。"（《论语·雍也》）
 
@@ -329,7 +329,7 @@ Confucian learning emphasizes utility and application rather than abstract specu
 
 ## 道德的次元
 
-儒教思想における知識は[[virtue-ethics|徳倫理]]と本質的に関連している。教育を受けた人物（[[junzi|君子]]）は、知的達成だけでなく道德的卓越性を示す：
+儒教思想における知識は[[confucian-ethics|徳倫理]]と本質的に関連している。教育を受けた人物（[[junzi|君子]]）は、知的達成だけでなく道德的卓越性を示す：
 
 「君子博く文を学び、之を礼を以て約す、亦以て畔らざる可からん乎」（『論語』雍也篇）
 

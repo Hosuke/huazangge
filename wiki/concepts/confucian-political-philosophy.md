@@ -19,7 +19,7 @@ Confucius articulates a hierarchical view of political authority in the Analects
 
 > "When the Way prevails in the world, the rites, music, and punitive military expeditions are initiated by the Son of Heaven. When the Way does not prevail in the world, the rites, music, and punitive military expeditions are initiated by the feudal lords." (16:2)
 
-This passage establishes the [[confucian-ethics|Confucian principle]] that legitimate political power flows from the central authority of the Zhou king. The decentralization of military and ceremonial authority to feudal lords signifies the decline of proper [[benevolent-government|benevolent governance]].
+This passage establishes the [[confucian-ethics|Confucian principle]] that legitimate political power flows from the central authority of the Zhou king. The decentralization of military and ceremonial authority to feudal lords signifies the decline of proper [[benevolent-government-ren-zheng|benevolent governance]].
 
 ### Critique of Unjust Warfare
 
@@ -45,7 +45,7 @@ This emphasis on equitable distribution and social harmony represents a core ele
 
 > 「天下有道，則禮樂征伐自天子出；天下無道，則禮樂征伐自諸侯出。」（16:2）
 
-這段論述確立了[[confucian-ethics|儒家倫理]]的核心原則：正當政治權力應源自周天子的中央權威。禮樂征伐權力下移至諸侯，標誌著[[benevolent-government|仁政]]的衰微。
+這段論述確立了[[confucian-ethics|儒家倫理]]的核心原則：正當政治權力應源自周天子的中央權威。禮樂征伐權力下移至諸侯，標誌著[[benevolent-government-ren-zheng|仁政]]的衰微。
 
 ### 對不義戰爭的批判
 
@@ -71,7 +71,7 @@ This emphasis on equitable distribution and social harmony represents a core ele
 
 > 「天下有道なれば、則ち礼楽征伐は天子より出ず。天下無道なれば、則ち礼楽征伐は諸侯より出ず。」（16:2）
 
-この論述は、[[confucian-ethics|儒家倫理]]の核心原則を確立する：正当な政治権力は周天子の中央権威に由来すべきである。礼楽征伐の権力が諸侯に移行することは、[[benevolent-government|仁政]]の衰退を意味する。
+この論述は、[[confucian-ethics|儒家倫理]]の核心原則を確立する：正当な政治権力は周天子の中央権威に由来すべきである。礼楽征伐の権力が諸侯に移行することは、[[benevolent-government-ren-zheng|仁政]]の衰退を意味する。
 
 ### 不義の戦争に対する批判
 

@@ -25,13 +25,13 @@ The phrase "由愛故生" (*from love/attachment it arises*) establishes a deter
 
 The teaching directly addresses the Buddhist analysis of suffering's origins as articulated in the [[four-noble-truths|Four Noble Truths]]. Where the First Noble Truth identifies suffering (苦, *dukkha*) and the Second Noble Truth traces suffering to craving (愛, *taṇhā*), this gāthā provides a poetic elaboration that includes the additional element of fear (怖). This expansion suggests that attachment produces not only suffering in the sense of unsatisfactory existence but also the emotional state of fear—the anxiety that accompanies the prospect of losing what one is attached to.
 
-The liberation promised—"無憂亦無怖" (neither sorrow nor fear)—represents the goal state of [[arhat]]ship or ultimate enlightenment. This liberation is achieved through detachment (離於愛者), which is accomplished via the [[fourfold-noble-path|practical cultivation of the Eightfold Path]], particularly through the development of [[four-foundations-mindfulness-an-shigao-commentary|mindfulness and insight]].
+The liberation promised—"無憂亦無怖" (neither sorrow nor fear)—represents the goal state of [[arhat-stages-buddhist-liberation]]ship or ultimate enlightenment. This liberation is achieved through detachment (離於愛者), which is accomplished via the [[fourfold-noble-path|practical cultivation of the Eightfold Path]], particularly through the development of [[four-foundations-mindfulness-an-shigao-commentary|mindfulness and insight]].
 
 ### Influence and Reception
 
 This verse has been widely cited in subsequent Chinese Buddhist literature as a mnemonic summary of the Buddhist position on desire and liberation. It appears in various commentaries and meditation manuals as a touchstone for understanding the relationship between [[human-desire-to-be-born-sutra|desire and the cycle of rebirth]].
 
-The verse also provides thematic resonance with other Buddhist teachings on letting go, including the [[king-sibi-pigeon-sacrifice|King Sibi narrative]], [[bodhisattva-practice-body-offering|body-offering practices]], and the broader [[upāya-expedient-means-buddhism|Buddhist rhetoric of renunciation]].
+The verse also provides thematic resonance with other Buddhist teachings on letting go, including the [[king-sibi-pigeon-sacrifice|King Sibi narrative]], [[thousand-lamp-body-offering-bodhisattva-practice|body-offering practices]], and the broader [[upāya-expedient-means-buddhism|Buddhist rhetoric of renunciation]].
 
 ## 中文
 

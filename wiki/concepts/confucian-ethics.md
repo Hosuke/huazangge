@@ -1,15 +1,25 @@
 ---
 created: '2026-04-04T19:09:41.374244+00:00'
+merged_from:
+- confucian
+- junzi-cultivation
+- virtue-ethics
 summary: This article explores the key concepts of Confucian ethics as presented in
   the Analects, focusing on filial piety and social conduct.
 tags:
 - analects
+- chinese philosophy
+- classical-learning
 - confucianism
+- education
 - ethics
+- moral-cultivation
 - moral-responsibility
 - philosophy
+- stub
+- virtue
 title: Confucian Ethics / 儒家伦理
-updated: '2026-04-04T19:24:43.989336+00:00'
+updated: '2026-04-05T14:51:00.522948+00:00'
 ---
 
 ## English
@@ -115,7 +125,7 @@ Confucian ethics emphasizes continuous self-improvement through [[knowledge-lear
 
 ## Social Dimensions
 
-The ethical framework extends to social and political realms through concepts like [[benevolent-government]] and the ideal of the [[junzi]] (superior person) who embodies moral excellence and serves as a moral exemplar in society.
+The ethical framework extends to social and political realms through concepts like [[benevolent-government-ren-zheng]] and the ideal of the [[junzi]] (superior person) who embodies moral excellence and serves as a moral exemplar in society.
 
 ## Philosophical Foundations
 
@@ -203,7 +213,7 @@ Unlike individualistic ethical systems, Confucian ethics foregrounds relational 
 
 ## Contemporary Relevance
 
-The system continues to inform modern discussions of [[virtue-ethics]], community values, and the relationship between personal cultivation and social responsibility.
+The system continues to inform modern discussions of [[confucian-ethics]], community values, and the relationship between personal cultivation and social responsibility.
 
 ## 中文
 
@@ -293,3 +303,294 @@ Confucius emphasized "rectification of names" (正名) where social roles carry 
 - 君子：理想的な人格像
 
 孔子は「正名」を提唱し、社会的役割と道徳的責任の対応を強調した。『論語』では[[顔回]]や[[子路]]ら弟子との対話を通じてこの体系が示される。
+
+---
+*Merged from [[confucian-ethics]]:*
+
+## English
+
+Confucianism, known in Chinese as **儒家** (Rújiā), is a tradition of ethical and social thought that originated with Confucius (Kongzi, 551–479 BCE) and was elaborated by later scholars such as [[Mencius]] (孟子) and [[Xunzi]] (荀子). At its core the tradition stresses the development of virtue (**ren**, 仁, “humaneness”) and the observance of proper ritual (**li**, 礼) as means to achieve personal and societal harmony.
+
+### Core Tenets
+- **Ren (仁)**: A sense of benevolence and empathy that binds individuals to one another.
+- **Li (礼)**: Rules of propriety and ritual that order daily life, from family rites to state ceremonies.
+- **Yi (义)**: The moral sense of what is right, guiding decisions in accordance with ren and li.
+- **Xiao (孝)**: Filial piety, the foundational duty of children toward their parents.
+- **Governance through virtue**: The belief that moral example and ethical leadership, rather than coercive law, are the proper bases for political authority.
+
+### Historical Development
+1. **Pre‑imperial (Spring and Autumn / Warring States)**: Confucius’s teachings, recorded in the *Analects*, focused on personal moral self‑cultivation and the restoration of social order.
+2. **Han Dynasty (206 BCE–220 CE)**: Imperial adoption of Confucianism as state orthodoxy, embedding its values in civil service examinations and legal codes.
+3. **Neo‑Confucianism (Song–Ming dynasties)**: Philosophers such as [[Zhu Xi]] (朱熹) and [[Wang Yangming]] (王阳明) reconceptualized Confucian ideas, integrating metaphysical speculation with practical moral discipline.
+4. **Modern Era**: Reactions to Western influence sparked debates over the relevance of Confucian ethics, leading to both critiques and revitalization movements in the 20th‑21st centuries.
+
+### Influence
+Confucian ideas have shaped not only Chinese culture but also the moral frameworks of neighboring societies—Japan (**儒教**, *jukyō*), Korea (**유교**, *yu-gyo*), and Vietnam (**Nho giáo**). In these contexts, the emphasis on education, hierarchical relationships, and communal responsibility continues to inform social norms, family structures, and governance models.
+
+### Contemporary Relevance
+Today, scholars and policymakers revisit Confucian concepts to address issues such as social cohesion, environmental ethics, and corporate governance. Educational reforms in China and elsewhere often invoke Confucian values of diligence and respect for hierarchy, while critics caution against the potential for authoritarianism that can accompany hierarchical interpretations.
+
+**See also**
+- [[Confucius]]
+- [[Mencius]]
+- [[Xunzi]]
+- [[Neo-Confucianism]]
+- [[Ren]]
+- [[Li (ritual)]]
+- [[Filial piety]]
+
+## 中文
+
+儒家是中国古代以孔子（前551‑前479）为代表的一种伦理和社会思想体系，后经孟子、荀子等学者不断丰富与发展。其核心在于强调仁爱（**仁**）和礼仪（**礼**）的修炼，以实现个人道德完善与社会和谐。
+
+### 基本概念
+- **仁**：对他人的关爱与同情，是儒家伦理的根基。
+- **礼**：社会行为规范与仪式，涵盖日常礼仪、家族祭祀到国家政治典礼。
+- **义**：辨别是非的道德判断，遵循仁与礼的原则。
+- **孝**：子女对父母的尊敬与赡养责任，被视为社会的基本道德。
+- **德治**：以道德榜样的力量治理国家，强调君王应以仁德感化百姓。
+
+### 历史演进
+1. **春秋战国时期**：孔子在《论语》中阐述“仁”和“礼”，呼吁恢复周礼、重建社会秩序。
+2. **汉代**：儒家被立为官学，纳入科举制度，成为选拔官员的标准。
+3. **宋明理学**：朱熹、王阳明等理学家将儒家思想与宇宙本体论结合，形成新儒学。
+4. **近现代**：面对西方冲击，儒家经历批判、复兴与再解释，成为当代中国价值观的重要来源。
+
+### 影响范围
+儒家思想不仅在中国根深蒂固，还深刻影响了日本（儒教）、朝鲜半岛（유교）和越南（Nho giáo）等东亚社会，在教育、家族结构和政治理念方面发挥持久作用。
+
+### 当代价值
+在现代社会，儒家强调的和谐、责任感和道德教育被用于探讨公共治理、企业伦理及环境伦理等议题。然而，对儒家等级制度的批评也提醒人们注意其潜在的专制倾向。
+
+**参见**
+- [[孔子]]
+- [[孟子]]
+- [[荀子]]
+- [[新儒学]]
+- [[仁]]
+- [[礼]]
+
+## 日本語
+
+儒教（じゅきょう）は、古代中国で孔子
+
+---
+*Merged from [[confucian-ethics]]:*
+
+## English
+Confucius established a comprehensive educational system centered on character development through classical arts. His famous dictum "兴于诗，立于礼，成于乐" (Inspired by poetry, established by rituals, perfected by music) outlines the three pillars of [[confucian-trust-verification]].
+
+**Educational Components:**
+- **Poetry (诗)** - Stimulates moral sentiment and artistic sensibility
+- **Rituals (礼)** - Provides behavioral norms and social structure  
+- **Music (乐)** - Cultivates emotional harmony and aesthetic refinement
+
+This integrated approach aimed to produce well-rounded individuals capable of both personal cultivation and public service. The education emphasized not only acquiring knowledge but developing practical skills and moral character essential for governance.
+
+## 中文
+孔子建立了以品德培养为核心、通过经典艺术进行全面教育的体系。其名言"兴于诗，立于礼，成于乐"概括了[[儒家诚信验证]]的三个支柱。
+
+**教育组成部分：**
+- **诗歌** - 激发道德情感和艺术感受力
+- **礼仪** - 提供行为规范和社会结构
+- **音乐** - 培养情感和谐与审美修养
+
+这种综合方法旨在培养全面发展的人才，既能进行个人修养又能胜任公共服务。教育不仅强调知识获取，更注重发展治理所需的实践技能和道德品格。
+
+## 日本語
+孔子は古典芸術を通じた人格形成を中心とする総合的教育体系を確立した。「詩に興り、礼に立ち、楽に成る」という名言は、[[儒教的信頼検証]]の三本柱を概説する。
+
+**教育構成要素：**
+- **詩経** - 道德的感興と芸術的感受性を刺激する
+- **礼儀** - 行動規範と社会構造を提供する
+- **音楽** - 情緒的調和と美的洗練を育成する
+
+この統合的アプローチは、個人の修養と公共サービスの両方が可能な、バランスの取れた個人を育成することを目的とした。教育は知識の獲得だけでなく、統治に不可欠な実践的スキルと道德的品格の発展を重視した。
+
+---
+*Merged from [[confucian-ethics]]:*
+
+## English
+
+### The Three Friends and Three Harms
+
+Confucius provides practical guidance on friendship and its impact on character development:
+
+> "There are three kinds of beneficial friends and three kinds of harmful friends. To befriend the upright, to befriend the sincere, and to befriend the well-informed is beneficial. To befriend the ingratiating, to befriend the insinuatingly soft, and to befriend the glib-tongued is harmful." (16:4)
+
+This reflects the importance of social environment in [[confucian-self-examination|self-cultivation]].
+
+### The Nine Considerations
+
+Confucius outlines a comprehensive framework for mindful conduct:
+
+> "The gentleman has nine considerations: in seeing, he considers clarity; in hearing, he considers acuity; in countenance, he considers warmth; in demeanor, he considers respectfulness; in speech, he considers conscientiousness; in service, he considers reverence; in doubt, he considers questioning; in anger, he considers difficulties; in sight of gain, he considers righteousness." (16:10)
+
+These considerations represent a practical application of [[confucian-ethics|virtue ethics]] in daily life.
+
+### The Three Cautions
+
+Age-specific moral guidance demonstrates Confucius' psychological insight:
+
+> "The gentleman has three cautions: in youth, when the blood and vital essence are still unsettled, he is cautious about sexual desire; in prime of life, when the blood and vital essence have become robust, he is cautious about combativeness; in old age, when the blood and vital essence have declined, he is cautious about acquisitiveness." (16:7)
+
+## 中文
+
+### 益者三友与损者三友
+
+孔子就交友对品德培养的影响提出具体指导：
+
+> 「益者三友，損者三友。友直，友諒，友多聞，益矣。友便辟，友善柔，友便佞，損矣。」（16:4）
+
+这体现了社会环境在[[confucian-self-examination|自我修养]]中的重要性。
+
+### 君子九思
+
+孔子提出了行为审慎的完整框架：
+
+> 「君子有九思：視思明，聽思聰，色思溫，貌思恭，言思忠，事思敬，疑思問，忿思難，見得思義。」（16:10）
+
+这些思考代表了[[confucian-ethics|德行伦理]]在日常生活中的实际应用。
+
+### 君子三戒
+
+针对不同年龄阶段的道德指导展现孔子的心理洞察：
+
+> 「君子有三戒：少之時，血氣未定，戒之在色；及其壯也，血氣方剛，戒之在鬭；及其老也，血氣既衰，戒之在得。」（16:7）
+
+## 日本語
+
+### 益者三友と損者三友
+
+孔子は交友が品性育成に与える影響について具体的な指導を提供する：
+
+> 「益する者三つの友あり、損する者三つの友あり。直きを友とし、諒なるを友とし、多聞なるを友とするは、益なり。便辟なるを友とし、善柔なるを友とし、便佞なるを友とするは、損なり。」（16:4）
+
+これは[[confucian-self-examination|自己修養]]における社会環境の重要性を体現している。
+
+### 君子九思
+
+孔子は行動の慎重さに関する包括的枠組みを提示する：
+
+> 「君子に九思あり：視るには明を思い、聴くには聡を思い、色には温を思い、貌には恭を思い、言には忠を思い、事には敬を思い、疑うには問を思い、忿るには難を思い、得るを見ては義を思う。」（16:10）
+
+これらの思考は、日常生活における[[confucian-ethics|徳行倫理]]の実践的応用を代表する。
+
+### 君子三戒
+
+年齢段階に応じた道徳的指導は孔子の心理的洞察を示す：
+
+> 「君子に三戒あり：少の時、血気未だ定まらず、之を戒むるは色に在り。其の壮なるに及び、血気方に剛し、之を戒むるは闘に在り。其の老いるに及び、血気既に衰う、之を戒むるは得に在り。」（16:7）
+
+---
+*Merged from [[confucian-ethics]]:*
+
+## English
+
+In Confucian philosophy, **virtue** (德) represents the moral foundation necessary for personal development and effective governance. Confucius emphasizes the practice of virtues such as benevolence, righteousness, and propriety, which are essential in maintaining a harmonious society. The cultivation of virtue requires consistent personal effort and reflection.
+
+Confucius famously remarks, "志士仁人，無求生以害仁，有殺身以成仁," indicating that virtuous individuals prioritize their moral principles over mere survival. This indicates that true ethics in governance and personal life involves making sacrifices for the greater good rather than succumbing to personal desires.
+
+The text also highlights practical applications of virtue in governance, asserting that a ruler must embody these virtues to lead effectively. "君子病無能焉，不病人之不己知也" illustrates that a virtuous leader should focus on their ability to enact change, rather than worrying about whether their words are appreciated or recognized by others. 
+
+The cultivation of virtues leads to a benevolent government (仁政), which is a significant tenet of Confucian thought. It underscores that moral character is essential for anyone in a leadership position to ensure the welfare of their people.
+
+## 中文
+
+在儒家哲学中，**德**代表着个人发展和有效治理所需的道德基础。孔子强调慈爱、正义和礼仪等美德的重要性，这些美德对于维护和谐社会至关重要。德行的培养需要持续的个人努力和反思。
+
+孔子曾说：“志士仁人，无求生以害仁，有杀身以成仁”，这表明有德之人把道德原则置于生存之上。这也表明，在治理与个人生活中的真正伦理涉及为大局做出的牺牲，而不是屈服于个人欲望。
+
+文本还强调了美德在治理中的实际应用，主张统治者必须体现这些美德才能有效领导。“君子病无能焉，不病人之不己知也”说明，有德的领导者应关注自己施加变化的能力，而非担忧自己言辞是否被他人欣赏或认可。
+
+美德的培养将引导至仁政，这是儒教思想中的一个重要原则。它强调道德人格对于任何处于领导地位的人来说都是不可或缺的，以确保人民的福祉。
+
+## 日本語
+
+儒教哲学において、**徳**は個人の発展と効果的な統治に必要な道徳的基盤を表しています。孔子は、慈善、正義、礼儀などの美徳の重要性を強調し、これらの美徳は調和の取れた社会を維持するために欠かせないものです。美徳の育成には、一貫した個人的努力と反省が必要です。
+
+孔子は「志士仁人、無求生以害仁、有殺身以成仁」と述べており、徳のある人物は生存よりも道徳的原則を優先することを示しています。これは、政治や個人の生活での真の倫理が、個人の欲望に屈するのではなく、より大きな善のために犠牲を払うことに関わることを示しています。
+
+文中では、美徳の統治における実際の応用も強調されており、統治者は効果的に導くためにこれらの美徳を体現すべきだと主張しています。「君子病無能焉、不病人之不己知也」は、徳のあるリーダーは他者に評価されるかどうかを心配するのではなく、自らが変化をもたらす能力に焦点を当てるべきであることを示しています。
+
+美徳の育成は、儒教における重要な概念である仁政へと導きます。これは、リーダーシップを持つ者にとって道徳的な人格が不可欠であり、人民の福祉を確保するための要素であることを強調しています。
+
+---
+
+## English
+
+### Virtue Ethics in Confucian Thought
+
+The Analects of Confucius presents a sophisticated system of [[confucian-ethics]] that emphasizes moral character development rather than rule-based morality. In Chapter Xian Wen, Confucius explores the relationship between various virtues and their manifestations in different contexts.
+
+#### Core Virtues and Their Relationships
+
+Confucius establishes fundamental connections between virtues:
+> "有德者，必有言。有言者，不必有德。仁者，必有勇。勇者，不必有仁。"
+> "Those who have virtue will necessarily have something to say; those who have something to say do not necessarily have virtue. The benevolent will necessarily have courage; the courageous do not necessarily have benevolence."
+
+This reveals Confucius's understanding that true virtue manifests in complementary qualities, while superficial qualities may exist without genuine moral foundation.
+
+#### Contextual Application of Virtue
+
+Confucius emphasizes that virtuous conduct must adapt to circumstances:
+> "邦有道，危言危行；邦無道，危行言孫。"
+> "When the state is well-governed, speak boldly and act boldly; when the state is ill-governed, act boldly but speak cautiously."
+
+This demonstrates the [[confucian-ethics]] principle that wisdom involves knowing when and how to express virtues appropriately.
+
+#### The Challenge of Perfect Virtue
+
+The dialogue about achieving [[benevolence]] reveals the difficulty of true virtue:
+> "克、伐、怨、欲不行焉，可以為仁矣？"子曰：「可以為難矣，仁則吾不知也。」
+> "Can one be called benevolent who has overcome pride, boasting, resentment, and desire?" The Master said: "This may be called difficult, but whether it can be called benevolent I do not know."
+
+## 中文
+
+### 儒家德性伦理体系
+
+《论语·宪问》篇系统阐述了儒家[[confucian-ethics|德性伦理]]思想，强调道德品质的内在修养而非外在规范。
+
+#### 德性之间的内在关联
+
+孔子揭示了各种德性之间的本质联系：
+> "有德者，必有言。有言者，不必有德。仁者，必有勇。勇者，不必有仁。"
+
+这表明在[[confucian-ethics|儒家伦理]]中，真正的德性必然表现为相应的外在品质，而外在表现未必反映内在德性。
+
+#### 德性的情境化实践
+
+孔子强调德性实践需要因时制宜：
+> "邦有道，危言危行；邦無道，危行言孫。"
+
+这体现了[[knowledge-learning|智慧]]在德性实践中的重要性，懂得在不同政治环境下如何恰当表达德性。
+
+#### 完美德性的难企及性
+
+关于[[benevolence|仁]]的讨论揭示了完美德性的困难：
+> "克、伐、怨、欲不行焉，可以為仁矣？"子曰：「可以為難矣，仁則吾不知也。」
+
+## 日本語
+
+### 儒家における徳性倫理
+
+『論語』憲問篇は、規則に基づく道徳ではなく道徳的性格の発達を重視する[[confucian-ethics|徳性倫理]]の体系を提示している。
+
+#### 核心的徳性とその関係
+
+孔子は徳性間の基本的な関係を確立する：
+> "有德者，必有言。有言者，不必有德。仁者，必有勇。勇者，不必有仁。"
+
+これは、真の徳性が相補的な性質に現れるが、表面的な性質は真の道徳的基盤なしに存在しうるという孔子の理解を示している。
+
+#### 徳性の状況的適用
+
+孔子は徳的な行為が状況に適応しなければならないと強調する：
+> "邦有道，危言危行；邦無道，危行言孫。"
+
+これは、[[confucian-ethics|儒家倫理]]の原則を示しており、[[knowledge-learning|知恵]]は徳をいつどのように適切に表現するかを知ることを含む。
+
+#### 完全な徳性の難しさ
+
+[[benevolence|仁]]達成に関する対話は真の徳性の困難さを明らかにする：
+> "克、伐、怨、欲不行焉，可以為仁矣？"子曰：「可以為難矣，仁則吾不知也。」

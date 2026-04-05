@@ -201,7 +201,7 @@ Confucian self-examination involves three key dimensions:
 
 ## Philosophical Significance
 
-This practice serves as the foundation for [[virtue-ethics]] in the Confucian tradition, enabling individuals to progress toward the ideal of [[junzi]] (the noble person). It represents an internal mechanism for moral accountability that complements external rituals and social norms.
+This practice serves as the foundation for [[confucian-ethics]] in the Confucian tradition, enabling individuals to progress toward the ideal of [[junzi]] (the noble person). It represents an internal mechanism for moral accountability that complements external rituals and social norms.
 
 ## 中文
 
@@ -265,7 +265,7 @@ The requirement to prove one's humanity through specific actions parallels Confu
 
 The text's explanation that "trust is calculated based on a number of indicators, primarily the prior actions of users" directly corresponds to Confucian understanding that moral credibility develops through consistent demonstration of virtuous behavior over time.
 
-**Related Concepts**: [[moral-responsibility]], [[virtue-ethics]], [[junzi]]
+**Related Concepts**: [[moral-responsibility]], [[confucian-ethics]], [[junzi]]
 
 ## 中文
 
@@ -285,7 +285,7 @@ The text's explanation that "trust is calculated based on a number of indicators
 
 文本解释"信任是根据各种指标而定的，特别是使用者过去的访问记录"，直接对应于儒家的理解：道德可信度通过随时间一贯展现道德行为而发展。
 
-**相关概念**：[[moral-responsibility]], [[virtue-ethics]], [[junzi]]
+**相关概念**：[[moral-responsibility]], [[confucian-ethics]], [[junzi]]
 
 ## 日本語
 
@@ -305,4 +305,4 @@ The text's explanation that "trust is calculated based on a number of indicators
 
 「信頼は多数の指標、主にユーザーの過去の行動に基づいて計算される」というテキストの説明は、道徳的信頼性が時間をかけて一貫した徳行の実証を通じて発展するという儒教的理解に直接対応する。
 
-**関連概念**: [[moral-responsibility]], [[virtue-ethics]], [[junzi]]
+**関連概念**: [[moral-responsibility]], [[confucian-ethics]], [[junzi]]

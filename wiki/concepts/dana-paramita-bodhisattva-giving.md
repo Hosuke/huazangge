@@ -28,7 +28,7 @@ According to these texts, those who practice Dāna Pāramitā develop:
 - Freedom from miserliness and attachment
 - Accumulation of merit (功德) for awakening
 - The ability to attract and benefit all beings
-- Progress toward the bodhisattva ideal of **[[great-brahma-fourfold-teaching]]**
+- Progress toward the bodhisattva ideal of **[[brahma-fourfold-teaching]]**
 
 The practice also teaches that recipients should be chosen not for their worthiness but for their need, and that the act of giving itself transforms both giver and receiver toward enlightenment.
 

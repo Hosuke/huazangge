@@ -61,7 +61,7 @@ The junzi embodies several key virtues:
 
 ## Relationship to Other Concepts
 
-The junzi's cultivation of virtue connects to [[confucian-self-examination]] through daily moral reflection. Their approach to governance reflects principles of [[benevolent-government]], while their educational philosophy informs [[knowledge-learning]].
+The junzi's cultivation of virtue connects to [[confucian-self-examination]] through daily moral reflection. Their approach to governance reflects principles of [[benevolent-government-ren-zheng]], while their educational philosophy informs [[knowledge-learning]].
 
 ## Development Through Practice
 
@@ -213,7 +213,7 @@ The **Superior Person** (君子 jūnzǐ) represents the Confucian moral ideal - 
 This emphasizes the [[confucian-sincerity-cheng|sincerity]] of moral cultivation even in private circumstances.
 
 **Balance and Moderation**
-The superior person embodies the [[central-harmony-zhonghe|mean]], avoiding extremes: "The superior person embodies the mean; the small man acts contrary to the mean."
+The superior person embodies the [[confucian-sincerity-cheng|mean]], avoiding extremes: "The superior person embodies the mean; the small man acts contrary to the mean."
 
 **Adaptation without Compromise**
 > "The superior person is in his position and acts accordingly. He does not desire what is beyond his position." (君子素其位而行，不願乎其外)
@@ -238,7 +238,7 @@ Through the cultivation of [[benevolence|benevolence]], righteousness, and wisdo
 强调即使在独处时也保持[[confucian-sincerity-cheng|诚]]的道德修养。
 
 **中庸之道**
-君子体现[[central-harmony-zhonghe|中和]]，避免极端：「君子中庸，小人反中庸」。
+君子体现[[confucian-sincerity-cheng|中和]]，避免极端：「君子中庸，小人反中庸」。
 
 **时中之道**
 > 「君子素其位而行，不願乎其外」
@@ -263,7 +263,7 @@ Through the cultivation of [[benevolence|benevolence]], righteousness, and wisdo
 独りにあるときも[[confucian-sincerity-cheng|誠]]の道德修養を保つことを強調する。
 
 **中庸の道**
-君子は[[central-harmony-zhonghe|中和]]を体現し、極端を避ける：「君子中庸、小人反中庸」。
+君子は[[confucian-sincerity-cheng|中和]]を体現し、極端を避ける：「君子中庸、小人反中庸」。
 
 **時中の道**
 > 「君子素其位而行、不願乎其外」

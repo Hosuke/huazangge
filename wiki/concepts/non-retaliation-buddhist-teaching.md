@@ -20,7 +20,7 @@ The sutra's narrative further reinforces non-retaliation through the figure of P
 
 The Buddhist framework distinguishes between *wrongful retaliation* and *righteous action*. While ahimsa prohibits returning harm with harm, it does not mandate passive acceptance of injustice. Rather, it redirects moral energy toward constructive responses that neither perpetuate karmic bondage nor inflame conflict. As the Buddha declares at the sutra's conclusion regarding his past incarnation as King Changshou: "The bodhisattva, through arduous practice, even upon encountering bandits and murderers, harbored no resentment, thus ultimately attaining buddhahood as supreme among the three realms."
 
-Cross-references: [[bodhisattva-sacrifice-king-changshou]], [[king-sibi-pigeon-sacrifice]], [[bodhisattva-practice-body-offering]]
+Cross-references: [[bodhisattva-sacrifice-king-changshou]], [[king-sibi-pigeon-sacrifice]], [[thousand-lamp-body-offering-bodhisattva-practice]]
 
 ## 中文
 
@@ -32,7 +32,7 @@ Cross-references: [[bodhisattva-sacrifice-king-changshou]], [[king-sibi-pigeon-s
 
 值得注意的是，佛教的不報怨並非消極的忍讓或姑息奸惡，而是將道德能量導向建設性的回應方式，既不延續業力糾纏，也不激化衝突。如佛陀在經末所言，其過去身為長壽王時，正是因為「至見賊害無怨恚之心」，方才「自致得佛，為三界尊」。
 
-交叉引用：[[bodhisattva-sacrifice-king-changshou]]、[[king-sibi-pigeon-sacrifice]]、[[bodhisattva-practice-body-offering]]
+交叉引用：[[bodhisattva-sacrifice-king-changshou]]、[[king-sibi-pigeon-sacrifice]]、[[thousand-lamp-body-offering-bodhisattva-practice]]
 
 ## 日本語
 
@@ -44,4 +44,4 @@ Cross-references: [[bodhisattva-sacrifice-king-changshou]], [[king-sibi-pigeon-s
 
 仏教における不報怨は、消極的な忍耐や悪の黙認ではない。道的エネルギーを建設的な応答へと転換し、業の絡みを延長せず、衝突を激化させない方法へと導く。経の末尾で仏陀が語ったように、過去の化身としての長寿王は「賊害に遭遇しても怨恚の心を抱かなかった」こそ、「三界至尊の仏陀となった」のである。
 
-相互参照：[[bodhisattva-sacrifice-king-changshou]]、[[king-sibi-pigeon-sacrifice]]、[[bodhisattva-practice-body-offering]]
+相互参照：[[bodhisattva-sacrifice-king-changshou]]、[[king-sibi-pigeon-sacrifice]]、[[thousand-lamp-body-offering-bodhisattva-practice]]

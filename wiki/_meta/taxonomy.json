@@ -17,20 +17,16 @@
           },
           "children": [],
           "article_slugs": [
-            "analects-confucius",
             "analects-disciples",
             "analects-xue-er",
             "analects-zhengzhi",
             "confucius-analects",
-            "confucius-analects-jishi",
             "mencius",
             "mengzi",
             "great-learning-da-xue",
             "great-learning-daxue",
             "doctrine-of-the-mean-zhongyong",
-            "doctrine-of-the-mean",
-            "confucian",
-            "儒家"
+            "doctrine-of-the-mean"
           ]
         },
         {
@@ -42,12 +38,9 @@
           },
           "children": [],
           "article_slugs": [
-            "ren",
             "benevolence",
-            "仁",
             "human-nature",
             "human-nature-is-good",
-            "人性善",
             "human-nature-in-confucianism",
             "human-nature-mencius-debate",
             "four-beginnings-mencius",
@@ -59,12 +52,8 @@
             "mengzi-haoran-qi-vast-flowing-vital-energy",
             "junzi",
             "junzi-characteristics",
-            "junzi-cultivation",
-            "君子",
             "confucian-sincerity-cheng",
             "confucian-self-cultivation",
-            "self-cultivation",
-            "修身",
             "moral-cultivation-methods",
             "heart-mind-moral-cultivation-mengzi",
             "mengzi-moral-cultivation-lost-mind",
@@ -82,14 +71,9 @@
           "article_slugs": [
             "confucian-political-philosophy",
             "political-philosophy-analects",
-            "confucianism-political-philosophy",
-            "儒家政治哲学",
-            "儒家政治哲學",
             "mengzi-political-philosophy-benevolent-rule",
             "孟子の政治哲学",
             "benevolent-government-ren-zheng",
-            "benevolent-government",
-            "仁政",
             "governance-leadership",
             "governance-virtue-de",
             "mengzi-hegemon-true-king-ba-wang-distinction",
@@ -111,7 +95,6 @@
           },
           "children": [],
           "article_slugs": [
-            "confucian-education-principles",
             "learning-attitude-analects",
             "knowledge-learning",
             "investigating-things-extending-knowledge-gewu-zhizhi",
@@ -143,10 +126,8 @@
           "children": [],
           "article_slugs": [
             "four-noble-truths",
-            "arhat",
             "arhat-stages-buddhist-liberation",
             "arhat-stages-buddhist-liberation",
-            "阿羅漢果",
             "bodhisattva-path",
             "bodhisattva-sacrifice-king-changshou",
             "arhat-stages-buddhist-liberation",
@@ -221,8 +202,6 @@
             "virtue-merit-buddhist-doctrine-de-pin",
             "si-en-four-graces-buddhism",
             "si-en",
-            "four-graces",
-            "virtue-ethics",
             "moral-responsibility",
             "moral-equality-four-castes-buddhism"
           ]
@@ -269,14 +248,11 @@
           "article_slugs": [
             "da-cheng-ben-sheng-xin-di-guan-jing",
             "dacheng-bensheng-xindi-guanjing-kewen",
-            "mahayana-mind-ground-contemplation-sutra-dacheng-bensheng-xindi-guan-jing",
             "jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra",
             "xu-fen-buddhist-prologue",
             "dacheng-xindi-guanjing-san-shen",
-            "mahakasyapa-budddisciple-collected-sutras",
             "great-collection-dharma-gate-sutra",
             "mahasanghika-great-collection-teaching",
-            "mahayana-buddhism",
             "mahayana-dharani-of-compassion",
             "entry-all-knowledge-dharani-gate"
           ]
@@ -293,7 +269,6 @@
             "great-firm-brahmin-origin-sutra",
             "great-firm-brahman-backstory",
             "great-firm-brahman",
-            "baiyi-jinzhuang-brahmin-origin-sutra",
             "white-cloth-golden-banner-two-brahmins-origin-sutra",
             "human-immortal-sutra-foshuo-renxian-jing",
             "human-immortal-sutra-ren-xian-jing",
@@ -357,12 +332,10 @@
             "king-sibi-pigeon-sacrifice",
             "throw-body-feed-tigers-jataka",
             "thousand-lamp-body-offering-bodhisattva-practice",
-            "bodhisattva-practice-body-offering",
             "prince-sujata-story-bodhisattva-sacrifice",
             "virama-bodhisattva-pusajiamo",
             "rabbit-king-self-sacrifice-hermit",
             "sarvadana-king-yiqieshi",
-            "sarvadhāna-prince-yiqiechi",
             "nalai-tathagata-story-shengjing",
             "bird-nali-voice-shengjing",
             "turtle-monkey-past-life-karmic-narrative-shengjing"
@@ -378,20 +351,16 @@
           "children": [],
           "article_slugs": [
             "king-mu-spiritual-flight-liezi",
-            "bimba-sara-king-magadha-ren-xian",
             "great-firm-brahman",
             "great-firm-brahman-backstory",
             "king-sibi-pigeon-sacrifice",
             "ananda-compiled-scriptures",
             "tathagata-eight-rare-qualities",
-            "如來八希有法",
             "brahma-fourfold-teaching",
-            "great-brahma-fourfold-teaching",
             "nine-unnatural-deaths-buddhist",
             "nikuda-brahmin-sutra",
             "niyagrodha-brahma-sutra-discourse",
             "fenbie-gongde-lun",
-            "布施因果",
             "lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing"
           ]
         }
@@ -471,13 +440,10 @@
           "children": [],
           "article_slugs": [
             "benevolence",
-            "ren",
-            "benevolent-invincible-renzhe-wudi",
             "five-virtues-four-vices",
             "tian-xia-you-da-zun-san",
             "de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu",
             "deben-cai-mo",
-            "central-harmony-zhonghe",
             "human-harmony-he-ren",
             "tian-shi-di-li-ren-he",
             "five-thieves-buddhist-doctrine"
@@ -494,7 +460,6 @@
           "article_slugs": [
             "governance-leadership",
             "governance-virtue-de",
-            "benevolent-government",
             "benevolent-government-ren-zheng",
             "shared-joy-with-the-people-yu-min-xie-le",
             "mengzi-people-heart-minjian",
@@ -514,7 +479,6 @@
           "children": [],
           "article_slugs": [
             "mengzi-righteousness-profit-debate",
-            "internal-benevolence-external-righteousness-debate",
             "righteousness-internal-versus-external",
             "mengzi-gift-accepting-principles",
             "mengzi-ritual-food-debate",
@@ -552,10 +516,8 @@
             "mengzi-losing-original-heart",
             "mengzi-seven-chapters-gongsun-chou-part-two",
             "mengzi-seven-chapters-structural-analysis",
-            "mengzi-universal-sagehood-potential",
             "lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing",
-            "lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing",
-            "瞿曇般若流支"
+            "lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing"
           ]
         },
         {
@@ -597,10 +559,8 @@
           },
           "children": [],
           "article_slugs": [
-            "adversity-birth-comfort-death",
             "born-in-adversity-die-in-comfort",
             "born-in-adversity-die-in-comfort",
-            "qiren-youtian",
             "杞人忧天-qiren-youtian"
           ]
         }
@@ -654,34 +614,35 @@
         "ja": "その他"
       },
       "article_slugs": [
-        "金色王",
-        "upaya-expedient-means-buddhism",
-        "sarvadhana-prince-yiqiechi",
-        "bao-en-pin",
-        "san-dharmas-upaya-buddhist-classification",
-        "mendicant-life-three-conditions",
-        "mahakasyapa-buddhist-disciple-collected-sutras",
         "dana-paramita-bodhisattva-giving",
         "miaose-wang-bodhisattva-sacrifice",
-        "void-seal-bodhisattva",
-        "shi-men-tong-pan-ten-gates-framework",
-        "confucian-ethics",
         "agricultural-foundation",
-        "zhi-qing-relation",
+        "san-fa-du-lun-three-dharmas-treatise",
+        "bao-en-pin",
         "shi-men-tong-pan",
-        "three-dharmas-buddhist-philosophy",
-        "lotus-up-tathagata",
-        "bihuajing",
-        "three-dharmas-framework-buddhism",
-        "confucian-self-examination",
-        "金色王經",
-        "辟支佛",
-        "four-types-people-self-other-care-buddhist",
+        "great-brahma-king",
         "如来八寶塔-eight-tathagata-stupas",
+        "upaya-expedient-means-buddhism",
+        "sarvadhana-prince-yiqiechi",
+        "san-dharmas-upaya-buddhist-classification",
+        "three-dharmas-framework-buddhism",
+        "bihuajing",
         "xianshou-wu-jiao",
-        "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong",
+        "yan-hui",
+        "initial-awakening",
+        "shi-men-tong-pan-ten-gates-framework",
+        "confucian-self-examination",
+        "four-types-people-self-other-care-buddhist",
+        "lotus-up-tathagata",
+        "three-treasures",
+        "ministerial-responsibility",
         "jian-ai",
-        "san-fa-du-lun-three-dharmas-treatise"
+        "confucian-ethics",
+        "mahakasyapa-buddhist-disciple-collected-sutras",
+        "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong",
+        "three-dharmas-buddhist-philosophy",
+        "zhi-qing-relation",
+        "void-seal-bodhisattva"
       ],
       "children": []
     }

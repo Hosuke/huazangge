@@ -1,18 +1,5 @@
 [
   {
-    "slug": "adversity-birth-comfort-death",
-    "title": "Born from Hardship, Death from Comfort / 生于忧患，死于安乐",
-    "summary": "Mencius's philosophical thesis that adversity and suffering are essential for moral development, while comfort and prosperity lead to moral decline and national ruin.",
-    "tags": [
-      "mengzi",
-      "moral-cultivation",
-      "adversity",
-      "political-philosophy",
-      "confucian-ethics"
-    ],
-    "sources": []
-  },
-  {
     "slug": "agricultural-foundation",
     "title": "Agricultural Foundation / 农本思想",
     "summary": "Mencius's governance principle that agricultural development is fundamental to state prosperity",
@@ -60,17 +47,6 @@
       "han-dynasty-buddhism",
       "parthian-buddhism",
       "translation-history"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "analects-confucius",
-    "title": "The Analects of Confucius / 论语",
-    "summary": "The Analects present the philosophical dialogues and teachings of the ancient Chinese philosopher Confucius.",
-    "tags": [
-      "confucius",
-      "philosophy",
-      "analects"
     ],
     "sources": []
   },
@@ -133,41 +109,19 @@
     "summary": "The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.",
     "tags": [
       "arhat",
-      "stream-enterer",
-      "once-returner",
-      "non-returner",
-      "liberation-stages",
+      "buddhism",
       "four-fruits",
-      "noble-eightfold-path"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "arhat-stages",
-    "title": "Arhat Stages / 阿羅漢果位 / 阿羅漢果の段階",
-    "summary": "The progressive levels of spiritual attainment leading to full Arhat liberation in Buddhist practice.",
-    "tags": [
-      "buddhism",
-      "spiritual-attainment",
-      "arhat",
+      "liberation-stages",
       "mahayana",
-      "theravada",
-      "stages-of-practice",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "arhat",
-    "title": "Arhat / 阿罗汉",
-    "summary": "An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.",
-    "tags": [
-      "buddhism",
-      "arhat",
       "nirvana",
-      "theravada",
-      "mahayana",
-      "stub"
+      "noble-eightfold-path",
+      "non-returner",
+      "once-returner",
+      "spiritual-attainment",
+      "stages-of-practice",
+      "stream-enterer",
+      "stub",
+      "theravada"
     ],
     "sources": []
   },
@@ -198,19 +152,6 @@
     "sources": []
   },
   {
-    "slug": "baiyi-jinzhuang-brahmin-origin-sutra",
-    "title": "Baiyi and Jinzhuang: The Two Brahmins' Origin Sutra / 白衣金幢二婆羅門緣起經",
-    "summary": "A Buddhist sutra recounting how two brahmins, Baiyi and Jinzhuang, encounter the Buddha and are enlightened about karma and caste equality before renouncing worldly life.",
-    "tags": [
-      "buddhist-sutras",
-      "chinese-buddhism",
-      "brahmin-conversion",
-      "karma-teaching",
-      "origen-narrative"
-    ],
-    "sources": []
-  },
-  {
     "slug": "bao-en-pin",
     "title": "報恩品 / The Chapter on Repaying Kindness (Bao'en Pin)",
     "summary": "A major chapter of the Mahāyāna Sūtra on the Cultivation of the Mind-Ground, systematically explaining the Buddhist doctrine of repaying four kinds of kindness.",
@@ -231,10 +172,16 @@
       "analects",
       "benevolence",
       "chinese-ethics",
+      "classical-chinese-philosophy",
+      "confucian-ethics",
       "confucianism",
       "ethics",
+      "gaozi",
+      "mengzi",
       "moral-philosophy",
       "philosophy",
+      "righteousness",
+      "virtue",
       "virtue-ethics"
     ],
     "sources": []
@@ -244,41 +191,18 @@
     "title": "Benevolent Government / 仁政 / 仁政",
     "summary": "Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.",
     "tags": [
+      "analects",
       "benevolent-government",
       "chinese-philosophy",
       "confucian-political-philosophy",
       "confucianism",
       "governance",
+      "mencius",
       "mengzi",
+      "moral-responsibility",
+      "philosophy",
       "political-philosophy",
       "virtue-ethics"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "benevolent-government",
-    "title": "Benevolent Government / 仁政",
-    "summary": "Benevolent government is characterized by a ruler's compassion and morality, leading to harmony in society.",
-    "tags": [
-      "analects",
-      "benevolent-government",
-      "confucianism",
-      "mencius",
-      "moral-responsibility",
-      "philosophy"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "benevolent-invincible-renzhe-wudi",
-    "title": "The Benevolent Are Invincible / 仁者無敵",
-    "summary": "Mencius' doctrine that a ruler who practices benevolent government will be undefeatable due to moral authority.",
-    "tags": [
-      "mengzi",
-      "benevolent-government",
-      "political-philosophy",
-      "confucian-ethics",
-      "military-strategy"
     ],
     "sources": []
   },
@@ -325,22 +249,9 @@
     "title": "The Bodhisattva Path / 菩萨道",
     "summary": "The Bodhisattva path is a central aspect of Mahayana Buddhism, focusing on the aspiration to attain enlightenment for oneself and others.",
     "tags": [
-      "Buddhism",
       "Bodhisattva",
+      "Buddhism",
       "enlightenment"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "bodhisattva-practice-body-offering",
-    "title": "Body Offering in Buddhist Narrative / 佛教身施物語",
-    "summary": "The Buddhist narrative of offering one's own body as the ultimate act of almsgiving and dedication to the Buddhist path.",
-    "tags": [
-      "bodhisattva-practice",
-      "buddhist-narratives",
-      "chinese-buddhism",
-      "dana-paramita",
-      "self-sacrifice"
     ],
     "sources": []
   },
@@ -362,11 +273,16 @@
     "title": "Born in Adversity, Die in Comfort / 生于忧患，死于安乐",
     "summary": "Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.",
     "tags": [
-      "mengzi",
-      "moral-cultivation-methods",
-      "virtue-ethics",
+      "adversity",
+      "confucian-ethics",
+      "four-beginnings-mencius",
       "human-nature",
-      "four-beginnings-mencius"
+      "human-nature-is-good",
+      "mengzi",
+      "moral-cultivation",
+      "moral-cultivation-methods",
+      "political-philosophy",
+      "virtue-ethics"
     ],
     "sources": []
   },
@@ -376,10 +292,19 @@
     "summary": "Mahābrahmā's teachings on the four conditions for rebirth in the Brahma realm: non-self practice, one-pointedness of mind, compassionate liberation, and abandoning defilements.",
     "tags": [
       "brahma",
-      "liberation",
-      "rebirth-brahma-realm",
+      "brahma-worlds",
+      "celestial-assembly",
+      "defilements",
+      "desire-effort-mind-contemplation",
+      "four-bases-supernatural-power",
       "four-conditions",
-      "defilements"
+      "liberation",
+      "mahabrahma",
+      "rebirth-brahma-realm",
+      "supernatural-powers",
+      "thirty-three-heavens",
+      "tricycles",
+      "vaisravana"
     ],
     "sources": []
   },
@@ -392,22 +317,6 @@
       "Mahayana Buddhism",
       "Buddhist cosmology",
       "Spiritual progress"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "central-harmony-zhonghe",
-    "title": "Central Harmony (Zhonghe) / 中和",
-    "summary": "The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.",
-    "tags": [
-      "chinese-classics",
-      "confucianism",
-      "doctrine-of-the-mean",
-      "emotional-regulation",
-      "four-books",
-      "philosophy",
-      "self-cultivation",
-      "virtue-ethics"
     ],
     "sources": []
   },
@@ -449,27 +358,21 @@
     "sources": []
   },
   {
-    "slug": "confucian-education-principles",
-    "title": "Confucian Education Principles / 儒家教育原则",
-    "summary": "Confucius's educational philosophy emphasizing poetry, rituals, and music as foundations for character development",
-    "tags": [
-      "confucianism",
-      "education",
-      "moral-cultivation",
-      "classical-learning"
-    ],
-    "sources": []
-  },
-  {
     "slug": "confucian-ethics",
     "title": "Confucian Ethics / 儒家伦理",
     "summary": "This article explores the key concepts of Confucian ethics as presented in the Analects, focusing on filial piety and social conduct.",
     "tags": [
       "analects",
+      "chinese philosophy",
+      "classical-learning",
       "confucianism",
+      "education",
       "ethics",
+      "moral-cultivation",
       "moral-responsibility",
-      "philosophy"
+      "philosophy",
+      "stub",
+      "virtue"
     ],
     "sources": []
   },
@@ -535,9 +438,11 @@
     "title": "Sincerity (Cheng) in Confucianism / 誠",
     "summary": "A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.",
     "tags": [
+      "chinese-classics",
       "chinese-philosophy",
       "confucianism",
       "doctrine-of-the-mean",
+      "emotional-regulation",
       "ethics",
       "four-books",
       "philosophy",
@@ -570,43 +475,22 @@
     "sources": []
   },
   {
-    "slug": "confucian",
-    "title": "Confucianism / 儒家",
-    "summary": "Confucianism is an ethical and philosophical system from ancient China that emphasizes moral cultivation, ritual propriety, and harmonious social relationships.",
-    "tags": [
-      "confucianism",
-      "chinese philosophy",
-      "ethics",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "confucius-analects-jishi",
-    "title": "Analects - Jishi Chapter / 论语·季氏篇",
-    "summary": "Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects",
-    "tags": [
-      "confucianism",
-      "analects",
-      "governance",
-      "virtue-ethics",
-      "self-cultivation"
-    ],
-    "sources": []
-  },
-  {
     "slug": "confucius-analects",
     "title": "Analects of Confucius / 论语",
     "summary": "A collection of sayings and ideas attributed to the Chinese philosopher Confucius.",
     "tags": [
+      "analects",
       "chinese-beliefs",
       "chinese-philosophy",
       "classical-texts",
       "confucianism",
       "confucius",
       "ethics",
+      "governance",
       "philosophy",
-      "teachings"
+      "self-cultivation",
+      "teachings",
+      "virtue-ethics"
     ],
     "sources": []
   },
@@ -643,9 +527,15 @@
     "title": "大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground",
     "summary": "A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.",
     "tags": [
+      "bodhisattva-practice",
+      "chinese-buddhism",
+      "four-graces",
+      "gratitude",
       "gratitude-teaching",
+      "mahayana-sutra",
       "mahayana-sutras",
       "mind-cultivation",
+      "mind-ground",
       "prajna",
       "tang-dynasty-translations"
     ],
@@ -1306,23 +1196,6 @@
     "sources": []
   },
   {
-    "slug": "great-brahma-fourfold-teaching",
-    "title": "Great Brahma's Fourfold Teaching / 大梵天王四神足說",
-    "summary": "The teaching on the Four Bases of Supernatural Power delivered by Great Brahma King to the thirty-three heavens assembly.",
-    "tags": [
-      "brahma-worlds",
-      "four-bases-supernatural-power",
-      "tricycles",
-      "supernatural-powers",
-      "thirty-three-heavens",
-      "vaisravana",
-      "mahabrahma",
-      "celestial-assembly",
-      "desire-effort-mind-contemplation"
-    ],
-    "sources": []
-  },
-  {
     "slug": "great-brahma-king",
     "title": "Great Brahma King / 大梵天王",
     "summary": "A celestial deity in Buddhist cosmology who taught the Four Bases of Supernatural Power at the Thirty-three Heavens.",
@@ -1635,20 +1508,6 @@
     "sources": []
   },
   {
-    "slug": "internal-benevolence-external-righteousness-debate",
-    "title": "Internal Benevolence and External Righteousness Debate / 仁內義外之辯",
-    "summary": "The philosophical controversy over whether benevolence originates internally and righteousness externally in human nature.",
-    "tags": [
-      "mengzi",
-      "gaozi",
-      "benevolence",
-      "righteousness",
-      "confucian-ethics",
-      "classical-chinese-philosophy"
-    ],
-    "sources": []
-  },
-  {
     "slug": "investigating-things-extending-knowledge-gewu-zhizhi",
     "title": "Investigating Things and Extending Knowledge / 格物致知",
     "summary": "The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.",
@@ -1697,18 +1556,6 @@
       "virtue-ethics",
       "leadership",
       "moral-character"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "junzi-cultivation",
-    "title": "Junzi Cultivation / 君子修养",
-    "summary": "Confucius' teachings on the cultivation of moral character and virtuous conduct",
-    "tags": [
-      "confucianism",
-      "analects",
-      "philosophy",
-      "ethics"
     ],
     "sources": []
   },
@@ -1916,17 +1763,6 @@
     "sources": []
   },
   {
-    "slug": "mahayana-buddhism",
-    "title": "Mahayana Buddhism / 大乘佛教",
-    "summary": "Mahayana Buddhism is one of the two major branches of Buddhism, focusing on the Bodhisattva path and the goal of achieving enlightenment for all sentient beings.",
-    "tags": [
-      "Buddhism",
-      "Bodhisattva",
-      "enlightenment"
-    ],
-    "sources": []
-  },
-  {
     "slug": "mahayana-dharani-of-compassion",
     "title": "大乘悲分陀利經 / Mahāyāna Dhāraṇī of Compassion",
     "summary": "A Mahāyāna sutra describing the Lotus World, the Lotus-Up Tathāgata, and the profound dhāraṇī practices for achieving supreme enlightenment.",
@@ -1935,20 +1771,6 @@
       "dharani",
       "lotus-world",
       "buddhist-cosmogony",
-      "chinese-buddhism"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "mahayana-mind-ground-contemplation-sutra-dacheng-bensheng-xindi-guan-jing",
-    "title": "Mahāyāna Mind-Ground Contemplation Sūtra / 大乘本生心地觀經 / 大乗本生心地観経",
-    "summary": "A Mahāyāna sūtra teaching the contemplation of the mind-ground and the cultivation of bodhisattva virtues through repaying the four graces",
-    "tags": [
-      "mahayana-sutra",
-      "mind-ground",
-      "bodhisattva-practice",
-      "gratitude",
-      "four-graces",
       "chinese-buddhism"
     ],
     "sources": []
@@ -1964,25 +1786,6 @@
       "warring states period",
       "classical chinese literature",
       "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "mendicant-life-three-conditions",
-    "title": "mendicant-life-three-conditions",
-    "summary": "The user is asking me to write a one-line summary for an article titled \"mendicant-life-three-conditions\" with additional source information about a Buddhist text called \"Discourse on the Origin of the Great Firm Brahman.\"\n\nLooking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.\n\nHowever, the article title mentions \"mendicant-life-three-conditions\" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.\n\nI need to write a one-line summary that captures the essence of this article. The content is about:\n1. A narrative about renunciation in Buddhism\n2. The stages of rejecting worldly attachments\n3. A detailed story showing Buddhist teachings on spiritual values\n\nLet me craft a concise one-line summary:\n\nThe article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,",
-    "tags": [
-      "the user wants: \"list 2-4 relevant tags for this article (comma-separated",
-      "lowercase):\"\n\nthe article is \"mendicant-life-three-conditions\". the additional source is a buddhist text about renunciation. likely the tags are about buddhism",
-      "renunciation",
-      "mendicant life",
-      "buddhist teachings",
-      "perhaps \"renunciation\"",
-      "\"buddhism\"",
-      "\"spiritual hierarchy\"",
-      "\"great firm brahmin\"",
-      "\"the three conditions\"? the main article title \"mendicant-life-three-conditions\" suggests three conditions for mendicant life. so tags could be: \"buddhism\"",
-      "\""
     ],
     "sources": []
   },
@@ -2113,11 +1916,12 @@
     "title": "The People's Heart / 民心",
     "summary": "Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.",
     "tags": [
-      "mengzi",
-      "political-philosophy",
-      "governance",
+      "benevolent-government",
       "confucian-ethics",
-      "benevolent-government"
+      "governance",
+      "mengzi",
+      "military-strategy",
+      "political-philosophy"
     ],
     "sources": []
   },
@@ -2196,19 +2000,6 @@
       "confucian-ethics",
       "governance",
       "unity"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "mengzi-universal-sagehood-potential",
-    "title": "Universal Potential for Sagehood / 人皆可以为尧舜",
-    "summary": "Mencius' doctrine that every person possesses the innate capacity to become a sage like Yao and Shun, emphasizing moral agency and cultivation.",
-    "tags": [
-      "mengzi",
-      "human-nature",
-      "four-beginnings-mencius",
-      "human-nature-is-good",
-      "moral-cultivation-methods"
     ],
     "sources": []
   },
@@ -2547,17 +2338,6 @@
     "sources": []
   },
   {
-    "slug": "ren",
-    "title": "Ren (Benevolence) / 仁",
-    "summary": "Central Confucian virtue of humaneness and perfect virtue",
-    "tags": [
-      "ethics",
-      "confucianism",
-      "virtue"
-    ],
-    "sources": []
-  },
-  {
     "slug": "righteousness-internal-versus-external",
     "title": "Internal and External Righteousness / 仁內義外 / 仁内義外",
     "summary": "The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances",
@@ -2876,11 +2656,11 @@
     "summary": "The Buddhist narrative of a king who sacrificed his own flesh to light a thousand lamps as the ultimate act of dedication to the Dharma.",
     "tags": [
       "bodhisattva-practice",
-      "dana-paramita",
       "buddhist-narratives",
+      "chinese-buddhism",
+      "dana-paramita",
       "self-sacrifice",
-      "thousand-lamps",
-      "chinese-buddhism"
+      "thousand-lamps"
     ],
     "sources": []
   },
@@ -3174,19 +2954,6 @@
     "sources": []
   },
   {
-    "slug": "virtue-ethics",
-    "title": "Virtue and Ethics / 德与伦理",
-    "summary": "Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.",
-    "tags": [
-      "analects",
-      "confucianism",
-      "ethics",
-      "philosophy",
-      "virtue"
-    ],
-    "sources": []
-  },
-  {
     "slug": "virtue-merit-buddhism-de",
     "title": "Merit and Virtue in Buddhist Practice / 德 / 徳",
     "summary": "Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.",
@@ -3244,10 +3011,14 @@
     "title": "White Cloth and Golden Banner Two Brahmins Origin Sutra / 白衣金幢二婆羅門緣起經",
     "summary": "A Buddhist sutra recounting the renunciation of two Brahmins and presenting a Buddhist cosmology of human social origins.",
     "tags": [
-      "buddhist-sutras",
-      "buddhist-cosmology",
+      "brahmin-conversion",
       "brahmins",
+      "buddhist-cosmology",
+      "buddhist-sutras",
+      "chinese-buddhism",
       "four-castes",
+      "karma-teaching",
+      "origen-narrative",
       "renunciation"
     ],
     "sources": []
@@ -3358,19 +3129,6 @@
     "sources": []
   },
   {
-    "slug": "义",
-    "title": "Righteousness / 义 / 義",
-    "summary": "A Confucian virtue representing moral duty, righteousness, and the principle of acting justly.",
-    "tags": [
-      "confucianism",
-      "virtue",
-      "ethics",
-      "confucian-virtues",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
     "slug": "五根五力注-(安世高)",
     "title": "Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)",
     "summary": "Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.",
@@ -3381,162 +3139,6 @@
       "thirty‑seven bodhipāramitās",
       "five roots",
       "five powers",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "人性善",
-    "title": "... / ...",
-    "summary": "...",
-    "tags": [
-      "...",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "仁愛",
-    "title": "仁愛 / 仁爱",
-    "summary": "A Confucian virtue of benevolent love emphasizing genuine compassion in action over mere ritual observance.",
-    "tags": [
-      "confucianism",
-      "virtue-ethics",
-      "moral-philosophy",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "仁政",
-    "title": "Benevolent Governance / 仁政",
-    "summary": "The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.",
-    "tags": [
-      "confucianism",
-      "political philosophy",
-      "mencius",
-      "chinese thought",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "仁爱",
-    "title": "仁爱 / Benevolence / 仁愛",
-    "summary": "The supreme virtue in Confucian philosophy representing humanity, compassion, and perfect moral character",
-    "tags": [
-      "confucianism",
-      "virtue",
-      "ethics",
-      "chinese-philosophy",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "仁者",
-    "title": "仁者 / 仁者 / 仁者",
-    "summary": "A person who embodies the Confucian virtue of benevolence (仁) through practice and self-cultivation.",
-    "tags": [
-      "confucianism",
-      "virtue-ethics",
-      "moral-philosophy",
-      "chinese-philosophy",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "修身",
-    "title": "Self-Cultivation / 修身",
-    "summary": "The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.",
-    "tags": [
-      "confucianism",
-      "self-cultivation",
-      "moral practice",
-      "chinese philosophy",
-      "four books",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "儒家",
-    "title": "Confucianism / 儒家",
-    "summary": "Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.",
-    "tags": [
-      "confucianism",
-      "philosophy",
-      "chinese-thought",
-      "ethics",
-      "classical-chinese",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "儒家政治哲学",
-    "title": "儒家政治哲学",
-    "summary": "title: Confucian Political Philosophy / 儒家政治哲学  \nsummary: This article explores the origins, core concepts, development, and significance of Confucian political philosophy, highlighting the moral foundations of governance established by Confucius and Mencius.  \ntags: confucianism, political-philosophy, chinese-philosophy, mengzi, moral-governance  \n---  \n## English  \nConfucian political philosophy is a framework that emphasizes the moral foundation of political authority, originating from the teachings of Confucius and further developed by Mencius. Core concepts include ren (benevolence), li (ritual), junzi (gentleman), righteous governance, and the Mandate of Heaven, with an emphasis on virtue over profit and moral self-cultivation as the basis for political legitimacy. The idea of \"tianxia\" (all-under-heaven) unites the populace under a benevolent ruler. This philosophy evolved notably during the Han dynasty and Neo-Confucianism, with modern reinterpretations affirming that political order must be rooted in moral cultivation. The ruler is seen as a moral exemplar whose virtue is essential for effective governance.  \n## 中文  \n儒家政治哲学是强调政治权威道",
-    "tags": [
-      "\"tags: confucianism",
-      "political-philosophy",
-      "chinese-philosophy",
-      "mengzi",
-      "virtue-governance\". should we use hyphens? it's fine.",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "儒家政治哲學",
-    "title": "Confucian Political Philosophy / 儒家政治哲學",
-    "summary": "Confucian political philosophy integrates moral virtue, ritual propriety, and humanistic ethics into the governance of society.",
-    "tags": [
-      "confucianism",
-      "political-philosophy",
-      "ethics",
-      "chinese-thought",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "儒家自省",
-    "title": "Confucian Self-Reflection / 儒家自省",
-    "summary": "A Confucian practice of systematic moral introspection for cultivating virtue and self-improvement.",
-    "tags": [
-      "confucian-philosophy",
-      "self-cultivation",
-      "moral-philosophy",
-      "virtue-ethics",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "君子",
-    "title": "Junzi (君子) / 君子",
-    "summary": "The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.",
-    "tags": [
-      "confucianism",
-      "moral-ideal",
-      "chinese-philosophy",
-      "junzi",
-      "stub"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "如來八希有法",
-    "title": "Eight Rare Teachings of the Tathāgata / 如來八希有法",
-    "summary": "A set of eight rarely‑occuring doctrines taught by the Buddha that reveal the conditions for attaining ultimate liberation.",
-    "tags": [
-      "buddhism",
-      "mahayana",
-      "sutras",
-      "eight-rare-teachings",
-      "tathagata",
       "stub"
     ],
     "sources": []
@@ -3568,19 +3170,6 @@
     "sources": []
   },
   {
-    "slug": "布施因果",
-    "title": "Cause and Effect of Giving / 布施因果",
-    "summary": "The Buddhist doctrine that practicing dāna (generosity) generates karmic rewards, with particular emphasis on giving before oneself as a key spiritual practice.",
-    "tags": [
-      "buddhist-dharma",
-      "karma",
-      "dana-paramita",
-      "merit",
-      "moral-causation"
-    ],
-    "sources": []
-  },
-  {
     "slug": "杞人忧天-qiren-youtian",
     "title": "The Man Who Worried About Heaven Falling (杞人憂天) / 杞人憂天",
     "summary": "The famous anecdote about unnecessary worry over things beyond one's control, illustrating the Liezi philosophical approach to existential anxiety.",
@@ -3590,74 +3179,6 @@
       "anxiety",
       "existentialism",
       "ancient China"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "瞿曇般若流支",
-    "title": "瞿曇般若流支",
-    "summary": "瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。",
-    "tags": [
-      "the user asks: \"list 2-4 relevant tags for this article (comma-separated",
-      "lowercase):\" the article is about \"瞿曇般若流支\" (gautama prajñāruci) and his translation of the \"金色王經\" (golden king sutra). we need to list 2-4 relevant tags",
-      "comma-separated",
-      "lowercase. so we need to think about tags that capture the content. possibly: \"gautama-prajnaruci\"",
-      "\"golden-king-sutra\"",
-      "\"buddhist-translation\"",
-      "\"northern-wei\"",
-      "\"daolin\"",
-      "\"mah"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "辟支佛",
-    "title": "Pratyekabuddha / 辟支佛",
-    "summary": "A solitary buddha who achieves enlightenment alone through contemplation of dependent origination, appearing in the Golden King Sutra to demonstrate the power of dāna.",
-    "tags": [
-      "pratyekabuddha",
-      "arhat",
-      "buddhist-enlightenment",
-      "vegetarian-buddhism",
-      "golden-king-sutra"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "金色王",
-    "title": "King Golden / 金色王",
-    "summary": "King Golden was a past life of the Buddha who practiced extreme generosity, becoming a model for Buddhist teachings on the fruits of giving (dāna).",
-    "tags": [
-      "buddha-past-life",
-      "jataka-tale",
-      "dana-paramita",
-      "king-of-jambudvipa",
-      "buddhist-sacrifice"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "金色王經",
-    "title": "Golden King Sutra / 金色王經",
-    "summary": "A Buddhist sutra recounting the past life of the Buddha as King Golden, illustrating the karmic fruits of giving through the story of a famine and miraculous provision.",
-    "tags": [
-      "buddhist-sutra",
-      "east-wei-translation",
-      "dana-paramita",
-      "pratyekabuddha",
-      "buddhist-narrative"
-    ],
-    "sources": []
-  },
-  {
-    "slug": "阿羅漢果",
-    "title": "Arhat Fruit / 阿羅漢果",
-    "summary": "The ultimate spiritual attainment of an Arhat, signifying liberation from the cycle of rebirth.",
-    "tags": [
-      "buddhism",
-      "buddhist terminology",
-      "arhat",
-      "stub"
     ],
     "sources": []
   }

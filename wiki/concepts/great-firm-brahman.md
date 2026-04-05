@@ -13,7 +13,7 @@ title: The Great Firm Brahman / 大堅固婆羅門
 
 ## English
 
-**The Great Firm Brahman** (大堅固婆羅門, *Mahākūṭabrabma* or *Mahākṣamībrāhmaṇa*) is a central figure in the Buddhist sutra *The Discourse on the Origin of the Great Firm Brahman* (佛說大堅固婆羅門緣起經). The narrative serves as a past-life account (*jātaka*-like story) demonstrating the Buddha's long path toward enlightenment and illustrating key Buddhist teachings on renunciation, the attainments of an [[arhat]], and the power of Dharma teaching.
+**The Great Firm Brahman** (大堅固婆羅門, *Mahākūṭabrabma* or *Mahākṣamībrāhmaṇa*) is a central figure in the Buddhist sutra *The Discourse on the Origin of the Great Firm Brahman* (佛說大堅固婆羅門緣起經). The narrative serves as a past-life account (*jātaka*-like story) demonstrating the Buddha's long path toward enlightenment and illustrating key Buddhist teachings on renunciation, the attainments of an [[arhat-stages-buddhist-liberation]], and the power of Dharma teaching.
 
 The figure's original name was **護明** (*Hùmíng*, "Protected Brightness" or "Protector of Light"), son of a minister named **堅固** (*Jiāngù*, "Firm"). Upon his father's death, the king appointed the young 護明 to succeed his father as chief minister. The people, impressed by his wisdom and virtue, began calling him **大堅固** ("Great Firm") to honor both father and son.
 

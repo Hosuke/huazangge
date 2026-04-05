@@ -13,11 +13,11 @@ updated: '2026-04-04T17:23:07.037390+00:00'
 
 ## English
 
-**Fixed Livelihood** (恒产论) is Mencius's economic and psychological theory that stable property ownership is prerequisite for moral stability. He famously stated: "Those who have a certain livelihood have a fixed heart, and those who have not a certain livelihood have not a fixed heart." This principle forms the foundation of his [[benevolent-government]] philosophy.
+**Fixed Livelihood** (恒产论) is Mencius's economic and psychological theory that stable property ownership is prerequisite for moral stability. He famously stated: "Those who have a certain livelihood have a fixed heart, and those who have not a certain livelihood have not a fixed heart." This principle forms the foundation of his [[benevolent-government-ren-zheng]] philosophy.
 
 Mencius argues that without economic security, people "will not do in the way of self-abandonment, of moral deflection, of depravity, and of wild license." He condemns punishing people who commit crimes due to economic desperation as "entrapping the people." The historical systems he cites—fifty acres under Xia, seventy under Yin, and hundred under Zhou—all provided land security to farmers while requiring tax contributions.
 
-This theory directly connects material conditions to moral development, suggesting that [[benevolent-government]] must first ensure economic stability before expecting moral cultivation. The concept demonstrates Mencius's practical approach to governance, where economic policy serves ethical ends.
+This theory directly connects material conditions to moral development, suggesting that [[benevolent-government-ren-zheng]] must first ensure economic stability before expecting moral cultivation. The concept demonstrates Mencius's practical approach to governance, where economic policy serves ethical ends.
 
 ## 中文
 

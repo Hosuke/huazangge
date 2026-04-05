@@ -32,7 +32,7 @@ This metaphor contains several profound insights:
 
 This doctrine fundamentally challenges the [[mengzi-haoran-qi-vast-flowing-vital-energy|Mencian view of human nature]] and [[mengzi-four-beginnings-siduan|the Four Beginnings]], asserting that when the political environment permits, people's natural moral tendencies will flourish like seedlings after rain. It represents Mencius' most optimistic vision of political transformation through moral suasion rather than force.
 
-See also: [[mengzi-political-philosophy-benevolent-rule]], [[benevolent-invincible-renzhe-wudi]], [[human-nature-is-good]].
+See also: [[mengzi-political-philosophy-benevolent-rule]], [[mengzi-people-heart-minjian]], [[human-nature-is-good]].
 
 ## 中文
 
@@ -56,7 +56,7 @@ See also: [[mengzi-political-philosophy-benevolent-rule]], [[benevolent-invincib
 
 這一命題根本性地挑戰了當時的霸權邏輯，與孟子的性善論和四端說密切相關。當政治環境允許時，人民的道德潛能便會如雨後禾苗般茁壯生長。這是孟子透過道德感化而非武力来实现政治變革的最樂觀願景。
 
-參見：[[mengzi-political-philosophy-benevolent-rule]]、[[benevolent-invincible-renzhe-wudi]]、[[human-nature-is-good]]。
+參見：[[mengzi-political-philosophy-benevolent-rule]]、[[mengzi-people-heart-minjian]]、[[human-nature-is-good]]。
 
 ## 日本語
 
@@ -80,4 +80,4 @@ See also: [[mengzi-political-philosophy-benevolent-rule]], [[benevolent-invincib
 
 この命題は当時の覇権論理に根本的に挑戦するものであり、孟子の性善説や四端説と密接に関連する。政治的環境が許す時、人民の道徳的潜勢は雨後の苗のように茁壮成長する。これは孟子が武力ではなく道徳的感化を通じて政治的変革を実現しようとする、最も楽観的なヴィジョンを表している。
 
-関連項目：[[mengzi-political-philosophy-benevolent-rule]]、[[benevolent-invincible-renzhe-wudi]]、[[human-nature-is-good]]。
+関連項目：[[mengzi-political-philosophy-benevolent-rule]]、[[mengzi-people-heart-minjian]]、[[human-nature-is-good]]。

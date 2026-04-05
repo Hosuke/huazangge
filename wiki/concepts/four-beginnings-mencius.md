@@ -58,7 +58,7 @@ The method of cultivation requires neither neglect nor forcing: "There must be t
 
 The Four Beginnings form the core of Mencius's response to the question of whether human nature is good. Against the view that human nature is neutral or that it inclines toward evil, Mencius argued that the presence of these universal moral sprouts in every person demonstrates the fundamentally good orientation of human nature.
 
-See also: [[human-nature-is-good]], [[mencius]], [[virtue-ethics]], [[benevolence]], [[confucian-political-philosophy]]
+See also: [[human-nature-is-good]], [[mencius]], [[confucian-ethics]], [[benevolence]], [[confucian-political-philosophy]]
 
 ## 中文
 
@@ -100,7 +100,7 @@ See also: [[human-nature-is-good]], [[mencius]], [[virtue-ethics]], [[benevolenc
 
 四端說為孟子回應人性善惡問題之核心論證。針對人性中性或人性趨惡之觀點，孟子以四端普遍存於人人之中為據，論證人性根本向善之本質。
 
-相關條目：[[human-nature-is-good]]（人性善）、[[mencius]]（孟子）、[[virtue-ethics]]（美德倫理學）、[[benevolence]]（仁）、[[confucian-political-philosophy]]（儒家政治哲學）
+相關條目：[[human-nature-is-good]]（人性善）、[[mencius]]（孟子）、[[confucian-ethics]]（美德倫理學）、[[benevolence]]（仁）、[[confucian-political-philosophy]]（儒家政治哲學）
 
 ## 日本語
 
@@ -142,4 +142,4 @@ See also: [[human-nature-is-good]], [[mencius]], [[virtue-ethics]], [[benevolenc
 
 四端說は孟子の人性の善し悪しに対する問いへの回答の中核を成す。人性が中立的である、あるいは悪に傾くという見解に反対し、孟子は四端が万人に普遍的に存在することを論拠として、人間性の本質的な善への指向性を主張した。
 
-関連項目：[[human-nature-is-good]]（人性善）、[[mencius]]（孟子）、[[virtue-ethics]]（徳倫理）、[[benevolence]]（仁）、[[confucian-political-philosophy]]（儒家の政治哲学）
+関連項目：[[human-nature-is-good]]（人性善）、[[mencius]]（孟子）、[[confucian-ethics]]（徳倫理）、[[benevolence]]（仁）、[[confucian-political-philosophy]]（儒家の政治哲学）

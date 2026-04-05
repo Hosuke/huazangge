@@ -22,7 +22,7 @@ The Mencius (Mengzi) is organized into seven chapters (篇), each systematically
 
 **2. Gong Sun Chou (公孫丑上/下)** — These chapters develop the concept of the "Four Beginnings" (四端), which Mencius identifies as the seeds of virtue inherent in every human heart-mind (心). The Four Beginnings—compassion, shame, deference, and judgment—form the basis for developing the cardinal virtues. This section articulates the psychological foundations of [[human-nature-is-good]] and provides the epistemological framework for understanding moral knowledge as innate rather than purely acquired.
 
-**3. Teng Wen Gong (滕文公上/下)** — Focused on the application of Confucian principles in smaller states, these chapters explore the practical challenges of implementing [[benevolent-government]] in politically constrained circumstances. Mencius adapts his teachings to address specific historical contexts, demonstrating the flexibility of Confucian ethics.
+**3. Teng Wen Gong (滕文公上/下)** — Focused on the application of Confucian principles in smaller states, these chapters explore the practical challenges of implementing [[benevolent-government-ren-zheng]] in politically constrained circumstances. Mencius adapts his teachings to address specific historical contexts, demonstrating the flexibility of Confucian ethics.
 
 **4. Li Lou (離婁上/下)** — This chapter emphasizes the importance of ritual propriety (禮) and proper form in moral conduct. Through aphorisms and parables, Mencius illustrates how genuine virtue requires appropriate external expression. The chapter connects individual moral cultivation to broader social harmony, emphasizing that personal refinement contributes to cosmic order.
 
@@ -50,7 +50,7 @@ The seven-chapter structure reflects a deliberate pedagogical arrangement, movin
 
 **二、公孫丑上/下** — 此篇系統闡述「四端」說。惻隱之心、羞惡之心、辭讓之心、是非之心，乃人心所固有之道德萌芽。孟子以此論證[[human-nature-is-good|人性本善]]之說，並為道德修養提供心理學基礎。四端發展為四德——仁、義、禮、智——構成儒家倫理學之核心框架。
 
-**三、滕文公上/下** — 論述滕文公所面臨之治國困境。滕國地小力弱，孟子因地制宜，提出切實可行之治道。此篇展現儒家學說之適應性與[[benevolent-government|仁政]]理念在不同政治條件下之應用。
+**三、滕文公上/下** — 論述滕文公所面臨之治國困境。滕國地小力弱，孟子因地制宜，提出切實可行之治道。此篇展現儒家學說之適應性與[[benevolent-government-ren-zheng|仁政]]理念在不同政治條件下之應用。
 
 **四、離婁上/下** — 集中討論禮儀修養之重要性。孟子以「大人者不失其赤子之心」說明道德修養之最高境界乃返璞歸真。此篇強調形式與內涵之統一，真誠之道德情感需通過適當之禮儀形式加以表達。
 
@@ -78,7 +78,7 @@ The seven-chapter structure reflects a deliberate pedagogical arrangement, movin
 
 **二、公孫丑上/下** — この篇では「四端」説を体系的に阐述する。惻隠の心、羞悪の心、辞譲の心、是非の心は、人心のうちに本来備わる道德的萌芽である。孟子はこの論拠として[[human-nature-is-good|性善説]]を論証し、道徳的修養の心理学的基础を提供する。四端が仁・義・礼・智の四徳に発展することは、儒教倫理學の核心的枠組みを構成する。
 
-**三、滕文公上/下** — 滕文公が直面する治国の方途について論述する。滕の国は小さく力が弱く、孟子はその状況に応じて、実行可能な治道を提唱する。この篇は儒教学説の適応性と[[benevolent-government|仁政]]の理念が異なる政治的条件下でどのように応用されるかを示している。
+**三、滕文公上/下** — 滕文公が直面する治国の方途について論述する。滕の国は小さく力が弱く、孟子はその状況に応じて、実行可能な治道を提唱する。この篇は儒教学説の適応性と[[benevolent-government-ren-zheng|仁政]]の理念が異なる政治的条件下でどのように応用されるかを示している。
 
 **四、離婁上/下** — 礼儀修養の重要性を集中的に論じる。孟子」は「大人の者はその赤子の心を失わない」とし、道徳的修養の最高境地は素朴な初心に戻ることだと説明する。この篇は形式と内実の統一、真摯な道德的感情が適切な礼儀形式によって表現される必要があることを強調する。
 
