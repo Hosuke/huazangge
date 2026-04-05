@@ -21,3 +21,4 @@ RUN chmod +x entrypoint.sh && mkdir -p raw wiki/outputs
 ENV PORT=5555
 EXPOSE ${PORT}
 ENTRYPOINT ["./entrypoint.sh"]
+# Sun Apr  5 13:37:00 UTC 2026
