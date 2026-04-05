@@ -62,20 +62,11 @@ def create_web_app(base_dir: Path | None = None):
 
     @app.route("/api/taxonomy")
     def api_taxonomy():
-        """Get or generate hierarchical category taxonomy."""
-        from .taxonomy import load_taxonomy, generate_taxonomy
-        taxonomy = load_taxonomy(base)
-        if not taxonomy.get("categories"):
-            # Auto-generate on first request
-            taxonomy = generate_taxonomy(base)
-        return jsonify(taxonomy)
-
-    @app.route("/api/taxonomy/rebuild", methods=["POST"])
-    def api_taxonomy_rebuild():
-        """Regenerate taxonomy from current articles."""
-        from .taxonomy import generate_taxonomy
-        taxonomy = generate_taxonomy(base)
-        return jsonify({"status": "ok", "categories": len(taxonomy.get("categories", []))})
+        """Get hierarchical category taxonomy. ?lang=zh|en|ja"""
+        from .taxonomy import build_taxonomy
+        lang = request.args.get("lang", "zh")
+        categories = build_taxonomy(base, lang)
+        return jsonify({"categories": categories})
 
     @app.route("/api/collections")
     def api_collections():
@@ -168,6 +159,25 @@ def create_web_app(base_dir: Path | None = None):
     def api_sources():
         docs = list_raw(base)
         return jsonify({"documents": docs})
+
+    @app.route("/api/sources/<path:slug>")
+    def api_source_detail(slug):
+        """Read raw document content for preview."""
+        cfg = load_config(base)
+        raw_dir = Path(cfg["paths"]["raw"])
+        doc_dir = raw_dir / slug
+        idx = doc_dir / "index.md"
+        if not idx.exists():
+            return jsonify({"status": "error", "message": "Not found"})
+        post = frontmatter.load(str(idx))
+        return jsonify({
+            "slug": slug,
+            "title": post.metadata.get("title", slug),
+            "type": post.metadata.get("type", "unknown"),
+            "compiled": post.metadata.get("compiled", False),
+            "content": post.content[:10000],  # Cap at 10K chars for preview
+            "metadata": {k: str(v) for k, v in post.metadata.items()},
+        })
 
     @app.route("/api/ingest", methods=["POST"])
     def api_ingest():

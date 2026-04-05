@@ -11,7 +11,7 @@ tags:
 - moral-responsibility
 - philosophy
 title: The Role of the Junzi / 君子的角色
-updated: '2026-04-04T19:24:43.994014+00:00'
+updated: '2026-04-04T21:47:05.106579+00:00'
 ---
 
 ## English
@@ -195,3 +195,80 @@ Confucius warned against superficial traits: "Clever words and ingratiating deme
 - [[顔回]]のように「一を聞いて十を知る」（『論語』公冶長篇）
 
 孔子は見かけだけの徳を戒めた：「巧言令色、鮮し仁」（『論語』学而篇）
+
+---
+
+## English
+
+The **Superior Person** (君子 jūnzǐ) represents the Confucian moral ideal - an individual who has cultivated virtue, maintains balance, and fulfills social responsibilities through ethical conduct.
+
+### Characteristics in the Doctrine of the Mean
+
+**Vigilance in Solitude**
+> "Therefore the superior person is watchful over himself when he is alone." (故君子慎其獨也)
+
+This emphasizes the [[confucian-sincerity-cheng|sincerity]] of moral cultivation even in private circumstances.
+
+**Balance and Moderation**
+The superior person embodies the [[central-harmony-zhonghe|mean]], avoiding extremes: "The superior person embodies the mean; the small man acts contrary to the mean."
+
+**Adaptation without Compromise**
+> "The superior person is in his position and acts accordingly. He does not desire what is beyond his position." (君子素其位而行，不願乎其外)
+
+This describes the ability to adapt to circumstances while maintaining moral integrity.
+
+### Social and Political Role
+
+The text connects personal cultivation with political effectiveness: "The superior person's way is like traveling to a distant place: one must start from the nearest point."
+
+Through the cultivation of [[benevolence|benevolence]], righteousness, and wisdom, the superior person becomes capable of governing and bringing order to society.
+
+## 中文
+
+**君子**是儒家的道德理想——通过伦理行为培养德性、保持平衡并履行社会责任的人格典范。
+
+### 《中庸》中的特质
+
+**慎独工夫**
+> 「故君子慎其獨也」
+
+强调即使在独处时也保持[[confucian-sincerity-cheng|诚]]的道德修养。
+
+**中庸之道**
+君子体现[[central-harmony-zhonghe|中和]]，避免极端：「君子中庸，小人反中庸」。
+
+**时中之道**
+> 「君子素其位而行，不願乎其外」
+
+描述在保持道德完整性的同时适应环境的能力。
+
+### 社会政治角色
+
+文本将个人修养与政治效能相连：「君子之道，辟如行遠必自邇」。
+
+通过培养[[benevolence|仁]]、义、智等德性，君子能够治国平天下。
+
+## 日本語
+
+**君子**は儒家の道德的理想——徳を修め、調和を保ち、社会的責任を倫理的行為を通じて果たす人格の模範である。
+
+### 『中庸』における特質
+
+**慎独の工夫**
+> 「故君子慎其獨也」
+
+独りにあるときも[[confucian-sincerity-cheng|誠]]の道德修養を保つことを強調する。
+
+**中庸の道**
+君子は[[central-harmony-zhonghe|中和]]を体現し、極端を避ける：「君子中庸、小人反中庸」。
+
+**時中の道**
+> 「君子素其位而行、不願乎其外」
+
+道德的完全性を保ちながら環境に適応する能力を描く。
+
+### 社会政治的役割
+
+文本は個人修養と政治的効力を結びつける：「君子之道、辟如行遠必自邇」。
+
+[[benevolence|仁]]・義・智などの徳を培養することで、君子は国を治め天下を平らかにする能力を得る。

@@ -3,13 +3,16 @@ summary: The Confucian ideal of balanced psychological equilibrium where emotion
   arise appropriately and harmoniously, forming the foundation of virtue and cosmic
   order.
 tags:
+- chinese-classics
 - confucianism
-- virtue-ethics
 - doctrine-of-the-mean
 - emotional-regulation
-- self-cultivation
 - four-books
+- philosophy
+- self-cultivation
+- virtue-ethics
 title: Central Harmony (Zhonghe) / 中和
+updated: '2026-04-04T21:47:05.101634+00:00'
 ---
 
 ## English
@@ -75,3 +78,92 @@ Confucius's statement "The mean is what the mind of man cannot retain" acknowled
 * [[修身]] - 中和を実現するための修養実践
 * [[Junzi|君子]] - 日常生活において中和を実現する理想人格
 * [[天人合一]] - 中和と宇宙秩序の関係
+
+---
+
+## English
+
+The **Doctrine of the Mean** (中庸) is one of the Four Books of Confucianism, traditionally attributed to Zisi, Confucius' grandson. It presents a comprehensive philosophical system centered on achieving harmony through balance and sincerity.
+
+### Core Concepts
+
+**Heavenly Mandate and Human Nature**
+> "What Heaven confers is called the nature; accordance with this nature is called the path; cultivating the path is called education." (天命之謂性，率性之謂道，脩道之謂教)
+
+This establishes the metaphysical foundation: human nature originates from Heaven, and the [[dao-the-way-taoism|Way]] consists of following this nature through cultivation.
+
+**Centrality and Harmony**
+> "Before the feelings of pleasure, anger, sorrow, and joy are aroused, it is called centrality. When these feelings are aroused and all hit the due measure, it is called harmony." (喜怒哀樂之未發，謂之中；發而皆中節，謂之和)
+
+Centrality represents the primordial state before emotional disturbance, while harmony manifests when emotions express appropriately. Achieving both enables cosmic order: "When centrality and harmony are realized, heaven and earth take their proper places, and all things are nourished."
+
+**The Superior Person's Cultivation**
+The text emphasizes [[junzi|superior person's]] vigilance in solitude and constant self-examination. "Therefore the superior person is watchful over himself when he is alone."
+
+### Practical Application
+
+**Governance and Self-Cultivation**
+The work connects personal cultivation with political order through the "nine standards" of governance, including [[benevolence|benevolence]], knowledge, and courage. "There are nine standards by which the government of the empire is conducted: cultivating the personal life, honoring the worthy..."
+
+**Sincerity as Cosmic Principle**
+> "Sincerity is the way of Heaven. To think how to be sincere is the way of man." (誠者，天之道也；誠之者，人之道也)
+
+[[confucian-sincerity-cheng|Sincerity]] becomes both metaphysical reality and practical method, enabling one to participate in cosmic transformation.
+
+## 中文
+
+《**中庸**》为儒家四书之一，相传为孔子之孙子思所作，系统阐述了儒家关于中和、诚明、修齐治平的完整哲学体系。
+
+### 核心义理
+
+**天命与人性**
+> "天命之謂性，率性之謂道，脩道之謂教"
+
+此句确立了儒家形上学基础：人性本于天，循性而为即是[[dao-the-way-taoism|道]]，修道即是教化。
+
+**中和之道**
+> "喜怒哀樂之未發，謂之中；發而皆中節，謂之和"
+
+"中"指情感未发时的本然状态，"和"指情感发而皆合节度。达到"致中和"的境界，则"天地位焉，萬物育焉"，实现宇宙秩序的和谐。
+
+**君子慎独**
+强调[[junzi|君子]]在独处时的戒慎恐惧："莫見乎隱，莫顯乎微，故君子慎其獨也。"
+
+### 实践应用
+
+**治国修身**
+通过"治国九经"将个人修养与政治秩序相连，包括修身、尊贤、亲亲等。其中[[benevolence|仁]]、知、勇为"天下之达德"。
+
+**诚明之境**
+> "誠者，天之道也；誠之者，人之道也"
+
+[[confucian-sincerity-cheng|诚]]既是天道本体，也是人道工夫。至诚能尽性参天，"唯天下至誠，為能經綸天下之大經"。
+
+## 日本語
+
+『**中庸**』は儒家四書の一つで、孔子の孫である子思の作と伝えられる。中和・誠明・修己治人をめぐる儒家哲学の体系を展開する。
+
+### 核心概念
+
+**天命と人性**
+> 「天命之謂性、率性之謂道、脩道之謂教」
+
+これは儒家形而上学の基礎を確立する：人性は天に由来し、性に従うことが[[dao-the-way-taoism|道]]であり、道を修めることが教化である。
+
+**中和の理**
+> 「喜怒哀樂之未發、謂之中、發而皆中節、謂之和」
+
+「中」は感情が未発の本源状態、「和」は感情が発動して節度に適うこと。「中和」を極めれば「天地位焉、萬物育焉」となり、宇宙秩序の調和が実現する。
+
+**君子の慎独**
+[[junzi|君子]]は独りにあるときも戒慎すべきと説く：「莫見乎隱、莫顯乎微、故君子慎其獨也」
+
+### 実践応用
+
+**治国と修身**
+「治国九経」を通じて個人の修養と政治秩序を結びつける。其中[[benevolence|仁]]・知・勇は「天下之達德」である。
+
+**誠明の境地**
+> 「誠者、天之道也、誠之者、人之道也」
+
+[[confucian-sincerity-cheng|誠]]は天道の本体であり、人道の工夫でもある。至誠は性を尽くして天と参ずることができる：「唯天下至誠、為能經綸天下之大經」

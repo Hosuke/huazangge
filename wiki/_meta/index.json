@@ -55,9 +55,16 @@
     "title": "Disciples in the Analects / 论语弟子群像",
     "summary": "Notable disciples appearing in Confucius's Analects",
     "tags": [
-      "confucianism",
+      "analects",
+      "benevolence",
       "biography",
-      "education"
+      "confucianism",
+      "confucius",
+      "disciples",
+      "education",
+      "junzi",
+      "learning",
+      "virtue-ethics"
     ],
     "sources": []
   },
@@ -70,6 +77,29 @@
       "learning",
       "self-cultivation",
       "analects"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "analects-zhengzhi",
+    "title": "Governance in the Analects / 论语中的治理",
+    "summary": "Examination of Confucius' principles of governance as outlined in the Analects.",
+    "tags": [
+      "confucius",
+      "governance"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "ananda-compiled-scriptures",
+    "title": "阿難集經 Ānanda's Compilation of the Buddhist Canon",
+    "summary": "The Buddha's attendant who compiled the sutras after the Buddha's parinirvana, organizing them into the three treasures and four collections.",
+    "tags": [
+      "ananda",
+      "three-treasuries",
+      "four-agamas",
+      "sutra-compilation",
+      "canonical-history"
     ],
     "sources": []
   },
@@ -111,6 +141,32 @@
       "cosmology",
       "trigrams",
       "symbolism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baiyi-jinzhuang-brahmin-origin-sutra",
+    "title": "Baiyi and Jinzhuang: The Two Brahmins' Origin Sutra / 白衣金幢二婆羅門緣起經",
+    "summary": "A Buddhist sutra recounting how two brahmins, Baiyi and Jinzhuang, encounter the Buddha and are enlightened about karma and caste equality before renouncing worldly life.",
+    "tags": [
+      "buddhist-sutras",
+      "chinese-buddhism",
+      "brahmin-conversion",
+      "karma-teaching",
+      "origen-narrative"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "bao-en-pin",
+    "title": "報恩品 / The Chapter on Repaying Kindness (Bao'en Pin)",
+    "summary": "A major chapter of the Mahāyāna Sūtra on the Cultivation of the Mind-Ground, systematically explaining the Buddhist doctrine of repaying four kinds of kindness.",
+    "tags": [
+      "mahayana-ethics",
+      "gratitude-teaching",
+      "filial-piety-buddhism",
+      "bodhisattva-practice",
+      "four-kinds-kindness"
     ],
     "sources": []
   },
@@ -169,16 +225,30 @@
     "sources": []
   },
   {
+    "slug": "bu-chu-yi-sheng-yu-chu",
+    "title": "補處 / One Life Remaining Before Buddhahood",
+    "summary": "The bodhisattva stage immediately before full enlightenment, having completed all but the final traces of ignorance.",
+    "tags": [
+      "Bodhisattva stages",
+      "Mahayana Buddhism",
+      "Buddhist cosmology",
+      "Spiritual progress"
+    ],
+    "sources": []
+  },
+  {
     "slug": "central-harmony-zhonghe",
     "title": "Central Harmony (Zhonghe) / 中和",
     "summary": "The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.",
     "tags": [
+      "chinese-classics",
       "confucianism",
-      "virtue-ethics",
       "doctrine-of-the-mean",
       "emotional-regulation",
+      "four-books",
+      "philosophy",
       "self-cultivation",
-      "four-books"
+      "virtue-ethics"
     ],
     "sources": []
   },
@@ -216,6 +286,18 @@
       "mencius-commentary",
       "han-dynasty",
       "classical-scholarship"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "confucian-education-principles",
+    "title": "Confucian Education Principles / 儒家教育原则",
+    "summary": "Confucius's educational philosophy emphasizing poetry, rituals, and music as foundations for character development",
+    "tags": [
+      "confucianism",
+      "education",
+      "moral-cultivation",
+      "classical-learning"
     ],
     "sources": []
   },
@@ -283,7 +365,9 @@
       "chinese-philosophy",
       "confucianism",
       "doctrine-of-the-mean",
+      "ethics",
       "four-books",
+      "philosophy",
       "self-cultivation",
       "virtue-ethics"
     ],
@@ -310,9 +394,12 @@
     "title": "Analects of Confucius / 论语",
     "summary": "A collection of sayings and ideas attributed to the Chinese philosopher Confucius.",
     "tags": [
+      "chinese-beliefs",
+      "confucianism",
       "confucius",
+      "ethics",
       "philosophy",
-      "ethics"
+      "teachings"
     ],
     "sources": []
   },
@@ -327,6 +414,32 @@
       "etiquette",
       "ritual-propriety",
       "confucianism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "da-cheng-ben-sheng-xin-di-guan-jing",
+    "title": "大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground",
+    "summary": "A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.",
+    "tags": [
+      "gratitude-teaching",
+      "mahayana-sutras",
+      "mind-cultivation",
+      "prajna",
+      "tang-dynasty-translations"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "dana-paramita-bodhisattva-giving",
+    "title": "Dāna Pāramitā / 檀波羅蜜 / 檀波羅蜜",
+    "summary": "The perfection of giving in Mahayana Buddhism, exemplified by bodhisattvas who sacrifice everything for the welfare of beings.",
+    "tags": [
+      "mahayana-buddhism",
+      "bodhisattva-practice",
+      "six-perfections",
+      "dana",
+      "altruism"
     ],
     "sources": []
   },
@@ -409,6 +522,59 @@
     "sources": []
   },
   {
+    "slug": "fenbie-gongde-lun",
+    "title": "分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)",
+    "summary": "A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.",
+    "tags": [
+      "buddhist-texts",
+      "han-dynasty-translations",
+      "mahayana",
+      "arhat",
+      "sangha"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-aggregates-contemplation-buddhist",
+    "title": "Five Aggregates Contemplation / 五陰觀 / 五蘊の観想",
+    "summary": "Systematic contemplation on the five aggregates (form, sensation, perception, formations, consciousness) as a path to understanding non-self and achieving liberation.",
+    "tags": [
+      "buddhist-doctrine",
+      "buddhist-meditation",
+      "contemplation-practice",
+      "five-aggregates",
+      "non-self"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-roots-five-powers-an-shigao-commentary",
+    "title": "Five Roots and Five Powers / 五根五力",
+    "summary": "The Five Roots (信進念定慧) and Five Powers (信力精進力念力定力慧力) as expounded in An Shigao's Han Dynasty Buddhist commentary.",
+    "tags": [
+      "buddhist-meditation",
+      "an-shigao",
+      "han-dynasty-buddhism",
+      "thirty-seven-factors",
+      "faith",
+      "wisdom"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-thieves-buddhist-doctrine",
+    "title": "Five Thieves / 五賊",
+    "summary": "Buddhist doctrine of the five mental thieves that lead beings to evil rebirth",
+    "tags": [
+      "buddhist-doctrine",
+      "five-aggregates",
+      "sense-defilements",
+      "moral-psychology",
+      "early-buddhism"
+    ],
+    "sources": []
+  },
+  {
     "slug": "fixed-livelihood",
     "title": "Fixed Livelihood / 恒产论",
     "summary": "Mencius's economic theory that stable property ownership is essential for moral stability",
@@ -417,6 +583,31 @@
       "moral-psychology",
       "social-stability",
       "land-reform"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-agamas-commentary-commentary-on-four-collections",
+    "title": "Four Āgamas Commentary / 四阿鋡暮抄解",
+    "summary": "A Buddhist philosophical commentary on the Four Āgamas discussing the Three Dharmas of merit, evil, and liberation.",
+    "tags": [
+      "buddhist-texts",
+      "four-agamas",
+      "three-dharmas",
+      "buddhist-commentary",
+      "qin-dynasty-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-agnas-four-absorptions-buddhist-meditation",
+    "title": "四種阿那般那 / Four Ānāpānas / 四つの阿那般那",
+    "summary": "A Buddhist meditation practice involving four types of breath contemplation and mental development stages.",
+    "tags": [
+      "buddhist-meditation",
+      "breath-meditation",
+      "four-assemblies",
+      "anapana"
     ],
     "sources": []
   },
@@ -447,6 +638,84 @@
     "sources": []
   },
   {
+    "slug": "four-foundations-mindfulness-an-shigao-commentary",
+    "title": "Four Foundations of Mindfulness / 四意止",
+    "summary": "The Four Foundations of Mindfulness (四意止) as interpreted in An Shigao's Han Dynasty commentary on the Satipatthana Sutra.",
+    "tags": [
+      "buddhist-meditation",
+      "an-shigao",
+      "han-dynasty-buddhism",
+      "five-aggregates",
+      "mindfulness"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-inversions-buddhist",
+    "title": "Four Inversions / 四顛倒 / 四颠倒",
+    "summary": "The four inverted or perverted views that afflict sentient beings, mistaking suffering as happiness, impermanence as permanence, non-self as self, and impurity as purity.",
+    "tags": [
+      "buddhist-doctrine",
+      "mahayana",
+      "hinayana",
+      "mental-afflictions",
+      "ethical-teaching"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-right-exertions-an-shigao-commentary",
+    "title": "Four Right Exertions / 四意斷",
+    "summary": "The Four Right Exertions (四意斷) as explained in An Shigao's Han Dynasty commentary on Buddhist meditation practice.",
+    "tags": [
+      "buddhist-meditation",
+      "an-shigao",
+      "han-dynasty-buddhism",
+      "thirty-seven-factors",
+      "enlightenment"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-āgama-commentary-ā-hán-mù-chao-jiě",
+    "title": "四阿鋡暮抄解 / Four Āgama Commentary (Ā Hán Mù Chao Jiě)",
+    "summary": "A Buddhist commentary on the Four Āgama text, presenting a systematic analysis of the \"Three Factors\" framework for Buddhist practice and liberation.",
+    "tags": [
+      "Buddhist texts",
+      "Āgama literature",
+      "Three Factors doctrine",
+      "Chinese Buddhist translation",
+      "Śrāvakayāna"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "gemma-ai-model",
+    "title": "Gemma AI Model / Gemma AI 模型 / Gemma AIモデル",
+    "summary": "Google's open-source family of lightweight, state-of-the-art AI models designed for responsible AI development and efficient deployment.",
+    "tags": [
+      "artificial-intelligence",
+      "google-ai",
+      "open-source-models",
+      "text-generation",
+      "gemma-family"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "gguf-model-format",
+    "title": "GGUF Model Format / GGUF 模型格式 / GGUFモデルフォーマット",
+    "summary": "A unified model file format developed by Georgi Gerganov for efficient storage and inference of quantized large language models.",
+    "tags": [
+      "artificial-intelligence",
+      "machine-learning",
+      "model-formats",
+      "quantization",
+      "llama-cpp"
+    ],
+    "sources": []
+  },
+  {
     "slug": "governance-leadership",
     "title": "Governance and Leadership / 治理与领导",
     "summary": "Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.",
@@ -467,6 +736,36 @@
       "political-philosophy",
       "virtue",
       "analects"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "great-brahma-fourfold-teaching",
+    "title": "Great Brahma's Fourfold Teaching / 大梵天王四神足說",
+    "summary": "The teaching on the Four Bases of Supernatural Power delivered by Great Brahma King to the thirty-three heavens assembly.",
+    "tags": [
+      "brahma-worlds",
+      "four-bases-supernatural-power",
+      "tricycles",
+      "supernatural-powers",
+      "thirty-three-heavens",
+      "vaisravana",
+      "mahabrahma",
+      "celestial-assembly",
+      "desire-effort-mind-contemplation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "great-collection-dharma-gate-sutra",
+    "title": "Great Collection Dharma Gate Sutra / 大集法門經",
+    "summary": "A Mahayana sutra presenting Buddhist teachings through systematic numerical enumeration from one to ten, taught by Śāriputra.",
+    "tags": [
+      "mahayana-sutra",
+      "numerical-teachings",
+      "shravaka-teachings",
+      "sarvastivada",
+      "chinese-buddhist-translation"
     ],
     "sources": []
   },
@@ -511,6 +810,19 @@
     "sources": []
   },
   {
+    "slug": "human-desire-to-be-born-sutra",
+    "title": "Sutra on Human Desire to Be Born / 人本欲生經",
+    "summary": "A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.",
+    "tags": [
+      "buddhist-sutra",
+      "twelve-links",
+      "an-shigao",
+      "han-dynasty-translation",
+      "dependent-origination"
+    ],
+    "sources": []
+  },
+  {
     "slug": "human-immortal-ren-xian",
     "title": "Human Immortal / 人仙",
     "summary": "A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger revealing the karmic fate of King Bimbisara.",
@@ -520,6 +832,23 @@
       "celestial-beings",
       "reincarnation",
       "magadha"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "human-immortal-sutra-ren-xian-jing",
+    "title": "Human Immortal Sutra / 人仙經",
+    "summary": "A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.",
+    "tags": [
+      "arhat",
+      "brahma-worlds",
+      "buddhist-cosmology",
+      "eightfold-noble-path",
+      "four-bases-supernatural-power",
+      "king-bimbisara",
+      "magadha",
+      "mahayana-sutras",
+      "vaisravana"
     ],
     "sources": []
   },
@@ -556,6 +885,18 @@
       "兼愛",
       "墨家",
       "墨子"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "junzi-characteristics",
+    "title": "Junzi Characteristics / 君子品格",
+    "summary": "Confucian ideal of the cultivated person who can be entrusted with governance and maintains integrity in crisis",
+    "tags": [
+      "confucianism",
+      "virtue-ethics",
+      "leadership",
+      "moral-character"
     ],
     "sources": []
   },
@@ -603,6 +944,82 @@
     "sources": []
   },
   {
+    "slug": "kumarrow-translation-commentary",
+    "title": "Kumārajīva's Translation Methodology in Four Āgamas Commentary / 鳩摩羅什譯經方法",
+    "summary": "Documentation of Kumārajīva's translation practices during the Former Qin dynasty, including team translation methods and philological approaches.",
+    "tags": [
+      "kumarrow",
+      "translation-history",
+      "buddhist-translation",
+      "qin-dynasty",
+      "chinese-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "lan-ruo",
+    "title": "蘭若 / Forest Hermitage Practice",
+    "summary": "蘭若指佛教修行者居住之寂靜處所，遠離喧鬧，修習頭陀行與止觀禪定",
+    "tags": [
+      "buddhist-practice",
+      "meditation",
+      "ascetic-practice",
+      "forest-monasticism",
+      "aranya"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "learning-attitude-analects",
+    "title": "Learning Attitude in Analects / 论语学习态度",
+    "summary": "Confucian perspective on learning as urgent pursuit and lifelong commitment",
+    "tags": [
+      "confucianism",
+      "education",
+      "self-cultivation",
+      "knowledge-acquisition"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "light-sound-heaven-buddhist-cosmology",
+    "title": "Light-Sound Heaven / 光音天",
+    "summary": "The second dhyana heaven in Buddhist cosmology from which beings descended to earth according to the White Cloth Golden Banner Sutra.",
+    "tags": [
+      "buddhist-cosmology",
+      "dhyana-heavens",
+      "light-sound-heaven",
+      "world-origin"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mahakasyapa-buddhist-disciple-collected-sutras",
+    "title": "迦葉 Mahākāśyapa / Mahākāśyapa and the Assembly of 84,000 Arhats",
+    "summary": "The Buddha's senior disciple who led the first council and is portrayed as having been a pratyekabuddha in a previous life.",
+    "tags": [
+      "mahakasyapa",
+      "arhat",
+      "nirodha-samapatti",
+      "first-council",
+      "pratyekabuddha"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mahasanghika-great-collection-teaching",
+    "title": "Great Collection Teaching / 大集法門",
+    "summary": "A Buddhist pedagogical method presenting doctrine through systematic numerical categories from one to ten, used for monastic education and memorization.",
+    "tags": [
+      "buddhist-pedagogy",
+      "numerical-classification",
+      "monastic-education",
+      "sarvastivada",
+      "doctrinal-organization"
+    ],
+    "sources": []
+  },
+  {
     "slug": "mendicant-life-three-conditions",
     "title": "mendicant-life-three-conditions",
     "summary": "",
@@ -634,6 +1051,44 @@
     "sources": []
   },
   {
+    "slug": "model-quantization",
+    "title": "Model Quantization / 模型量化 / モデル量子化",
+    "summary": "A technique for reducing AI model size and computational requirements by representing model parameters with lower-precision data types.",
+    "tags": [
+      "artificial-intelligence",
+      "machine-learning",
+      "model-optimization",
+      "computational-efficiency",
+      "gguf-format"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "moral-cultivation-methods",
+    "title": "Moral Cultivation Methods / 道德修养方法",
+    "summary": "Confucian techniques for character development including self-examination and principle adherence",
+    "tags": [
+      "confucianism",
+      "self-cultivation",
+      "virtue-ethics",
+      "moral-development"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "moral-equality-four-castes-buddhism",
+    "title": "Moral Equality of the Four Castes in Buddhism / 佛教四姓道德平等說",
+    "summary": "The Buddhist doctrine that all four social castes are equal in moral agency and spiritual potential, regardless of birth.",
+    "tags": [
+      "buddhist-social-doctrine",
+      "caste-equality",
+      "four-castes",
+      "brahmin",
+      "ethics"
+    ],
+    "sources": []
+  },
+  {
     "slug": "moral-responsibility",
     "title": "Moral Responsibility / 道德责任",
     "summary": "Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.",
@@ -644,6 +1099,84 @@
       "mencius",
       "moral-responsibility",
       "philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "nikuda-brahmin-sutra",
+    "title": "Discourse on Nikuda Brahmins / 佛說尼拘陀梵志經",
+    "summary": "A Buddhist sutra depicting Buddha's dialogue with Nikuda brahmins, critiquing external ascetic practices and revealing defilement accumulation.",
+    "tags": [
+      "buddhist-sutra",
+      "nikuda",
+      "brahmins",
+      "defilement",
+      "śrāvaka-path"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "nine-unnatural-deaths-buddhist",
+    "title": "Nine Unnatural/Unexplained Deaths / 九橫 / 九横",
+    "summary": "Nine categories of untimely deaths caused by preventable causes such as improper eating, wrong conduct, and association with evil companions.",
+    "tags": [
+      "buddhist-ethics",
+      "moral-teaching",
+      "causes-of-death",
+      "Buddhist-medicine"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "nirodha-samapatti",
+    "title": "滅盡定 Nirodhāsamāpatti / Absorption of Cessation",
+    "summary": "A Buddhist meditation attainment where all mental formations cease, enabling practitioners to grant present-world blessings to beings.",
+    "tags": [
+      "meditation",
+      "arhat",
+      "samadhi",
+      "cessation",
+      "Buddhist phenomenology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "niyagrodha-brahma-sutra-discourse",
+    "title": "The Discourse on Niḡrodha Brahmā / 佛說尼拘陀梵志經",
+    "summary": "A Mahāyāna sutra depicting the Buddha's discourse with the ascetic Niḡrodha, critiquing false ascetic practices and demonstrating the nature of true Buddhist practice.",
+    "tags": [
+      "buddhist-sutra",
+      "asceticism",
+      "brahmana",
+      "nikaya-literature",
+      "practice-critique",
+      "mental-afflictions",
+      "four-precepts"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "ollama-framework",
+    "title": "Ollama Framework / Ollama 框架 / Ollamaフレームワーク",
+    "summary": "An open-source runtime environment for running large language models locally with quantized GGUF model files.",
+    "tags": [
+      "artificial-intelligence",
+      "machine-learning",
+      "open-source-software",
+      "local-ai-inference",
+      "gguf-format"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "political-philosophy-analects",
+    "title": "Political Philosophy in Analects / 论语政治哲学",
+    "summary": "Confucian governance principles including meritocracy, moral leadership, and social stability",
+    "tags": [
+      "confucianism",
+      "political-philosophy",
+      "governance",
+      "leadership"
     ],
     "sources": []
   },
@@ -659,6 +1192,43 @@
     "sources": []
   },
   {
+    "slug": "san-chong-guan-threefold-contemplation",
+    "title": "三種觀 / Threefold Contemplation Practice",
+    "summary": "The three meditation methods of empty view, phenomenal view, and middle way observation central to Mahayana Buddhist practice.",
+    "tags": [
+      "Buddhist meditation",
+      "Mahayana philosophy",
+      "Contemplation practice",
+      "Threefold truth"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "san-dharmas-upaya-buddhist-classification",
+    "title": "Three Dharmas Classification System (三法)",
+    "summary": "A Buddhist doctrinal classification system organizing teachings into virtue, evil, and liberation paths.",
+    "tags": [
+      "buddhist-philosophy",
+      "doctrinal-classification",
+      "tripartite-teaching",
+      "eastern-jin-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "san-fa-du-lun-three-dharmas-treatise",
+    "title": "Three Dharmas Treatise (三法度論)",
+    "summary": "A Buddhist philosophical treatise organized into three sections explaining virtue, evil, and liberation paths.",
+    "tags": [
+      "buddhist-philosophy",
+      "eastern-jin-dynasty",
+      "tripartite-classification",
+      "guatama-sanghadeva",
+      "buddhist-doctrine"
+    ],
+    "sources": []
+  },
+  {
     "slug": "seven-buddhas-current-kalpa",
     "title": "Seven Buddhas of the Current Kalpa / 七佛",
     "summary": "The seven Buddhas who have appeared in the current kalpa, from Vipassin to Shakyamuni.",
@@ -668,6 +1238,49 @@
       "seven-buddhas",
       "mahapadana",
       "agama"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "seven-factors-awakening-an-shigao-commentary",
+    "title": "Seven Factors of Awakening / 七覺意",
+    "summary": "The Seven Factors of Awakening (念、择法、精进、喜、轻安、定、捨) as explained in An Shigao's Han Dynasty Buddhist commentary.",
+    "tags": [
+      "buddhist-meditation",
+      "an-shigao",
+      "han-dynasty-buddhism",
+      "thirty-seven-factors",
+      "awakening",
+      "enlightenment"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shi-men-tong-pan",
+    "title": "十門通判 / Ten-Fold Framework for Sutra Exposition",
+    "summary": "A systematic ten-category methodology for analyzing and expounding Buddhist sutras, originating with Xianshou Fazang and elaborated by later masters.",
+    "tags": [
+      "buddhist-hermeneutics",
+      "chinese-buddhism",
+      "sutra-study",
+      "doctrinal-classification",
+      "tang-dynasty-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "si-en",
+    "title": "四恩 / Four Kindnesses / 四恩（しおりん）",
+    "summary": "The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.",
+    "tags": [
+      "buddhist-ethics",
+      "chinese-buddhism",
+      "cuatro-deudas-de-gratitud",
+      "filial-piety",
+      "four-benefactors",
+      "gratitude",
+      "mahayana-practice",
+      "mahayana-teachings"
     ],
     "sources": []
   },
@@ -711,6 +1324,45 @@
     "sources": []
   },
   {
+    "slug": "three-dharmas-buddhist-philosophy",
+    "title": "Three Dharmas / 三法",
+    "summary": "A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.",
+    "tags": [
+      "buddhist-philosophy",
+      "three-dharmas",
+      "merit",
+      "evil",
+      "liberation",
+      "buddhist-ethics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "three-evil-roots-buddhist",
+    "title": "Three Evil Roots / 三惡本 / 三悪根本",
+    "summary": "The three fundamental sources of unwholesome karma: greed (贪), hatred (恚), and delusion (痴), from which all other evils arise.",
+    "tags": [
+      "buddhist-doctrine",
+      "mental-afflictions",
+      "karmic-formation",
+      "ethical-teaching"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "three-treasuries-four-collections",
+    "title": "三藏三分 Four Āgamas / Tripartite Canon and Quadruple Sūtra Collections",
+    "summary": "The organization of the Buddhist canon into three treasures and four sūtra collections, attributed to Ānanda's compilation guided by celestial beings.",
+    "tags": [
+      "three-treasuries",
+      "four-agamas",
+      "buddhist-canon",
+      "tipitaka",
+      "sutra-classification"
+    ],
+    "sources": []
+  },
+  {
     "slug": "three-years-mourning",
     "title": "Three Years Mourning / 三年之丧",
     "summary": "The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.",
@@ -718,6 +1370,19 @@
       "xiao",
       "moral-responsibility",
       "three-years-mourning"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "toutuo-xing",
+    "title": "頭陀行 / Dhutanga Practices",
+    "summary": "頭陀行乃佛教十三種清淨苦行，修習此法可去衣、食、住之貪著，速得解脫",
+    "tags": [
+      "buddhist-asceticism",
+      "monastic-practice",
+      "austerities",
+      "dhutanga",
+      "twelve-austerities"
     ],
     "sources": []
   },
@@ -744,6 +1409,57 @@
       "ethics",
       "philosophy",
       "virtue"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "virtue-merit-buddhist-doctrine-de-pin",
+    "title": "Virtue Section (德品) - Buddhist Spiritual Cultivation",
+    "summary": "The first section of the Three Dharmas Treatise detailing the cultivation of merit, roots of goodness, and non-evil qualities.",
+    "tags": [
+      "buddhist-cultivation",
+      "merit-giving",
+      "three-roots-goodness",
+      "precepts-meditation",
+      "eastern-jin-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "white-cloth-golden-banner-two-brahmins-origin-sutra",
+    "title": "White Cloth and Golden Banner Two Brahmins Origin Sutra / 白衣金幢二婆羅門緣起經",
+    "summary": "A Buddhist sutra recounting the renunciation of two Brahmins and presenting a Buddhist cosmology of human social origins.",
+    "tags": [
+      "buddhist-sutras",
+      "buddhist-cosmology",
+      "brahmins",
+      "four-castes",
+      "renunciation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "xianshou-wu-jiao",
+    "title": "賢首五教 / Five Teachings of Xianshou / 賢首五教（けんじゅぎょう）",
+    "summary": "A five-tiered doctrinal classification system developed by Fazang (Xianshou) of the Huayan school, categorizing all Buddhist teachings from Hinayana to the highest Yogacara-Tathagatagarbha doctrines.",
+    "tags": [
+      "huayan-school",
+      "doctrinal-classification",
+      "chinese-buddhism",
+      "fazang",
+      "tang-dynasty-buddhism",
+      "doctrinal-hierarchy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "xu-fen-buddhist-prologue",
+    "title": "序分 / Buddhist Prologue Section",
+    "summary": "The introductory section of Buddhist sutras establishing credibility and context for the main teachings.",
+    "tags": [
+      "Buddhist hermeneutics",
+      "Sutra structure",
+      "Buddhist text studies"
     ],
     "sources": []
   },

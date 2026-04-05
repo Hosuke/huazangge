@@ -52,15 +52,26 @@
   "さとり": [
     "twelve-links-dependent-origination"
   ],
+  "three-roots-of-unwholesomeness": [
+    "san-fa-du-lun-three-dharmas-treatise"
+  ],
+  "arhat-stages": [
+    "san-fa-du-lun-three-dharmas-treatise"
+  ],
+  "initial-awakening": [
+    "san-fa-du-lun-three-dharmas-treatise"
+  ],
   "benevolence": [
     "junzi",
     "virtue-ethics",
     "confucian-trust-verification",
     "benevolence",
     "human-nature",
+    "central-harmony-zhonghe",
     "confucian-self-examination",
     "confucian-ethics",
-    "knowledge-learning"
+    "knowledge-learning",
+    "junzi-characteristics"
   ],
   "knowledge-learning": [
     "junzi",
@@ -136,6 +147,7 @@
     "confucian-self-examination",
     "confucian-ethics",
     "knowledge-learning",
+    "junzi-characteristics",
     "doctrine-of-the-mean-zhongyong"
   ],
   "礼": [
@@ -153,27 +165,72 @@
     "ren",
     "confucian-ethics"
   ],
+  "confucian-sincerity-cheng": [
+    "junzi",
+    "central-harmony-zhonghe",
+    "moral-cultivation-methods"
+  ],
+  "central-harmony-zhonghe": [
+    "junzi",
+    "confucian-sincerity-cheng"
+  ],
   "virtue-ethics": [
     "virtue-ethics",
     "confucian-trust-verification",
     "benevolence",
     "great-firm-brahman-backstory",
+    "confucian-sincerity-cheng",
     "confucian-self-examination",
     "confucian-ethics",
     "knowledge-learning",
     "junzi-cultivation"
   ],
-  "human-immortal-ren-xian": [
-    "bimbisara-king-magadha-ren-xian"
+  "changahan-jing": [
+    "kumarrow-translation-commentary",
+    "four-agamas-commentary-commentary-on-four-collections"
+  ],
+  "three-evil-roots-buddhist": [
+    "four-āgama-commentary-ā-hán-mù-chao-jiě",
+    "dana-paramita-bodhisattva-giving"
+  ],
+  "arhat-stages-buddhist-liberation": [
+    "four-āgama-commentary-ā-hán-mù-chao-jiě",
+    "three-dharmas-buddhist-philosophy",
+    "human-immortal-sutra-ren-xian-jing",
+    "four-agnas-four-absorptions-buddhist-meditation",
+    "four-agamas-commentary-commentary-on-four-collections",
+    "san-chong-guan-threefold-contemplation"
   ],
   "four-bases-supernatural-power-siddhartha": [
+    "three-dharmas-buddhist-philosophy",
+    "bimbisara-king-magadha-ren-xian"
+  ],
+  "twelve-links-dependent-origination": [
+    "three-dharmas-buddhist-philosophy",
+    "five-thieves-buddhist-doctrine",
+    "great-firm-brahman-backstory",
+    "an-shigao-translated-agama-zhengxing-sutra",
+    "baiyi-jinzhuang-brahmin-origin-sutra",
+    "thirty-three-heavens",
+    "four-inversions-buddhist",
+    "four-agamas-commentary-commentary-on-four-collections",
+    "seven-buddhas-current-kalpa"
+  ],
+  "human-immortal-sutra-ren-xian-jing": [
+    "three-dharmas-buddhist-philosophy",
+    "human-immortal-sutra-ren-xian-jing",
+    "seven-factors-awakening-an-shigao-commentary",
+    "four-agamas-commentary-commentary-on-four-collections"
+  ],
+  "human-immortal-ren-xian": [
     "bimbisara-king-magadha-ren-xian"
   ],
   "人仙": [
     "bimbisara-king-magadha-ren-xian"
   ],
   "四神足": [
-    "bimbisara-king-magadha-ren-xian"
+    "bimbisara-king-magadha-ren-xian",
+    "human-immortal-sutra-ren-xian-jing"
   ],
   "tathagata": [
     "tathagata-eight-rare-qualities"
@@ -194,13 +251,40 @@
     "tathagata-eight-rare-qualities"
   ],
   "nirvana": [
-    "tathagata-eight-rare-qualities"
+    "tathagata-eight-rare-qualities",
+    "bao-en-pin"
   ],
   "five-tufted-gandharva-prince": [
     "tathagata-eight-rare-qualities"
   ],
   "声聞": [
     "tathagata-eight-rare-qualities"
+  ],
+  "three-treasures": [
+    "bao-en-pin",
+    "da-cheng-ben-sheng-xin-di-guan-jing"
+  ],
+  "six-paramitas": [
+    "bao-en-pin"
+  ],
+  "arhatship": [
+    "bao-en-pin",
+    "great-firm-brahman"
+  ],
+  "bodhisattva": [
+    "bao-en-pin"
+  ],
+  "dharma": [
+    "bao-en-pin"
+  ],
+  "brahma": [
+    "bao-en-pin"
+  ],
+  "buddhist-ethics": [
+    "bao-en-pin"
+  ],
+  "karma": [
+    "bao-en-pin"
   ],
   "confucius-etiquette-xiang-dang": [
     "confucian-trust-verification",
@@ -230,11 +314,16 @@
     "confucian-self-examination",
     "confucian-ethics",
     "knowledge-learning",
+    "moral-cultivation-methods",
     "moral-responsibility",
     "doctrine-of-the-mean-zhongyong"
   ],
   "论语": [
-    "confucian-trust-verification"
+    "confucian-trust-verification",
+    "learning-attitude-analects",
+    "moral-cultivation-methods",
+    "junzi-characteristics",
+    "political-philosophy-analects"
   ],
   "道德责任": [
     "confucian-trust-verification",
@@ -247,10 +336,15 @@
     "confucian-sincerity-cheng",
     "central-harmony-zhonghe",
     "confucian-self-examination",
-    "confucian-ethics"
+    "confucian-ethics",
+    "moral-cultivation-methods"
   ],
   "論語": [
-    "confucian-trust-verification"
+    "confucian-trust-verification",
+    "learning-attitude-analects",
+    "moral-cultivation-methods",
+    "junzi-characteristics",
+    "political-philosophy-analects"
   ],
   "道徳的責任": [
     "confucian-trust-verification",
@@ -261,7 +355,11 @@
     "confucian-trust-verification"
   ],
   "confucius-analects": [
-    "confucian-trust-verification"
+    "confucian-trust-verification",
+    "learning-attitude-analects",
+    "moral-cultivation-methods",
+    "junzi-characteristics",
+    "political-philosophy-analects"
   ],
   "儒家伦理": [
     "confucian-trust-verification",
@@ -278,6 +376,22 @@
   ],
   "仁者": [
     "benevolence"
+  ],
+  "nirodha-samāpatti": [
+    "fenbie-gongde-lun",
+    "mahakasyapa-buddhist-disciple-collected-sutras"
+  ],
+  "ten-reflections": [
+    "fenbie-gongde-lun",
+    "nirodha-samapatti"
+  ],
+  "twelve-links-of-dependent-origination": [
+    "fenbie-gongde-lun",
+    "great-collection-dharma-gate-sutra",
+    "changahan-jing"
+  ],
+  "five-aggregates-contemplation-buddhist": [
+    "five-thieves-buddhist-doctrine"
   ],
   "zilu": [
     "analects-disciples",
@@ -308,7 +422,9 @@
     "ba-yi-ceremonial-dance"
   ],
   "thirty-three-heavens": [
-    "great-firm-brahman-backstory"
+    "great-firm-brahman-backstory",
+    "human-immortal-sutra-ren-xian-jing",
+    "great-brahma-fourfold-teaching"
   ],
   "three-jewels": [
     "great-firm-brahman-backstory"
@@ -316,17 +432,74 @@
   "four-immeasurables": [
     "great-firm-brahman-backstory"
   ],
-  "twelve-links-dependent-origination": [
-    "great-firm-brahman-backstory",
-    "an-shigao-translated-agama-zhengxing-sutra",
-    "thirty-three-heavens",
-    "seven-buddhas-current-kalpa"
-  ],
   "great-firm-brahman": [
-    "great-firm-brahman-backstory"
+    "great-firm-brahman-backstory",
+    "baiyi-jinzhuang-brahmin-origin-sutra"
   ],
   "twenty-realms-of-existence": [
     "great-firm-brahman-backstory"
+  ],
+  "pratyekabuddha": [
+    "nirodha-samapatti",
+    "mahakasyapa-buddhist-disciple-collected-sutras"
+  ],
+  "four-agamas": [
+    "ananda-compiled-scriptures",
+    "three-treasuries-four-collections"
+  ],
+  "vaisravana": [
+    "human-immortal-sutra-ren-xian-jing"
+  ],
+  "great-brahma-king": [
+    "human-immortal-sutra-ren-xian-jing",
+    "great-brahma-fourfold-teaching"
+  ],
+  "sarvastivada-abhidharma": [
+    "human-immortal-sutra-ren-xian-jing"
+  ],
+  "arhat": [
+    "human-immortal-sutra-ren-xian-jing",
+    "great-firm-brahman"
+  ],
+  "stream-enterer-fruit": [
+    "human-immortal-sutra-ren-xian-jing"
+  ],
+  "four-bases-of-supernatural-power": [
+    "human-immortal-sutra-ren-xian-jing",
+    "great-brahma-fourfold-teaching"
+  ],
+  "eightfold-noble-path": [
+    "human-immortal-sutra-ren-xian-jing",
+    "great-collection-dharma-gate-sutra"
+  ],
+  "十二因緣": [
+    "human-immortal-sutra-ren-xian-jing",
+    "an-shigao-translated-agama-zhengxing-sutra",
+    "baiyi-jinzhuang-brahmin-origin-sutra",
+    "seven-buddhas-current-kalpa"
+  ],
+  "四聖諦": [
+    "human-immortal-sutra-ren-xian-jing",
+    "changahan-jing"
+  ],
+  "八正道": [
+    "human-immortal-sutra-ren-xian-jing"
+  ],
+  "eightfold-noble-path-human-immortal-sutra": [
+    "human-immortal-sutra-ren-xian-jing",
+    "four-inversions-buddhist"
+  ],
+  "three-fruits-buddhist-liberation": [
+    "four-agnas-four-absorptions-buddhist-meditation"
+  ],
+  "four-formless-abodes": [
+    "four-agnas-four-absorptions-buddhist-meditation"
+  ],
+  "moral-precepts-buddhist-ethics": [
+    "four-agnas-four-absorptions-buddhist-meditation"
+  ],
+  "buddhist-meditation-three-serene-steps": [
+    "four-agnas-four-absorptions-buddhist-meditation"
   ],
   "mengzi": [
     "human-nature"
@@ -355,18 +528,19 @@
   "buddhist": [
     "brahma-fourfold-teaching"
   ],
+  "seven-buddhas-current-kalpa": [
+    "mahasanghika-great-collection-teaching",
+    "four-inversions-buddhist"
+  ],
   "an-shigao-translation-methodology": [
     "an-shigao-translated-agama-zhengxing-sutra"
   ],
   "安世高譯經方法論": [
     "an-shigao-translated-agama-zhengxing-sutra"
   ],
-  "十二因緣": [
-    "an-shigao-translated-agama-zhengxing-sutra",
-    "seven-buddhas-current-kalpa"
-  ],
   "十二因縁": [
     "an-shigao-translated-agama-zhengxing-sutra",
+    "baiyi-jinzhuang-brahmin-origin-sutra",
     "changahan-jing",
     "seven-buddhas-current-kalpa"
   ],
@@ -399,6 +573,24 @@
     "confucian-sincerity-cheng",
     "doctrine-of-the-mean-zhongyong"
   ],
+  "thirty-seven-factors-enlightenment": [
+    "seven-factors-awakening-an-shigao-commentary",
+    "four-right-exertions-an-shigao-commentary",
+    "five-roots-five-powers-an-shigao-commentary",
+    "four-foundations-mindfulness-an-shigao-commentary"
+  ],
+  "four-castes-origin-buddhist-cosmology": [
+    "baiyi-jinzhuang-brahmin-origin-sutra"
+  ],
+  "大梵相應": [
+    "baiyi-jinzhuang-brahmin-origin-sutra"
+  ],
+  "四姓起源": [
+    "baiyi-jinzhuang-brahmin-origin-sutra"
+  ],
+  "大梵相応": [
+    "baiyi-jinzhuang-brahmin-origin-sutra"
+  ],
   "wu-wei-non-action-taoism": [
     "dao-the-way-taoism"
   ],
@@ -411,6 +603,21 @@
   "天人合一": [
     "central-harmony-zhonghe"
   ],
+  "dao-the-way-taoism": [
+    "central-harmony-zhonghe"
+  ],
+  "confucian-trust-verification": [
+    "confucian-education-principles"
+  ],
+  "儒家诚信验证": [
+    "confucian-education-principles"
+  ],
+  "儒教的信頼検証": [
+    "confucian-education-principles"
+  ],
+  "four-foundations-mindfulness-an-shigao-commentary": [
+    "four-right-exertions-an-shigao-commentary"
+  ],
   "six-realms-of-existence": [
     "thirty-three-heavens"
   ],
@@ -419,6 +626,25 @@
   ],
   "dependent-origination": [
     "thirty-three-heavens"
+  ],
+  "four-noble-truths": [
+    "great-collection-dharma-gate-sutra",
+    "changahan-jing"
+  ],
+  "seven-factors-of-enlightenment": [
+    "great-collection-dharma-gate-sutra"
+  ],
+  "five-aggregates": [
+    "great-collection-dharma-gate-sutra"
+  ],
+  "six-sense-fields": [
+    "great-collection-dharma-gate-sutra"
+  ],
+  "three-karmas": [
+    "great-collection-dharma-gate-sutra"
+  ],
+  "three-trainings": [
+    "great-collection-dharma-gate-sutra"
   ],
   "德行伦理": [
     "confucian-self-examination",
@@ -433,8 +659,22 @@
     "confucian-ethics",
     "knowledge-learning"
   ],
+  "mahasanghika": [
+    "da-cheng-ben-sheng-xin-di-guan-jing"
+  ],
+  "賢首五教": [
+    "da-cheng-ben-sheng-xin-di-guan-jing"
+  ],
+  "四恩": [
+    "da-cheng-ben-sheng-xin-di-guan-jing"
+  ],
+  "心地法門": [
+    "da-cheng-ben-sheng-xin-di-guan-jing"
+  ],
   "defilement-accumulation-in-practice": [
-    "an-shigao-translation-methodology"
+    "an-shigao-translation-methodology",
+    "dana-paramita-bodhisattva-giving",
+    "nikuda-brahmin-sutra"
   ],
   "shi-bao-teachings-numerical-classification": [
     "an-shigao-translation-methodology"
@@ -481,17 +721,23 @@
   "xiao": [
     "confucian-ethics"
   ],
-  "arhat": [
-    "great-firm-brahman"
-  ],
-  "arhatship": [
-    "great-firm-brahman"
-  ],
   "如來八希有法": [
     "great-firm-brahman"
   ],
   "阿羅漢果": [
     "great-firm-brahman"
+  ],
+  "four-inversions-buddhist": [
+    "four-foundations-mindfulness-an-shigao-commentary"
+  ],
+  "chan-haan-shi-bao-jing": [
+    "four-foundations-mindfulness-an-shigao-commentary"
+  ],
+  "an-shigao-seven-places-three-contemplations": [
+    "four-foundations-mindfulness-an-shigao-commentary"
+  ],
+  "great-brahma-fourfold-teaching": [
+    "dana-paramita-bodhisattva-giving"
   ],
   "ba-yi-ceremonial-dance": [
     "knowledge-learning"
@@ -505,6 +751,12 @@
   "consciousness-only-mind-only": [
     "arhat-stages-buddhist-liberation"
   ],
+  "儒家诚": [
+    "moral-cultivation-methods"
+  ],
+  "儒教的誠": [
+    "moral-cultivation-methods"
+  ],
   "fixed-livelihood": [
     "agricultural-foundation"
   ],
@@ -514,14 +766,9 @@
   "恒産論": [
     "agricultural-foundation"
   ],
-  "twelve-links-of-dependent-origination": [
-    "changahan-jing"
-  ],
-  "four-noble-truths": [
-    "changahan-jing"
-  ],
-  "四聖諦": [
-    "changahan-jing"
+  "da-cheng-ben-sheng-xin-di-guan-jing": [
+    "xu-fen-buddhist-prologue",
+    "san-chong-guan-threefold-contemplation"
   ],
   "教育": [
     "human-nature-is-good"

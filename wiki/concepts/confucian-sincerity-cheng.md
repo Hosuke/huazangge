@@ -5,10 +5,13 @@ tags:
 - chinese-philosophy
 - confucianism
 - doctrine-of-the-mean
+- ethics
 - four-books
+- philosophy
 - self-cultivation
 - virtue-ethics
 title: Sincerity (Cheng) in Confucianism / 誠
+updated: '2026-04-04T21:47:05.104328+00:00'
 ---
 
 ## English
@@ -94,3 +97,80 @@ Sincerity also carries important epistemological dimensions. The text states: "W
   曾子は「十目所の視、十手所の指す，其れ厳なるかな」と述べて、慎独の重要性を強調した。また「富は屋を潤し、德は身を潤し、心広ければ体胖なり」と、德の修身における作用的潤滑を説いた。
 
   『詩経・淇奧』の「如切如磋、如琢如磨」（切り磨きするように）とは、道学の勉学と自己修養を象徴し、「瑟兮僩兮、赫兮喧兮」は威厳と気品を現わすという。
+
+---
+
+## English
+
+**Sincerity** (诚 chéng) in Confucian philosophy represents both the authentic state of existence and the moral quality of genuineness that enables connection between human virtue and cosmic principles.
+
+### Metaphysical Foundation
+
+In the *Doctrine of the Mean*, sincerity is described as the way of Heaven:
+> "Sincerity is the way of Heaven. To think how to be sincere is the way of man." (誠者，天之道也；誠之者，人之道也)
+
+This establishes sincerity as both ontological reality and ethical practice. The text further states: "Sincerity is self-completion, and the way is self-direction. Sincerity is the end and beginning of things; without sincerity there would be nothing."
+
+### Transformative Power
+
+**Cosmic Participation**
+> "Only the most complete sincerity under heaven can fully develop his nature... can assist the transforming and nourishing powers of Heaven and Earth" (唯天下至誠，為能盡其性... 可以贊天地之化育)
+
+Through [[central-harmony-zhonghe|sincerity]], one participates in cosmic processes, achieving the state of forming a triad with Heaven and Earth.
+
+**Practical Cultivation**
+The text outlines the method: "Study it extensively, inquire into it accurately, think over it carefully, sift it clearly, and practice it earnestly." (博學之，審問之，慎思之，明辨之，篤行之)
+
+### Ethical Implications
+
+Sincerity enables the [[virtue-ethics|Confucian virtue ethics]] system, connecting personal cultivation with social harmony. It manifests in relationships and governance, forming the basis for trust and order.
+
+## 中文
+
+**诚**在儒家哲学中既是存在的真实状态，也是连接人道与天道的道德品质，具有本体论与工夫论的双重意义。
+
+### 形上基础
+
+《中庸》将诚确立为天道：
+> 「誠者，天之道也；誠之者，人之道也」
+
+诚既是本体实在，也是伦理实践。原文进一步阐明：「誠者，自成也；而道，自道也。誠者，物之終始；不誠，無物。」
+
+### 转化力量
+
+**参赞化育**
+> 「唯天下至誠，為能盡其性... 可以贊天地之化育」
+
+通过[[central-harmony-zhonghe|诚]]，人能够参与宇宙创生过程，达到「與天地參」的境界。
+
+**修养工夫**
+文本提出具体方法：「博學之，審問之，慎思之，明辨之，篤行之」
+
+### 伦理意义
+
+诚是[[virtue-ethics|儒家德性伦理]]的基础，连接个人修养与社会和谐。它在人际关系和政治治理中体现，构成信任与秩序的根基。
+
+## 日本語
+
+**誠**は儒家哲学において、存在の真実状態であり、人道と天道を結ぶ道德的品質である。本体論と工夫論の二重の意義を持つ。
+
+### 形而上学的基礎
+
+『中庸』は誠を天道として確立する：
+> 「誠者、天之道也、誠之者、人之道也」
+
+誠は本体の実在であり、倫理実践でもある。原文はさらに明らかにする：「誠者、自成也、而道、自道也。誠者、物之終始、不誠、無物」
+
+### 転化の力
+
+**化育への参与**
+> 「唯天下至誠、為能盡其性... 可以贊天地之化育」
+
+[[central-harmony-zhonghe|誠]]を通じて、人は宇宙創造過程に参与し、「與天地參」の境地に達する。
+
+**修養の工夫**
+文本は具体的方法を提出する：「博學之、審問之、慎思之、明辨之、篤行之」
+
+### 倫理的意義
+
+誠は[[virtue-ethics|儒家徳性倫理]]の基礎であり、個人修養と社会調和を結ぶ。人間関係と政治治理に現れ、信頼と秩序の基盤を構成する。
