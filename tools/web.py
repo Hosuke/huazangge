@@ -53,11 +53,33 @@ def create_web_app(base_dir: Path | None = None):
             for f in concepts_dir.glob("*.md"):
                 total_words += len(f.read_text().split())
 
+        # Count wiki-links
+        import re
+        link_count = 0
+        if concepts_dir.exists():
+            link_re = re.compile(r'\[\[[^\]]+\]\]')
+            for f in concepts_dir.glob("*.md"):
+                link_count += len(link_re.findall(f.read_text()))
+
+        # Health score
+        try:
+            health_path = Path(cfg["paths"]["meta"]) / "health.json"
+            if health_path.exists():
+                health = json.loads(health_path.read_text())
+                total_issues = health.get("results", {}).get("total_issues", 0)
+                health_score = max(0, 100 - total_issues) if article_count > 0 else 0
+            else:
+                health_score = 100 if article_count > 0 else 0
+        except Exception:
+            health_score = 0
+
         return jsonify({
             "raw_count": raw_count,
             "article_count": article_count,
             "output_count": output_count,
             "total_words": total_words,
+            "link_count": link_count,
+            "health_score": health_score,
         })
 
     @app.route("/api/taxonomy")
@@ -119,13 +141,22 @@ def create_web_app(base_dir: Path | None = None):
                 })
         return jsonify({"articles": arts})
 
-    @app.route("/api/articles/<slug>")
+    @app.route("/api/articles/<path:slug>")
     def api_article(slug):
+        from .resolve import load_aliases, resolve_link
         cfg = load_config(base)
         concepts_dir = Path(cfg["paths"]["concepts"])
+        meta_dir = Path(cfg["paths"]["meta"])
         article_path = concepts_dir / f"{slug}.md"
+        # If not found by slug, try alias resolution
         if not article_path.exists():
-            return jsonify({"status": "error", "message": f"Article not found: {slug}"})
+            aliases = load_aliases(meta_dir)
+            resolved = resolve_link(slug, aliases)
+            if resolved:
+                article_path = concepts_dir / f"{resolved}.md"
+                slug = resolved
+        if not article_path.exists():
+            return jsonify({"status": "error", "message": f"Article not found: {slug}"}), 404
         post = frontmatter.load(str(article_path))
         return jsonify({
             "status": "ok",
@@ -135,6 +166,29 @@ def create_web_app(base_dir: Path | None = None):
             "tags": post.metadata.get("tags", []),
             "content": post.content,
         })
+
+    @app.route("/api/aliases")
+    def api_aliases():
+        from .resolve import load_aliases
+        cfg = load_config(base)
+        aliases = load_aliases(Path(cfg["paths"]["meta"]))
+        return jsonify({"aliases": aliases})
+
+    @app.route("/api/xici")
+    def api_xici():
+        """Get the cached Xi Ci (guided introduction). ?lang=zh|en|ja|zh-en"""
+        from .xici import get_xici
+        lang = request.args.get("lang", "zh")
+        return jsonify(get_xici(base, lang))
+
+    @app.route("/api/xici/generate", methods=["POST"])
+    def api_xici_generate():
+        """Regenerate Xi Ci for a given language."""
+        from .xici import generate_xici
+        data = request.json or {}
+        lang = data.get("lang", "zh")
+        result = generate_xici(base, lang)
+        return jsonify(result)
 
     @app.route("/api/search")
     def api_search():

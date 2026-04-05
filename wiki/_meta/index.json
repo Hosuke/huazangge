@@ -268,6 +268,17 @@
     "sources": []
   },
   {
+    "slug": "bihuajing",
+    "title": "The \"Sad Flower Sutra\" / 《悲華經》",
+    "summary": "The \"Sad Flower Sutra\" is a Mahayana Buddhist text encompassing teachings delivered by the Buddha on various profound subjects.",
+    "tags": [
+      "Mahayana Buddhism",
+      "sutras",
+      "Buddhist teachings"
+    ],
+    "sources": []
+  },
+  {
     "slug": "bimbisara-king-magadha-ren-xian",
     "title": "King Bimbisara / 頻婆娑羅王",
     "summary": "The Magadha king devoted to the Buddha, whose past life as a \"Human Immortal\" attained stream-entry, now reborn as a celestial prince.",
@@ -277,6 +288,57 @@
       "reincarnation",
       "stream-entry",
       "four-heavenly-kings"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "bird-nali-voice-shengjing",
+    "title": "我所鳥的故事 / 我所鳥的故事 / 「我所」鳥の物語",
+    "summary": "The parable of the \"Mine-Owner\" bird in the Shengjing, illustrating the Buddhist teaching on non-attachment and the futility of possessiveness.",
+    "tags": [
+      "non-attachment",
+      "possession",
+      "parable",
+      "Buddhist teaching",
+      "shengjing",
+      "impermanence"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "bodhisattva-path",
+    "title": "The Bodhisattva Path / 菩萨道",
+    "summary": "The Bodhisattva path is a central aspect of Mahayana Buddhism, focusing on the aspiration to attain enlightenment for oneself and others.",
+    "tags": [
+      "Buddhism",
+      "Bodhisattva",
+      "enlightenment"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "bodhisattva-practice-body-offering",
+    "title": "Body Offering in Buddhist Narrative / 佛教身施物語",
+    "summary": "The Buddhist narrative of offering one's own body as the ultimate act of almsgiving and dedication to the Buddhist path.",
+    "tags": [
+      "bodhisattva-practice",
+      "buddhist-narratives",
+      "chinese-buddhism",
+      "dana-paramita",
+      "self-sacrifice"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "bodhisattva-sacrifice-king-changshou",
+    "title": "King Changshou's Sacrifice / 長壽王的犧牲 / 長寿王の犠牲",
+    "summary": "The narrative archetype of King Changshou, a bodhisattva who sacrifices his kingdom and life rather than wage war, embodying Buddhist non-retaliation ideals.",
+    "tags": [
+      "bodhisattva-narrative",
+      "king-as-bodhisattva",
+      "self-sacrifice",
+      "buddhist-kingship",
+      "past-life-stories"
     ],
     "sources": []
   },
@@ -548,6 +610,20 @@
     "sources": []
   },
   {
+    "slug": "confucius-western-saint-liezi",
+    "title": "Confucius and the Western Saint (西方聖者) / 西方聖者",
+    "summary": "A Liezi account of Confucius making an enigmatic reference to \"a saint in the west\" who rules without governing, speaks without persuasion, and transforms without coercion.",
+    "tags": [
+      "liezi",
+      "confucius",
+      "confucian-daoist-synthesis",
+      "saint",
+      "sagehood",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
     "slug": "da-cheng-ben-sheng-xin-di-guan-jing",
     "title": "大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground",
     "summary": "A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.",
@@ -557,6 +633,33 @@
       "mind-cultivation",
       "prajna",
       "tang-dynasty-translations"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "dacheng-bensheng-xindi-guanjing-kewen",
+    "title": "大乘本生心地觀經淺註科文 / Commentary Outline on the Mahayana Mind-Ground Contemplation Sutra",
+    "summary": "A comprehensive structural outline and commentary classifying the contents of the Mahayana Sutra of Mind-Ground Contemplation into prefaces, main text, and circulation sections with detailed doctrinal divisions.",
+    "tags": [
+      "mahayana-buddhism",
+      "chinese-buddhist-texts",
+      "sutra-commentary",
+      "mind-ground-contemplation",
+      "dacheng-tradition"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "dacheng-xindi-guanjing-san-shen",
+    "title": "如來三身 / Three Bodies of the Tathagata (三身說)",
+    "summary": "The doctrinal classification of the Buddha's three bodies—Dharma-body, Enjoyment-body, and Transformational body—as expounded in the Mahayana Mind-Ground Contemplation Sutra, with detailed elaboration of their characteristics and salvific functions.",
+    "tags": [
+      "buddhist-doctrine",
+      "triyana",
+      "three-bodies-doctrine",
+      "mahayana-philosophy",
+      "tathagata",
+      "buddhist-cosmology"
     ],
     "sources": []
   },
@@ -661,6 +764,47 @@
     "sources": []
   },
   {
+    "slug": "dongmen-wu-grieflessness",
+    "title": "Dongmen Wu's Grieflessness / 東門吳之無憂",
+    "summary": "The story of Dongmen Wu, who remained unmoved by his son's death because he had previously been without a son and felt no loss.",
+    "tags": [
+      "liezi",
+      "chinese-philosophy",
+      "grief",
+      "equanimity",
+      "taoism",
+      "death"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "dream-reality-confusion-liezi",
+    "title": "Confusion of Dreams and Reality / 夢覺不分 / 夢と現実の混同",
+    "summary": "The Liezi philosophical anecdotes exploring the boundary between dreams and waking life, including the servant who dreamed of kingship and the firewood collector's deer.",
+    "tags": [
+      "liezi",
+      "dream",
+      "reality",
+      "philosophy-of-mind",
+      "paradox",
+      "illusion"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "eight-testings-six-omens-liezi",
+    "title": "Eight Testings and Six Omens / 覺有八徵夢有六候 / 八徵と六候",
+    "summary": "The Liezi philosophical framework classifying eight experiential states of waking life and six categories of dreams, with implications for understanding consciousness.",
+    "tags": [
+      "liezi",
+      "dream-theory",
+      "consciousness",
+      "taoist-psychology",
+      "philosophy-of-mind"
+    ],
+    "sources": []
+  },
+  {
     "slug": "eightfold-noble-path-human-immortal-sutra",
     "title": "Eightfold Noble Path (Human Immortal Sutra) / 八正道",
     "summary": "The Eightfold Noble Path as expounded in the Sutra of the Human Immortal, taught by Mahabrahma Deva as the method for achieving pure contemplation and liberation.",
@@ -670,6 +814,19 @@
       "eightfold-path",
       "mahabrahma",
       "liberation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "entry-all-knowledge-dharani-gate",
+    "title": "入一切種智行陀羅尼門 / Entry into the All-Knowledge Dhāraṇī Gate",
+    "summary": "A profound Mahāyāna dhāraṇī practice for entering complete wisdom, enabling practitioners to obtain countless samādhis,Store dhāraṇīs, and achieve supreme enlightenment.",
+    "tags": [
+      "dharani",
+      "mahayana",
+      "bodhisattva-practice",
+      "wisdom",
+      "meditation"
     ],
     "sources": []
   },
@@ -737,6 +894,20 @@
       "contemplation-methods",
       "early-buddhism",
       "han-dynasty-translation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-ascetics-seven-śrāvaka-buddhist-narrative",
+    "title": "五仙人的故事與七覺支的象徵意義 / 五仙人故事與七覺支象徵意義 / 五仙人の物語と七覚支の象徴的意義",
+    "summary": "The narrative of the five ascetics in the Shengjing, illustrating Buddhist teachings on karma, rebirth, and the development of the seven factors of awakening.",
+    "tags": [
+      "five ascetics",
+      "seven factors of awakening",
+      "karmic rebirth",
+      "Buddhist narrative",
+      "śrāvaka",
+      "shengjing"
     ],
     "sources": []
   },
@@ -814,6 +985,19 @@
       "moral-psychology",
       "social-stability",
       "land-reform"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "force-fate-debate-liezi",
+    "title": "Force and Fate Debate / 力命之辯",
+    "summary": "The philosophical dialogue between Force (力) and Fate (命) exploring whether human effort or destiny determines life outcomes.",
+    "tags": [
+      "liezi",
+      "chinese-philosophy",
+      "determinism",
+      "free-will",
+      "taoism"
     ],
     "sources": []
   },
@@ -949,6 +1133,31 @@
     "sources": []
   },
   {
+    "slug": "four-noble-truths",
+    "title": "Four Noble Truths / 四聖諦",
+    "summary": "The core Buddhist doctrine summarizing the nature of suffering, its origin, cessation, and the path to liberation.",
+    "tags": [
+      "buddhism",
+      "core teachings",
+      "four noble truths",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-permutations-fate-liezi",
+    "title": "Four Permutations of Fate / 四可之命",
+    "summary": "The doctrine of four possible outcomes regarding life and death, each potentially either heavenly blessing or punishment depending on alignment with natural order.",
+    "tags": [
+      "liezi",
+      "chinese-philosophy",
+      "cosmology",
+      "fate",
+      "determinism"
+    ],
+    "sources": []
+  },
+  {
     "slug": "four-right-exertions-an-shigao-commentary",
     "title": "Four Right Exertions / 四意斷",
     "summary": "The Four Right Exertions (四意斷) as explained in An Shigao's Han Dynasty commentary on Buddhist meditation practice.",
@@ -1013,6 +1222,21 @@
       "quantization",
       "llama-cpp",
       "non-target"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "gong-yibo-strength-liezi",
+    "title": "Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力",
+    "summary": "A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.",
+    "tags": [
+      "liezi",
+      "daoist-wisdom",
+      "non-action",
+      "strength",
+      "humility",
+      "self-cultivation",
+      "chinese-philosophy"
     ],
     "sources": []
   },
@@ -1181,6 +1405,19 @@
       "moral-cultivation",
       "qi",
       "spiritual-cultivation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guan-bao-friendship-liezi",
+    "title": "Guan Zhong and Bao Shuya Friendship / 管鮑之交",
+    "summary": "The paradigmatic friendship between Guan Zhong and Bao Shuya, reinterpreted by Liezi as an example of fate determining social outcomes rather than personal virtue.",
+    "tags": [
+      "liezi",
+      "chinese-philosophy",
+      "friendship",
+      "historical-anecdote",
+      "taoism"
     ],
     "sources": []
   },
@@ -1398,6 +1635,18 @@
     "sources": []
   },
   {
+    "slug": "jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra",
+    "title": "Ten Causes for Teaching the Mind-Ground Sutra / 教起因緣",
+    "summary": "The ten reasons why Shakyamuni Buddha taught the Mahayana Mind-Ground Contemplation Sutra, as enumerated in the commentary.",
+    "tags": [
+      "buddhism",
+      "doctrinal-study",
+      "mahayana-teaching",
+      "shravaka-bodhisattva"
+    ],
+    "sources": []
+  },
+  {
     "slug": "junzi-characteristics",
     "title": "Junzi Characteristics / 君子品格",
     "summary": "Confucian ideal of the cultivated person who can be entrusted with governance and maintains integrity in crisis",
@@ -1436,6 +1685,34 @@
       "philosophy",
       "virtue",
       "virtue-ethics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "king-mu-spiritual-flight-liezi",
+    "title": "King Mu's Spiritual Flight / 周穆王神遊 / 周穆王のspirit journey",
+    "summary": "The philosophical discourse on spiritual transcendence as described in the Liezi account of King Mu's journey with the transformed person.",
+    "tags": [
+      "liezi",
+      "taoism",
+      "spiritual-practice",
+      "transcendence",
+      "king-mu",
+      "huazhiren"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "king-sibi-pigeon-sacrifice",
+    "title": "King Śibi Saves the Pigeon (尸毘王救鴿) - The Great Sacrifice of Flesh for Life",
+    "summary": "The classic Jataka tale of King Śibi who cut off his own flesh to save a pigeon from a hawk, exemplifying the perfection of giving in Buddhism.",
+    "tags": [
+      "jataka-tales",
+      "king-sibi",
+      "bodhisattva-giving",
+      "perfection-of-giving",
+      "buddhist-narratives",
+      "śibi-jataka"
     ],
     "sources": []
   },
@@ -1481,6 +1758,19 @@
     "sources": []
   },
   {
+    "slug": "lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing",
+    "title": "Lai Zhou (來舟) / 來舟法師",
+    "summary": "A Qing Dynasty monk who authored a major commentary on the Mahayana Mind-Ground Contemplation Sutra, synthesizing Huayan and Tiantai classification systems.",
+    "tags": [
+      "buddhism",
+      "chinese-buddhism",
+      "commentaries",
+      "huayan-school",
+      "qing-dynasty"
+    ],
+    "sources": []
+  },
+  {
     "slug": "lan-ruo",
     "title": "蘭若 / Forest Hermitage Practice",
     "summary": "蘭若指佛教修行者居住之寂靜處所，遠離喧鬧，修習頭陀行與止觀禪定",
@@ -1490,6 +1780,20 @@
       "ascetic-practice",
       "forest-monasticism",
       "aranya"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "laochengzi-illusion-transformation-liezi",
+    "title": "Lao Chengzi's Study of Illusion / 老成子學幻 / 老成子の幻化学",
+    "summary": "The philosophical narrative of Lao Chengzi learning the art of transformation and illusion from Yin Wen, including the Daoist theory of change and the nature of reality.",
+    "tags": [
+      "liezi",
+      "taoist-metaphysics",
+      "illusion",
+      "transformation",
+      "yinwen",
+      "change"
     ],
     "sources": []
   },
@@ -1518,6 +1822,32 @@
     "sources": []
   },
   {
+    "slug": "lotus-up-tathagata",
+    "title": "蓮華上如來 / Lotus-Up Tathāgata (Liánhuá Shàng Rúlái)",
+    "summary": "A celestial Buddha in Mahāyāna Buddhism who appears in the Lotus World, achieving enlightenment in a single night and manifesting great supernatural powers.",
+    "tags": [
+      "tathagata",
+      "lotus-world",
+      "mahayana-buddhism",
+      "buddha",
+      "dharani"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "lotus-world-buddhist-cosmology",
+    "title": "蓮華世界 / Lotus World (Liánhuá Shìjiè)",
+    "summary": "A pure land in Buddhist cosmology described in the Mahāyāna sutras, characterized by lotus imagery, jeweled trees, and spiritual refinement.",
+    "tags": [
+      "buddhist-cosmology",
+      "pure-land",
+      "mahayana",
+      "lotus",
+      "bodhisattva-realm"
+    ],
+    "sources": []
+  },
+  {
     "slug": "mahakasyapa-buddhist-disciple-collected-sutras",
     "title": "迦葉 Mahākāśyapa / Mahākāśyapa and the Assembly of 84,000 Arhats",
     "summary": "The Buddha's senior disciple who led the first council and is portrayed as having been a pratyekabuddha in a previous life.",
@@ -1540,6 +1870,44 @@
       "monastic-education",
       "sarvastivada",
       "doctrinal-organization"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mahayana-buddhism",
+    "title": "Mahayana Buddhism / 大乘佛教",
+    "summary": "Mahayana Buddhism is one of the two major branches of Buddhism, focusing on the Bodhisattva path and the goal of achieving enlightenment for all sentient beings.",
+    "tags": [
+      "Buddhism",
+      "Bodhisattva",
+      "enlightenment"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mahayana-dharani-of-compassion",
+    "title": "大乘悲分陀利經 / Mahāyāna Dhāraṇī of Compassion",
+    "summary": "A Mahāyāna sutra describing the Lotus World, the Lotus-Up Tathāgata, and the profound dhāraṇī practices for achieving supreme enlightenment.",
+    "tags": [
+      "mahayana-sutra",
+      "dharani",
+      "lotus-world",
+      "buddhist-cosmogony",
+      "chinese-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mahayana-mind-ground-contemplation-sutra-dacheng-bensheng-xindi-guan-jing",
+    "title": "Mahāyāna Mind-Ground Contemplation Sūtra / 大乘本生心地觀經 / 大乗本生心地観経",
+    "summary": "A Mahāyāna sūtra teaching the contemplation of the mind-ground and the cultivation of bodhisattva virtues through repaying the four graces",
+    "tags": [
+      "mahayana-sutra",
+      "mind-ground",
+      "bodhisattva-practice",
+      "gratitude",
+      "four-graces",
+      "chinese-buddhism"
     ],
     "sources": []
   },
@@ -1816,6 +2184,34 @@
     "sources": []
   },
   {
+    "slug": "miaose-wang-bodhisattva-sacrifice",
+    "title": "King Subhūti / 妙色王",
+    "summary": "A past incarnation of the Buddha who sacrificed his son, wife, and body to obtain the Dharma teaching on attachment.",
+    "tags": [
+      "buddhist-figure",
+      "jataka",
+      "bodhisattva",
+      "king-sacrifice",
+      "yijing",
+      "tang-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "miaose-wang-yinyuan-jing",
+    "title": "King Subhūti's Cause and Conditions Sutra / 妙色王因緣經",
+    "summary": "A Buddhist sutra depicting King Subhūti's supreme sacrifice of his son, wife, and body to obtain the Dharma teaching on attachment.",
+    "tags": [
+      "buddhist-sutra",
+      "jataka-tale",
+      "bodhisattva-sacrifice",
+      "tang-translations",
+      "yijing",
+      "buddhist-narrative"
+    ],
+    "sources": []
+  },
+  {
     "slug": "mind-as-organ-of-thought",
     "title": "The Mind as the Organ of Thought / 心之官則思",
     "summary": "Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.",
@@ -1825,6 +2221,20 @@
       "mind-cultivation",
       "moral-philosophy",
       "confucian-self-examination"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mind-solidified-form-dissolved-liezi",
+    "title": "Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋",
+    "summary": "A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.",
+    "tags": [
+      "liezi",
+      "daoist-meditation",
+      "spiritual-attainment",
+      "self-cultivation",
+      "consciousness",
+      "chinese-philosophy"
     ],
     "sources": []
   },
@@ -1919,6 +2329,19 @@
     "sources": []
   },
   {
+    "slug": "nalai-tathagata-story-shengjing",
+    "title": "那賴仙人與方迹王的故事 / 那賴仙人與方迹王的故事 / 那賴仙人伝と方迹王物語",
+    "summary": "The Buddhist parable of King Fangji enslaved by desire and the ascetic Natai who freed him through teachings on the nature of craving.",
+    "tags": [
+      "desire",
+      "attachment",
+      "ascetic teaching",
+      "Buddhist parable",
+      "shengjing"
+    ],
+    "sources": []
+  },
+  {
     "slug": "nikuda-brahmin-sutra",
     "title": "Discourse on Nikuda Brahmins / 佛說尼拘陀梵志經",
     "summary": "A Buddhist sutra depicting Buddha's dialogue with Nikuda brahmins, critiquing external ascetic practices and revealing defilement accumulation.",
@@ -1972,6 +2395,19 @@
     "sources": []
   },
   {
+    "slug": "non-retaliation-buddhist-teaching",
+    "title": "Non-Retaliation in Buddhist Teaching / 不報怨 / 仏教における報復禁止の教え",
+    "summary": "The Buddhist doctrine of abstaining from vengeance and returning harm with harm, exemplified in the story of King Changshou.",
+    "tags": [
+      "buddhist-ethics",
+      "bodhisattva-virtues",
+      "karma",
+      "compassion",
+      "nonviolent-resistance"
+    ],
+    "sources": []
+  },
+  {
     "slug": "ollama-framework",
     "title": "Ollama Framework / Ollama 框架 / Ollamaフレームワーク",
     "summary": "An open-source runtime environment for running large language models locally with quantized GGUF model files.",
@@ -1998,6 +2434,36 @@
     "sources": []
   },
   {
+    "slug": "prince-ming-zhangshan-gongsun-long-liezi",
+    "title": "Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟",
+    "summary": "A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.",
+    "tags": [
+      "liezi",
+      "gongsun-long",
+      "dialectics",
+      "chinese-philosophy",
+      "mohism",
+      "logical-paradoxes"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "prince-sujata-story-bodhisattva-sacrifice",
+    "title": "The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice",
+    "summary": "The narrative of Prince Sūjāta who offered his own flesh to feed his starving parents, serving as the central exemplum of filial piety and compassionate self-sacrifice in Mahayana Buddhism.",
+    "tags": [
+      "buddhist-narratives",
+      "filial-piety",
+      "bodhisattva-practice",
+      "self-sacrifice",
+      "mahayana",
+      "須闍提太子",
+      "佛教故事",
+      "孝道"
+    ],
+    "sources": []
+  },
+  {
     "slug": "providing-people-sustenance-zhi-min-zhi-chan",
     "title": "Providing the People with Sustenance (制民之產) / 民に産業を制する",
     "summary": "Mencius argued that benevolent government requires establishing the people's material welfare first—providing land, livestock, and education—because only those with stable livelihoods can develop constant virtue, making economic security the foundation of moral governance.",
@@ -2007,6 +2473,21 @@
       "economic-ethics",
       "governance",
       "welfare"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "rabbit-king-self-sacrifice-hermit",
+    "title": "Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous Rabbit",
+    "summary": "The Jataka story of a rabbit king who, having learned the Dharma from a brahmana, offered his own body as fuel for a fire to feed the ascetic during a time of famine.",
+    "tags": [
+      "jataka-tales",
+      "rabbit-king",
+      "self-sacrifice",
+      "hermit",
+      "famine",
+      "bodhisattva-compassion",
+      "buddhist-narratives"
     ],
     "sources": []
   },
@@ -2085,6 +2566,62 @@
     "sources": []
   },
   {
+    "slug": "sarvadana-king-yiqieshi",
+    "title": "King Sarvadāna (一切施王) — The Sovereign Who Gave Everything",
+    "summary": "A legendary king who renounced his throne, kingdom, and ultimately his own body for the sake of a single supplicant, exemplifying the ultimate perfection of giving.",
+    "tags": [
+      "bodhisattva",
+      "dana-paramita",
+      "king",
+      "renunciation",
+      "early-buddhism",
+      "bhiksusamgha-translations",
+      "kanishka-sect"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "sarvadhana-prince-yiqiechi",
+    "title": "Prince Sarvadhāna (一切持王子) — The Crown Prince of Universal Possession and Giving",
+    "summary": "A crown prince who gave away royal treasures, elephants, and ultimately his own children to fulfill his vow of universal giving, exemplifying the bodhisattva's renunciation of attachment.",
+    "tags": [
+      "bodhisattva",
+      "dana-paramita",
+      "prince",
+      "renunciation",
+      "early-buddhism",
+      "bhiksusamgha-translations",
+      "kanishka-sect"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "seeds-of-being-zhongyouji",
+    "title": "Seeds of Being (種有幾) / 種有幾",
+    "summary": "The Liezi doctrine of cyclical transformation through which all species interconvert across an intricate chain of metamorphoses.",
+    "tags": [
+      "Liezi",
+      "Taoist cosmology",
+      "metamorphosis",
+      "Chinese philosophy",
+      "nature"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "self-generating-life-death",
+    "title": "Self-Generating Life and Death / 自生自死",
+    "summary": "The Liezi doctrine that life, death, prosperity, and poverty arise spontaneously from fate, not from human control.",
+    "tags": [
+      "liezi",
+      "chinese-philosophy",
+      "fate",
+      "taoism",
+      "cosmology"
+    ],
+    "sources": []
+  },
+  {
     "slug": "seven-buddhas-current-kalpa",
     "title": "Seven Buddhas of the Current Kalpa / 七佛",
     "summary": "The seven Buddhas who have appeared in the current kalpa, from Vipassin to Shakyamuni.",
@@ -2125,6 +2662,19 @@
     "sources": []
   },
   {
+    "slug": "shi-men-tong-pan-ten-gates-framework",
+    "title": "Ten Gates Framework / 十門通判",
+    "summary": "A methodological framework for sutra interpretation consisting of ten categories, originating from the Huayan school and used for systematic Buddhist textual analysis.",
+    "tags": [
+      "buddhism",
+      "hermeneutics",
+      "huayan-school",
+      "textual-analysis",
+      "classical-chinese-buddhism"
+    ],
+    "sources": []
+  },
+  {
     "slug": "shi-men-tong-pan",
     "title": "十門通判 / Ten-Fold Framework for Sutra Exposition",
     "summary": "A systematic ten-category methodology for analyzing and expounding Buddhist sutras, originating with Xianshou Fazang and elaborated by later masters.",
@@ -2134,6 +2684,19 @@
       "sutra-study",
       "doctrinal-classification",
       "tang-dynasty-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "si-en-four-graces-buddhism",
+    "title": "Four Graces / 四恩 / 四恩",
+    "summary": "Buddhist doctrine of repaying four kinds of kindness: parents, sentient beings, ruler, and Triple Gem",
+    "tags": [
+      "buddhist-ethics",
+      "doctrinal-studies",
+      "gratitude",
+      "mahasattvas",
+      "mahayana"
     ],
     "sources": []
   },
@@ -2253,6 +2816,20 @@
     "sources": []
   },
   {
+    "slug": "thousand-lamp-body-offering-bodhisattva-practice",
+    "title": "The King Who Lit a Thousand Lamps / 以身燃千燈之王",
+    "summary": "The Buddhist narrative of a king who sacrificed his own flesh to light a thousand lamps as the ultimate act of dedication to the Dharma.",
+    "tags": [
+      "bodhisattva-practice",
+      "dana-paramita",
+      "buddhist-narratives",
+      "self-sacrifice",
+      "thousand-lamps",
+      "chinese-buddhism"
+    ],
+    "sources": []
+  },
+  {
     "slug": "three-dharmas-buddhist-philosophy",
     "title": "Three Dharmas / 三法",
     "summary": "A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.",
@@ -2288,6 +2865,22 @@
       "mental-afflictions",
       "karmic-formation",
       "ethical-teaching"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "three-poisons-greed-hatred-delusion-buddhist-teaching",
+    "title": "三毒的業報與解脫之道 / 三毒的業報與解脫之道 / 三毒の業報と解脱への道",
+    "summary": "Buddhist teachings on the three poisons (贪瞋痴) and their role in binding beings to samsara, as illustrated through multiple narratives in the Shengjing.",
+    "tags": [
+      "three poisons",
+      "greed",
+      "hatred",
+      "delusion",
+      "samsara",
+      "Buddhist teaching",
+      "karmic consequences",
+      "shengjing"
     ],
     "sources": []
   },
@@ -2334,6 +2927,19 @@
     "sources": []
   },
   {
+    "slug": "throw-body-feed-tigers-jataka",
+    "title": "Throw Body to Feed Tigers (投身飼虎) - Jataka Tale of Prince Mahāsattva",
+    "summary": "The Jataka story of Prince Mahāsattva who sacrificed his body to feed seven starving tiger cubs, a paradigm of ultimate bodhisattva compassion.",
+    "tags": [
+      "jataka-tales",
+      "bodhisattva-compassion",
+      "self-sacrifice",
+      "six-perfections",
+      "buddhist-narratives"
+    ],
+    "sources": []
+  },
+  {
     "slug": "tian-shi-di-li-ren-he",
     "title": "Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和",
     "summary": "The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.",
@@ -2376,6 +2982,34 @@
     "sources": []
   },
   {
+    "slug": "transformation-generation-huasheng-liezi",
+    "title": "Transformation and Generation (化生) / 化生",
+    "summary": "The Liezi philosophical principle that all things are generated through transformation in an endless cyclical process.",
+    "tags": [
+      "Liezi",
+      "Taoist cosmology",
+      "Chinese philosophy",
+      "transformation",
+      "生成"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "turtle-monkey-past-life-karmic-narrative-shengjing",
+    "title": "鱉獼猴前世的業報故事 / 鱉と獼猴の前世因果物語 / 거북이와 원숭이의 전생 업보 이야기",
+    "summary": "The turtle and monkey past-life karmic connection in the Shengjing, illustrating how past-life relationships manifest in the present and the consequences of broken trust.",
+    "tags": [
+      "karmic rebirth",
+      "past lives",
+      "Buddhist narrative",
+      "turtle",
+      "monkey",
+      "deception",
+      "shengjing"
+    ],
+    "sources": []
+  },
+  {
     "slug": "twelve-links-dependent-origination-an-shigao-commentary",
     "title": "Twelve Links of Dependent Origination / 十二因緣 / 十二縁起",
     "summary": "Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.",
@@ -2405,6 +3039,33 @@
     "sources": []
   },
   {
+    "slug": "ultimate-wandering-observation-liezi",
+    "title": "Ultimate Wandering and Observation (至游至觀) / 至游至觀",
+    "summary": "A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.",
+    "tags": [
+      "liezi",
+      "daoist-meditation",
+      "self-cultivation",
+      "spiritual-practice",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "understanding-heaven-knowing-fate-liezi",
+    "title": "Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命",
+    "summary": "A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.",
+    "tags": [
+      "chinese-philosophy",
+      "confucian-daoist-synthesis",
+      "liezi",
+      "philosophy",
+      "self-cultivation",
+      "wisdom"
+    ],
+    "sources": []
+  },
+  {
     "slug": "unsummoned-ministers-bu-zhao-zhi-chen",
     "title": "Unsummoned Ministers / 不召之臣",
     "summary": "A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.",
@@ -2427,6 +3088,20 @@
       "expedient-means",
       "path",
       "cultivation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "virama-bodhisattva-pusajiamo",
+    "title": "Vīrāma (毘羅摩) — Bodhisattva of Giving",
+    "summary": "A minister's son who became chief minister and exemplified the perfection of giving through vast generosity and skillful means.",
+    "tags": [
+      "bodhisattva",
+      "dana-paramita",
+      "bhiksusamgha-translations",
+      "kanishka-sect",
+      "early-buddhism",
+      "wuliangshou-jing"
     ],
     "sources": []
   },
@@ -2468,6 +3143,19 @@
       "three-roots-goodness",
       "precepts-meditation",
       "eastern-jin-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "void-seal-bodhisattva",
+    "title": "虛空印菩薩 / Void Seal Bodhisattva (Xūkōng Yìn Púsà)",
+    "summary": "A bodhisattva in Mahāyāna Buddhism who received the teaching of all-knowledge dhāraṇī and later became the Lotus-Up Tathāgata in the Lotus World.",
+    "tags": [
+      "bodhisattva",
+      "lotus-world",
+      "dharani",
+      "mahayana",
+      "tathagata-origin"
     ],
     "sources": []
   },
@@ -2535,6 +3223,20 @@
     "sources": []
   },
   {
+    "slug": "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong",
+    "title": "From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖",
+    "summary": "A canonical Buddhist gatha stating that attachment is the origin of suffering and fear, and liberation comes from detachment.",
+    "tags": [
+      "buddhist-dharma",
+      "gatha",
+      "buddhist-narrative",
+      "attachment-suffering",
+      "yijing-translation",
+      "four-noble-truths"
+    ],
+    "sources": []
+  },
+  {
     "slug": "zhi-qing-relation",
     "title": "Will and Passion-Nature / 志與情的關係",
     "summary": "Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)",
@@ -2556,6 +3258,35 @@
       "buddhism",
       "zen",
       "japanese buddhist terminology",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "七覺意注-(安世高)",
+    "title": "Seven Factors of Enlightenment Commentary (An Shigao) / 七覺意注（安世高）",
+    "summary": "An early Chinese commentary by An Shigao on the seven factors of enlightenment within the thirty‑seven bodhiparamitas.",
+    "tags": [
+      "an shigao",
+      "buddhist commentary",
+      "seven factors of enlightenment",
+      "thirty‑seven bodhiparamitas",
+      "early chinese buddhism",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "五根五力注-(安世高)",
+    "title": "Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)",
+    "summary": "Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.",
+    "tags": [
+      "an shigao",
+      "buddhist commentaries",
+      "early chinese buddhism",
+      "thirty‑seven bodhipāramitās",
+      "five roots",
+      "five powers",
       "stub"
     ],
     "sources": []
@@ -2612,6 +3343,33 @@
     "sources": []
   },
   {
+    "slug": "儒家政治哲学",
+    "title": "儒家政治哲学",
+    "summary": "title: Confucian Political Philosophy / 儒家政治哲学  \nsummary: This article explores the origins, core concepts, development, and significance of Confucian political philosophy, highlighting the moral foundations of governance established by Confucius and Mencius.  \ntags: confucianism, political-philosophy, chinese-philosophy, mengzi, moral-governance  \n---  \n## English  \nConfucian political philosophy is a framework that emphasizes the moral foundation of political authority, originating from the teachings of Confucius and further developed by Mencius. Core concepts include ren (benevolence), li (ritual), junzi (gentleman), righteous governance, and the Mandate of Heaven, with an emphasis on virtue over profit and moral self-cultivation as the basis for political legitimacy. The idea of \"tianxia\" (all-under-heaven) unites the populace under a benevolent ruler. This philosophy evolved notably during the Han dynasty and Neo-Confucianism, with modern reinterpretations affirming that political order must be rooted in moral cultivation. The ruler is seen as a moral exemplar whose virtue is essential for effective governance.  \n## 中文  \n儒家政治哲学是强调政治权威道",
+    "tags": [
+      "\"tags: confucianism",
+      "political-philosophy",
+      "chinese-philosophy",
+      "mengzi",
+      "virtue-governance\". should we use hyphens? it's fine.",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "儒家政治哲學",
+    "title": "Confucian Political Philosophy / 儒家政治哲學",
+    "summary": "Confucian political philosophy integrates moral virtue, ritual propriety, and humanistic ethics into the governance of society.",
+    "tags": [
+      "confucianism",
+      "political-philosophy",
+      "ethics",
+      "chinese-thought",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "君子",
     "title": "Junzi (君子) / 君子",
     "summary": "The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.",
@@ -2620,6 +3378,140 @@
       "moral-ideal",
       "chinese-philosophy",
       "junzi",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "如來八希有法",
+    "title": "Eight Rare Teachings of the Tathāgata / 如來八希有法",
+    "summary": "A set of eight rarely‑occuring doctrines taught by the Buddha that reveal the conditions for attaining ultimate liberation.",
+    "tags": [
+      "buddhism",
+      "mahayana",
+      "sutras",
+      "eight-rare-teachings",
+      "tathagata",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "如来八寶塔-eight-tathagata-stupas",
+    "title": "Eight Tathāgata Stupas / 如來八寶塔 / 如来八宝塔",
+    "summary": "The eight sacred stupas representing key events in the Buddha's life, described in the Mahāyāna Mind-Ground Contemplation Sūtra",
+    "tags": [
+      "buddhist-architecture",
+      "mahayana",
+      "stupa",
+      "buddhist-cultivation",
+      "relics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "孟子の政治哲学",
+    "title": "Mencius's Political Philosophy / 孟子的政治哲学",
+    "summary": "... (one line)",
+    "tags": [
+      "mencius",
+      "confucianism",
+      "political philosophy",
+      "chinese philosophy",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "布施因果",
+    "title": "Cause and Effect of Giving / 布施因果",
+    "summary": "The Buddhist doctrine that practicing dāna (generosity) generates karmic rewards, with particular emphasis on giving before oneself as a key spiritual practice.",
+    "tags": [
+      "buddhist-dharma",
+      "karma",
+      "dana-paramita",
+      "merit",
+      "moral-causation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "杞人忧天-qiren-youtian",
+    "title": "The Man Who Worried About Heaven Falling (杞人憂天) / 杞人憂天",
+    "summary": "The famous anecdote about unnecessary worry over things beyond one's control, illustrating the Liezi philosophical approach to existential anxiety.",
+    "tags": [
+      "Liezi",
+      "Chinese philosophy",
+      "anxiety",
+      "existentialism",
+      "ancient China"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "瞿曇般若流支",
+    "title": "瞿曇般若流支",
+    "summary": "瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。",
+    "tags": [
+      "the user asks: \"list 2-4 relevant tags for this article (comma-separated",
+      "lowercase):\" the article is about \"瞿曇般若流支\" (gautama prajñāruci) and his translation of the \"金色王經\" (golden king sutra). we need to list 2-4 relevant tags",
+      "comma-separated",
+      "lowercase. so we need to think about tags that capture the content. possibly: \"gautama-prajnaruci\"",
+      "\"golden-king-sutra\"",
+      "\"buddhist-translation\"",
+      "\"northern-wei\"",
+      "\"daolin\"",
+      "\"mah"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "辟支佛",
+    "title": "Pratyekabuddha / 辟支佛",
+    "summary": "A solitary buddha who achieves enlightenment alone through contemplation of dependent origination, appearing in the Golden King Sutra to demonstrate the power of dāna.",
+    "tags": [
+      "pratyekabuddha",
+      "arhat",
+      "buddhist-enlightenment",
+      "vegetarian-buddhism",
+      "golden-king-sutra"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "金色王",
+    "title": "King Golden / 金色王",
+    "summary": "King Golden was a past life of the Buddha who practiced extreme generosity, becoming a model for Buddhist teachings on the fruits of giving (dāna).",
+    "tags": [
+      "buddha-past-life",
+      "jataka-tale",
+      "dana-paramita",
+      "king-of-jambudvipa",
+      "buddhist-sacrifice"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "金色王經",
+    "title": "Golden King Sutra / 金色王經",
+    "summary": "A Buddhist sutra recounting the past life of the Buddha as King Golden, illustrating the karmic fruits of giving through the story of a famine and miraculous provision.",
+    "tags": [
+      "buddhist-sutra",
+      "east-wei-translation",
+      "dana-paramita",
+      "pratyekabuddha",
+      "buddhist-narrative"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "阿羅漢果",
+    "title": "Arhat Fruit / 阿羅漢果",
+    "summary": "The ultimate spiritual attainment of an Arhat, signifying liberation from the cycle of rebirth.",
+    "tags": [
+      "buddhism",
+      "buddhist terminology",
+      "arhat",
       "stub"
     ],
     "sources": []

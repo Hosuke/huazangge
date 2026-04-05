@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-05T07:52:01.041810+00:00
+updated: 2026-04-05T08:44:19.484741+00:00
 ---
 
 # Knowledge Base Index
@@ -40,9 +40,21 @@ Let me craft a concise one-line summary:
 
 The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
 
+## "Buddhist-Translation"
+
+- [[瞿曇般若流支|瞿曇般若流支]] — 瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。
+
 ## "Confucian
 
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
+## "Daolin"
+
+- [[瞿曇般若流支|瞿曇般若流支]] — 瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。
+
+## "Golden-King-Sutra"
+
+- [[瞿曇般若流支|瞿曇般若流支]] — 瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。
 
 ## "Great Firm Brahmin"
 
@@ -65,6 +77,14 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 
+## "Mah
+
+- [[瞿曇般若流支|瞿曇般若流支]] — 瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。
+
+## "Northern-Wei"
+
+- [[瞿曇般若流支|瞿曇般若流支]] — 瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。
+
 ## "Spiritual Hierarchy"
 
 - [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
@@ -81,6 +101,17 @@ I need to write a one-line summary that captures the essence of this article. Th
 Let me craft a concise one-line summary:
 
 The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
+## "Tags: Confucianism
+
+- [[儒家政治哲学|儒家政治哲学]] — title: Confucian Political Philosophy / 儒家政治哲学  
+summary: This article explores the origins, core concepts, development, and significance of Confucian political philosophy, highlighting the moral foundations of governance established by Confucius and Mencius.  
+tags: confucianism, political-philosophy, chinese-philosophy, mengzi, moral-governance  
+---  
+## English  
+Confucian political philosophy is a framework that emphasizes the moral foundation of political authority, originating from the teachings of Confucius and further developed by Mencius. Core concepts include ren (benevolence), li (ritual), junzi (gentleman), righteous governance, and the Mandate of Heaven, with an emphasis on virtue over profit and moral self-cultivation as the basis for political legitimacy. The idea of "tianxia" (all-under-heaven) unites the populace under a benevolent ruler. This philosophy evolved notably during the Han dynasty and Neo-Confucianism, with modern reinterpretations affirming that political order must be rooted in moral cultivation. The ruler is seen as a moral exemplar whose virtue is essential for effective governance.  
+## 中文  
+儒家政治哲学是强调政治权威道
 
 ## "The Three Conditions"? The Main Article Title "Mendicant-Life-Three-Conditions" Suggests Three Conditions For Mendicant Life. So Tags Could Be: "Buddhism"
 
@@ -109,9 +140,19 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 
+## Bodhisattva
+
+- [[bodhisattva-path|The Bodhisattva Path / 菩萨道]] — The Bodhisattva path is a central aspect of Mahayana Buddhism, focusing on the aspiration to attain enlightenment for oneself and others.
+- [[mahayana-buddhism|Mahayana Buddhism / 大乘佛教]] — Mahayana Buddhism is one of the two major branches of Buddhism, focusing on the Bodhisattva path and the goal of achieving enlightenment for all sentient beings.
+
 ## Bodhisattva Stages
 
 - [[bu-chu-yi-sheng-yu-chu|補處 / One Life Remaining Before Buddhahood]] — The bodhisattva stage immediately before full enlightenment, having completed all but the final traces of ignorance.
+
+## Buddhism
+
+- [[bodhisattva-path|The Bodhisattva Path / 菩萨道]] — The Bodhisattva path is a central aspect of Mahayana Buddhism, focusing on the aspiration to attain enlightenment for oneself and others.
+- [[mahayana-buddhism|Mahayana Buddhism / 大乘佛教]] — Mahayana Buddhism is one of the two major branches of Buddhism, focusing on the Bodhisattva path and the goal of achieving enlightenment for all sentient beings.
 
 ## Buddhist Cosmology
 
@@ -125,9 +166,27 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[san-chong-guan-threefold-contemplation|三種觀 / Threefold Contemplation Practice]] — The three meditation methods of empty view, phenomenal view, and middle way observation central to Mahayana Buddhist practice.
 
+## Buddhist Narrative
+
+- [[five-ascetics-seven-śrāvaka-buddhist-narrative|五仙人的故事與七覺支的象徵意義 / 五仙人故事與七覺支象徵意義 / 五仙人の物語と七覚支の象徴的意義]] — The narrative of the five ascetics in the Shengjing, illustrating Buddhist teachings on karma, rebirth, and the development of the seven factors of awakening.
+- [[turtle-monkey-past-life-karmic-narrative-shengjing|鱉獼猴前世的業報故事 / 鱉と獼猴の前世因果物語 / 거북이와 원숭이의 전생 업보 이야기]] — The turtle and monkey past-life karmic connection in the Shengjing, illustrating how past-life relationships manifest in the present and the consequences of broken trust.
+
+## Buddhist Parable
+
+- [[nalai-tathagata-story-shengjing|那賴仙人與方迹王的故事 / 那賴仙人與方迹王的故事 / 那賴仙人伝と方迹王物語]] — The Buddhist parable of King Fangji enslaved by desire and the ascetic Natai who freed him through teachings on the nature of craving.
+
 ## Buddhist Phenomenology
 
 - [[nirodha-samapatti|滅盡定 Nirodhāsamāpatti / Absorption of Cessation]] — A Buddhist meditation attainment where all mental formations cease, enabling practitioners to grant present-world blessings to beings.
+
+## Buddhist Teaching
+
+- [[bird-nali-voice-shengjing|我所鳥的故事 / 我所鳥的故事 / 「我所」鳥の物語]] — The parable of the "Mine-Owner" bird in the Shengjing, illustrating the Buddhist teaching on non-attachment and the futility of possessiveness.
+- [[three-poisons-greed-hatred-delusion-buddhist-teaching|三毒的業報與解脫之道 / 三毒的業報與解脫之道 / 三毒の業報と解脱への道]] — Buddhist teachings on the three poisons (贪瞋痴) and their role in binding beings to samsara, as illustrated through multiple narratives in the Shengjing.
+
+## Buddhist Teachings
+
+- [[bihuajing|The "Sad Flower Sutra" / 《悲華經》]] — The "Sad Flower Sutra" is a Mahayana Buddhist text encompassing teachings delivered by the Buddha on various profound subjects.
 
 ## Buddhist Text Studies
 
@@ -144,6 +203,12 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Chinese Buddhist Translation
 
 - [[four-āgama-commentary-ā-hán-mù-chao-jiě|四阿鋡暮抄解 / Four Āgama Commentary (Ā Hán Mù Chao Jiě)]] — A Buddhist commentary on the Four Āgama text, presenting a systematic analysis of the "Three Factors" framework for Buddhist practice and liberation.
+
+## Chinese Philosophy
+
+- [[seeds-of-being-zhongyouji|Seeds of Being (種有幾) / 種有幾]] — The Liezi doctrine of cyclical transformation through which all species interconvert across an intricate chain of metamorphoses.
+- [[transformation-generation-huasheng-liezi|Transformation and Generation (化生) / 化生]] — The Liezi philosophical principle that all things are generated through transformation in an endless cyclical process.
+- [[杞人忧天-qiren-youtian|The Man Who Worried About Heaven Falling (杞人憂天) / 杞人憂天]] — The famous anecdote about unnecessary worry over things beyond one's control, illustrating the Liezi philosophical approach to existential anxiety.
 
 ## Confucian Learning
 
@@ -162,8 +227,15 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[human-nature-mencius-debate|The Mencian Debate on Human Nature / 孟子人性论辩]] — A philosophical examination of the debate between Mencius and Gaozi regarding the nature of human beings, including key analogies and arguments.
 
+## Liezi
+
+- [[seeds-of-being-zhongyouji|Seeds of Being (種有幾) / 種有幾]] — The Liezi doctrine of cyclical transformation through which all species interconvert across an intricate chain of metamorphoses.
+- [[transformation-generation-huasheng-liezi|Transformation and Generation (化生) / 化生]] — The Liezi philosophical principle that all things are generated through transformation in an endless cyclical process.
+- [[杞人忧天-qiren-youtian|The Man Who Worried About Heaven Falling (杞人憂天) / 杞人憂天]] — The famous anecdote about unnecessary worry over things beyond one's control, illustrating the Liezi philosophical approach to existential anxiety.
+
 ## Mahayana Buddhism
 
+- [[bihuajing|The "Sad Flower Sutra" / 《悲華經》]] — The "Sad Flower Sutra" is a Mahayana Buddhist text encompassing teachings delivered by the Buddha on various profound subjects.
 - [[bu-chu-yi-sheng-yu-chu|補處 / One Life Remaining Before Buddhahood]] — The bodhisattva stage immediately before full enlightenment, having completed all but the final traces of ignorance.
 
 ## Mahayana Philosophy
@@ -183,6 +255,11 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Sutra Structure
 
 - [[xu-fen-buddhist-prologue|序分 / Buddhist Prologue Section]] — The introductory section of Buddhist sutras establishing credibility and context for the main teachings.
+
+## Taoist Cosmology
+
+- [[seeds-of-being-zhongyouji|Seeds of Being (種有幾) / 種有幾]] — The Liezi doctrine of cyclical transformation through which all species interconvert across an intricate chain of metamorphoses.
+- [[transformation-generation-huasheng-liezi|Transformation and Generation (化生) / 化生]] — The Liezi philosophical principle that all things are generated through transformation in an endless cyclical process.
 
 ## Three Factors Doctrine
 
@@ -222,6 +299,11 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Altruism
 
 - [[dana-paramita-bodhisattva-giving|Dāna Pāramitā / 檀波羅蜜 / 檀波羅蜜]] — The perfection of giving in Mahayana Buddhism, exemplified by bodhisattvas who sacrifice everything for the welfare of beings.
+
+## An Shigao
+
+- [[七覺意注-(安世高)|Seven Factors of Enlightenment Commentary (An Shigao) / 七覺意注（安世高）]] — An early Chinese commentary by An Shigao on the seven factors of enlightenment within the thirty‑seven bodhiparamitas.
+- [[五根五力注-(安世高)|Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)]] — Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.
 
 ## An-Shigao
 
@@ -278,6 +360,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Ancient China
 
+- [[杞人忧天-qiren-youtian|The Man Who Worried About Heaven Falling (杞人憂天) / 杞人憂天]] — The famous anecdote about unnecessary worry over things beyond one's control, illustrating the Liezi philosophical approach to existential anxiety.
+
+## Ancient China
+
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
 
 ## Ancient-China
@@ -287,6 +373,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Anthropology
 
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
+
+## Anxiety
+
+- [[杞人忧天-qiren-youtian|The Man Who Worried About Heaven Falling (杞人憂天) / 杞人憂天]] — The famous anecdote about unnecessary worry over things beyond one's control, illustrating the Liezi philosophical approach to existential anxiety.
 
 ## Aranya
 
@@ -302,6 +392,8 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
 - [[mahakasyapa-buddhist-disciple-collected-sutras|迦葉 Mahākāśyapa / Mahākāśyapa and the Assembly of 84,000 Arhats]] — The Buddha's senior disciple who led the first council and is portrayed as having been a pratyekabuddha in a previous life.
 - [[nirodha-samapatti|滅盡定 Nirodhāsamāpatti / Absorption of Cessation]] — A Buddhist meditation attainment where all mental formations cease, enabling practitioners to grant present-world blessings to beings.
+- [[辟支佛|Pratyekabuddha / 辟支佛]] — A solitary buddha who achieves enlightenment alone through contemplation of dependent origination, appearing in the Golden King Sutra to demonstrate the power of dāna.
+- [[阿羅漢果|Arhat Fruit / 阿羅漢果]] — The ultimate spiritual attainment of an Arhat, signifying liberation from the cycle of rebirth.
 
 ## Artificial-Intelligence
 
@@ -309,6 +401,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[gguf-model-format|GGUF Model Format / GGUF 模型格式 / GGUFモデルフォーマット]] — A unified model file format developed by Georgi Gerganov for efficient storage and inference of quantized large language models.
 - [[model-quantization|Model Quantization / 模型量化 / モデル量子化]] — A technique for reducing AI model size and computational requirements by representing model parameters with lower-precision data types.
 - [[ollama-framework|Ollama Framework / Ollama 框架 / Ollamaフレームワーク]] — An open-source runtime environment for running large language models locally with quantized GGUF model files.
+
+## Ascetic Teaching
+
+- [[nalai-tathagata-story-shengjing|那賴仙人與方迹王的故事 / 那賴仙人與方迹王的故事 / 那賴仙人伝と方迹王物語]] — The Buddhist parable of King Fangji enslaved by desire and the ascetic Natai who freed him through teachings on the nature of craving.
 
 ## Ascetic-Practice
 
@@ -318,6 +414,14 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Asceticism
 
 - [[niyagrodha-brahma-sutra-discourse|The Discourse on Niḡrodha Brahmā / 佛說尼拘陀梵志經]] — A Mahāyāna sutra depicting the Buddha's discourse with the ascetic Niḡrodha, critiquing false ascetic practices and demonstrating the nature of true Buddhist practice.
+
+## Attachment
+
+- [[nalai-tathagata-story-shengjing|那賴仙人與方迹王的故事 / 那賴仙人與方迹王的故事 / 那賴仙人伝と方迹王物語]] — The Buddhist parable of King Fangji enslaved by desire and the ascetic Natai who freed him through teachings on the nature of craving.
+
+## Attachment-Suffering
+
+- [[you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong|From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖]] — A canonical Buddhist gatha stating that attachment is the origin of suffering and fear, and liberation comes from detachment.
 
 ## Austerities
 
@@ -347,6 +451,12 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[ministerial-advice|Ministerial Advice / 大臣的劝谏]] — The role of ministerial advice is crucial in ensuring benevolent governance and societal harmony.
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 
+## Bhiksusamgha-Translations
+
+- [[sarvadana-king-yiqieshi|King Sarvadāna (一切施王) — The Sovereign Who Gave Everything]] — A legendary king who renounced his throne, kingdom, and ultimately his own body for the sake of a single supplicant, exemplifying the ultimate perfection of giving.
+- [[sarvadhana-prince-yiqiechi|Prince Sarvadhāna (一切持王子) — The Crown Prince of Universal Possession and Giving]] — A crown prince who gave away royal treasures, elephants, and ultimately his own children to fulfill his vow of universal giving, exemplifying the bodhisattva's renunciation of attachment.
+- [[virama-bodhisattva-pusajiamo|Vīrāma (毘羅摩) — Bodhisattva of Giving]] — A minister's son who became chief minister and exemplified the perfection of giving through vast generosity and skillful means.
+
 ## Biography
 
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
@@ -355,10 +465,48 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
 
+## Bodhisattva
+
+- [[miaose-wang-bodhisattva-sacrifice|King Subhūti / 妙色王]] — A past incarnation of the Buddha who sacrificed his son, wife, and body to obtain the Dharma teaching on attachment.
+- [[sarvadana-king-yiqieshi|King Sarvadāna (一切施王) — The Sovereign Who Gave Everything]] — A legendary king who renounced his throne, kingdom, and ultimately his own body for the sake of a single supplicant, exemplifying the ultimate perfection of giving.
+- [[sarvadhana-prince-yiqiechi|Prince Sarvadhāna (一切持王子) — The Crown Prince of Universal Possession and Giving]] — A crown prince who gave away royal treasures, elephants, and ultimately his own children to fulfill his vow of universal giving, exemplifying the bodhisattva's renunciation of attachment.
+- [[virama-bodhisattva-pusajiamo|Vīrāma (毘羅摩) — Bodhisattva of Giving]] — A minister's son who became chief minister and exemplified the perfection of giving through vast generosity and skillful means.
+- [[void-seal-bodhisattva|虛空印菩薩 / Void Seal Bodhisattva (Xūkōng Yìn Púsà)]] — A bodhisattva in Mahāyāna Buddhism who received the teaching of all-knowledge dhāraṇī and later became the Lotus-Up Tathāgata in the Lotus World.
+
+## Bodhisattva-Compassion
+
+- [[rabbit-king-self-sacrifice-hermit|Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous Rabbit]] — The Jataka story of a rabbit king who, having learned the Dharma from a brahmana, offered his own body as fuel for a fire to feed the ascetic during a time of famine.
+- [[throw-body-feed-tigers-jataka|Throw Body to Feed Tigers (投身飼虎) - Jataka Tale of Prince Mahāsattva]] — The Jataka story of Prince Mahāsattva who sacrificed his body to feed seven starving tiger cubs, a paradigm of ultimate bodhisattva compassion.
+
+## Bodhisattva-Giving
+
+- [[king-sibi-pigeon-sacrifice|King Śibi Saves the Pigeon (尸毘王救鴿) - The Great Sacrifice of Flesh for Life]] — The classic Jataka tale of King Śibi who cut off his own flesh to save a pigeon from a hawk, exemplifying the perfection of giving in Buddhism.
+
+## Bodhisattva-Narrative
+
+- [[bodhisattva-sacrifice-king-changshou|King Changshou's Sacrifice / 長壽王的犧牲 / 長寿王の犠牲]] — The narrative archetype of King Changshou, a bodhisattva who sacrifices his kingdom and life rather than wage war, embodying Buddhist non-retaliation ideals.
+
 ## Bodhisattva-Practice
 
 - [[bao-en-pin|報恩品 / The Chapter on Repaying Kindness (Bao'en Pin)]] — A major chapter of the Mahāyāna Sūtra on the Cultivation of the Mind-Ground, systematically explaining the Buddhist doctrine of repaying four kinds of kindness.
+- [[bodhisattva-practice-body-offering|Body Offering in Buddhist Narrative / 佛教身施物語]] — The Buddhist narrative of offering one's own body as the ultimate act of almsgiving and dedication to the Buddhist path.
 - [[dana-paramita-bodhisattva-giving|Dāna Pāramitā / 檀波羅蜜 / 檀波羅蜜]] — The perfection of giving in Mahayana Buddhism, exemplified by bodhisattvas who sacrifice everything for the welfare of beings.
+- [[entry-all-knowledge-dharani-gate|入一切種智行陀羅尼門 / Entry into the All-Knowledge Dhāraṇī Gate]] — A profound Mahāyāna dhāraṇī practice for entering complete wisdom, enabling practitioners to obtain countless samādhis,Store dhāraṇīs, and achieve supreme enlightenment.
+- [[mahayana-mind-ground-contemplation-sutra-dacheng-bensheng-xindi-guan-jing|Mahāyāna Mind-Ground Contemplation Sūtra / 大乘本生心地觀經 / 大乗本生心地観経]] — A Mahāyāna sūtra teaching the contemplation of the mind-ground and the cultivation of bodhisattva virtues through repaying the four graces
+- [[prince-sujata-story-bodhisattva-sacrifice|The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice]] — The narrative of Prince Sūjāta who offered his own flesh to feed his starving parents, serving as the central exemplum of filial piety and compassionate self-sacrifice in Mahayana Buddhism.
+- [[thousand-lamp-body-offering-bodhisattva-practice|The King Who Lit a Thousand Lamps / 以身燃千燈之王]] — The Buddhist narrative of a king who sacrificed his own flesh to light a thousand lamps as the ultimate act of dedication to the Dharma.
+
+## Bodhisattva-Realm
+
+- [[lotus-world-buddhist-cosmology|蓮華世界 / Lotus World (Liánhuá Shìjiè)]] — A pure land in Buddhist cosmology described in the Mahāyāna sutras, characterized by lotus imagery, jeweled trees, and spiritual refinement.
+
+## Bodhisattva-Sacrifice
+
+- [[miaose-wang-yinyuan-jing|King Subhūti's Cause and Conditions Sutra / 妙色王因緣經]] — A Buddhist sutra depicting King Subhūti's supreme sacrifice of his son, wife, and body to obtain the Dharma teaching on attachment.
+
+## Bodhisattva-Virtues
+
+- [[non-retaliation-buddhist-teaching|Non-Retaliation in Buddhist Teaching / 不報怨 / 仏教における報復禁止の教え]] — The Buddhist doctrine of abstaining from vengeance and returning harm with harm, exemplified in the story of King Changshou.
 
 ## Boshu-Version
 
@@ -398,9 +546,17 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[four-agnas-four-absorptions-buddhist-meditation|四種阿那般那 / Four Ānāpānas / 四つの阿那般那]] — A Buddhist meditation practice involving four types of breath contemplation and mental development stages.
 
+## Buddha
+
+- [[lotus-up-tathagata|蓮華上如來 / Lotus-Up Tathāgata (Liánhuá Shàng Rúlái)]] — A celestial Buddha in Mahāyāna Buddhism who appears in the Lotus World, achieving enlightenment in a single night and manifesting great supernatural powers.
+
 ## Buddha-Appearances
 
 - [[tathagata-eight-rare-qualities|Eight Rare Qualities of a Tathagata / 如來八希有法]] — Eight exceptional qualities that appear when a Buddha enters the world, as taught by Indra and repeated by Brahma, forming a unique doctrinal teaching of this sutra.
+
+## Buddha-Past-Life
+
+- [[金色王|King Golden / 金色王]] — King Golden was a past life of the Buddha who practiced extreme generosity, becoming a model for Buddhist teachings on the fruits of giving (dāna).
 
 ## Buddhism
 
@@ -408,8 +564,22 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[eightfold-noble-path-human-immortal-sutra|Eightfold Noble Path (Human Immortal Sutra) / 八正道]] — The Eightfold Noble Path as expounded in the Sutra of the Human Immortal, taught by Mahabrahma Deva as the method for achieving pure contemplation and liberation.
 - [[four-bases-supernatural-power-siddhartha|Four Bases of Supernatural Power / 四神足]] — The Four Bases of Supernatural Power (rddhipāda) taught by Mahabrahma Deva, describing the spiritual faculties of desire, endeavor, mind, and investigation.
 - [[four-castes-origin-buddhist-cosmology|Buddhist Origin of the Four Castes / 四姓起源]] — Buddhist cosmological account of how the four varnas (brahman, kshatriya, vaishya, shudra) arose from primordial beings and the Buddha's teaching on karmic equality.
+- [[four-noble-truths|Four Noble Truths / 四聖諦]] — The core Buddhist doctrine summarizing the nature of suffering, its origin, cessation, and the path to liberation.
 - [[human-immortal-ren-xian|Human Immortal / 人仙]] — A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger revealing the karmic fate of King Bimbisara.
+- [[jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra|Ten Causes for Teaching the Mind-Ground Sutra / 教起因緣]] — The ten reasons why Shakyamuni Buddha taught the Mahayana Mind-Ground Contemplation Sutra, as enumerated in the commentary.
+- [[lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing|Lai Zhou (來舟) / 來舟法師]] — A Qing Dynasty monk who authored a major commentary on the Mahayana Mind-Ground Contemplation Sutra, synthesizing Huayan and Tiantai classification systems.
+- [[shi-men-tong-pan-ten-gates-framework|Ten Gates Framework / 十門通判]] — A methodological framework for sutra interpretation consisting of ten categories, originating from the Huayan school and used for systematic Buddhist textual analysis.
 - [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
+- [[如來八希有法|Eight Rare Teachings of the Tathāgata / 如來八希有法]] — A set of eight rarely‑occuring doctrines taught by the Buddha that reveal the conditions for attaining ultimate liberation.
+- [[阿羅漢果|Arhat Fruit / 阿羅漢果]] — The ultimate spiritual attainment of an Arhat, signifying liberation from the cycle of rebirth.
+
+## Buddhist Commentaries
+
+- [[五根五力注-(安世高)|Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)]] — Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.
+
+## Buddhist Commentary
+
+- [[七覺意注-(安世高)|Seven Factors of Enlightenment Commentary (An Shigao) / 七覺意注（安世高）]] — An early Chinese commentary by An Shigao on the seven factors of enlightenment within the thirty‑seven bodhiparamitas.
 
 ## Buddhist Ethics
 
@@ -432,6 +602,14 @@ Let me craft a concise one-line summary:
 
 The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
 
+## Buddhist Terminology
+
+- [[阿羅漢果|Arhat Fruit / 阿羅漢果]] — The ultimate spiritual attainment of an Arhat, signifying liberation from the cycle of rebirth.
+
+## Buddhist-Architecture
+
+- [[如来八寶塔-eight-tathagata-stupas|Eight Tathāgata Stupas / 如來八寶塔 / 如来八宝塔]] — The eight sacred stupas representing key events in the Buddha's life, described in the Mahāyāna Mind-Ground Contemplation Sūtra
+
 ## Buddhist-Asceticism
 
 - [[toutuo-xing|頭陀行 / Dhutanga Practices]] — 頭陀行乃佛教十三種清淨苦行，修習此法可去衣、食、住之貪著，速得解脫
@@ -444,10 +622,16 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[four-agamas-commentary-commentary-on-four-collections|Four Āgamas Commentary / 四阿鋡暮抄解]] — A Buddhist philosophical commentary on the Four Āgamas discussing the Three Dharmas of merit, evil, and liberation.
 
+## Buddhist-Cosmogony
+
+- [[mahayana-dharani-of-compassion|大乘悲分陀利經 / Mahāyāna Dhāraṇī of Compassion]] — A Mahāyāna sutra describing the Lotus World, the Lotus-Up Tathāgata, and the profound dhāraṇī practices for achieving supreme enlightenment.
+
 ## Buddhist-Cosmology
 
+- [[dacheng-xindi-guanjing-san-shen|如來三身 / Three Bodies of the Tathagata (三身說)]] — The doctrinal classification of the Buddha's three bodies—Dharma-body, Enjoyment-body, and Transformational body—as expounded in the Mahayana Mind-Ground Contemplation Sutra, with detailed elaboration of their characteristics and salvific functions.
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
 - [[light-sound-heaven-buddhist-cosmology|Light-Sound Heaven / 光音天]] — The second dhyana heaven in Buddhist cosmology from which beings descended to earth according to the White Cloth Golden Banner Sutra.
+- [[lotus-world-buddhist-cosmology|蓮華世界 / Lotus World (Liánhuá Shìjiè)]] — A pure land in Buddhist cosmology described in the Mahāyāna sutras, characterized by lotus imagery, jeweled trees, and spiritual refinement.
 - [[seven-buddhas-current-kalpa|Seven Buddhas of the Current Kalpa / 七佛]] — The seven Buddhas who have appeared in the current kalpa, from Vipassin to Shakyamuni.
 - [[thirty-three-heavens|Trayastriṃśa Heaven / 三十三天（忉利天）]] — The Heaven of Thirty-Three Gods where the initial discourse of the Great Firm Brāhmaṇa Sūtra takes place, presided over by Śakra (帝釋天主) and the site of the first teaching of the eight rare qualities.
 - [[white-cloth-golden-banner-two-brahmins-origin-sutra|White Cloth and Golden Banner Two Brahmins Origin Sutra / 白衣金幢二婆羅門緣起經]] — A Buddhist sutra recounting the renunciation of two Brahmins and presenting a Buddhist cosmology of human social origins.
@@ -455,9 +639,16 @@ The article and supplementary source detail the progressive renunciation process
 ## Buddhist-Cultivation
 
 - [[virtue-merit-buddhist-doctrine-de-pin|Virtue Section (德品) - Buddhist Spiritual Cultivation]] — The first section of the Three Dharmas Treatise detailing the cultivation of merit, roots of goodness, and non-evil qualities.
+- [[如来八寶塔-eight-tathagata-stupas|Eight Tathāgata Stupas / 如來八寶塔 / 如来八宝塔]] — The eight sacred stupas representing key events in the Buddha's life, described in the Mahāyāna Mind-Ground Contemplation Sūtra
+
+## Buddhist-Dharma
+
+- [[you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong|From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖]] — A canonical Buddhist gatha stating that attachment is the origin of suffering and fear, and liberation comes from detachment.
+- [[布施因果|Cause and Effect of Giving / 布施因果]] — The Buddhist doctrine that practicing dāna (generosity) generates karmic rewards, with particular emphasis on giving before oneself as a key spiritual practice.
 
 ## Buddhist-Doctrine
 
+- [[dacheng-xindi-guanjing-san-shen|如來三身 / Three Bodies of the Tathagata (三身說)]] — The doctrinal classification of the Buddha's three bodies—Dharma-body, Enjoyment-body, and Transformational body—as expounded in the Mahayana Mind-Ground Contemplation Sutra, with detailed elaboration of their characteristics and salvific functions.
 - [[five-aggregates-contemplation-buddhist|Five Aggregates Contemplation / 五陰觀 / 五蘊の観想]] — Systematic contemplation on the five aggregates (form, sensation, perception, formations, consciousness) as a path to understanding non-self and achieving liberation.
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 - [[four-inversions-buddhist|Four Inversions / 四顛倒 / 四颠倒]] — The four inverted or perverted views that afflict sentient beings, mistaking suffering as happiness, impermanence as permanence, non-self as self, and impurity as purity.
@@ -466,15 +657,25 @@ The article and supplementary source detail the progressive renunciation process
 - [[three-evil-roots-buddhist|Three Evil Roots / 三惡本 / 三悪根本]] — The three fundamental sources of unwholesome karma: greed (贪), hatred (恚), and delusion (痴), from which all other evils arise.
 - [[twelve-links-dependent-origination|Twelve Links of Dependent Origination / 十二因緣]] — The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.
 
+## Buddhist-Enlightenment
+
+- [[辟支佛|Pratyekabuddha / 辟支佛]] — A solitary buddha who achieves enlightenment alone through contemplation of dependent origination, appearing in the Golden King Sutra to demonstrate the power of dāna.
+
 ## Buddhist-Ethics
 
 - [[defilement-accumulation-in-practice|Defilement Accumulation in Religious Practice / 修行中的烦恼随增]] — Buddhist teaching that external religious practices can still accumulate mental defilements when motivated by pride, desire for respect, jealousy, or other afflictions.
 - [[evil-classification-buddhism-e|Evil and Unwholesome Qualities / 惡 / 悪]] — Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.
 - [[four-types-people-self-other-care-buddhist|Four Types of People: Self-Care and Care for Others / 四等人自護護他]] — A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.
 - [[nine-unnatural-deaths-buddhist|Nine Unnatural/Unexplained Deaths / 九橫 / 九横]] — Nine categories of untimely deaths caused by preventable causes such as improper eating, wrong conduct, and association with evil companions.
+- [[non-retaliation-buddhist-teaching|Non-Retaliation in Buddhist Teaching / 不報怨 / 仏教における報復禁止の教え]] — The Buddhist doctrine of abstaining from vengeance and returning harm with harm, exemplified in the story of King Changshou.
+- [[si-en-four-graces-buddhism|Four Graces / 四恩 / 四恩]] — Buddhist doctrine of repaying four kinds of kindness: parents, sentient beings, ruler, and Triple Gem
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
 - [[three-dharmas-buddhist-philosophy|Three Dharmas / 三法]] — A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.
 - [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
+
+## Buddhist-Figure
+
+- [[miaose-wang-bodhisattva-sacrifice|King Subhūti / 妙色王]] — A past incarnation of the Buddha who sacrificed his son, wife, and body to obtain the Dharma teaching on attachment.
 
 ## Buddhist-Hermeneutics
 
@@ -483,6 +684,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Buddhist-History
 
 - [[seven-buddhas-current-kalpa|Seven Buddhas of the Current Kalpa / 七佛]] — The seven Buddhas who have appeared in the current kalpa, from Vipassin to Shakyamuni.
+
+## Buddhist-Kingship
+
+- [[bodhisattva-sacrifice-king-changshou|King Changshou's Sacrifice / 長壽王的犧牲 / 長寿王の犠牲]] — The narrative archetype of King Changshou, a bodhisattva who sacrifices his kingdom and life rather than wage war, embodying Buddhist non-retaliation ideals.
 
 ## Buddhist-Laity
 
@@ -505,6 +710,18 @@ The article and supplementary source detail the progressive renunciation process
 ## Buddhist-Narrative
 
 - [[great-firm-brahman-backstory|The Origin Story of the Great Firm Brāhmaṇa / 大堅固婆羅門緣起]] — A Buddhist sūtra recounting how King Linu's minister Mahākakuda meets the Buddha, attains stream-entry, renounces worldly life, and becomes an arhat, inspiring seven kings, seven thousand brāhmaṇas, and countless laypeople to follow the Dharma.
+- [[miaose-wang-yinyuan-jing|King Subhūti's Cause and Conditions Sutra / 妙色王因緣經]] — A Buddhist sutra depicting King Subhūti's supreme sacrifice of his son, wife, and body to obtain the Dharma teaching on attachment.
+- [[you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong|From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖]] — A canonical Buddhist gatha stating that attachment is the origin of suffering and fear, and liberation comes from detachment.
+- [[金色王經|Golden King Sutra / 金色王經]] — A Buddhist sutra recounting the past life of the Buddha as King Golden, illustrating the karmic fruits of giving through the story of a famine and miraculous provision.
+
+## Buddhist-Narratives
+
+- [[bodhisattva-practice-body-offering|Body Offering in Buddhist Narrative / 佛教身施物語]] — The Buddhist narrative of offering one's own body as the ultimate act of almsgiving and dedication to the Buddhist path.
+- [[king-sibi-pigeon-sacrifice|King Śibi Saves the Pigeon (尸毘王救鴿) - The Great Sacrifice of Flesh for Life]] — The classic Jataka tale of King Śibi who cut off his own flesh to save a pigeon from a hawk, exemplifying the perfection of giving in Buddhism.
+- [[prince-sujata-story-bodhisattva-sacrifice|The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice]] — The narrative of Prince Sūjāta who offered his own flesh to feed his starving parents, serving as the central exemplum of filial piety and compassionate self-sacrifice in Mahayana Buddhism.
+- [[rabbit-king-self-sacrifice-hermit|Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous Rabbit]] — The Jataka story of a rabbit king who, having learned the Dharma from a brahmana, offered his own body as fuel for a fire to feed the ascetic during a time of famine.
+- [[thousand-lamp-body-offering-bodhisattva-practice|The King Who Lit a Thousand Lamps / 以身燃千燈之王]] — The Buddhist narrative of a king who sacrificed his own flesh to light a thousand lamps as the ultimate act of dedication to the Dharma.
+- [[throw-body-feed-tigers-jataka|Throw Body to Feed Tigers (投身飼虎) - Jataka Tale of Prince Mahāsattva]] — The Jataka story of Prince Mahāsattva who sacrificed his body to feed seven starving tiger cubs, a paradigm of ultimate bodhisattva compassion.
 
 ## Buddhist-Pedagogy
 
@@ -526,6 +743,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[defilement-accumulation-in-practice|Defilement Accumulation in Religious Practice / 修行中的烦恼随增]] — Buddhist teaching that external religious practices can still accumulate mental defilements when motivated by pride, desire for respect, jealousy, or other afflictions.
 
+## Buddhist-Sacrifice
+
+- [[金色王|King Golden / 金色王]] — King Golden was a past life of the Buddha who practiced extreme generosity, becoming a model for Buddhist teachings on the fruits of giving (dāna).
+
 ## Buddhist-Social-Doctrine
 
 - [[moral-equality-four-castes-buddhism|Moral Equality of the Four Castes in Buddhism / 佛教四姓道德平等說]] — The Buddhist doctrine that all four social castes are equal in moral agency and spiritual potential, regardless of birth.
@@ -535,8 +756,10 @@ The article and supplementary source detail the progressive renunciation process
 - [[an-shigao-translated-agama-zhengxing-sutra|Fo Shuo Ahán Zhèng Xíng Jīng (The Sutra of Proper Conduct in Āgama) / 佛說阿含正行經]] — An Eastern Han translation by An Shigao presenting core Buddhist teachings on proper conduct, the five thieves, and mental cultivation.
 - [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
+- [[miaose-wang-yinyuan-jing|King Subhūti's Cause and Conditions Sutra / 妙色王因緣經]] — A Buddhist sutra depicting King Subhūti's supreme sacrifice of his son, wife, and body to obtain the Dharma teaching on attachment.
 - [[nikuda-brahmin-sutra|Discourse on Nikuda Brahmins / 佛說尼拘陀梵志經]] — A Buddhist sutra depicting Buddha's dialogue with Nikuda brahmins, critiquing external ascetic practices and revealing defilement accumulation.
 - [[niyagrodha-brahma-sutra-discourse|The Discourse on Niḡrodha Brahmā / 佛說尼拘陀梵志經]] — A Mahāyāna sutra depicting the Buddha's discourse with the ascetic Niḡrodha, critiquing false ascetic practices and demonstrating the nature of true Buddhist practice.
+- [[金色王經|Golden King Sutra / 金色王經]] — A Buddhist sutra recounting the past life of the Buddha as King Golden, illustrating the karmic fruits of giving through the story of a famine and miraculous provision.
 
 ## Buddhist-Sutras
 
@@ -586,6 +809,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[nirodha-samapatti|滅盡定 Nirodhāsamāpatti / Absorption of Cessation]] — A Buddhist meditation attainment where all mental formations cease, enabling practitioners to grant present-world blessings to beings.
 
+## Change
+
+- [[laochengzi-illusion-transformation-liezi|Lao Chengzi's Study of Illusion / 老成子學幻 / 老成子の幻化学]] — The philosophical narrative of Lao Chengzi learning the art of transformation and illusion from Yin Wen, including the Daoist theory of change and the nature of reality.
+
 ## Character
 
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
@@ -601,6 +828,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 - [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
+- [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
 
 ## Chinese Thought
 
@@ -613,18 +841,27 @@ The article and supplementary source detail the progressive renunciation process
 ## Chinese-Buddhism
 
 - [[baiyi-jinzhuang-brahmin-origin-sutra|Baiyi and Jinzhuang: The Two Brahmins' Origin Sutra / 白衣金幢二婆羅門緣起經]] — A Buddhist sutra recounting how two brahmins, Baiyi and Jinzhuang, encounter the Buddha and are enlightened about karma and caste equality before renouncing worldly life.
+- [[bodhisattva-practice-body-offering|Body Offering in Buddhist Narrative / 佛教身施物語]] — The Buddhist narrative of offering one's own body as the ultimate act of almsgiving and dedication to the Buddhist path.
 - [[changahan-jing|Chang Ahan Jing (Long Discourses of the Buddha) / 長阿含經]] — The Dīrgha-āgama, the longest collection of the Buddha's long discourses in early Buddhist scripture, compiled in four sections and five recitations.
 - [[kumarrow-translation-commentary|Kumārajīva's Translation Methodology in Four Āgamas Commentary / 鳩摩羅什譯經方法]] — Documentation of Kumārajīva's translation practices during the Former Qin dynasty, including team translation methods and philological approaches.
+- [[lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing|Lai Zhou (來舟) / 來舟法師]] — A Qing Dynasty monk who authored a major commentary on the Mahayana Mind-Ground Contemplation Sutra, synthesizing Huayan and Tiantai classification systems.
+- [[mahayana-dharani-of-compassion|大乘悲分陀利經 / Mahāyāna Dhāraṇī of Compassion]] — A Mahāyāna sutra describing the Lotus World, the Lotus-Up Tathāgata, and the profound dhāraṇī practices for achieving supreme enlightenment.
+- [[mahayana-mind-ground-contemplation-sutra-dacheng-bensheng-xindi-guan-jing|Mahāyāna Mind-Ground Contemplation Sūtra / 大乘本生心地觀經 / 大乗本生心地観経]] — A Mahāyāna sūtra teaching the contemplation of the mind-ground and the cultivation of bodhisattva virtues through repaying the four graces
 - [[shi-men-tong-pan|十門通判 / Ten-Fold Framework for Sutra Exposition]] — A systematic ten-category methodology for analyzing and expounding Buddhist sutras, originating with Xianshou Fazang and elaborated by later masters.
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
 - [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
 - [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
+- [[thousand-lamp-body-offering-bodhisattva-practice|The King Who Lit a Thousand Lamps / 以身燃千燈之王]] — The Buddhist narrative of a king who sacrificed his own flesh to light a thousand lamps as the ultimate act of dedication to the Dharma.
 - [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 - [[xianshou-wu-jiao|賢首五教 / Five Teachings of Xianshou / 賢首五教（けんじゅぎょう）]] — A five-tiered doctrinal classification system developed by Fazang (Xianshou) of the Huayan school, categorizing all Buddhist teachings from Hinayana to the highest Yogacara-Tathagatagarbha doctrines.
 
 ## Chinese-Buddhism-History
 
 - [[an-shigao-seven-places-three-contemplations|An Shigao's Contribution: Seven Places and Three Contemplations / 安世高與七處三觀經]] — The Han dynasty translator An Shigao's systematic introduction of Buddhist meditative analysis through his translation of the Seven Places and Three Contemplations sutra.
+
+## Chinese-Buddhist-Texts
+
+- [[dacheng-bensheng-xindi-guanjing-kewen|大乘本生心地觀經淺註科文 / Commentary Outline on the Mahayana Mind-Ground Contemplation Sutra]] — A comprehensive structural outline and commentary classifying the contents of the Mahayana Sutra of Mind-Ground Contemplation into prefaces, main text, and circulation sections with detailed doctrinal divisions.
 
 ## Chinese-Buddhist-Translation
 
@@ -647,20 +884,40 @@ The article and supplementary source detail the progressive renunciation process
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
+- [[confucius-western-saint-liezi|Confucius and the Western Saint (西方聖者) / 西方聖者]] — A Liezi account of Confucius making an enigmatic reference to "a saint in the west" who rules without governing, speaks without persuasion, and transforms without coercion.
 - [[dao-the-way-taoism|Dao (The Way) / 道]] — The fundamental Taoist concept of Dao (The Way), the ultimate reality and principle underlying the universe.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
+- [[dongmen-wu-grieflessness|Dongmen Wu's Grieflessness / 東門吳之無憂]] — The story of Dongmen Wu, who remained unmoved by his son's death because he had previously been without a son and felt no loss.
+- [[force-fate-debate-liezi|Force and Fate Debate / 力命之辯]] — The philosophical dialogue between Force (力) and Fate (命) exploring whether human effort or destiny determines life outcomes.
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
+- [[four-permutations-fate-liezi|Four Permutations of Fate / 四可之命]] — The doctrine of four possible outcomes regarding life and death, each potentially either heavenly blessing or punishment depending on alignment with natural order.
+- [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
 - [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
 - [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
+- [[guan-bao-friendship-liezi|Guan Zhong and Bao Shuya Friendship / 管鮑之交]] — The paradigmatic friendship between Guan Zhong and Bao Shuya, reinterpreted by Liezi as an example of fate determining social outcomes rather than personal virtue.
 - [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
 - [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
+- [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
+- [[prince-ming-zhangshan-gongsun-long-liezi|Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟]] — A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.
+- [[self-generating-life-death|Self-Generating Life and Death / 自生自死]] — The Liezi doctrine that life, death, prosperity, and poverty arise spontaneously from fate, not from human control.
+- [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
+- [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
+- [[儒家政治哲学|儒家政治哲学]] — title: Confucian Political Philosophy / 儒家政治哲学  
+summary: This article explores the origins, core concepts, development, and significance of Confucian political philosophy, highlighting the moral foundations of governance established by Confucius and Mencius.  
+tags: confucianism, political-philosophy, chinese-philosophy, mengzi, moral-governance  
+---  
+## English  
+Confucian political philosophy is a framework that emphasizes the moral foundation of political authority, originating from the teachings of Confucius and further developed by Mencius. Core concepts include ren (benevolence), li (ritual), junzi (gentleman), righteous governance, and the Mandate of Heaven, with an emphasis on virtue over profit and moral self-cultivation as the basis for political legitimacy. The idea of "tianxia" (all-under-heaven) unites the populace under a benevolent ruler. This philosophy evolved notably during the Han dynasty and Neo-Confucianism, with modern reinterpretations affirming that political order must be rooted in moral cultivation. The ruler is seen as a moral exemplar whose virtue is essential for effective governance.  
+## 中文  
+儒家政治哲学是强调政治权威道
 - [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
 
 ## Chinese-Thought
 
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
+- [[儒家政治哲學|Confucian Political Philosophy / 儒家政治哲學]] — Confucian political philosophy integrates moral virtue, ritual propriety, and humanistic ethics into the governance of society.
 
 ## Classical Chinese Thought
 
@@ -677,6 +934,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Classical-Chinese
 
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
+
+## Classical-Chinese-Buddhism
+
+- [[shi-men-tong-pan-ten-gates-framework|Ten Gates Framework / 十門通判]] — A methodological framework for sutra interpretation consisting of ten categories, originating from the Huayan school and used for systematic Buddhist textual analysis.
 
 ## Classical-Chinese-Philosophy
 
@@ -716,6 +977,15 @@ The article and supplementary source detail the progressive renunciation process
 ## Comma-Separated
 
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+- [[瞿曇般若流支|瞿曇般若流支]] — 瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。
+
+## Commentaries
+
+- [[lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing|Lai Zhou (來舟) / 來舟法師]] — A Qing Dynasty monk who authored a major commentary on the Mahayana Mind-Ground Contemplation Sutra, synthesizing Huayan and Tiantai classification systems.
+
+## Compassion
+
+- [[non-retaliation-buddhist-teaching|Non-Retaliation in Buddhist Teaching / 不報怨 / 仏教における報復禁止の教え]] — The Buddhist doctrine of abstaining from vengeance and returning harm with harm, exemplified in the story of King Changshou.
 
 ## Computational-Efficiency
 
@@ -734,6 +1004,11 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[knowing-destiny-rites-words|Knowing Destiny, Rites, and Words / 知命知礼知言]] — Confucius's three essential knowledges for becoming a true gentleman in the Analects
 - [[mengzi-haoran-qi-vast-flowing-vital-energy|Vast Flowing Qi (浩然之氣) / 浩然之氣]] — Mencius's concept of moral cultivated vital energy that fills the universe when properly nurtured through accumulated righteousness.
+
+## Confucian-Daoist-Synthesis
+
+- [[confucius-western-saint-liezi|Confucius and the Western Saint (西方聖者) / 西方聖者]] — A Liezi account of Confucius making an enigmatic reference to "a saint in the west" who rules without governing, speaks without persuasion, and transforms without coercion.
+- [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
 
 ## Confucian-Education
 
@@ -857,7 +1132,9 @@ The article and supplementary source detail the progressive renunciation process
 - [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
+- [[儒家政治哲學|Confucian Political Philosophy / 儒家政治哲學]] — Confucian political philosophy integrates moral virtue, ritual propriety, and humanistic ethics into the governance of society.
 - [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
+- [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
 
 ## Confucius
 
@@ -866,6 +1143,12 @@ The article and supplementary source detail the progressive renunciation process
 - [[analects-zhengzhi|Governance in the Analects / 论语中的治理]] — Examination of Confucius' principles of governance as outlined in the Analects.
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
+- [[confucius-western-saint-liezi|Confucius and the Western Saint (西方聖者) / 西方聖者]] — A Liezi account of Confucius making an enigmatic reference to "a saint in the west" who rules without governing, speaks without persuasion, and transforms without coercion.
+
+## Consciousness
+
+- [[eight-testings-six-omens-liezi|Eight Testings and Six Omens / 覺有八徵夢有六候 / 八徵と六候]] — The Liezi philosophical framework classifying eight experiential states of waking life and six categories of dreams, with implications for understanding consciousness.
+- [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
 
 ## Contemplation-Methods
 
@@ -887,10 +1170,16 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
 
+## Core Teachings
+
+- [[four-noble-truths|Four Noble Truths / 四聖諦]] — The core Buddhist doctrine summarizing the nature of suffering, its origin, cessation, and the path to liberation.
+
 ## Cosmology
 
 - [[bagua-formation-trigrams-yijing|Eight Trigrams Formation / 八卦成列]] — The philosophical principle of how the eight trigrams are arranged to manifest all phenomena in the Yijing
 - [[four-castes-origin-buddhist-cosmology|Buddhist Origin of the Four Castes / 四姓起源]] — Buddhist cosmological account of how the four varnas (brahman, kshatriya, vaishya, shudra) arose from primordial beings and the Buddha's teaching on karmic equality.
+- [[four-permutations-fate-liezi|Four Permutations of Fate / 四可之命]] — The doctrine of four possible outcomes regarding life and death, each potentially either heavenly blessing or punishment depending on alignment with natural order.
+- [[self-generating-life-death|Self-Generating Life and Death / 自生自死]] — The Liezi doctrine that life, death, prosperity, and poverty arise spontaneously from fate, not from human control.
 
 ## Courage
 
@@ -913,9 +1202,24 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 
+## Dacheng-Tradition
+
+- [[dacheng-bensheng-xindi-guanjing-kewen|大乘本生心地觀經淺註科文 / Commentary Outline on the Mahayana Mind-Ground Contemplation Sutra]] — A comprehensive structural outline and commentary classifying the contents of the Mahayana Sutra of Mind-Ground Contemplation into prefaces, main text, and circulation sections with detailed doctrinal divisions.
+
 ## Dana
 
 - [[dana-paramita-bodhisattva-giving|Dāna Pāramitā / 檀波羅蜜 / 檀波羅蜜]] — The perfection of giving in Mahayana Buddhism, exemplified by bodhisattvas who sacrifice everything for the welfare of beings.
+
+## Dana-Paramita
+
+- [[bodhisattva-practice-body-offering|Body Offering in Buddhist Narrative / 佛教身施物語]] — The Buddhist narrative of offering one's own body as the ultimate act of almsgiving and dedication to the Buddhist path.
+- [[sarvadana-king-yiqieshi|King Sarvadāna (一切施王) — The Sovereign Who Gave Everything]] — A legendary king who renounced his throne, kingdom, and ultimately his own body for the sake of a single supplicant, exemplifying the ultimate perfection of giving.
+- [[sarvadhana-prince-yiqiechi|Prince Sarvadhāna (一切持王子) — The Crown Prince of Universal Possession and Giving]] — A crown prince who gave away royal treasures, elephants, and ultimately his own children to fulfill his vow of universal giving, exemplifying the bodhisattva's renunciation of attachment.
+- [[thousand-lamp-body-offering-bodhisattva-practice|The King Who Lit a Thousand Lamps / 以身燃千燈之王]] — The Buddhist narrative of a king who sacrificed his own flesh to light a thousand lamps as the ultimate act of dedication to the Dharma.
+- [[virama-bodhisattva-pusajiamo|Vīrāma (毘羅摩) — Bodhisattva of Giving]] — A minister's son who became chief minister and exemplified the perfection of giving through vast generosity and skillful means.
+- [[布施因果|Cause and Effect of Giving / 布施因果]] — The Buddhist doctrine that practicing dāna (generosity) generates karmic rewards, with particular emphasis on giving before oneself as a key spiritual practice.
+- [[金色王|King Golden / 金色王]] — King Golden was a past life of the Buddha who practiced extreme generosity, becoming a model for Buddhist teachings on the fruits of giving (dāna).
+- [[金色王經|Golden King Sutra / 金色王經]] — A Buddhist sutra recounting the past life of the Buddha as King Golden, illustrating the karmic fruits of giving through the story of a famine and miraculous provision.
 
 ## Dao-De-Jing
 
@@ -926,6 +1230,23 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[dao-de-jing-silk-manuscript|Dao De Jing (Silk Manuscript) / 道德經帛書本 / 道德経帛書本]] — The Dao De Jing Silk Manuscript presents the earliest complete version of Laozi's text, with its distinctive chapter ordering placing virtue before the Way.
 
+## Daoist-Meditation
+
+- [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
+- [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
+
+## Daoist-Wisdom
+
+- [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
+
+## Death
+
+- [[dongmen-wu-grieflessness|Dongmen Wu's Grieflessness / 東門吳之無憂]] — The story of Dongmen Wu, who remained unmoved by his son's death because he had previously been without a son and felt no loss.
+
+## Deception
+
+- [[turtle-monkey-past-life-karmic-narrative-shengjing|鱉獼猴前世的業報故事 / 鱉と獼猴の前世因果物語 / 거북이와 원숭이의 전생 업보 이야기]] — The turtle and monkey past-life karmic connection in the Shengjing, illustrating how past-life relationships manifest in the present and the consequences of broken trust.
+
 ## Defilement
 
 - [[nikuda-brahmin-sutra|Discourse on Nikuda Brahmins / 佛說尼拘陀梵志經]] — A Buddhist sutra depicting Buddha's dialogue with Nikuda brahmins, critiquing external ascetic practices and revealing defilement accumulation.
@@ -934,18 +1255,38 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[brahma-fourfold-teaching|Brahma's Fourfold Teaching on Liberation / 梵天王四法]] — Mahābrahmā's teachings on the four conditions for rebirth in the Brahma realm: non-self practice, one-pointedness of mind, compassionate liberation, and abandoning defilements.
 
+## Delusion
+
+- [[three-poisons-greed-hatred-delusion-buddhist-teaching|三毒的業報與解脫之道 / 三毒的業報與解脫之道 / 三毒の業報と解脱への道]] — Buddhist teachings on the three poisons (贪瞋痴) and their role in binding beings to samsara, as illustrated through multiple narratives in the Shengjing.
+
 ## Dependent-Origination
 
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
 - [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
 
+## Desire
+
+- [[nalai-tathagata-story-shengjing|那賴仙人與方迹王的故事 / 那賴仙人與方迹王的故事 / 那賴仙人伝と方迹王物語]] — The Buddhist parable of King Fangji enslaved by desire and the ascetic Natai who freed him through teachings on the nature of craving.
+
 ## Desire-Effort-Mind-Contemplation
 
 - [[great-brahma-fourfold-teaching|Great Brahma's Fourfold Teaching / 大梵天王四神足說]] — The teaching on the Four Bases of Supernatural Power delivered by Great Brahma King to the thirty-three heavens assembly.
 
+## Determinism
+
+- [[force-fate-debate-liezi|Force and Fate Debate / 力命之辯]] — The philosophical dialogue between Force (力) and Fate (命) exploring whether human effort or destiny determines life outcomes.
+- [[four-permutations-fate-liezi|Four Permutations of Fate / 四可之命]] — The doctrine of four possible outcomes regarding life and death, each potentially either heavenly blessing or punishment depending on alignment with natural order.
+
 ## Deva-Realm
 
 - [[thirty-three-heavens|Trayastriṃśa Heaven / 三十三天（忉利天）]] — The Heaven of Thirty-Three Gods where the initial discourse of the Great Firm Brāhmaṇa Sūtra takes place, presided over by Śakra (帝釋天主) and the site of the first teaching of the eight rare qualities.
+
+## Dharani
+
+- [[entry-all-knowledge-dharani-gate|入一切種智行陀羅尼門 / Entry into the All-Knowledge Dhāraṇī Gate]] — A profound Mahāyāna dhāraṇī practice for entering complete wisdom, enabling practitioners to obtain countless samādhis,Store dhāraṇīs, and achieve supreme enlightenment.
+- [[lotus-up-tathagata|蓮華上如來 / Lotus-Up Tathāgata (Liánhuá Shàng Rúlái)]] — A celestial Buddha in Mahāyāna Buddhism who appears in the Lotus World, achieving enlightenment in a single night and manifesting great supernatural powers.
+- [[mahayana-dharani-of-compassion|大乘悲分陀利經 / Mahāyāna Dhāraṇī of Compassion]] — A Mahāyāna sutra describing the Lotus World, the Lotus-Up Tathāgata, and the profound dhāraṇī practices for achieving supreme enlightenment.
+- [[void-seal-bodhisattva|虛空印菩薩 / Void Seal Bodhisattva (Xūkōng Yìn Púsà)]] — A bodhisattva in Mahāyāna Buddhism who received the teaching of all-knowledge dhāraṇī and later became the Lotus-Up Tathāgata in the Lotus World.
 
 ## Dhutanga
 
@@ -954,6 +1295,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Dhyana-Heavens
 
 - [[light-sound-heaven-buddhist-cosmology|Light-Sound Heaven / 光音天]] — The second dhyana heaven in Buddhist cosmology from which beings descended to earth according to the White Cloth Golden Banner Sutra.
+
+## Dialectics
+
+- [[prince-ming-zhangshan-gongsun-long-liezi|Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟]] — A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.
 
 ## Digha-Nikaya
 
@@ -989,27 +1334,55 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[mahasanghika-great-collection-teaching|Great Collection Teaching / 大集法門]] — A Buddhist pedagogical method presenting doctrine through systematic numerical categories from one to ten, used for monastic education and memorization.
 
+## Doctrinal-Studies
+
+- [[si-en-four-graces-buddhism|Four Graces / 四恩 / 四恩]] — Buddhist doctrine of repaying four kinds of kindness: parents, sentient beings, ruler, and Triple Gem
+
+## Doctrinal-Study
+
+- [[jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra|Ten Causes for Teaching the Mind-Ground Sutra / 教起因緣]] — The ten reasons why Shakyamuni Buddha taught the Mahayana Mind-Ground Contemplation Sutra, as enumerated in the commentary.
+
 ## Doctrine-Of-The-Mean
 
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 
+## Dream
+
+- [[dream-reality-confusion-liezi|Confusion of Dreams and Reality / 夢覺不分 / 夢と現実の混同]] — The Liezi philosophical anecdotes exploring the boundary between dreams and waking life, including the servant who dreamed of kingship and the firewood collector's deer.
+
+## Dream-Theory
+
+- [[eight-testings-six-omens-liezi|Eight Testings and Six Omens / 覺有八徵夢有六候 / 八徵と六候]] — The Liezi philosophical framework classifying eight experiential states of waking life and six categories of dreams, with implications for understanding consciousness.
+
 ## Dynasty
 
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
+
+## Early Chinese Buddhism
+
+- [[七覺意注-(安世高)|Seven Factors of Enlightenment Commentary (An Shigao) / 七覺意注（安世高）]] — An early Chinese commentary by An Shigao on the seven factors of enlightenment within the thirty‑seven bodhiparamitas.
+- [[五根五力注-(安世高)|Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)]] — Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.
 
 ## Early-Buddhism
 
 - [[five-aggregates-seven-aspects-an-shigao|Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法]] — An Shigao's systematic method of analyzing each of the five aggregates (form, feeling, perception, formations, consciousness) through seven contemplative aspects.
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 - [[four-types-people-self-other-care-buddhist|Four Types of People: Self-Care and Care for Others / 四等人自護護他]] — A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.
+- [[sarvadana-king-yiqieshi|King Sarvadāna (一切施王) — The Sovereign Who Gave Everything]] — A legendary king who renounced his throne, kingdom, and ultimately his own body for the sake of a single supplicant, exemplifying the ultimate perfection of giving.
+- [[sarvadhana-prince-yiqiechi|Prince Sarvadhāna (一切持王子) — The Crown Prince of Universal Possession and Giving]] — A crown prince who gave away royal treasures, elephants, and ultimately his own children to fulfill his vow of universal giving, exemplifying the bodhisattva's renunciation of attachment.
 - [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
 - [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
+- [[virama-bodhisattva-pusajiamo|Vīrāma (毘羅摩) — Bodhisattva of Giving]] — A minister's son who became chief minister and exemplified the perfection of giving through vast generosity and skillful means.
 
 ## Early-Buddhist-Translations
 
 - [[an-shigao-translation-methodology|An Shigao's Translation Methodology / 安世高譯經方法]] — The translation techniques and contribution of An Shigao, the seminal Parthian monk who translated over 90 Buddhist texts into Chinese during the Eastern Han dynasty.
 - [[changahan-shi-bao-jing|Chang A Han Shi Bao Jing (Long Discourses Tenfold Teachings Sutra) / 長阿含十報法經]] — An early Buddhist sutra presenting systematic teachings from one to ten, translated by An Shigao during the Eastern Han dynasty.
+
+## East-Wei-Translation
+
+- [[金色王經|Golden King Sutra / 金色王經]] — A Buddhist sutra recounting the past life of the Buddha as King Golden, illustrating the karmic fruits of giving through the story of a famine and miraculous provision.
 
 ## Eastern-Han-Translation
 
@@ -1054,6 +1427,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
 
+## Eight-Rare-Teachings
+
+- [[如來八希有法|Eight Rare Teachings of the Tathāgata / 如來八希有法]] — A set of eight rarely‑occuring doctrines taught by the Buddha that reveal the conditions for attaining ultimate liberation.
+
 ## Eightfold-Noble-Path
 
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
@@ -1068,7 +1445,9 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Enlightenment
 
+- [[bodhisattva-path|The Bodhisattva Path / 菩萨道]] — The Bodhisattva path is a central aspect of Mahayana Buddhism, focusing on the aspiration to attain enlightenment for oneself and others.
 - [[four-right-exertions-an-shigao-commentary|Four Right Exertions / 四意斷]] — The Four Right Exertions (四意斷) as explained in An Shigao's Han Dynasty commentary on Buddhist meditation practice.
+- [[mahayana-buddhism|Mahayana Buddhism / 大乘佛教]] — Mahayana Buddhism is one of the two major branches of Buddhism, focusing on the Bodhisattva path and the goal of achieving enlightenment for all sentient beings.
 - [[seven-factors-awakening-an-shigao-commentary|Seven Factors of Awakening / 七覺意]] — The Seven Factors of Awakening (念、择法、精进、喜、轻安、定、捨) as explained in An Shigao's Han Dynasty Buddhist commentary.
 - [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 
@@ -1076,6 +1455,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
+
+## Equanimity
+
+- [[dongmen-wu-grieflessness|Dongmen Wu's Grieflessness / 東門吳之無憂]] — The story of Dongmen Wu, who remained unmoved by his son's death because he had previously been without a son and felt no loss.
 
 ## Eschatology
 
@@ -1109,6 +1492,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
+- [[儒家政治哲學|Confucian Political Philosophy / 儒家政治哲學]] — Confucian political philosophy integrates moral virtue, ritual propriety, and humanistic ethics into the governance of society.
 
 ## Etiquette
 
@@ -1119,6 +1503,10 @@ The article and supplementary source detail the progressive renunciation process
 - [[evil-classification-buddhism-e|Evil and Unwholesome Qualities / 惡 / 悪]] — Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.
 - [[three-dharmas-buddhist-philosophy|Three Dharmas / 三法]] — A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.
 
+## Existentialism
+
+- [[杞人忧天-qiren-youtian|The Man Who Worried About Heaven Falling (杞人憂天) / 杞人憂天]] — The famous anecdote about unnecessary worry over things beyond one's control, illustrating the Liezi philosophical approach to existential anxiety.
+
 ## Expedient-Means
 
 - [[upaya-expedient-means-buddhism|Expedient Means / 方便 / 方便]] — Buddhist concept of upaya (expedient means) as the practical methods and path structures for achieving spiritual liberation.
@@ -1127,12 +1515,22 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[five-roots-five-powers-an-shigao-commentary|Five Roots and Five Powers / 五根五力]] — The Five Roots (信進念定慧) and Five Powers (信力精進力念力定力慧力) as expounded in An Shigao's Han Dynasty Buddhist commentary.
 
+## Famine
+
+- [[rabbit-king-self-sacrifice-hermit|Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous Rabbit]] — The Jataka story of a rabbit king who, having learned the Dharma from a brahmana, offered his own body as fuel for a fire to feed the ascetic during a time of famine.
+
+## Fate
+
+- [[four-permutations-fate-liezi|Four Permutations of Fate / 四可之命]] — The doctrine of four possible outcomes regarding life and death, each potentially either heavenly blessing or punishment depending on alignment with natural order.
+- [[self-generating-life-death|Self-Generating Life and Death / 自生自死]] — The Liezi doctrine that life, death, prosperity, and poverty arise spontaneously from fate, not from human control.
+
 ## Fazang
 
 - [[xianshou-wu-jiao|賢首五教 / Five Teachings of Xianshou / 賢首五教（けんじゅぎょう）]] — A five-tiered doctrinal classification system developed by Fazang (Xianshou) of the Huayan school, categorizing all Buddhist teachings from Hinayana to the highest Yogacara-Tathagatagarbha doctrines.
 
 ## Filial-Piety
 
+- [[prince-sujata-story-bodhisattva-sacrifice|The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice]] — The narrative of Prince Sūjāta who offered his own flesh to feed his starving parents, serving as the central exemplum of filial piety and compassionate self-sacrifice in Mahayana Buddhism.
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
 - [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
 
@@ -1143,6 +1541,18 @@ The article and supplementary source detail the progressive renunciation process
 ## First-Council
 
 - [[mahakasyapa-buddhist-disciple-collected-sutras|迦葉 Mahākāśyapa / Mahākāśyapa and the Assembly of 84,000 Arhats]] — The Buddha's senior disciple who led the first council and is portrayed as having been a pratyekabuddha in a previous life.
+
+## Five Ascetics
+
+- [[five-ascetics-seven-śrāvaka-buddhist-narrative|五仙人的故事與七覺支的象徵意義 / 五仙人故事與七覺支象徵意義 / 五仙人の物語と七覚支の象徴的意義]] — The narrative of the five ascetics in the Shengjing, illustrating Buddhist teachings on karma, rebirth, and the development of the seven factors of awakening.
+
+## Five Powers
+
+- [[五根五力注-(安世高)|Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)]] — Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.
+
+## Five Roots
+
+- [[五根五力注-(安世高)|Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)]] — Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.
 
 ## Five-Aggregates
 
@@ -1166,6 +1576,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Four Books
 
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
+
+## Four Noble Truths
+
+- [[four-noble-truths|Four Noble Truths / 四聖諦]] — The core Buddhist doctrine summarizing the nature of suffering, its origin, cessation, and the path to liberation.
 
 ## Four-Agamas
 
@@ -1221,6 +1635,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
 
+## Four-Graces
+
+- [[mahayana-mind-ground-contemplation-sutra-dacheng-bensheng-xindi-guan-jing|Mahāyāna Mind-Ground Contemplation Sūtra / 大乘本生心地觀經 / 大乗本生心地観経]] — A Mahāyāna sūtra teaching the contemplation of the mind-ground and the cultivation of bodhisattva virtues through repaying the four graces
+
 ## Four-Heavenly-Kings
 
 - [[bimbisara-king-magadha-ren-xian|King Bimbisara / 頻婆娑羅王]] — The Magadha king devoted to the Buddha, whose past life as a "Human Immortal" attained stream-entry, now reborn as a celestial prince.
@@ -1232,6 +1650,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Four-Mindfulness
 
 - [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
+
+## Four-Noble-Truths
+
+- [[you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong|From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖]] — A canonical Buddhist gatha stating that attachment is the origin of suffering and fear, and liberation comes from detachment.
 
 ## Four-Precepts
 
@@ -1246,10 +1668,22 @@ The article and supplementary source detail the progressive renunciation process
 - [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
 - [[thirty-seven-bodhiparamitas-an-shigao-commentary|Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜]] — A detailed analysis of the thirty-seven practices leading to enlightenment as expounded in An Shigao's commentary on the Yin Chi Ru Jing.
 
+## Free-Will
+
+- [[force-fate-debate-liezi|Force and Fate Debate / 力命之辯]] — The philosophical dialogue between Force (力) and Fate (命) exploring whether human effort or destiny determines life outcomes.
+
+## Friendship
+
+- [[guan-bao-friendship-liezi|Guan Zhong and Bao Shuya Friendship / 管鮑之交]] — The paradigmatic friendship between Guan Zhong and Bao Shuya, reinterpreted by Liezi as an example of fate determining social outcomes rather than personal virtue.
+
 ## Gaozi
 
 - [[internal-benevolence-external-righteousness-debate|Internal Benevolence and External Righteousness Debate / 仁內義外之辯]] — The philosophical controversy over whether benevolence originates internally and righteousness externally in human nature.
 - [[willow-cup-metaphor-gaozi|Willow-Cup Metaphor / 杞柳桮棬]] — Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.
+
+## Gatha
+
+- [[you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong|From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖]] — A canonical Buddhist gatha stating that attachment is the origin of suffering and fear, and liberation comes from detachment.
 
 ## Gemma-Family
 
@@ -1271,6 +1705,14 @@ The article and supplementary source detail the progressive renunciation process
 ## Giving
 
 - [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
+
+## Golden-King-Sutra
+
+- [[辟支佛|Pratyekabuddha / 辟支佛]] — A solitary buddha who achieves enlightenment alone through contemplation of dependent origination, appearing in the Golden King Sutra to demonstrate the power of dāna.
+
+## Gongsun-Long
+
+- [[prince-ming-zhangshan-gongsun-long-liezi|Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟]] — A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.
 
 ## Google-Ai
 
@@ -1311,6 +1753,8 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Gratitude
 
+- [[mahayana-mind-ground-contemplation-sutra-dacheng-bensheng-xindi-guan-jing|Mahāyāna Mind-Ground Contemplation Sūtra / 大乘本生心地觀經 / 大乗本生心地観経]] — A Mahāyāna sūtra teaching the contemplation of the mind-ground and the cultivation of bodhisattva virtues through repaying the four graces
+- [[si-en-four-graces-buddhism|Four Graces / 四恩 / 四恩]] — Buddhist doctrine of repaying four kinds of kindness: parents, sentient beings, ruler, and Triple Gem
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
 
 ## Gratitude-Teaching
@@ -1329,6 +1773,14 @@ The article and supplementary source detail the progressive renunciation process
 ## Great-Learning
 
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
+
+## Greed
+
+- [[three-poisons-greed-hatred-delusion-buddhist-teaching|三毒的業報與解脫之道 / 三毒的業報與解脫之道 / 三毒の業報と解脱への道]] — Buddhist teachings on the three poisons (贪瞋痴) and their role in binding beings to samsara, as illustrated through multiple narratives in the Shengjing.
+
+## Grief
+
+- [[dongmen-wu-grieflessness|Dongmen Wu's Grieflessness / 東門吳之無憂]] — The story of Dongmen Wu, who remained unmoved by his son's death because he had previously been without a son and felt no loss.
 
 ## Guatama-Sanghadeva
 
@@ -1359,6 +1811,10 @@ The article and supplementary source detail the progressive renunciation process
 - [[an-shigao-seven-places-three-contemplations|An Shigao's Contribution: Seven Places and Three Contemplations / 安世高與七處三觀經]] — The Han dynasty translator An Shigao's systematic introduction of Buddhist meditative analysis through his translation of the Seven Places and Three Contemplations sutra.
 - [[fenbie-gongde-lun|分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)]] — A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.
 
+## Hatred
+
+- [[three-poisons-greed-hatred-delusion-buddhist-teaching|三毒的業報與解脫之道 / 三毒的業報與解脫之道 / 三毒の業報と解脱への道]] — Buddhist teachings on the three poisons (贪瞋痴) and their role in binding beings to samsara, as illustrated through multiple narratives in the Shengjing.
+
 ## Heart-Mind
 
 - [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
@@ -1368,6 +1824,14 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[thirty-three-heavens|Trayastriṃśa Heaven / 三十三天（忉利天）]] — The Heaven of Thirty-Three Gods where the initial discourse of the Great Firm Brāhmaṇa Sūtra takes place, presided over by Śakra (帝釋天主) and the site of the first teaching of the eight rare qualities.
 
+## Hermeneutics
+
+- [[shi-men-tong-pan-ten-gates-framework|Ten Gates Framework / 十門通判]] — A methodological framework for sutra interpretation consisting of ten categories, originating from the Huayan school and used for systematic Buddhist textual analysis.
+
+## Hermit
+
+- [[rabbit-king-self-sacrifice-hermit|Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous Rabbit]] — The Jataka story of a rabbit king who, having learned the Dharma from a brahmana, offered his own body as fuel for a fire to feed the ascetic during a time of famine.
+
 ## Hinayana
 
 - [[four-inversions-buddhist|Four Inversions / 四顛倒 / 四颠倒]] — The four inverted or perverted views that afflict sentient beings, mistaking suffering as happiness, impermanence as permanence, non-self as self, and impurity as purity.
@@ -1375,6 +1839,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Hindic-Buddhism
 
 - [[changahan-jing|Chang Ahan Jing (Long Discourses of the Buddha) / 長阿含經]] — The Dīrgha-āgama, the longest collection of the Buddha's long discourses in early Buddhist scripture, compiled in four sections and five recitations.
+
+## Historical-Anecdote
+
+- [[guan-bao-friendship-liezi|Guan Zhong and Bao Shuya Friendship / 管鮑之交]] — The paradigmatic friendship between Guan Zhong and Bao Shuya, reinterpreted by Liezi as an example of fate determining social outcomes rather than personal virtue.
 
 ## Historical-Providence
 
@@ -1390,7 +1858,13 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Huayan-School
 
+- [[lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing|Lai Zhou (來舟) / 來舟法師]] — A Qing Dynasty monk who authored a major commentary on the Mahayana Mind-Ground Contemplation Sutra, synthesizing Huayan and Tiantai classification systems.
+- [[shi-men-tong-pan-ten-gates-framework|Ten Gates Framework / 十門通判]] — A methodological framework for sutra interpretation consisting of ten categories, originating from the Huayan school and used for systematic Buddhist textual analysis.
 - [[xianshou-wu-jiao|賢首五教 / Five Teachings of Xianshou / 賢首五教（けんじゅぎょう）]] — A five-tiered doctrinal classification system developed by Fazang (Xianshou) of the Huayan school, categorizing all Buddhist teachings from Hinayana to the highest Yogacara-Tathagatagarbha doctrines.
+
+## Huazhiren
+
+- [[king-mu-spiritual-flight-liezi|King Mu's Spiritual Flight / 周穆王神遊 / 周穆王のspirit journey]] — The philosophical discourse on spiritual transcendence as described in the Liezi account of King Mu's journey with the transformed person.
 
 ## Human Nature
 
@@ -1422,9 +1896,22 @@ Potential Tags: "Mencius"
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-universal-sagehood-potential|Universal Potential for Sagehood / 人皆可以为尧舜]] — Mencius' doctrine that every person possesses the innate capacity to become a sage like Yao and Shun, emphasizing moral agency and cultivation.
 
+## Humility
+
+- [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
+
+## Illusion
+
+- [[dream-reality-confusion-liezi|Confusion of Dreams and Reality / 夢覺不分 / 夢と現実の混同]] — The Liezi philosophical anecdotes exploring the boundary between dreams and waking life, including the servant who dreamed of kingship and the firewood collector's deer.
+- [[laochengzi-illusion-transformation-liezi|Lao Chengzi's Study of Illusion / 老成子學幻 / 老成子の幻化学]] — The philosophical narrative of Lao Chengzi learning the art of transformation and illusion from Yin Wen, including the Daoist theory of change and the nature of reality.
+
 ## Imperial
 
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
+
+## Impermanence
+
+- [[bird-nali-voice-shengjing|我所鳥的故事 / 我所鳥的故事 / 「我所」鳥の物語]] — The parable of the "Mine-Owner" bird in the Shengjing, illustrating the Buddhist teaching on non-attachment and the futility of possessiveness.
 
 ## Indian-Buddhism
 
@@ -1457,6 +1944,18 @@ Potential Tags: "Mencius"
 ## Jataka
 
 - [[great-firm-brahman|The Great Firm Brahman / 大堅固婆羅門]] — A jātaka-like narrative about a minister named Humeng who became an arhat through renunciation and taught the Dharma, later identified as a past life of the Buddha.
+- [[miaose-wang-bodhisattva-sacrifice|King Subhūti / 妙色王]] — A past incarnation of the Buddha who sacrificed his son, wife, and body to obtain the Dharma teaching on attachment.
+
+## Jataka-Tale
+
+- [[miaose-wang-yinyuan-jing|King Subhūti's Cause and Conditions Sutra / 妙色王因緣經]] — A Buddhist sutra depicting King Subhūti's supreme sacrifice of his son, wife, and body to obtain the Dharma teaching on attachment.
+- [[金色王|King Golden / 金色王]] — King Golden was a past life of the Buddha who practiced extreme generosity, becoming a model for Buddhist teachings on the fruits of giving (dāna).
+
+## Jataka-Tales
+
+- [[king-sibi-pigeon-sacrifice|King Śibi Saves the Pigeon (尸毘王救鴿) - The Great Sacrifice of Flesh for Life]] — The classic Jataka tale of King Śibi who cut off his own flesh to save a pigeon from a hawk, exemplifying the perfection of giving in Buddhism.
+- [[rabbit-king-self-sacrifice-hermit|Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous Rabbit]] — The Jataka story of a rabbit king who, having learned the Dharma from a brahmana, offered his own body as fuel for a fire to feed the ascetic during a time of famine.
+- [[throw-body-feed-tigers-jataka|Throw Body to Feed Tigers (投身飼虎) - Jataka Tale of Prince Mahāsattva]] — The Jataka story of Prince Mahāsattva who sacrificed his body to feed seven starving tiger cubs, a paradigm of ultimate bodhisattva compassion.
 
 ## Junzi
 
@@ -1464,17 +1963,61 @@ Potential Tags: "Mencius"
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
 - [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
 
+## Kanishka-Sect
+
+- [[sarvadana-king-yiqieshi|King Sarvadāna (一切施王) — The Sovereign Who Gave Everything]] — A legendary king who renounced his throne, kingdom, and ultimately his own body for the sake of a single supplicant, exemplifying the ultimate perfection of giving.
+- [[sarvadhana-prince-yiqiechi|Prince Sarvadhāna (一切持王子) — The Crown Prince of Universal Possession and Giving]] — A crown prince who gave away royal treasures, elephants, and ultimately his own children to fulfill his vow of universal giving, exemplifying the bodhisattva's renunciation of attachment.
+- [[virama-bodhisattva-pusajiamo|Vīrāma (毘羅摩) — Bodhisattva of Giving]] — A minister's son who became chief minister and exemplified the perfection of giving through vast generosity and skillful means.
+
+## Karma
+
+- [[non-retaliation-buddhist-teaching|Non-Retaliation in Buddhist Teaching / 不報怨 / 仏教における報復禁止の教え]] — The Buddhist doctrine of abstaining from vengeance and returning harm with harm, exemplified in the story of King Changshou.
+- [[布施因果|Cause and Effect of Giving / 布施因果]] — The Buddhist doctrine that practicing dāna (generosity) generates karmic rewards, with particular emphasis on giving before oneself as a key spiritual practice.
+
 ## Karma-Teaching
 
 - [[baiyi-jinzhuang-brahmin-origin-sutra|Baiyi and Jinzhuang: The Two Brahmins' Origin Sutra / 白衣金幢二婆羅門緣起經]] — A Buddhist sutra recounting how two brahmins, Baiyi and Jinzhuang, encounter the Buddha and are enlightened about karma and caste equality before renouncing worldly life.
+
+## Karmic Consequences
+
+- [[three-poisons-greed-hatred-delusion-buddhist-teaching|三毒的業報與解脫之道 / 三毒的業報與解脫之道 / 三毒の業報と解脱への道]] — Buddhist teachings on the three poisons (贪瞋痴) and their role in binding beings to samsara, as illustrated through multiple narratives in the Shengjing.
+
+## Karmic Rebirth
+
+- [[five-ascetics-seven-śrāvaka-buddhist-narrative|五仙人的故事與七覺支的象徵意義 / 五仙人故事與七覺支象徵意義 / 五仙人の物語と七覚支の象徴的意義]] — The narrative of the five ascetics in the Shengjing, illustrating Buddhist teachings on karma, rebirth, and the development of the seven factors of awakening.
+- [[turtle-monkey-past-life-karmic-narrative-shengjing|鱉獼猴前世的業報故事 / 鱉と獼猴の前世因果物語 / 거북이와 원숭이의 전생 업보 이야기]] — The turtle and monkey past-life karmic connection in the Shengjing, illustrating how past-life relationships manifest in the present and the consequences of broken trust.
 
 ## Karmic-Formation
 
 - [[three-evil-roots-buddhist|Three Evil Roots / 三惡本 / 三悪根本]] — The three fundamental sources of unwholesome karma: greed (贪), hatred (恚), and delusion (痴), from which all other evils arise.
 
+## King
+
+- [[sarvadana-king-yiqieshi|King Sarvadāna (一切施王) — The Sovereign Who Gave Everything]] — A legendary king who renounced his throne, kingdom, and ultimately his own body for the sake of a single supplicant, exemplifying the ultimate perfection of giving.
+
+## King-As-Bodhisattva
+
+- [[bodhisattva-sacrifice-king-changshou|King Changshou's Sacrifice / 長壽王的犧牲 / 長寿王の犠牲]] — The narrative archetype of King Changshou, a bodhisattva who sacrifices his kingdom and life rather than wage war, embodying Buddhist non-retaliation ideals.
+
 ## King-Bimbisara
 
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
+
+## King-Mu
+
+- [[king-mu-spiritual-flight-liezi|King Mu's Spiritual Flight / 周穆王神遊 / 周穆王のspirit journey]] — The philosophical discourse on spiritual transcendence as described in the Liezi account of King Mu's journey with the transformed person.
+
+## King-Of-Jambudvipa
+
+- [[金色王|King Golden / 金色王]] — King Golden was a past life of the Buddha who practiced extreme generosity, becoming a model for Buddhist teachings on the fruits of giving (dāna).
+
+## King-Sacrifice
+
+- [[miaose-wang-bodhisattva-sacrifice|King Subhūti / 妙色王]] — A past incarnation of the Buddha who sacrificed his son, wife, and body to obtain the Dharma teaching on attachment.
+
+## King-Sibi
+
+- [[king-sibi-pigeon-sacrifice|King Śibi Saves the Pigeon (尸毘王救鴿) - The Great Sacrifice of Flesh for Life]] — The classic Jataka tale of King Śibi who cut off his own flesh to save a pigeon from a hawk, exemplifying the perfection of giving in Buddhism.
 
 ## King-Wen
 
@@ -1535,6 +2078,24 @@ Potential Tags: "Mencius"
 
 - [[google-books-digitization-project|Google Books Digitization Project / 谷歌图书数字化项目]] — Google's initiative to digitize public domain books and make them universally accessible
 
+## Liezi
+
+- [[confucius-western-saint-liezi|Confucius and the Western Saint (西方聖者) / 西方聖者]] — A Liezi account of Confucius making an enigmatic reference to "a saint in the west" who rules without governing, speaks without persuasion, and transforms without coercion.
+- [[dongmen-wu-grieflessness|Dongmen Wu's Grieflessness / 東門吳之無憂]] — The story of Dongmen Wu, who remained unmoved by his son's death because he had previously been without a son and felt no loss.
+- [[dream-reality-confusion-liezi|Confusion of Dreams and Reality / 夢覺不分 / 夢と現実の混同]] — The Liezi philosophical anecdotes exploring the boundary between dreams and waking life, including the servant who dreamed of kingship and the firewood collector's deer.
+- [[eight-testings-six-omens-liezi|Eight Testings and Six Omens / 覺有八徵夢有六候 / 八徵と六候]] — The Liezi philosophical framework classifying eight experiential states of waking life and six categories of dreams, with implications for understanding consciousness.
+- [[force-fate-debate-liezi|Force and Fate Debate / 力命之辯]] — The philosophical dialogue between Force (力) and Fate (命) exploring whether human effort or destiny determines life outcomes.
+- [[four-permutations-fate-liezi|Four Permutations of Fate / 四可之命]] — The doctrine of four possible outcomes regarding life and death, each potentially either heavenly blessing or punishment depending on alignment with natural order.
+- [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
+- [[guan-bao-friendship-liezi|Guan Zhong and Bao Shuya Friendship / 管鮑之交]] — The paradigmatic friendship between Guan Zhong and Bao Shuya, reinterpreted by Liezi as an example of fate determining social outcomes rather than personal virtue.
+- [[king-mu-spiritual-flight-liezi|King Mu's Spiritual Flight / 周穆王神遊 / 周穆王のspirit journey]] — The philosophical discourse on spiritual transcendence as described in the Liezi account of King Mu's journey with the transformed person.
+- [[laochengzi-illusion-transformation-liezi|Lao Chengzi's Study of Illusion / 老成子學幻 / 老成子の幻化学]] — The philosophical narrative of Lao Chengzi learning the art of transformation and illusion from Yin Wen, including the Daoist theory of change and the nature of reality.
+- [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
+- [[prince-ming-zhangshan-gongsun-long-liezi|Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟]] — A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.
+- [[self-generating-life-death|Self-Generating Life and Death / 自生自死]] — The Liezi doctrine that life, death, prosperity, and poverty arise spontaneously from fate, not from human control.
+- [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
+- [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
+
 ## Light-Sound-Heaven
 
 - [[light-sound-heaven-buddhist-cosmology|Light-Sound Heaven / 光音天]] — The second dhyana heaven in Buddhist cosmology from which beings descended to earth according to the White Cloth Golden Banner Sutra.
@@ -1547,9 +2108,23 @@ Potential Tags: "Mencius"
 
 - [[ollama-framework|Ollama Framework / Ollama 框架 / Ollamaフレームワーク]] — An open-source runtime environment for running large language models locally with quantized GGUF model files.
 
+## Logical-Paradoxes
+
+- [[prince-ming-zhangshan-gongsun-long-liezi|Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟]] — A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.
+
 ## Lost Mind
 
 - [[mengzi-moral-cultivation-lost-mind|Moral Cultivation and the Lost Mind in Mencius / 放心与求其放心]] — The concept of "the lost mind" (放心) and the importance of recovering it through learning, as articulated in Mencius's moral philosophy.
+
+## Lotus
+
+- [[lotus-world-buddhist-cosmology|蓮華世界 / Lotus World (Liánhuá Shìjiè)]] — A pure land in Buddhist cosmology described in the Mahāyāna sutras, characterized by lotus imagery, jeweled trees, and spiritual refinement.
+
+## Lotus-World
+
+- [[lotus-up-tathagata|蓮華上如來 / Lotus-Up Tathāgata (Liánhuá Shàng Rúlái)]] — A celestial Buddha in Mahāyāna Buddhism who appears in the Lotus World, achieving enlightenment in a single night and manifesting great supernatural powers.
+- [[mahayana-dharani-of-compassion|大乘悲分陀利經 / Mahāyāna Dhāraṇī of Compassion]] — A Mahāyāna sutra describing the Lotus World, the Lotus-Up Tathāgata, and the profound dhāraṇī practices for achieving supreme enlightenment.
+- [[void-seal-bodhisattva|虛空印菩薩 / Void Seal Bodhisattva (Xūkōng Yìn Púsà)]] — A bodhisattva in Mahāyāna Buddhism who received the teaching of all-knowledge dhāraṇī and later became the Lotus-Up Tathāgata in the Lotus World.
 
 ## Lowercase
 
@@ -1579,6 +2154,14 @@ I need to write a one-line summary that captures the essence of this article. Th
 Let me craft a concise one-line summary:
 
 The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
+## Lowercase):" The Article Is About "瞿曇般若流支" (Gautama Prajñāruci) And His Translation Of The "金色王經" (Golden King Sutra). We Need To List 2-4 Relevant Tags
+
+- [[瞿曇般若流支|瞿曇般若流支]] — 瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。
+
+## Lowercase. So We Need To Think About Tags That Capture The Content. Possibly: "Gautama-Prajnaruci"
+
+- [[瞿曇般若流支|瞿曇般若流支]] — 瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。
 
 ## Machine-Learning
 
@@ -1611,16 +2194,29 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
 
+## Mahasattvas
+
+- [[si-en-four-graces-buddhism|Four Graces / 四恩 / 四恩]] — Buddhist doctrine of repaying four kinds of kindness: parents, sentient beings, ruler, and Triple Gem
+
 ## Mahayana
 
 - [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
+- [[entry-all-knowledge-dharani-gate|入一切種智行陀羅尼門 / Entry into the All-Knowledge Dhāraṇī Gate]] — A profound Mahāyāna dhāraṇī practice for entering complete wisdom, enabling practitioners to obtain countless samādhis,Store dhāraṇīs, and achieve supreme enlightenment.
 - [[fenbie-gongde-lun|分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)]] — A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.
 - [[four-inversions-buddhist|Four Inversions / 四顛倒 / 四颠倒]] — The four inverted or perverted views that afflict sentient beings, mistaking suffering as happiness, impermanence as permanence, non-self as self, and impurity as purity.
 - [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
+- [[lotus-world-buddhist-cosmology|蓮華世界 / Lotus World (Liánhuá Shìjiè)]] — A pure land in Buddhist cosmology described in the Mahāyāna sutras, characterized by lotus imagery, jeweled trees, and spiritual refinement.
+- [[prince-sujata-story-bodhisattva-sacrifice|The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice]] — The narrative of Prince Sūjāta who offered his own flesh to feed his starving parents, serving as the central exemplum of filial piety and compassionate self-sacrifice in Mahayana Buddhism.
+- [[si-en-four-graces-buddhism|Four Graces / 四恩 / 四恩]] — Buddhist doctrine of repaying four kinds of kindness: parents, sentient beings, ruler, and Triple Gem
+- [[void-seal-bodhisattva|虛空印菩薩 / Void Seal Bodhisattva (Xūkōng Yìn Púsà)]] — A bodhisattva in Mahāyāna Buddhism who received the teaching of all-knowledge dhāraṇī and later became the Lotus-Up Tathāgata in the Lotus World.
+- [[如來八希有法|Eight Rare Teachings of the Tathāgata / 如來八希有法]] — A set of eight rarely‑occuring doctrines taught by the Buddha that reveal the conditions for attaining ultimate liberation.
+- [[如来八寶塔-eight-tathagata-stupas|Eight Tathāgata Stupas / 如來八寶塔 / 如来八宝塔]] — The eight sacred stupas representing key events in the Buddha's life, described in the Mahāyāna Mind-Ground Contemplation Sūtra
 
 ## Mahayana-Buddhism
 
+- [[dacheng-bensheng-xindi-guanjing-kewen|大乘本生心地觀經淺註科文 / Commentary Outline on the Mahayana Mind-Ground Contemplation Sutra]] — A comprehensive structural outline and commentary classifying the contents of the Mahayana Sutra of Mind-Ground Contemplation into prefaces, main text, and circulation sections with detailed doctrinal divisions.
 - [[dana-paramita-bodhisattva-giving|Dāna Pāramitā / 檀波羅蜜 / 檀波羅蜜]] — The perfection of giving in Mahayana Buddhism, exemplified by bodhisattvas who sacrifice everything for the welfare of beings.
+- [[lotus-up-tathagata|蓮華上如來 / Lotus-Up Tathāgata (Liánhuá Shàng Rúlái)]] — A celestial Buddha in Mahāyāna Buddhism who appears in the Lotus World, achieving enlightenment in a single night and manifesting great supernatural powers.
 
 ## Mahayana-Ethics
 
@@ -1630,6 +2226,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
 
+## Mahayana-Philosophy
+
+- [[dacheng-xindi-guanjing-san-shen|如來三身 / Three Bodies of the Tathagata (三身說)]] — The doctrinal classification of the Buddha's three bodies—Dharma-body, Enjoyment-body, and Transformational body—as expounded in the Mahayana Mind-Ground Contemplation Sutra, with detailed elaboration of their characteristics and salvific functions.
+
 ## Mahayana-Practice
 
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
@@ -1637,11 +2237,17 @@ The article and supplementary source detail the progressive renunciation process
 ## Mahayana-Sutra
 
 - [[great-collection-dharma-gate-sutra|Great Collection Dharma Gate Sutra / 大集法門經]] — A Mahayana sutra presenting Buddhist teachings through systematic numerical enumeration from one to ten, taught by Śāriputra.
+- [[mahayana-dharani-of-compassion|大乘悲分陀利經 / Mahāyāna Dhāraṇī of Compassion]] — A Mahāyāna sutra describing the Lotus World, the Lotus-Up Tathāgata, and the profound dhāraṇī practices for achieving supreme enlightenment.
+- [[mahayana-mind-ground-contemplation-sutra-dacheng-bensheng-xindi-guan-jing|Mahāyāna Mind-Ground Contemplation Sūtra / 大乘本生心地觀經 / 大乗本生心地観経]] — A Mahāyāna sūtra teaching the contemplation of the mind-ground and the cultivation of bodhisattva virtues through repaying the four graces
 
 ## Mahayana-Sutras
 
 - [[da-cheng-ben-sheng-xin-di-guan-jing|大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground]] — A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
+
+## Mahayana-Teaching
+
+- [[jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra|Ten Causes for Teaching the Mind-Ground Sutra / 教起因緣]] — The ten reasons why Shakyamuni Buddha taught the Mahayana Mind-Ground Contemplation Sutra, as enumerated in the commentary.
 
 ## Mahayana-Teachings
 
@@ -1653,6 +2259,7 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Meditation
 
+- [[entry-all-knowledge-dharani-gate|入一切種智行陀羅尼門 / Entry into the All-Knowledge Dhāraṇī Gate]] — A profound Mahāyāna dhāraṇī practice for entering complete wisdom, enabling practitioners to obtain countless samādhis,Store dhāraṇīs, and achieve supreme enlightenment.
 - [[four-bases-supernatural-power-siddhartha|Four Bases of Supernatural Power / 四神足]] — The Four Bases of Supernatural Power (rddhipāda) taught by Mahabrahma Deva, describing the spiritual faculties of desire, endeavor, mind, and investigation.
 - [[lan-ruo|蘭若 / Forest Hermitage Practice]] — 蘭若指佛教修行者居住之寂靜處所，遠離喧鬧，修習頭陀行與止觀禪定
 - [[nirodha-samapatti|滅盡定 Nirodhāsamāpatti / Absorption of Cessation]] — A Buddhist meditation attainment where all mental formations cease, enabling practitioners to grant present-world blessings to beings.
@@ -1673,6 +2280,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 - [[tang-wan-kung|Tang Wan Kung / 唐宓公]] — Overview of the historical and philosophical significance of Tang Wan Kung in Confucianism.
 - [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
+- [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
 
 ## Mencius-Commentary
 
@@ -1740,6 +2348,14 @@ The article and supplementary source detail the progressive renunciation process
 - [[wang-dao-true-king-hegemon|The Way of the True King vs. Hegemony (王道與霸道) / 王道と霸道]] — Mencius's distinction between righteous rule through virtue and coercive rule through force.
 - [[willow-cup-metaphor-gaozi|Willow-Cup Metaphor / 杞柳桮棬]] — Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
+- [[儒家政治哲学|儒家政治哲学]] — title: Confucian Political Philosophy / 儒家政治哲学  
+summary: This article explores the origins, core concepts, development, and significance of Confucian political philosophy, highlighting the moral foundations of governance established by Confucius and Mencius.  
+tags: confucianism, political-philosophy, chinese-philosophy, mengzi, moral-governance  
+---  
+## English  
+Confucian political philosophy is a framework that emphasizes the moral foundation of political authority, originating from the teachings of Confucius and further developed by Mencius. Core concepts include ren (benevolence), li (ritual), junzi (gentleman), righteous governance, and the Mandate of Heaven, with an emphasis on virtue over profit and moral self-cultivation as the basis for political legitimacy. The idea of "tianxia" (all-under-heaven) unites the populace under a benevolent ruler. This philosophy evolved notably during the Han dynasty and Neo-Confucianism, with modern reinterpretations affirming that political order must be rooted in moral cultivation. The ruler is seen as a moral exemplar whose virtue is essential for effective governance.  
+## 中文  
+儒家政治哲学是强调政治权威道
 
 ## Mental Factors
 
@@ -1760,6 +2376,7 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[three-dharmas-buddhist-philosophy|Three Dharmas / 三法]] — A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.
 - [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
+- [[布施因果|Cause and Effect of Giving / 布施因果]] — The Buddhist doctrine that practicing dāna (generosity) generates karmic rewards, with particular emphasis on giving before oneself as a key spiritual practice.
 
 ## Merit-Giving
 
@@ -1768,6 +2385,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Messianism
 
 - [[five-hundred-years-sage-king|Five Hundred Years必有王者興 / 五百年必有王者興]] — Mencius's famous prophecy that a sage king will arise every five hundred years, with one marked by the appearance of a world-ordering figure.
+
+## Metamorphosis
+
+- [[seeds-of-being-zhongyouji|Seeds of Being (種有幾) / 種有幾]] — The Liezi doctrine of cyclical transformation through which all species interconvert across an intricate chain of metamorphoses.
 
 ## Metaphysics
 
@@ -1786,6 +2407,14 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[da-cheng-ben-sheng-xin-di-guan-jing|大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground]] — A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.
 - [[mind-as-organ-of-thought|The Mind as the Organ of Thought / 心之官則思]] — Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.
+
+## Mind-Ground
+
+- [[mahayana-mind-ground-contemplation-sutra-dacheng-bensheng-xindi-guan-jing|Mahāyāna Mind-Ground Contemplation Sūtra / 大乘本生心地觀經 / 大乗本生心地観経]] — A Mahāyāna sūtra teaching the contemplation of the mind-ground and the cultivation of bodhisattva virtues through repaying the four graces
+
+## Mind-Ground-Contemplation
+
+- [[dacheng-bensheng-xindi-guanjing-kewen|大乘本生心地觀經淺註科文 / Commentary Outline on the Mahayana Mind-Ground Contemplation Sutra]] — A comprehensive structural outline and commentary classifying the contents of the Mahayana Sutra of Mind-Ground Contemplation into prefaces, main text, and circulation sections with detailed doctrinal divisions.
 
 ## Mind-Practice
 
@@ -1813,6 +2442,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[model-quantization|Model Quantization / 模型量化 / モデル量子化]] — A technique for reducing AI model size and computational requirements by representing model parameters with lower-precision data types.
 
+## Mohism
+
+- [[prince-ming-zhangshan-gongsun-long-liezi|Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟]] — A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.
+
 ## Monastic-Education
 
 - [[mahasanghika-great-collection-teaching|Great Collection Teaching / 大集法門]] — A Buddhist pedagogical method presenting doctrine through systematic numerical categories from one to ten, used for monastic education and memorization.
@@ -1820,6 +2453,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Monastic-Practice
 
 - [[toutuo-xing|頭陀行 / Dhutanga Practices]] — 頭陀行乃佛教十三種清淨苦行，修習此法可去衣、食、住之貪著，速得解脫
+
+## Monkey
+
+- [[turtle-monkey-past-life-karmic-narrative-shengjing|鱉獼猴前世的業報故事 / 鱉と獼猴の前世因果物語 / 거북이와 원숭이의 전생 업보 이야기]] — The turtle and monkey past-life karmic connection in the Shengjing, illustrating how past-life relationships manifest in the present and the consequences of broken trust.
 
 ## Moral Cultivation
 
@@ -1838,6 +2475,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Moral Practice
 
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
+
+## Moral-Causation
+
+- [[布施因果|Cause and Effect of Giving / 布施因果]] — The Buddhist doctrine that practicing dāna (generosity) generates karmic rewards, with particular emphasis on giving before oneself as a key spiritual practice.
 
 ## Moral-Character
 
@@ -1938,6 +2579,10 @@ The article and supplementary source detail the progressive renunciation process
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
 - [[shared-joy-with-the-people-yu-min-xie-le|Shared Joy with the People (與民偕樂) / 民と偕に楽む]] — Mencius's principle that rulers should share enjoyment with the people, not hoard pleasures for themselves.
 
+## Nature
+
+- [[seeds-of-being-zhongyouji|Seeds of Being (種有幾) / 種有幾]] — The Liezi doctrine of cyclical transformation through which all species interconvert across an intricate chain of metamorphoses.
+
 ## Neo-Confucianism
 
 - [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
@@ -1968,6 +2613,14 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[eightfold-noble-path-human-immortal-sutra|Eightfold Noble Path (Human Immortal Sutra) / 八正道]] — The Eightfold Noble Path as expounded in the Sutra of the Human Immortal, taught by Mahabrahma Deva as the method for achieving pure contemplation and liberation.
 
+## Non-Action
+
+- [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
+
+## Non-Attachment
+
+- [[bird-nali-voice-shengjing|我所鳥的故事 / 我所鳥的故事 / 「我所」鳥の物語]] — The parable of the "Mine-Owner" bird in the Shengjing, illustrating the Buddhist teaching on non-attachment and the futility of possessiveness.
+
 ## Non-Returner
 
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
@@ -1982,6 +2635,10 @@ The article and supplementary source detail the progressive renunciation process
 - [[gguf-model-format|GGUF Model Format / GGUF 模型格式 / GGUFモデルフォーマット]] — A unified model file format developed by Georgi Gerganov for efficient storage and inference of quantized large language models.
 - [[model-quantization|Model Quantization / 模型量化 / モデル量子化]] — A technique for reducing AI model size and computational requirements by representing model parameters with lower-precision data types.
 - [[ollama-framework|Ollama Framework / Ollama 框架 / Ollamaフレームワーク]] — An open-source runtime environment for running large language models locally with quantized GGUF model files.
+
+## Nonviolent-Resistance
+
+- [[non-retaliation-buddhist-teaching|Non-Retaliation in Buddhist Teaching / 不報怨 / 仏教における報復禁止の教え]] — The Buddhist doctrine of abstaining from vengeance and returning harm with harm, exemplified in the story of King Changshou.
 
 ## Numerical-Classification
 
@@ -2017,6 +2674,14 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
 
+## Parable
+
+- [[bird-nali-voice-shengjing|我所鳥的故事 / 我所鳥的故事 / 「我所」鳥の物語]] — The parable of the "Mine-Owner" bird in the Shengjing, illustrating the Buddhist teaching on non-attachment and the futility of possessiveness.
+
+## Paradox
+
+- [[dream-reality-confusion-liezi|Confusion of Dreams and Reality / 夢覺不分 / 夢と現実の混同]] — The Liezi philosophical anecdotes exploring the boundary between dreams and waking life, including the servant who dreamed of kingship and the firewood collector's deer.
+
 ## Parthian-Buddhism
 
 - [[an-shigao-seven-places-three-contemplations|An Shigao's Contribution: Seven Places and Three Contemplations / 安世高與七處三觀經]] — The Han dynasty translator An Shigao's systematic introduction of Buddhist meditative analysis through his translation of the Seven Places and Three Contemplations sutra.
@@ -2026,9 +2691,17 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
 
+## Past Lives
+
+- [[turtle-monkey-past-life-karmic-narrative-shengjing|鱉獼猴前世的業報故事 / 鱉と獼猴の前世因果物語 / 거북이와 원숭이의 전생 업보 이야기]] — The turtle and monkey past-life karmic connection in the Shengjing, illustrating how past-life relationships manifest in the present and the consequences of broken trust.
+
 ## Past-Life-Narrative
 
 - [[great-firm-brahman|The Great Firm Brahman / 大堅固婆羅門]] — A jātaka-like narrative about a minister named Humeng who became an arhat through renunciation and taught the Dharma, later identified as a past life of the Buddha.
+
+## Past-Life-Stories
+
+- [[bodhisattva-sacrifice-king-changshou|King Changshou's Sacrifice / 長壽王的犧牲 / 長寿王の犠牲]] — The narrative archetype of King Changshou, a bodhisattva who sacrifices his kingdom and life rather than wage war, embodying Buddhist non-retaliation ideals.
 
 ## Path
 
@@ -2037,6 +2710,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Pedagogy
 
 - [[teaching-many-methods-mencius|Teaching Has Many Methods / 教亦多术]] — Mencius's pedagogical philosophy that不屑之教诲 (disdainful teaching) is itself a valid and effective method of moral education, representing a sophisticated understanding of educational psychology.
+
+## Perfection-Of-Giving
+
+- [[king-sibi-pigeon-sacrifice|King Śibi Saves the Pigeon (尸毘王救鴿) - The Great Sacrifice of Flesh for Life]] — The classic Jataka tale of King Śibi who cut off his own flesh to save a pigeon from a hawk, exemplifying the perfection of giving in Buddhism.
 
 ## Perhaps "Renunciation"
 
@@ -2078,9 +2755,15 @@ The article and supplementary source detail the progressive renunciation process
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 - [[twelve-links-dependent-origination|Twelve Links of Dependent Origination / 十二因緣]] — The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.
+- [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
+
+## Philosophy-Of-Mind
+
+- [[dream-reality-confusion-liezi|Confusion of Dreams and Reality / 夢覺不分 / 夢と現実の混同]] — The Liezi philosophical anecdotes exploring the boundary between dreams and waking life, including the servant who dreamed of kingship and the firewood collector's deer.
+- [[eight-testings-six-omens-liezi|Eight Testings and Six Omens / 覺有八徵夢有六候 / 八徵と六候]] — The Liezi philosophical framework classifying eight experiential states of waking life and six categories of dreams, with implications for understanding consciousness.
 
 ## Platform-Security
 
@@ -2089,6 +2772,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Political Philosophy
 
 - [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
+- [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
 
 ## Political-Ethics
 
@@ -2111,12 +2795,25 @@ The article and supplementary source detail the progressive renunciation process
 - [[mengzi-unity-through-non-killing-ding-yu-yi|Unity Through Non-Killing / 定於一]] — Mencius' doctrine that unity of the realm is achieved through rulers who do not delight in killing.
 - [[political-philosophy-analects|Political Philosophy in Analects / 论语政治哲学]] — Confucian governance principles including meritocracy, moral leadership, and social stability
 - [[unsummoned-ministers-bu-zhao-zhi-chen|Unsummoned Ministers / 不召之臣]] — A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.
+- [[儒家政治哲学|儒家政治哲学]] — title: Confucian Political Philosophy / 儒家政治哲学  
+summary: This article explores the origins, core concepts, development, and significance of Confucian political philosophy, highlighting the moral foundations of governance established by Confucius and Mencius.  
+tags: confucianism, political-philosophy, chinese-philosophy, mengzi, moral-governance  
+---  
+## English  
+Confucian political philosophy is a framework that emphasizes the moral foundation of political authority, originating from the teachings of Confucius and further developed by Mencius. Core concepts include ren (benevolence), li (ritual), junzi (gentleman), righteous governance, and the Mandate of Heaven, with an emphasis on virtue over profit and moral self-cultivation as the basis for political legitimacy. The idea of "tianxia" (all-under-heaven) unites the populace under a benevolent ruler. This philosophy evolved notably during the Han dynasty and Neo-Confucianism, with modern reinterpretations affirming that political order must be rooted in moral cultivation. The ruler is seen as a moral exemplar whose virtue is essential for effective governance.  
+## 中文  
+儒家政治哲学是强调政治权威道
+- [[儒家政治哲學|Confucian Political Philosophy / 儒家政治哲學]] — Confucian political philosophy integrates moral virtue, ritual propriety, and humanistic ethics into the governance of society.
 
 ## Political-Theory
 
 - [[de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu|De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助]] — The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.
 - [[mengzi-gift-accepting-principles|Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿]] — Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.
 - [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
+
+## Possession
+
+- [[bird-nali-voice-shengjing|我所鳥的故事 / 我所鳥的故事 / 「我所」鳥の物語]] — The parable of the "Mine-Owner" bird in the Shengjing, illustrating the Buddhist teaching on non-attachment and the futility of possessiveness.
 
 ## Practical-Wisdom
 
@@ -2137,6 +2834,8 @@ The article and supplementary source detail the progressive renunciation process
 ## Pratyekabuddha
 
 - [[mahakasyapa-buddhist-disciple-collected-sutras|迦葉 Mahākāśyapa / Mahākāśyapa and the Assembly of 84,000 Arhats]] — The Buddha's senior disciple who led the first council and is portrayed as having been a pratyekabuddha in a previous life.
+- [[辟支佛|Pratyekabuddha / 辟支佛]] — A solitary buddha who achieves enlightenment alone through contemplation of dependent origination, appearing in the Golden King Sutra to demonstrate the power of dāna.
+- [[金色王經|Golden King Sutra / 金色王經]] — A Buddhist sutra recounting the past life of the Buddha as King Golden, illustrating the karmic fruits of giving through the story of a famine and miraculous provision.
 
 ## Precept
 
@@ -2146,6 +2845,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[virtue-merit-buddhist-doctrine-de-pin|Virtue Section (德品) - Buddhist Spiritual Cultivation]] — The first section of the Three Dharmas Treatise detailing the cultivation of merit, roots of goodness, and non-evil qualities.
 
+## Prince
+
+- [[sarvadhana-prince-yiqiechi|Prince Sarvadhāna (一切持王子) — The Crown Prince of Universal Possession and Giving]] — A crown prince who gave away royal treasures, elephants, and ultimately his own children to fulfill his vow of universal giving, exemplifying the bodhisattva's renunciation of attachment.
+
 ## Prthag-Jana
 
 - [[great-firm-brahman-backstory|The Origin Story of the Great Firm Brāhmaṇa / 大堅固婆羅門緣起]] — A Buddhist sūtra recounting how King Linu's minister Mahākakuda meets the Buddha, attains stream-entry, renounces worldly life, and becomes an arhat, inspiring seven kings, seven thousand brāhmaṇas, and countless laypeople to follow the Dharma.
@@ -2153,6 +2856,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Public-Domain
 
 - [[google-books-digitization-project|Google Books Digitization Project / 谷歌图书数字化项目]] — Google's initiative to digitize public domain books and make them universally accessible
+
+## Pure-Land
+
+- [[lotus-world-buddhist-cosmology|蓮華世界 / Lotus World (Liánhuá Shìjiè)]] — A pure land in Buddhist cosmology described in the Mahāyāna sutras, characterized by lotus imagery, jeweled trees, and spiritual refinement.
 
 ## Qi
 
@@ -2170,13 +2877,25 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[four-agamas-commentary-commentary-on-four-collections|Four Āgamas Commentary / 四阿鋡暮抄解]] — A Buddhist philosophical commentary on the Four Āgamas discussing the Three Dharmas of merit, evil, and liberation.
 
+## Qing-Dynasty
+
+- [[lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing|Lai Zhou (來舟) / 來舟法師]] — A Qing Dynasty monk who authored a major commentary on the Mahayana Mind-Ground Contemplation Sutra, synthesizing Huayan and Tiantai classification systems.
+
 ## Quantization
 
 - [[gguf-model-format|GGUF Model Format / GGUF 模型格式 / GGUFモデルフォーマット]] — A unified model file format developed by Georgi Gerganov for efficient storage and inference of quantized large language models.
 
+## Rabbit-King
+
+- [[rabbit-king-self-sacrifice-hermit|Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous Rabbit]] — The Jataka story of a rabbit king who, having learned the Dharma from a brahmana, offered his own body as fuel for a fire to feed the ascetic during a time of famine.
+
 ## Rare-Qualities
 
 - [[tathagata-eight-rare-qualities|Eight Rare Qualities of a Tathagata / 如來八希有法]] — Eight exceptional qualities that appear when a Buddha enters the world, as taught by Indra and repeated by Brahma, forming a unique doctrinal teaching of this sutra.
+
+## Reality
+
+- [[dream-reality-confusion-liezi|Confusion of Dreams and Reality / 夢覺不分 / 夢と現実の混同]] — The Liezi philosophical anecdotes exploring the boundary between dreams and waking life, including the servant who dreamed of kingship and the firewood collector's deer.
 
 ## Rebirth-Brahma-Realm
 
@@ -2190,6 +2909,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[bimbisara-king-magadha-ren-xian|King Bimbisara / 頻婆娑羅王]] — The Magadha king devoted to the Buddha, whose past life as a "Human Immortal" attained stream-entry, now reborn as a celestial prince.
 - [[human-immortal-ren-xian|Human Immortal / 人仙]] — A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger revealing the karmic fate of King Bimbisara.
+
+## Relics
+
+- [[如来八寶塔-eight-tathagata-stupas|Eight Tathāgata Stupas / 如來八寶塔 / 如来八宝塔]] — The eight sacred stupas representing key events in the Buddha's life, described in the Mahāyāna Mind-Ground Contemplation Sūtra
 
 ## Renunciation
 
@@ -2209,6 +2932,8 @@ I need to write a one-line summary that captures the essence of this article. Th
 Let me craft a concise one-line summary:
 
 The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+- [[sarvadana-king-yiqieshi|King Sarvadāna (一切施王) — The Sovereign Who Gave Everything]] — A legendary king who renounced his throne, kingdom, and ultimately his own body for the sake of a single supplicant, exemplifying the ultimate perfection of giving.
+- [[sarvadhana-prince-yiqiechi|Prince Sarvadhāna (一切持王子) — The Crown Prince of Universal Possession and Giving]] — A crown prince who gave away royal treasures, elephants, and ultimately his own children to fulfill his vow of universal giving, exemplifying the bodhisattva's renunciation of attachment.
 - [[white-cloth-golden-banner-two-brahmins-origin-sutra|White Cloth and Golden Banner Two Brahmins Origin Sutra / 白衣金幢二婆羅門緣起經]] — A Buddhist sutra recounting the renunciation of two Brahmins and presenting a Buddhist cosmology of human social origins.
 
 ## Retributive-Rebirth
@@ -2240,9 +2965,21 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[unsummoned-ministers-bu-zhao-zhi-chen|Unsummoned Ministers / 不召之臣]] — A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.
 
+## Sagehood
+
+- [[confucius-western-saint-liezi|Confucius and the Western Saint (西方聖者) / 西方聖者]] — A Liezi account of Confucius making an enigmatic reference to "a saint in the west" who rules without governing, speaks without persuasion, and transforms without coercion.
+
+## Saint
+
+- [[confucius-western-saint-liezi|Confucius and the Western Saint (西方聖者) / 西方聖者]] — A Liezi account of Confucius making an enigmatic reference to "a saint in the west" who rules without governing, speaks without persuasion, and transforms without coercion.
+
 ## Samadhi
 
 - [[nirodha-samapatti|滅盡定 Nirodhāsamāpatti / Absorption of Cessation]] — A Buddhist meditation attainment where all mental formations cease, enabling practitioners to grant present-world blessings to beings.
+
+## Samsara
+
+- [[three-poisons-greed-hatred-delusion-buddhist-teaching|三毒的業報與解脫之道 / 三毒的業報與解脫之道 / 三毒の業報と解脱への道]] — Buddhist teachings on the three poisons (贪瞋痴) and their role in binding beings to samsara, as illustrated through multiple narratives in the Shengjing.
 
 ## Sangha
 
@@ -2267,6 +3004,7 @@ The article and supplementary source detail the progressive renunciation process
 - [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
 - [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
+- [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
 - [[great-learning-da-xue|The Great Learning (Da Xue) / 大學]] — A Confucian classic that outlines the path of self-cultivation leading to social harmony and proper governance, foundational to Neo-Confucian philosophy.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[heart-mind-moral-cultivation-mengzi|Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養]] — Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense
@@ -2275,7 +3013,10 @@ The article and supplementary source detail the progressive renunciation process
 - [[learning-attitude-analects|Learning Attitude in Analects / 论语学习态度]] — Confucian perspective on learning as urgent pursuit and lifelong commitment
 - [[mengzi-haoran-qi-vast-flowing-vital-energy|Vast Flowing Qi (浩然之氣) / 浩然之氣]] — Mencius's concept of moral cultivated vital energy that fills the universe when properly nurtured through accumulated righteousness.
 - [[mengzi-indomitable-heart-budongxin|Indefatigable Heart (不動心) / 不動心]] — Mencius's concept of the steadfast moral heart, cultivated through courage, righteosness, and the accumulation of moral energy.
+- [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
+- [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
+- [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
 
 ## Self-Examination
@@ -2283,9 +3024,26 @@ The article and supplementary source detail the progressive renunciation process
 - [[four-contemplations-buddhist-practice-ahang|Four Contemplations / 四事 / 四つの観法]] — Buddhist contemplative practice of observing body, sensations, mind, and dharma in oneself and others, as taught in the Ahang正行經.
 - [[mengzi-moral-cultivation-lost-mind|Moral Cultivation and the Lost Mind in Mencius / 放心与求其放心]] — The concept of "the lost mind" (放心) and the importance of recovering it through learning, as articulated in Mencius's moral philosophy.
 
+## Self-Sacrifice
+
+- [[bodhisattva-practice-body-offering|Body Offering in Buddhist Narrative / 佛教身施物語]] — The Buddhist narrative of offering one's own body as the ultimate act of almsgiving and dedication to the Buddhist path.
+- [[bodhisattva-sacrifice-king-changshou|King Changshou's Sacrifice / 長壽王的犧牲 / 長寿王の犠牲]] — The narrative archetype of King Changshou, a bodhisattva who sacrifices his kingdom and life rather than wage war, embodying Buddhist non-retaliation ideals.
+- [[prince-sujata-story-bodhisattva-sacrifice|The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice]] — The narrative of Prince Sūjāta who offered his own flesh to feed his starving parents, serving as the central exemplum of filial piety and compassionate self-sacrifice in Mahayana Buddhism.
+- [[rabbit-king-self-sacrifice-hermit|Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous Rabbit]] — The Jataka story of a rabbit king who, having learned the Dharma from a brahmana, offered his own body as fuel for a fire to feed the ascetic during a time of famine.
+- [[thousand-lamp-body-offering-bodhisattva-practice|The King Who Lit a Thousand Lamps / 以身燃千燈之王]] — The Buddhist narrative of a king who sacrificed his own flesh to light a thousand lamps as the ultimate act of dedication to the Dharma.
+- [[throw-body-feed-tigers-jataka|Throw Body to Feed Tigers (投身飼虎) - Jataka Tale of Prince Mahāsattva]] — The Jataka story of Prince Mahāsattva who sacrificed his body to feed seven starving tiger cubs, a paradigm of ultimate bodhisattva compassion.
+
 ## Sense-Defilements
 
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
+
+## Seven Factors Of Awakening
+
+- [[five-ascetics-seven-śrāvaka-buddhist-narrative|五仙人的故事與七覺支的象徵意義 / 五仙人故事與七覺支象徵意義 / 五仙人の物語と七覚支の象徴的意義]] — The narrative of the five ascetics in the Shengjing, illustrating Buddhist teachings on karma, rebirth, and the development of the seven factors of awakening.
+
+## Seven Factors Of Enlightenment
+
+- [[七覺意注-(安世高)|Seven Factors of Enlightenment Commentary (An Shigao) / 七覺意注（安世高）]] — An early Chinese commentary by An Shigao on the seven factors of enlightenment within the thirty‑seven bodhiparamitas.
 
 ## Seven-Awakening-Factors
 
@@ -2294,6 +3052,18 @@ The article and supplementary source detail the progressive renunciation process
 ## Seven-Buddhas
 
 - [[seven-buddhas-current-kalpa|Seven Buddhas of the Current Kalpa / 七佛]] — The seven Buddhas who have appeared in the current kalpa, from Vipassin to Shakyamuni.
+
+## Shengjing
+
+- [[bird-nali-voice-shengjing|我所鳥的故事 / 我所鳥的故事 / 「我所」鳥の物語]] — The parable of the "Mine-Owner" bird in the Shengjing, illustrating the Buddhist teaching on non-attachment and the futility of possessiveness.
+- [[five-ascetics-seven-śrāvaka-buddhist-narrative|五仙人的故事與七覺支的象徵意義 / 五仙人故事與七覺支象徵意義 / 五仙人の物語と七覚支の象徴的意義]] — The narrative of the five ascetics in the Shengjing, illustrating Buddhist teachings on karma, rebirth, and the development of the seven factors of awakening.
+- [[nalai-tathagata-story-shengjing|那賴仙人與方迹王的故事 / 那賴仙人與方迹王的故事 / 那賴仙人伝と方迹王物語]] — The Buddhist parable of King Fangji enslaved by desire and the ascetic Natai who freed him through teachings on the nature of craving.
+- [[three-poisons-greed-hatred-delusion-buddhist-teaching|三毒的業報與解脫之道 / 三毒的業報與解脫之道 / 三毒の業報と解脱への道]] — Buddhist teachings on the three poisons (贪瞋痴) and their role in binding beings to samsara, as illustrated through multiple narratives in the Shengjing.
+- [[turtle-monkey-past-life-karmic-narrative-shengjing|鱉獼猴前世的業報故事 / 鱉と獼猴の前世因果物語 / 거북이와 원숭이의 전생 업보 이야기]] — The turtle and monkey past-life karmic connection in the Shengjing, illustrating how past-life relationships manifest in the present and the consequences of broken trust.
+
+## Shravaka-Bodhisattva
+
+- [[jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra|Ten Causes for Teaching the Mind-Ground Sutra / 教起因緣]] — The ten reasons why Shakyamuni Buddha taught the Mahayana Mind-Ground Contemplation Sutra, as enumerated in the commentary.
 
 ## Shravaka-Teachings
 
@@ -2312,6 +3082,7 @@ The article and supplementary source detail the progressive renunciation process
 ## Six-Perfections
 
 - [[dana-paramita-bodhisattva-giving|Dāna Pāramitā / 檀波羅蜜 / 檀波羅蜜]] — The perfection of giving in Mahayana Buddhism, exemplified by bodhisattvas who sacrifice everything for the welfare of beings.
+- [[throw-body-feed-tigers-jataka|Throw Body to Feed Tigers (投身飼虎) - Jataka Tale of Prince Mahāsattva]] — The Jataka story of Prince Mahāsattva who sacrificed his body to feed seven starving tiger cubs, a paradigm of ultimate bodhisattva compassion.
 - [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
 
 ## Small Body
@@ -2335,9 +3106,18 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[fixed-livelihood|Fixed Livelihood / 恒产论]] — Mencius's economic theory that stable property ownership is essential for moral stability
 
+## Spiritual-Attainment
+
+- [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
+
 ## Spiritual-Cultivation
 
 - [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
+
+## Spiritual-Practice
+
+- [[king-mu-spiritual-flight-liezi|King Mu's Spiritual Flight / 周穆王神遊 / 周穆王のspirit journey]] — The philosophical discourse on spiritual transcendence as described in the Liezi account of King Mu's journey with the transformed person.
+- [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
 
 ## Statecraft
 
@@ -2355,22 +3135,45 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[bimbisara-king-magadha-ren-xian|King Bimbisara / 頻婆娑羅王]] — The Magadha king devoted to the Buddha, whose past life as a "Human Immortal" attained stream-entry, now reborn as a celestial prince.
 
+## Strength
+
+- [[gong-yibo-strength-liezi|Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力]] — A Liezi anecdote about Gong Yibo explaining true strength through the example of his master Shang Qiu, who possessed invincible power yet never used it.
+
 ## Stub
 
 - [[arhat|Arhat / 阿罗汉]] — An arhat (Sanskrit; Pali arahat) is a fully enlightened being who has achieved nirvāṇa and is liberated from the cycle of rebirth in early Buddhist teaching.
 - [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
 - [[confucian|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system from ancient China that emphasizes moral cultivation, ritual propriety, and harmonious social relationships.
 - [[doctrine-of-the-mean|Doctrine Of The Mean]] — 
+- [[four-noble-truths|Four Noble Truths / 四聖諦]] — The core Buddhist doctrine summarizing the nature of suffering, its origin, cessation, and the path to liberation.
 - [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
 - [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
 - [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
 - [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
 - [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
+- [[七覺意注-(安世高)|Seven Factors of Enlightenment Commentary (An Shigao) / 七覺意注（安世高）]] — An early Chinese commentary by An Shigao on the seven factors of enlightenment within the thirty‑seven bodhiparamitas.
+- [[五根五力注-(安世高)|Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)]] — Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.
 - [[人性善|... / ...]] — ...
 - [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
 - [[修身|Self-Cultivation / 修身]] — The Confucian practice of refining one's moral character as the foundation for personal, familial, and societal harmony.
 - [[儒家|Confucianism / 儒家]] — Confucianism is an ethical and philosophical system originating in ancient China, emphasizing moral virtue, proper conduct, and harmonious social relationships.
+- [[儒家政治哲学|儒家政治哲学]] — title: Confucian Political Philosophy / 儒家政治哲学  
+summary: This article explores the origins, core concepts, development, and significance of Confucian political philosophy, highlighting the moral foundations of governance established by Confucius and Mencius.  
+tags: confucianism, political-philosophy, chinese-philosophy, mengzi, moral-governance  
+---  
+## English  
+Confucian political philosophy is a framework that emphasizes the moral foundation of political authority, originating from the teachings of Confucius and further developed by Mencius. Core concepts include ren (benevolence), li (ritual), junzi (gentleman), righteous governance, and the Mandate of Heaven, with an emphasis on virtue over profit and moral self-cultivation as the basis for political legitimacy. The idea of "tianxia" (all-under-heaven) unites the populace under a benevolent ruler. This philosophy evolved notably during the Han dynasty and Neo-Confucianism, with modern reinterpretations affirming that political order must be rooted in moral cultivation. The ruler is seen as a moral exemplar whose virtue is essential for effective governance.  
+## 中文  
+儒家政治哲学是强调政治权威道
+- [[儒家政治哲學|Confucian Political Philosophy / 儒家政治哲學]] — Confucian political philosophy integrates moral virtue, ritual propriety, and humanistic ethics into the governance of society.
 - [[君子|Junzi (君子) / 君子]] — The Confucian ideal of the morally cultivated person, embodying virtue, righteousness, and social responsibility.
+- [[如來八希有法|Eight Rare Teachings of the Tathāgata / 如來八希有法]] — A set of eight rarely‑occuring doctrines taught by the Buddha that reveal the conditions for attaining ultimate liberation.
+- [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
+- [[阿羅漢果|Arhat Fruit / 阿羅漢果]] — The ultimate spiritual attainment of an Arhat, signifying liberation from the cycle of rebirth.
+
+## Stupa
+
+- [[如来八寶塔-eight-tathagata-stupas|Eight Tathāgata Stupas / 如來八寶塔 / 如来八宝塔]] — The eight sacred stupas representing key events in the Buddha's life, described in the Mahāyāna Mind-Ground Contemplation Sūtra
 
 ## Suffering
 
@@ -2389,6 +3192,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[three-treasuries-four-collections|三藏三分 Four Āgamas / Tripartite Canon and Quadruple Sūtra Collections]] — The organization of the Buddhist canon into three treasures and four sūtra collections, attributed to Ānanda's compilation guided by celestial beings.
 
+## Sutra-Commentary
+
+- [[dacheng-bensheng-xindi-guanjing-kewen|大乘本生心地觀經淺註科文 / Commentary Outline on the Mahayana Mind-Ground Contemplation Sutra]] — A comprehensive structural outline and commentary classifying the contents of the Mahayana Sutra of Mind-Ground Contemplation into prefaces, main text, and circulation sections with detailed doctrinal divisions.
+
 ## Sutra-Compilation
 
 - [[ananda-compiled-scriptures|阿難集經 Ānanda's Compilation of the Buddhist Canon]] — The Buddha's attendant who compiled the sutras after the Buddha's parinirvana, organizing them into the three treasures and four collections.
@@ -2399,11 +3206,17 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Sutras
 
+- [[bihuajing|The "Sad Flower Sutra" / 《悲華經》]] — The "Sad Flower Sutra" is a Mahayana Buddhist text encompassing teachings delivered by the Buddha on various profound subjects.
 - [[human-immortal-ren-xian|Human Immortal / 人仙]] — A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger revealing the karmic fate of King Bimbisara.
+- [[如來八希有法|Eight Rare Teachings of the Tathāgata / 如來八希有法]] — A set of eight rarely‑occuring doctrines taught by the Buddha that reveal the conditions for attaining ultimate liberation.
 
 ## Symbolism
 
 - [[bagua-formation-trigrams-yijing|Eight Trigrams Formation / 八卦成列]] — The philosophical principle of how the eight trigrams are arranged to manifest all phenomena in the Yijing
+
+## Tang-Buddhism
+
+- [[miaose-wang-bodhisattva-sacrifice|King Subhūti / 妙色王]] — A past incarnation of the Buddha who sacrificed his son, wife, and body to obtain the Dharma teaching on attachment.
 
 ## Tang-Dynasty-Buddhism
 
@@ -2414,6 +3227,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[da-cheng-ben-sheng-xin-di-guan-jing|大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground]] — A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.
 
+## Tang-Translations
+
+- [[miaose-wang-yinyuan-jing|King Subhūti's Cause and Conditions Sutra / 妙色王因緣經]] — A Buddhist sutra depicting King Subhūti's supreme sacrifice of his son, wife, and body to obtain the Dharma teaching on attachment.
+
 ## Tang-Wan-Kung
 
 - [[tang-wan-kung|Tang Wan Kung / 唐宓公]] — Overview of the historical and philosophical significance of Tang Wan Kung in Confucianism.
@@ -2421,14 +3238,34 @@ The article and supplementary source detail the progressive renunciation process
 ## Taoism
 
 - [[dao-the-way-taoism|Dao (The Way) / 道]] — The fundamental Taoist concept of Dao (The Way), the ultimate reality and principle underlying the universe.
+- [[dongmen-wu-grieflessness|Dongmen Wu's Grieflessness / 東門吳之無憂]] — The story of Dongmen Wu, who remained unmoved by his son's death because he had previously been without a son and felt no loss.
+- [[force-fate-debate-liezi|Force and Fate Debate / 力命之辯]] — The philosophical dialogue between Force (力) and Fate (命) exploring whether human effort or destiny determines life outcomes.
+- [[guan-bao-friendship-liezi|Guan Zhong and Bao Shuya Friendship / 管鮑之交]] — The paradigmatic friendship between Guan Zhong and Bao Shuya, reinterpreted by Liezi as an example of fate determining social outcomes rather than personal virtue.
+- [[king-mu-spiritual-flight-liezi|King Mu's Spiritual Flight / 周穆王神遊 / 周穆王のspirit journey]] — The philosophical discourse on spiritual transcendence as described in the Liezi account of King Mu's journey with the transformed person.
+- [[self-generating-life-death|Self-Generating Life and Death / 自生自死]] — The Liezi doctrine that life, death, prosperity, and poverty arise spontaneously from fate, not from human control.
+
+## Taoist-Metaphysics
+
+- [[laochengzi-illusion-transformation-liezi|Lao Chengzi's Study of Illusion / 老成子學幻 / 老成子の幻化学]] — The philosophical narrative of Lao Chengzi learning the art of transformation and illusion from Yin Wen, including the Daoist theory of change and the nature of reality.
+
+## Taoist-Psychology
+
+- [[eight-testings-six-omens-liezi|Eight Testings and Six Omens / 覺有八徵夢有六候 / 八徵と六候]] — The Liezi philosophical framework classifying eight experiential states of waking life and six categories of dreams, with implications for understanding consciousness.
 
 ## Tathagata
 
+- [[dacheng-xindi-guanjing-san-shen|如來三身 / Three Bodies of the Tathagata (三身說)]] — The doctrinal classification of the Buddha's three bodies—Dharma-body, Enjoyment-body, and Transformational body—as expounded in the Mahayana Mind-Ground Contemplation Sutra, with detailed elaboration of their characteristics and salvific functions.
+- [[lotus-up-tathagata|蓮華上如來 / Lotus-Up Tathāgata (Liánhuá Shàng Rúlái)]] — A celestial Buddha in Mahāyāna Buddhism who appears in the Lotus World, achieving enlightenment in a single night and manifesting great supernatural powers.
 - [[tathagata-eight-rare-qualities|Eight Rare Qualities of a Tathagata / 如來八希有法]] — Eight exceptional qualities that appear when a Buddha enters the world, as taught by Indra and repeated by Brahma, forming a unique doctrinal teaching of this sutra.
+- [[如來八希有法|Eight Rare Teachings of the Tathāgata / 如來八希有法]] — A set of eight rarely‑occuring doctrines taught by the Buddha that reveal the conditions for attaining ultimate liberation.
 
 ## Tathagata-Eight-Rare-Qualities
 
 - [[thirty-three-heavens|Trayastriṃśa Heaven / 三十三天（忉利天）]] — The Heaven of Thirty-Three Gods where the initial discourse of the Great Firm Brāhmaṇa Sūtra takes place, presided over by Śakra (帝釋天主) and the site of the first teaching of the eight rare qualities.
+
+## Tathagata-Origin
+
+- [[void-seal-bodhisattva|虛空印菩薩 / Void Seal Bodhisattva (Xūkōng Yìn Púsà)]] — A bodhisattva in Mahāyāna Buddhism who received the teaching of all-knowledge dhāraṇī and later became the Lotus-Up Tathāgata in the Lotus World.
 
 ## Teachings
 
@@ -2442,6 +3279,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[mengzi-seven-chapters-structural-analysis|Mencius Seven Chapters / 孟子七篇結構]] — Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance
 
+## Textual-Analysis
+
+- [[shi-men-tong-pan-ten-gates-framework|Ten Gates Framework / 十門通判]] — A methodological framework for sutra interpretation consisting of ten categories, originating from the Huayan school and used for systematic Buddhist textual analysis.
+
 ## Textual-Transmission
 
 - [[han-dynasty-mencius-reception|Han Dynasty Reception of Mencius / 汉代孟子接受史]] — Historical process of Mencius's recognition and preservation during the Han dynasty
@@ -2449,6 +3290,7 @@ The article and supplementary source detail the progressive renunciation process
 ## The User Asks: "List 2-4 Relevant Tags For This Article (Comma-Separated
 
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+- [[瞿曇般若流支|瞿曇般若流支]] — 瞿曇般若流支於542年在鄴城與曇林共同翻譯《金色王經》，此譯作質樸典雅、保存梵語語法特色，對南北朝大乘佛教及中國佛教文學產生深遠影響。
 
 ## The User Wants: "List 2-4 Relevant Tags For This Article (Comma-Separated
 
@@ -2482,6 +3324,26 @@ The article and supplementary source detail the progressive renunciation process
 - [[great-brahma-fourfold-teaching|Great Brahma's Fourfold Teaching / 大梵天王四神足說]] — The teaching on the Four Bases of Supernatural Power delivered by Great Brahma King to the thirty-three heavens assembly.
 - [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
 - [[thirty-three-heavens|Trayastriṃśa Heaven / 三十三天（忉利天）]] — The Heaven of Thirty-Three Gods where the initial discourse of the Great Firm Brāhmaṇa Sūtra takes place, presided over by Śakra (帝釋天主) and the site of the first teaching of the eight rare qualities.
+
+## Thirty‑Seven Bodhiparamitas
+
+- [[七覺意注-(安世高)|Seven Factors of Enlightenment Commentary (An Shigao) / 七覺意注（安世高）]] — An early Chinese commentary by An Shigao on the seven factors of enlightenment within the thirty‑seven bodhiparamitas.
+
+## Thirty‑Seven Bodhipāramitās
+
+- [[五根五力注-(安世高)|Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)]] — Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.
+
+## Thousand-Lamps
+
+- [[thousand-lamp-body-offering-bodhisattva-practice|The King Who Lit a Thousand Lamps / 以身燃千燈之王]] — The Buddhist narrative of a king who sacrificed his own flesh to light a thousand lamps as the ultimate act of dedication to the Dharma.
+
+## Three Poisons
+
+- [[three-poisons-greed-hatred-delusion-buddhist-teaching|三毒的業報與解脫之道 / 三毒的業報與解脫之道 / 三毒の業報と解脱への道]] — Buddhist teachings on the three poisons (贪瞋痴) and their role in binding beings to samsara, as illustrated through multiple narratives in the Shengjing.
+
+## Three-Bodies-Doctrine
+
+- [[dacheng-xindi-guanjing-san-shen|如來三身 / Three Bodies of the Tathagata (三身說)]] — The doctrinal classification of the Buddha's three bodies—Dharma-body, Enjoyment-body, and Transformational body—as expounded in the Mahayana Mind-Ground Contemplation Sutra, with detailed elaboration of their characteristics and salvific functions.
 
 ## Three-Dharmas
 
@@ -2519,6 +3381,15 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[three-treasuries-four-collections|三藏三分 Four Āgamas / Tripartite Canon and Quadruple Sūtra Collections]] — The organization of the Buddhist canon into three treasures and four sūtra collections, attributed to Ānanda's compilation guided by celestial beings.
 
+## Transcendence
+
+- [[king-mu-spiritual-flight-liezi|King Mu's Spiritual Flight / 周穆王神遊 / 周穆王のspirit journey]] — The philosophical discourse on spiritual transcendence as described in the Liezi account of King Mu's journey with the transformed person.
+
+## Transformation
+
+- [[laochengzi-illusion-transformation-liezi|Lao Chengzi's Study of Illusion / 老成子學幻 / 老成子の幻化学]] — The philosophical narrative of Lao Chengzi learning the art of transformation and illusion from Yin Wen, including the Daoist theory of change and the nature of reality.
+- [[transformation-generation-huasheng-liezi|Transformation and Generation (化生) / 化生]] — The Liezi philosophical principle that all things are generated through transformation in an endless cyclical process.
+
 ## Translation-History
 
 - [[an-shigao-translation-methodology|An Shigao's Translation Methodology / 安世高譯經方法]] — The translation techniques and contribution of An Shigao, the seminal Parthian monk who translated over 90 Buddhist texts into Chinese during the Eastern Han dynasty.
@@ -2544,6 +3415,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[san-dharmas-upaya-buddhist-classification|Three Dharmas Classification System (三法)]] — A Buddhist doctrinal classification system organizing teachings into virtue, evil, and liberation paths.
 
+## Triyana
+
+- [[dacheng-xindi-guanjing-san-shen|如來三身 / Three Bodies of the Tathagata (三身說)]] — The doctrinal classification of the Buddha's three bodies—Dharma-body, Enjoyment-body, and Transformational body—as expounded in the Mahayana Mind-Ground Contemplation Sutra, with detailed elaboration of their characteristics and salvific functions.
+
 ## Trust
 
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
@@ -2555,6 +3430,10 @@ The article and supplementary source detail the progressive renunciation process
 ## Trust-Systems
 
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+
+## Turtle
+
+- [[turtle-monkey-past-life-karmic-narrative-shengjing|鱉獼猴前世的業報故事 / 鱉と獼猴の前世因果物語 / 거북이와 원숭이의 전생 업보 이야기]] — The turtle and monkey past-life karmic connection in the Shengjing, illustrating how past-life relationships manifest in the present and the consequences of broken trust.
 
 ## Twelve-Austerities
 
@@ -2593,6 +3472,10 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[great-brahma-fourfold-teaching|Great Brahma's Fourfold Teaching / 大梵天王四神足說]] — The teaching on the Four Bases of Supernatural Power delivered by Great Brahma King to the thirty-three heavens assembly.
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
+
+## Vegetarian-Buddhism
+
+- [[辟支佛|Pratyekabuddha / 辟支佛]] — A solitary buddha who achieves enlightenment alone through contemplation of dependent origination, appearing in the Golden King Sutra to demonstrate the power of dāna.
 
 ## Verification
 
@@ -2634,6 +3517,17 @@ The article and supplementary source detail the progressive renunciation process
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
 - [[tian-xia-you-da-zun-san|Three Universally Honored Things / 天下有三尊]] — Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.
 
+## Virtue-Governance". Should We Use Hyphens? It'S Fine.
+
+- [[儒家政治哲学|儒家政治哲学]] — title: Confucian Political Philosophy / 儒家政治哲学  
+summary: This article explores the origins, core concepts, development, and significance of Confucian political philosophy, highlighting the moral foundations of governance established by Confucius and Mencius.  
+tags: confucianism, political-philosophy, chinese-philosophy, mengzi, moral-governance  
+---  
+## English  
+Confucian political philosophy is a framework that emphasizes the moral foundation of political authority, originating from the teachings of Confucius and further developed by Mencius. Core concepts include ren (benevolence), li (ritual), junzi (gentleman), righteous governance, and the Mandate of Heaven, with an emphasis on virtue over profit and moral self-cultivation as the basis for political legitimacy. The idea of "tianxia" (all-under-heaven) unites the populace under a benevolent ruler. This philosophy evolved notably during the Han dynasty and Neo-Confucianism, with modern reinterpretations affirming that political order must be rooted in moral cultivation. The ruler is seen as a moral exemplar whose virtue is essential for effective governance.  
+## 中文  
+儒家政治哲学是强调政治权威道
+
 ## Virtue-Theory
 
 - [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
@@ -2668,11 +3562,17 @@ The article and supplementary source detail the progressive renunciation process
 
 ## Wisdom
 
+- [[entry-all-knowledge-dharani-gate|入一切種智行陀羅尼門 / Entry into the All-Knowledge Dhāraṇī Gate]] — A profound Mahāyāna dhāraṇī practice for entering complete wisdom, enabling practitioners to obtain countless samādhis,Store dhāraṇīs, and achieve supreme enlightenment.
 - [[five-roots-five-powers-an-shigao-commentary|Five Roots and Five Powers / 五根五力]] — The Five Roots (信進念定慧) and Five Powers (信力精進力念力定力慧力) as expounded in An Shigao's Han Dynasty Buddhist commentary.
+- [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
 
 ## World-Origin
 
 - [[light-sound-heaven-buddhist-cosmology|Light-Sound Heaven / 光音天]] — The second dhyana heaven in Buddhist cosmology from which beings descended to earth according to the White Cloth Golden Banner Sutra.
+
+## Wuliangshou-Jing
+
+- [[virama-bodhisattva-pusajiamo|Vīrāma (毘羅摩) — Bodhisattva of Giving]] — A minister's son who became chief minister and exemplified the perfection of giving through vast generosity and skillful means.
 
 ## Xiao
 
@@ -2681,6 +3581,16 @@ The article and supplementary source detail the progressive renunciation process
 ## Yijing
 
 - [[bagua-formation-trigrams-yijing|Eight Trigrams Formation / 八卦成列]] — The philosophical principle of how the eight trigrams are arranged to manifest all phenomena in the Yijing
+- [[miaose-wang-bodhisattva-sacrifice|King Subhūti / 妙色王]] — A past incarnation of the Buddha who sacrificed his son, wife, and body to obtain the Dharma teaching on attachment.
+- [[miaose-wang-yinyuan-jing|King Subhūti's Cause and Conditions Sutra / 妙色王因緣經]] — A Buddhist sutra depicting King Subhūti's supreme sacrifice of his son, wife, and body to obtain the Dharma teaching on attachment.
+
+## Yijing-Translation
+
+- [[you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong|From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖]] — A canonical Buddhist gatha stating that attachment is the origin of suffering and fear, and liberation comes from detachment.
+
+## Yinwen
+
+- [[laochengzi-illusion-transformation-liezi|Lao Chengzi's Study of Illusion / 老成子學幻 / 老成子の幻化学]] — The philosophical narrative of Lao Chengzi learning the art of transformation and illusion from Yin Wen, including the Daoist theory of change and the nature of reality.
 
 ## Zen
 
@@ -2706,9 +3616,21 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[thirty-three-heavens|Trayastriṃśa Heaven / 三十三天（忉利天）]] — The Heaven of Thirty-Three Gods where the initial discourse of the Great Firm Brāhmaṇa Sūtra takes place, presided over by Śakra (帝釋天主) and the site of the first teaching of the eight rare qualities.
 
+## Śibi-Jataka
+
+- [[king-sibi-pigeon-sacrifice|King Śibi Saves the Pigeon (尸毘王救鴿) - The Great Sacrifice of Flesh for Life]] — The classic Jataka tale of King Śibi who cut off his own flesh to save a pigeon from a hawk, exemplifying the perfection of giving in Buddhism.
+
+## Śrāvaka
+
+- [[five-ascetics-seven-śrāvaka-buddhist-narrative|五仙人的故事與七覺支的象徵意義 / 五仙人故事與七覺支象徵意義 / 五仙人の物語と七覚支の象徴的意義]] — The narrative of the five ascetics in the Shengjing, illustrating Buddhist teachings on karma, rebirth, and the development of the seven factors of awakening.
+
 ## Śrāvaka-Path
 
 - [[nikuda-brahmin-sutra|Discourse on Nikuda Brahmins / 佛說尼拘陀梵志經]] — A Buddhist sutra depicting Buddha's dialogue with Nikuda brahmins, critiquing external ascetic practices and revealing defilement accumulation.
+
+## 佛教故事
+
+- [[prince-sujata-story-bodhisattva-sacrifice|The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice]] — The narrative of Prince Sūjāta who offered his own flesh to feed his starving parents, serving as the central exemplum of filial piety and compassionate self-sacrifice in Mahayana Buddhism.
 
 ## 兼愛
 
@@ -2722,6 +3644,18 @@ The article and supplementary source detail the progressive renunciation process
 
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
 
+## 孝道
+
+- [[prince-sujata-story-bodhisattva-sacrifice|The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice]] — The narrative of Prince Sūjāta who offered his own flesh to feed his starving parents, serving as the central exemplum of filial piety and compassionate self-sacrifice in Mahayana Buddhism.
+
+## 生成
+
+- [[transformation-generation-huasheng-liezi|Transformation and Generation (化生) / 化生]] — The Liezi philosophical principle that all things are generated through transformation in an endless cyclical process.
+
+## 須闍提太子
+
+- [[prince-sujata-story-bodhisattva-sacrifice|The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice]] — The narrative of Prince Sūjāta who offered his own flesh to feed his starving parents, serving as the central exemplum of filial piety and compassionate self-sacrifice in Mahayana Buddhism.
+
 
 ---
-*195 articles indexed*
+*261 articles indexed*
