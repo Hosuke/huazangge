@@ -5,12 +5,14 @@ summary: Discusses the foundational role of benevolence in Confucian ethics and 
 tags:
 - analects
 - benevolence
+- chinese-ethics
 - confucianism
 - ethics
+- moral-philosophy
 - philosophy
 - virtue-ethics
 title: Benevolence / 仁
-updated: '2026-04-04T19:10:34.479713+00:00'
+updated: '2026-04-05T05:29:36.958073+00:00'
 ---
 
 ## English
@@ -167,3 +169,38 @@ The relationship between [[virtue-ethics]] and [[confucian-ethics]] demonstrates
 ### 仁徳の修養
 
 仁徳は持続的な修養を必要とする：「君子去仁、惡乎成名？君子無終食之間違仁、造次必於是、顛沛必於是」（『論語』里仁篇）。これは[[virtue-ethics]]と[[confucian-ethics]]に関連し、仁が義や礼などの徳とともに完全な道德的人格を形成することを示している。
+
+---
+
+## English
+**Benevolence** (仁, rén) is the fundamental virtue in [[Confucianism]], representing humaneness, goodness, and moral excellence. In the [[confucius-analects]], Confucius establishes ren as the highest ethical ideal.
+
+In the "Xue Er" chapter, key aspects of ren include:
+- Filial piety and fraternal respect as its foundation ("孝弟也者，其為仁之本與")
+- Being contrasted with clever speech and ingratiating manners ("巧言令色，鮮矣仁")
+- Involving love for all people while being close to the virtuous ("汎愛眾，而親仁")
+- Connected to other virtues like faithfulness and ritual propriety
+
+Ren encompasses both inner moral character and outward ethical conduct, serving as the guiding principle for personal cultivation and social relationships in Confucian thought.
+
+## 中文
+**仁**是儒家思想的核心德目，代表人道、善性及道德完善的最高境界。在《[[confucius-analects|论语]]》中，孔子将仁确立为终极伦理理想。
+
+《学而》篇中关于仁的论述包括：
+- 以孝悌为根本（"孝弟也者，其為仁之本與"）
+- 与巧言令色形成鲜明对比（"巧言令色，鮮矣仁"）
+- 包含泛爱众而亲仁的实践要求
+- 与信、礼等其他德目相互关联
+
+仁既指内在的道德品质，也包含外在的伦理实践，是儒家思想中个人修养与人际关系的指导原则。
+
+## 日本語
+**仁**は儒教思想における根本的な徳目であり、人道、善性、道徳的卓越性を表します。『[[confucius-analects|論語]]』において、孔子は仁を最高の倫理的理想として確立しました。
+
+「学而」篇における仁の側面：
+- 孝悌をその基盤とする（「孝弟也者，其為仁之本與」）
+- 巧言令色と対比される（「巧言令色，鮮矣仁」）
+- 万人を愛しつつ有徳者に親しむことを含む（「汎愛眾，而親仁」）
+- 信実や礼儀作法などの他の徳目と関連する
+
+仁は内面的な道徳的性格と外面的な倫理的実践の両方を包含し、儒教思想における個人修養と社会関係の指導原理として機能します。

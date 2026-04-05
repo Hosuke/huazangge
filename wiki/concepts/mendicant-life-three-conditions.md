@@ -1,6 +1,54 @@
 ---
-summary: ''
-tags: []
+summary: 'The user is asking me to write a one-line summary for an article titled
+  "mendicant-life-three-conditions" with additional source information about a Buddhist
+  text called "Discourse on the Origin of the Great Firm Brahman."
+
+
+  Looking at the content provided, it describes stages of renunciation in this Buddhist
+  narrative - a detailed account of someone (the Great Firm Brahmin) going through
+  multiple stages of renunciation, rejecting various worldly attachments (permission
+  from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+
+  However, the article title mentions "mendicant-life-three-conditions" which suggests
+  there''s a main article about three conditions for the mendicant life. The additional
+  source provides a narrative that complements this philosophical framework through
+  a detailed story of renunciation.
+
+
+  I need to write a one-line summary that captures the essence of this article. The
+  content is about:
+
+  1. A narrative about renunciation in Buddhism
+
+  2. The stages of rejecting worldly attachments
+
+  3. A detailed story showing Buddhist teachings on spiritual values
+
+
+  Let me craft a concise one-line summary:
+
+
+  The article and supplementary source detail the progressive renunciation process
+  of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy
+  through his rejection of royal approval, material wealth,'
+tags:
+- 'the user wants: "list 2-4 relevant tags for this article (comma-separated'
+- 'lowercase):"
+
+
+  the article is "mendicant-life-three-conditions". the additional source is a buddhist
+  text about renunciation. likely the tags are about buddhism'
+- renunciation
+- mendicant life
+- buddhist teachings
+- perhaps "renunciation"
+- '"buddhism"'
+- '"spiritual hierarchy"'
+- '"great firm brahmin"'
+- '"the three conditions"? the main article title "mendicant-life-three-conditions"
+  suggests three conditions for mendicant life. so tags could be: "buddhism"'
+- '"'
 title: mendicant-life-three-conditions
 ---
 

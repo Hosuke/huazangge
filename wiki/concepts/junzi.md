@@ -8,10 +8,12 @@ tags:
 - confucianism
 - ethics
 - junzi
+- moral-cultivation
 - moral-responsibility
 - philosophy
+- virtue
 title: The Role of the Junzi / 君子的角色
-updated: '2026-04-04T21:47:05.106579+00:00'
+updated: '2026-04-05T05:29:36.955711+00:00'
 ---
 
 ## English
@@ -272,3 +274,44 @@ Through the cultivation of [[benevolence|benevolence]], righteousness, and wisdo
 文本は個人修養と政治的効力を結びつける：「君子之道、辟如行遠必自邇」。
 
 [[benevolence|仁]]・義・智などの徳を培養することで、君子は国を治め天下を平らかにする能力を得る。
+
+---
+
+## English
+The **junzi** (君子) is a central concept in [[Confucianism]] representing the ideal of the morally cultivated person. In the [[confucius-analects]], Confucius describes the junzi as someone who embodies virtue, wisdom, and proper conduct.
+
+Key characteristics from the "Xue Er" chapter include:
+- Not being angered when others don't recognize one's worth ("人不知而不慍")
+- Being devoted to fundamental virtues like filial piety and fraternal respect
+- Avoiding clever speech and ingratiating manners ("巧言令色，鮮矣仁")
+- Being serious and dignified ("君子不重則不威")
+- Prioritizing moral cultivation over material comforts ("君子食無求飽，居無求安")
+- Not worrying about being unknown, but worrying about not knowing others
+
+The junzi serves as a moral exemplar who cultivates inner virtue while maintaining proper social relationships and contributing to social harmony.
+
+## 中文
+**君子**是儒家思想的核心概念，代表道德修养完善的人格典范。在《[[confucius-analects|论语]]》中，孔子系统阐述了君子的人格特质。
+
+《学而》篇中关于君子的论述包括：
+- 不因他人不了解自己而恼怒（"人不知而不慍"）
+- 致力于孝悌等根本道德的修养
+- 避免巧言令色的虚伪表现（"巧言令色，鮮矣仁"）
+- 保持庄重威严的仪态（"君子不重則不威"）
+- 追求道德完善而非物质享受（"君子食無求飽，居無求安"）
+- 不患人之不己知，患不知人也
+
+君子作为道德楷模，通过内在德性的修养与外在行为的规范，实现个人完善与社会和谐的统合。
+
+## 日本語
+**君子**は儒教思想における中心的概念であり、道徳的に修養された理想的人格を表します。『[[confucius-analects|論語]]』において、孔子は君子を徳、知恵、適切な行動を体現する人物として描いています。
+
+「学而」篇における君子の特徴：
+- 他者に理解されなくても怒らない（「人不知而不慍」）
+- 孝悌などの基本的な徳目に専念する
+- 巧言令色を避ける（「巧言令色，鮮矣仁」）
+- 荘重で威厳のある態度を保つ（「君子不重則不威」）
+- 物質的享受より道徳的修養を優先する（「君子食無求飽，居無求安」）
+- 自分が知られないことを憂えず、他者を知らないことを憂える
+
+君子は道徳的模範として、内面的な徳性の修養と適切な社会的関係の維持を通じて、社会調和に貢献します。

@@ -1,10 +1,109 @@
 ---
 title: Wiki Index
-updated: 2026-04-05T04:46:08.017128+00:00
+updated: 2026-04-05T05:36:27.763955+00:00
 ---
 
 # Knowledge Base Index
 
+
+## "
+
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
+## "Buddhism"
+
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
+## "Confucian
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
+## "Great Firm Brahmin"
+
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
+## "Innate Goodness"
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
+## "Spiritual Hierarchy"
+
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
+## "The Three Conditions"? The Main Article Title "Mendicant-Life-Three-Conditions" Suggests Three Conditions For Mendicant Life. So Tags Could Be: "Buddhism"
+
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
+## 2-4 Tags.
+
+We Need To Interpret The Article'S Content: It'S About Mencius
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 
 ## Bodhisattva Stages
 
@@ -101,6 +200,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 ## Analects
 
+- [[analects-confucius|The Analects of Confucius / 论语]] — The Analects present the philosophical dialogues and teachings of the ancient Chinese philosopher Confucius.
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
 - [[analects-xue-er|Learning and Its Practice / 学而时习之]] — The opening chapter of the Analects emphasizing the importance of continuous learning, review, and friendship in personal cultivation.
 - [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
@@ -111,11 +211,14 @@ updated: 2026-04-05T04:46:08.017128+00:00
 - [[confucian-political-philosophy|Confucian Political Philosophy / 儒家政治哲学]] — Confucius' teachings on governance, social order, and the proper exercise of power
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+- [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
+- [[five-virtues-four-vices|Five Virtues and Four Vices / 五美四恶]] — Confucius's political philosophy outlining five virtues to cultivate and four vices to avoid in governance
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
 - [[junzi-cultivation|Junzi Cultivation / 君子修养]] — Confucius' teachings on the cultivation of moral character and virtuous conduct
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
+- [[knowing-destiny-rites-words|Knowing Destiny, Rites, and Words / 知命知礼知言]] — Confucius's three essential knowledges for becoming a true gentleman in the Analects
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
@@ -127,6 +230,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Anapana
 
 - [[four-agnas-four-absorptions-buddhist-meditation|四種阿那般那 / Four Ānāpānas / 四つの阿那般那]] — A Buddhist meditation practice involving four types of breath contemplation and mental development stages.
+
+## Ancient China
+
+- [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
 
 ## Ancient-China
 
@@ -169,6 +276,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Austerities
 
 - [[toutuo-xing|頭陀行 / Dhutanga Practices]] — 頭陀行乃佛教十三種清淨苦行，修習此法可去衣、食、住之貪著，速得解脫
+
+## Authentication
+
+- [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
 
 ## Awakening
 
@@ -220,6 +331,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Brahmin-Conversion
 
 - [[baiyi-jinzhuang-brahmin-origin-sutra|Baiyi and Jinzhuang: The Two Brahmins' Origin Sutra / 白衣金幢二婆羅門緣起經]] — A Buddhist sutra recounting how two brahmins, Baiyi and Jinzhuang, encounter the Buddha and are enlightened about karma and caste equality before renouncing worldly life.
+- [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
 
 ## Brahmins
 
@@ -241,6 +353,28 @@ updated: 2026-04-05T04:46:08.017128+00:00
 - [[four-bases-supernatural-power-siddhartha|Four Bases of Supernatural Power / 四神足]] — The Four Bases of Supernatural Power (rddhipāda) taught by Mahabrahma Deva, describing the spiritual faculties of desire, endeavor, mind, and investigation.
 - [[four-castes-origin-buddhist-cosmology|Buddhist Origin of the Four Castes / 四姓起源]] — Buddhist cosmological account of how the four varnas (brahman, kshatriya, vaishya, shudra) arose from primordial beings and the Buddha's teaching on karmic equality.
 - [[human-immortal-ren-xian|Human Immortal / 人仙]] — A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger revealing the karmic fate of King Bimbisara.
+- [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
+
+## Buddhist Ethics
+
+- [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
+
+## Buddhist Teachings
+
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
 
 ## Buddhist-Asceticism
 
@@ -333,6 +467,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Buddhist-Sutra
 
 - [[an-shigao-translated-agama-zhengxing-sutra|Fo Shuo Ahán Zhèng Xíng Jīng (The Sutra of Proper Conduct in Āgama) / 佛說阿含正行經]] — An Eastern Han translation by An Shigao presenting core Buddhist teachings on proper conduct, the five thieves, and mental cultivation.
+- [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
 - [[nikuda-brahmin-sutra|Discourse on Nikuda Brahmins / 佛說尼拘陀梵志經]] — A Buddhist sutra depicting Buddha's dialogue with Nikuda brahmins, critiquing external ascetic practices and revealing defilement accumulation.
 - [[niyagrodha-brahma-sutra-discourse|The Discourse on Niḡrodha Brahmā / 佛說尼拘陀梵志經]] — A Mahāyāna sutra depicting the Buddha's discourse with the ascetic Niḡrodha, critiquing false ascetic practices and demonstrating the nature of true Buddhist practice.
@@ -340,6 +475,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Buddhist-Sutras
 
 - [[baiyi-jinzhuang-brahmin-origin-sutra|Baiyi and Jinzhuang: The Two Brahmins' Origin Sutra / 白衣金幢二婆羅門緣起經]] — A Buddhist sutra recounting how two brahmins, Baiyi and Jinzhuang, encounter the Buddha and are enlightened about karma and caste equality before renouncing worldly life.
+- [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
 - [[white-cloth-golden-banner-two-brahmins-origin-sutra|White Cloth and Golden Banner Two Brahmins Origin Sutra / 白衣金幢二婆羅門緣起經]] — A Buddhist sutra recounting the renunciation of two Brahmins and presenting a Buddhist cosmology of human social origins.
 
 ## Buddhist-Texts
@@ -388,6 +524,19 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
 
+## China
+
+- [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
+
+## Chinese Philosophy
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
+
+## Chinese Thought
+
+- [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
+
 ## Chinese-Beliefs
 
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
@@ -414,15 +563,24 @@ updated: 2026-04-05T04:46:08.017128+00:00
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
 - [[dao-de-jing-silk-manuscript|Dao De Jing (Silk Manuscript) / 道德經帛書本 / 道德経帛書本]] — The Dao De Jing Silk Manuscript presents the earliest complete version of Laozi's text, with its distinctive chapter ordering placing virtue before the Way.
 
+## Chinese-Ethics
+
+- [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
+
 ## Chinese-Philosophy
 
 - [[bagua-formation-trigrams-yijing|Eight Trigrams Formation / 八卦成列]] — The philosophical principle of how the eight trigrams are arranged to manifest all phenomena in the Yijing
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
+- [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
 - [[dao-the-way-taoism|Dao (The Way) / 道]] — The fundamental Taoist concept of Dao (The Way), the ultimate reality and principle underlying the universe.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
+
+## Classical Chinese Literature
+
+- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
 
 ## Classical-Canon
 
@@ -440,6 +598,14 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[chaou-ke|Chaou K'e / 赵岐]] — Han dynasty scholar who created the first major commentary on Mencius
 
+## Classical-Texts
+
+- [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
+
+## Comma-Separated
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
 ## Computational-Efficiency
 
 - [[model-quantization|Model Quantization / 模型量化 / モデル量子化]] — A technique for reducing AI model size and computational requirements by representing model parameters with lower-precision data types.
@@ -449,6 +615,14 @@ updated: 2026-04-05T04:46:08.017128+00:00
 - [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
 
+## Confucian-Cultivation
+
+- [[knowing-destiny-rites-words|Knowing Destiny, Rites, and Words / 知命知礼知言]] — Confucius's three essential knowledges for becoming a true gentleman in the Analects
+
+## Confucian-Governance
+
+- [[five-virtues-four-vices|Five Virtues and Four Vices / 五美四恶]] — Confucius's political philosophy outlining five virtues to cultivate and four vices to avoid in governance
+
 ## Confucian-Philosophy
 
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
@@ -457,6 +631,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Confucian-Rituals
 
 - [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
+
+## Confucian-Studies
+
+- [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
 
 ## Confucianism
 
@@ -471,26 +649,32 @@ updated: 2026-04-05T04:46:08.017128+00:00
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+- [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
 - [[junzi-characteristics|Junzi Characteristics / 君子品格]] — Confucian ideal of the cultivated person who can be entrusted with governance and maintains integrity in crisis
 - [[junzi-cultivation|Junzi Cultivation / 君子修养]] — Confucius' teachings on the cultivation of moral character and virtuous conduct
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
 - [[learning-attitude-analects|Learning Attitude in Analects / 论语学习态度]] — Confucian perspective on learning as urgent pursuit and lifelong commitment
+- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 - [[political-philosophy-analects|Political Philosophy in Analects / 论语政治哲学]] — Confucian governance principles including meritocracy, moral leadership, and social stability
 - [[ren|Ren (Benevolence) / 仁]] — Central Confucian virtue of humaneness and perfect virtue
 - [[tang-wan-kung|Tang Wan Kung / 唐宓公]] — Overview of the historical and philosophical significance of Tang Wan Kung in Confucianism.
+- [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
+- [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
 
 ## Confucius
 
+- [[analects-confucius|The Analects of Confucius / 论语]] — The Analects present the philosophical dialogues and teachings of the ancient Chinese philosopher Confucius.
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
 - [[analects-zhengzhi|Governance in the Analects / 论语中的治理]] — Examination of Confucius' principles of governance as outlined in the Analects.
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
@@ -499,6 +683,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Contemplation-Practice
 
 - [[five-aggregates-contemplation-buddhist|Five Aggregates Contemplation / 五陰觀 / 五蘊の観想]] — Systematic contemplation on the five aggregates (form, sensation, perception, formations, consciousness) as a path to understanding non-self and achieving liberation.
+
+## Core Concepts
+
+- [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
 
 ## Cosmology
 
@@ -585,6 +773,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 
+## Dynasty
+
+- [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
+
 ## Early-Buddhism
 
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
@@ -623,8 +815,13 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[analects-disciples|Disciples in the Analects / 论语弟子群像]] — Notable disciples appearing in Confucius's Analects
 - [[confucian-education-principles|Confucian Education Principles / 儒家教育原则]] — Confucius's educational philosophy emphasizing poetry, rituals, and music as foundations for character development
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
 - [[learning-attitude-analects|Learning Attitude in Analects / 论语学习态度]] — Confucian perspective on learning as urgent pursuit and lifelong commitment
+
+## Eight-Rare-Qualities
+
+- [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
 
 ## Eightfold-Noble-Path
 
@@ -687,6 +884,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Filial-Piety
 
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
+- [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
 
 ## Filial-Piety-Buddhism
 
@@ -760,9 +958,17 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[niyagrodha-brahma-sutra-discourse|The Discourse on Niḡrodha Brahmā / 佛說尼拘陀梵志經]] — A Mahāyāna sutra depicting the Buddha's discourse with the ascetic Niḡrodha, critiquing false ascetic practices and demonstrating the nature of true Buddhist practice.
 
+## Four-Supernatural-Powers
+
+- [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
+
 ## Gemma-Family
 
 - [[gemma-ai-model|Gemma AI Model / Gemma AI 模型 / Gemma AIモデル]] — Google's open-source family of lightweight, state-of-the-art AI models designed for responsible AI development and efficient deployment.
+
+## Gentleman-Ideal
+
+- [[knowing-destiny-rites-words|Knowing Destiny, Rites, and Words / 知命知礼知言]] — Confucius's three essential knowledges for becoming a true gentleman in the Analects
 
 ## Gguf-Format
 
@@ -777,6 +983,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[analects-zhengzhi|Governance in the Analects / 论语中的治理]] — Examination of Confucius' principles of governance as outlined in the Analects.
 - [[confucian-political-philosophy|Confucian Political Philosophy / 儒家政治哲学]] — Confucius' teachings on governance, social order, and the proper exercise of power
+- [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
 - [[governance-leadership|Governance and Leadership / 治理与领导]] — Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
@@ -837,14 +1044,28 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[changahan-jing|Chang Ahan Jing (Long Discourses of the Buddha) / 長阿含經]] — The Dīrgha-āgama, the longest collection of the Buddha's long discourses in early Buddhist scripture, compiled in four sections and five recitations.
 
+## History
+
+- [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
+
 ## Huayan-School
 
 - [[xianshou-wu-jiao|賢首五教 / Five Teachings of Xianshou / 賢首五教（けんじゅぎょう）]] — A five-tiered doctrinal classification system developed by Fazang (Xianshou) of the Huayan school, categorizing all Buddhist teachings from Hinayana to the highest Yogacara-Tathagatagarbha doctrines.
+
+## Human Nature.
+
+Potential Tags: "Mencius"
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 
 ## Human-Nature
 
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
+
+## Imperial
+
+- [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
 
 ## Indian-Buddhism
 
@@ -854,6 +1075,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[tathagata-eight-rare-qualities|Eight Rare Qualities of a Tathagata / 如來八希有法]] — Eight exceptional qualities that appear when a Buddha enters the world, as taught by Indra and repeated by Brahma, forming a unique doctrinal teaching of this sutra.
 
+## Innate Goodness
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
 ## Intellectual-History
 
 - [[han-dynasty-mencius-reception|Han Dynasty Reception of Mencius / 汉代孟子接受史]] — Historical process of Mencius's recognition and preservation during the Han dynasty
@@ -861,6 +1086,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Introspection
 
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
+
+## Japanese Buddhist Terminology
+
+- [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
 
 ## Jataka
 
@@ -899,6 +1128,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[fixed-livelihood|Fixed Livelihood / 恒产论]] — Mencius's economic theory that stable property ownership is essential for moral stability
 
+## Lay-Buddhism
+
+- [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
+
 ## Leadership
 
 - [[governance-leadership|Governance and Leadership / 治理与领导]] — Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.
@@ -934,6 +1167,35 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[ollama-framework|Ollama Framework / Ollama 框架 / Ollamaフレームワーク]] — An open-source runtime environment for running large language models locally with quantized GGUF model files.
 
+## Lowercase
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
+## Lowercase): # Human-Nature-Is-Good". Then Includes The Article About Mencius And His Theory Of Innate Goodness With Examples.
+
+We Need To Output Tags. The Tags Should Be Relevant To The Article
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
+## Lowercase):"
+
+The Article Is "Mendicant-Life-Three-Conditions". The Additional Source Is A Buddhist Text About Renunciation. Likely The Tags Are About Buddhism
+
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
 ## Machine-Learning
 
 - [[gguf-model-format|GGUF Model Format / GGUF 模型格式 / GGUFモデルフォーマット]] — A unified model file format developed by Georgi Gerganov for efficient storage and inference of quantized large language models.
@@ -944,6 +1206,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[bimbisara-king-magadha-ren-xian|King Bimbisara / 頻婆娑羅王]] — The Magadha king devoted to the Buddha, whose past life as a "Human Immortal" attained stream-entry, now reborn as a celestial prince.
 - [[human-immortal-ren-xian|Human Immortal / 人仙]] — A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger revealing the karmic fate of King Bimbisara.
+- [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
 - [[human-immortal-sutra-ren-xian-jing|Human Immortal Sutra / 人仙經]] — A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.
 
 ## Mahabrahma
@@ -960,10 +1223,15 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[seven-buddhas-current-kalpa|Seven Buddhas of the Current Kalpa / 七佛]] — The seven Buddhas who have appeared in the current kalpa, from Vipassin to Shakyamuni.
 
+## Mahasanghika
+
+- [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
+
 ## Mahayana
 
 - [[fenbie-gongde-lun|分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)]] — A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.
 - [[four-inversions-buddhist|Four Inversions / 四顛倒 / 四颠倒]] — The four inverted or perverted views that afflict sentient beings, mistaking suffering as happiness, impermanence as permanence, non-self as self, and impurity as purity.
+- [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
 
 ## Mahayana-Buddhism
 
@@ -972,6 +1240,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Mahayana-Ethics
 
 - [[bao-en-pin|報恩品 / The Chapter on Repaying Kindness (Bao'en Pin)]] — A major chapter of the Mahāyāna Sūtra on the Cultivation of the Mind-Ground, systematically explaining the Buddhist doctrine of repaying four kinds of kindness.
+
+## Mahayana-Origin-Story
+
+- [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
 
 ## Mahayana-Practice
 
@@ -1005,18 +1277,41 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[benevolent-government|Benevolent Government / 仁政]] — Benevolent government is characterized by a ruler's compassion and morality, leading to harmony in society.
 - [[human-nature|Human Nature / 人性]] — Exploration of the concept of human nature as viewed by Mencius within Confucian philosophy.
+- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
 - [[ministerial-advice|Ministerial Advice / 大臣的劝谏]] — The role of ministerial advice is crucial in ensuring benevolent governance and societal harmony.
 - [[moral-responsibility|Moral Responsibility / 道德责任]] — Moral responsibility emphasizes the ethical obligations individuals hold towards society and each other.
 - [[tang-wan-kung|Tang Wan Kung / 唐宓公]] — Overview of the historical and philosophical significance of Tang Wan Kung in Confucianism.
+- [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
 
 ## Mencius-Commentary
 
 - [[chaou-ke|Chaou K'e / 赵岐]] — Han dynasty scholar who created the first major commentary on Mencius
 
+## Mendicant Life
+
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
 ## Mengzi
 
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
+
+## Mental Factors
+
+- [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
 
 ## Mental-Afflictions
 
@@ -1065,6 +1360,14 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[toutuo-xing|頭陀行 / Dhutanga Practices]] — 頭陀行乃佛教十三種清淨苦行，修習此法可去衣、食、住之貪著，速得解脫
 
+## Moral Cultivation
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
+## Moral Nature
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
 ## Moral-Character
 
 - [[junzi-characteristics|Junzi Characteristics / 君子品格]] — Confucian ideal of the cultivated person who can be entrusted with governance and maintains integrity in crisis
@@ -1073,6 +1376,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[confucian-education-principles|Confucian Education Principles / 儒家教育原则]] — Confucius's educational philosophy emphasizing poetry, rituals, and music as foundations for character development
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
+- [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
 
 ## Moral-Development
 
@@ -1080,6 +1384,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 ## Moral-Philosophy
 
+- [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
 
 ## Moral-Psychology
@@ -1100,6 +1405,14 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Moral-Teaching
 
 - [[nine-unnatural-deaths-buddhist|Nine Unnatural/Unexplained Deaths / 九橫 / 九横]] — Nine categories of untimely deaths caused by preventable causes such as improper eating, wrong conduct, and association with evil companions.
+
+## Mourning Rites
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
+## Mourning-Practices
+
+- [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
 
 ## Mozism
 
@@ -1136,6 +1449,13 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Non-Self
 
 - [[five-aggregates-contemplation-buddhist|Five Aggregates Contemplation / 五陰觀 / 五蘊の観想]] — Systematic contemplation on the five aggregates (form, sensation, perception, formations, consciousness) as a path to understanding non-self and achieving liberation.
+
+## Non-Target
+
+- [[gemma-ai-model|Gemma AI Model / Gemma AI 模型 / Gemma AIモデル]] — Google's open-source family of lightweight, state-of-the-art AI models designed for responsible AI development and efficient deployment.
+- [[gguf-model-format|GGUF Model Format / GGUF 模型格式 / GGUFモデルフォーマット]] — A unified model file format developed by Georgi Gerganov for efficient storage and inference of quantized large language models.
+- [[model-quantization|Model Quantization / 模型量化 / モデル量子化]] — A technique for reducing AI model size and computational requirements by representing model parameters with lower-precision data types.
+- [[ollama-framework|Ollama Framework / Ollama 框架 / Ollamaフレームワーク]] — An open-source runtime environment for running large language models locally with quantized GGUF model files.
 
 ## Numerical-Classification
 
@@ -1179,8 +1499,26 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[great-firm-brahman|The Great Firm Brahman / 大堅固婆羅門]] — A jātaka-like narrative about a minister named Humeng who became an arhat through renunciation and taught the Dharma, later identified as a past life of the Buddha.
 
+## Perhaps "Renunciation"
+
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
 ## Philosophy
 
+- [[analects-confucius|The Analects of Confucius / 论语]] — The Analects present the philosophical dialogues and teachings of the ancient Chinese philosopher Confucius.
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[benevolent-government|Benevolent Government / 仁政]] — Benevolent government is characterized by a ruler's compassion and morality, leading to harmony in society.
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
@@ -1198,6 +1536,18 @@ updated: 2026-04-05T04:46:08.017128+00:00
 - [[twelve-links-dependent-origination|Twelve Links of Dependent Origination / 十二因緣]] — The Buddhist doctrine explaining the cyclical chain of causation from ignorance to suffering.
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
 - [[zhi-qing-relation|Will and Passion-Nature / 志與情的關係]] — Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)
+
+## Platform-Security
+
+- [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+
+## Political Philosophy
+
+- [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
+
+## Political-Ethics
+
+- [[five-virtues-four-vices|Five Virtues and Four Vices / 五美四恶]] — Confucius's political philosophy outlining five virtues to cultivate and four vices to avoid in governance
 
 ## Political-Philosophy
 
@@ -1261,11 +1611,30 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[great-firm-brahman-backstory|The Origin Story of the Great Firm Brāhmaṇa / 大堅固婆羅門緣起]] — A Buddhist sūtra recounting how King Linu's minister Mahākakuda meets the Buddha, attains stream-entry, renounces worldly life, and becomes an arhat, inspiring seven kings, seven thousand brāhmaṇas, and countless laypeople to follow the Dharma.
 - [[great-firm-brahman|The Great Firm Brahman / 大堅固婆羅門]] — A jātaka-like narrative about a minister named Humeng who became an arhat through renunciation and taught the Dharma, later identified as a past life of the Buddha.
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
 - [[white-cloth-golden-banner-two-brahmins-origin-sutra|White Cloth and Golden Banner Two Brahmins Origin Sutra / 白衣金幢二婆羅門緣起經]] — A Buddhist sutra recounting the renunciation of two Brahmins and presenting a Buddhist cosmology of human social origins.
+
+## Retributive-Rebirth
+
+- [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
 
 ## Ritual
 
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
+- [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
 
 ## Ritual-Propriety
 
@@ -1294,7 +1663,9 @@ updated: 2026-04-05T04:46:08.017128+00:00
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
 - [[confucian-self-examination|Self-Examination in Confucianism / 三省吾身]] — The practice of daily self-reflection as a fundamental method of moral cultivation in Confucian thought.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
+- [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
+- [[knowing-destiny-rites-words|Knowing Destiny, Rites, and Words / 知命知礼知言]] — Confucius's three essential knowledges for becoming a true gentleman in the Analects
 - [[learning-attitude-analects|Learning Attitude in Analects / 论语学习态度]] — Confucian perspective on learning as urgent pursuit and lifelong commitment
 - [[moral-cultivation-methods|Moral Cultivation Methods / 道德修养方法]] — Confucian techniques for character development including self-examination and principle adherence
 
@@ -1338,6 +1709,18 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[bimbisara-king-magadha-ren-xian|King Bimbisara / 頻婆娑羅王]] — The Magadha king devoted to the Buddha, whose past life as a "Human Immortal" attained stream-entry, now reborn as a celestial prince.
 
+## Stub
+
+- [[arhat-stages|English Title / 中文标题]] — One-line summary in English
+- [[han-dynasty|Han Dynasty / 汉朝]] — The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.
+- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
+- [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
+- [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
+- [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
+- [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
+- [[仁政|Benevolent Governance / 仁政]] — The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.
+- [[止觀|English Title / 中文标题]] — One-line summary in English
+
 ## Supernatural-Powers
 
 - [[four-bases-supernatural-power-siddhartha|Four Bases of Supernatural Power / 四神足]] — The Four Bases of Supernatural Power (rddhipāda) taught by Mahabrahma Deva, describing the spiritual faculties of desire, endeavor, mind, and investigation.
@@ -1366,6 +1749,20 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Symbolism
 
 - [[bagua-formation-trigrams-yijing|Eight Trigrams Formation / 八卦成列]] — The philosophical principle of how the eight trigrams are arranged to manifest all phenomena in the Yijing
+
+## Tag1
+
+- [[arhat-stages|English Title / 中文标题]] — One-line summary in English
+- [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
+- [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
+- [[止觀|English Title / 中文标题]] — One-line summary in English
+
+## Tag2
+
+- [[arhat-stages|English Title / 中文标题]] — One-line summary in English
+- [[qin-dynasty|English Title / 中文标题]] — One-line summary in English
+- [[the-works-of-mencius|English Title / 中文标题]] — One-line summary in English
+- [[止觀|English Title / 中文标题]] — One-line summary in English
 
 ## Tang-Dynasty-Buddhism
 
@@ -1404,6 +1801,27 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[han-dynasty-mencius-reception|Han Dynasty Reception of Mencius / 汉代孟子接受史]] — Historical process of Mencius's recognition and preservation during the Han dynasty
 
+## The User Asks: "List 2-4 Relevant Tags For This Article (Comma-Separated
+
+- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
+
+## The User Wants: "List 2-4 Relevant Tags For This Article (Comma-Separated
+
+- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — The user is asking me to write a one-line summary for an article titled "mendicant-life-three-conditions" with additional source information about a Buddhist text called "Discourse on the Origin of the Great Firm Brahman."
+
+Looking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.
+
+However, the article title mentions "mendicant-life-three-conditions" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.
+
+I need to write a one-line summary that captures the essence of this article. The content is about:
+1. A narrative about renunciation in Buddhism
+2. The stages of rejecting worldly attachments
+3. A detailed story showing Buddhist teachings on spiritual values
+
+Let me craft a concise one-line summary:
+
+The article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,
+
 ## Thirty-Seven-Factors
 
 - [[five-roots-five-powers-an-shigao-commentary|Five Roots and Five Powers / 五根五力]] — The Five Roots (信進念定慧) and Five Powers (信力精進力念力定力慧力) as expounded in An Shigao's Han Dynasty Buddhist commentary.
@@ -1413,6 +1831,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Thirty-Three-Heavens
 
 - [[great-brahma-fourfold-teaching|Great Brahma's Fourfold Teaching / 大梵天王四神足說]] — The teaching on the Four Bases of Supernatural Power delivered by Great Brahma King to the thirty-three heavens assembly.
+- [[great-firm-brahmin-origin-sutra|Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經]] — A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.
 - [[thirty-three-heavens|Trayastriṃśa Heaven / 三十三天（忉利天）]] — The Heaven of Thirty-Three Gods where the initial discourse of the Great Firm Brāhmaṇa Sūtra takes place, presided over by Śakra (帝釋天主) and the site of the first teaching of the eight rare qualities.
 
 ## Three-Dharmas
@@ -1470,6 +1889,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
 
+## Trust-Systems
+
+- [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
+
 ## Twelve-Austerities
 
 - [[toutuo-xing|頭陀行 / Dhutanga Practices]] — 頭陀行乃佛教十三種清淨苦行，修習此法可去衣、食、住之貪著，速得解脫
@@ -1478,14 +1901,13 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
 
-## Uncategorized
-
-- [[human-nature-is-good|human-nature-is-good]] — 
-- [[mendicant-life-three-conditions|mendicant-life-three-conditions]] — 
-
 ## Universalism
 
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
+
+## Unwholesome Roots
+
+- [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
 
 ## Vaisravana
 
@@ -1503,8 +1925,13 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Virtue
 
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
+- [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
 - [[ren|Ren (Benevolence) / 仁]] — Central Confucian virtue of humaneness and perfect virtue
 - [[virtue-ethics|Virtue and Ethics / 德与伦理]] — Discusses the importance of virtue in Confucian ethics and its practical applications in governance and personal conduct.
+
+## Virtue-Cultivation
+
+- [[five-virtues-four-vices|Five Virtues and Four Vices / 五美四恶]] — Confucius's political philosophy outlining five virtues to cultivate and four vices to avoid in governance
 
 ## Virtue-Ethics
 
@@ -1512,6 +1939,7 @@ updated: 2026-04-05T04:46:08.017128+00:00
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[central-harmony-zhonghe|Central Harmony (Zhonghe) / 中和]] — The Confucian ideal of balanced psychological equilibrium where emotions arise appropriately and harmoniously, forming the foundation of virtue and cosmic order.
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
+- [[confucius-analects-jishi|Analects - Jishi Chapter / 论语·季氏篇]] — Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
 - [[junzi-characteristics|Junzi Characteristics / 君子品格]] — Confucian ideal of the cultivated person who can be entrusted with governance and maintains integrity in crisis
@@ -1520,6 +1948,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Wang-Bi
 
 - [[dao-the-way-taoism|Dao (The Way) / 道]] — The fundamental Taoist concept of Dao (The Way), the ultimate reality and principle underlying the universe.
+
+## Warring States Period
+
+- [[mencius|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.
 
 ## Warring-States-Period
 
@@ -1544,6 +1976,10 @@ updated: 2026-04-05T04:46:08.017128+00:00
 ## Yijing
 
 - [[bagua-formation-trigrams-yijing|Eight Trigrams Formation / 八卦成列]] — The philosophical principle of how the eight trigrams are arranged to manifest all phenomena in the Yijing
+
+## Zen
+
+- [[さとり|Satori / 悟]] — Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.
 
 ## Zhongyong
 
@@ -1579,4 +2015,4 @@ updated: 2026-04-05T04:46:08.017128+00:00
 
 
 ---
-*113 articles indexed*
+*128 articles indexed*

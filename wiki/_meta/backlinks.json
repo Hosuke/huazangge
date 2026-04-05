@@ -32,6 +32,7 @@
   ],
   "tathagata-eight-rare-qualities": [
     "twelve-links-dependent-origination",
+    "great-firm-brahmin-origin-sutra",
     "great-firm-brahman-backstory",
     "thirty-three-heavens",
     "seven-buddhas-current-kalpa"
@@ -63,6 +64,7 @@
   ],
   "benevolence": [
     "junzi",
+    "confucius-analects",
     "virtue-ethics",
     "confucian-trust-verification",
     "benevolence",
@@ -71,6 +73,7 @@
     "confucian-self-examination",
     "confucian-ethics",
     "knowledge-learning",
+    "five-virtues-four-vices",
     "junzi-characteristics"
   ],
   "knowledge-learning": [
@@ -143,10 +146,12 @@
   ],
   "仁": [
     "junzi",
+    "confucius-analects",
     "analects-disciples",
     "confucian-self-examination",
     "confucian-ethics",
     "knowledge-learning",
+    "five-virtues-four-vices",
     "junzi-characteristics",
     "doctrine-of-the-mean-zhongyong"
   ],
@@ -174,6 +179,50 @@
     "junzi",
     "confucian-sincerity-cheng"
   ],
+  "confucianism": [
+    "junzi",
+    "confucius-analects",
+    "benevolence",
+    "three-years-mourning"
+  ],
+  "confucius-analects": [
+    "junzi",
+    "confucian-trust-verification",
+    "benevolence",
+    "three-years-mourning",
+    "learning-attitude-analects",
+    "confucius-analects-jishi",
+    "moral-cultivation-methods",
+    "junzi-characteristics",
+    "political-philosophy-analects"
+  ],
+  "junzi": [
+    "confucius-analects",
+    "confucian-trust-verification",
+    "benevolence",
+    "human-nature",
+    "confucian-sincerity-cheng",
+    "confucius-analects-jishi",
+    "central-harmony-zhonghe",
+    "confucian-self-examination",
+    "confucian-ethics",
+    "knowledge-learning",
+    "moral-cultivation-methods",
+    "moral-responsibility",
+    "knowing-destiny-rites-words",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "君子": [
+    "confucius-analects",
+    "confucian-trust-verification",
+    "benevolence",
+    "confucian-sincerity-cheng",
+    "central-harmony-zhonghe",
+    "confucian-self-examination",
+    "confucian-ethics",
+    "moral-cultivation-methods",
+    "knowing-destiny-rites-words"
+  ],
   "virtue-ethics": [
     "virtue-ethics",
     "confucian-trust-verification",
@@ -183,6 +232,7 @@
     "confucian-self-examination",
     "confucian-ethics",
     "knowledge-learning",
+    "five-virtues-four-vices",
     "junzi-cultivation"
   ],
   "changahan-jing": [
@@ -195,17 +245,27 @@
   ],
   "arhat-stages-buddhist-liberation": [
     "four-āgama-commentary-ā-hán-mù-chao-jiě",
+    "great-firm-brahmin-origin-sutra",
     "three-dharmas-buddhist-philosophy",
     "human-immortal-sutra-ren-xian-jing",
     "four-agnas-four-absorptions-buddhist-meditation",
     "four-agamas-commentary-commentary-on-four-collections",
     "san-chong-guan-threefold-contemplation"
   ],
-  "four-bases-supernatural-power-siddhartha": [
-    "three-dharmas-buddhist-philosophy",
-    "bimbisara-king-magadha-ren-xian"
+  "thirty-three-heavens": [
+    "great-firm-brahmin-origin-sutra",
+    "great-firm-brahman-backstory",
+    "human-immortal-sutra-ren-xian-jing",
+    "great-brahma-fourfold-teaching"
+  ],
+  "defilement-accumulation-in-practice": [
+    "great-firm-brahmin-origin-sutra",
+    "an-shigao-translation-methodology",
+    "dana-paramita-bodhisattva-giving",
+    "nikuda-brahmin-sutra"
   ],
   "twelve-links-dependent-origination": [
+    "great-firm-brahmin-origin-sutra",
     "three-dharmas-buddhist-philosophy",
     "five-thieves-buddhist-doctrine",
     "great-firm-brahman-backstory",
@@ -215,6 +275,10 @@
     "four-inversions-buddhist",
     "four-agamas-commentary-commentary-on-four-collections",
     "seven-buddhas-current-kalpa"
+  ],
+  "four-bases-supernatural-power-siddhartha": [
+    "three-dharmas-buddhist-philosophy",
+    "bimbisara-king-magadha-ren-xian"
   ],
   "human-immortal-sutra-ren-xian-jing": [
     "three-dharmas-buddhist-philosophy",
@@ -296,7 +360,8 @@
   "analects": [
     "confucian-trust-verification",
     "analects-disciples",
-    "confucian-ethics"
+    "confucian-ethics",
+    "knowing-destiny-rites-words"
   ],
   "moral-responsibility": [
     "confucian-trust-verification",
@@ -305,23 +370,11 @@
     "confucian-ethics",
     "moral-responsibility"
   ],
-  "junzi": [
-    "confucian-trust-verification",
-    "benevolence",
-    "human-nature",
-    "confucian-sincerity-cheng",
-    "central-harmony-zhonghe",
-    "confucian-self-examination",
-    "confucian-ethics",
-    "knowledge-learning",
-    "moral-cultivation-methods",
-    "moral-responsibility",
-    "doctrine-of-the-mean-zhongyong"
-  ],
   "论语": [
     "confucian-trust-verification",
     "learning-attitude-analects",
     "moral-cultivation-methods",
+    "knowing-destiny-rites-words",
     "junzi-characteristics",
     "political-philosophy-analects"
   ],
@@ -330,19 +383,11 @@
     "confucian-self-examination",
     "confucian-ethics"
   ],
-  "君子": [
-    "confucian-trust-verification",
-    "benevolence",
-    "confucian-sincerity-cheng",
-    "central-harmony-zhonghe",
-    "confucian-self-examination",
-    "confucian-ethics",
-    "moral-cultivation-methods"
-  ],
   "論語": [
     "confucian-trust-verification",
     "learning-attitude-analects",
     "moral-cultivation-methods",
+    "knowing-destiny-rites-words",
     "junzi-characteristics",
     "political-philosophy-analects"
   ],
@@ -354,13 +399,6 @@
   "xin": [
     "confucian-trust-verification"
   ],
-  "confucius-analects": [
-    "confucian-trust-verification",
-    "learning-attitude-analects",
-    "moral-cultivation-methods",
-    "junzi-characteristics",
-    "political-philosophy-analects"
-  ],
   "儒家伦理": [
     "confucian-trust-verification",
     "confucian-self-examination"
@@ -371,11 +409,23 @@
   "儒教的自省": [
     "confucian-trust-verification"
   ],
+  "analects-confucius": [
+    "confucian-trust-verification"
+  ],
+  "analects-disciples": [
+    "confucian-trust-verification"
+  ],
   "benevolent": [
     "benevolence"
   ],
   "仁者": [
     "benevolence"
+  ],
+  "filial-piety": [
+    "three-years-mourning"
+  ],
+  "孝道": [
+    "three-years-mourning"
   ],
   "nirodha-samāpatti": [
     "fenbie-gongde-lun",
@@ -420,11 +470,6 @@
   ],
   "zhi-qing-relation": [
     "ba-yi-ceremonial-dance"
-  ],
-  "thirty-three-heavens": [
-    "great-firm-brahman-backstory",
-    "human-immortal-sutra-ren-xian-jing",
-    "great-brahma-fourfold-teaching"
   ],
   "three-jewels": [
     "great-firm-brahman-backstory"
@@ -671,11 +716,6 @@
   "心地法門": [
     "da-cheng-ben-sheng-xin-di-guan-jing"
   ],
-  "defilement-accumulation-in-practice": [
-    "an-shigao-translation-methodology",
-    "dana-paramita-bodhisattva-giving",
-    "nikuda-brahmin-sutra"
-  ],
   "shi-bao-teachings-numerical-classification": [
     "an-shigao-translation-methodology"
   ],
@@ -750,6 +790,35 @@
   ],
   "consciousness-only-mind-only": [
     "arhat-stages-buddhist-liberation"
+  ],
+  "confucius": [
+    "five-virtues-four-vices",
+    "knowing-destiny-rites-words"
+  ],
+  "zizhang": [
+    "five-virtues-four-vices"
+  ],
+  "humanism": [
+    "five-virtues-four-vices"
+  ],
+  "孔子": [
+    "five-virtues-four-vices",
+    "knowing-destiny-rites-words"
+  ],
+  "子张": [
+    "five-virtues-four-vices"
+  ],
+  "德治": [
+    "five-virtues-four-vices"
+  ],
+  "儒家政治哲学": [
+    "five-virtues-four-vices"
+  ],
+  "子張": [
+    "five-virtues-four-vices"
+  ],
+  "徳治": [
+    "five-virtues-four-vices"
   ],
   "儒家诚": [
     "moral-cultivation-methods"

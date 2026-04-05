@@ -7,6 +7,7 @@ tags:
 - model-optimization
 - computational-efficiency
 - gguf-format
+- non-target
 title: Model Quantization / 模型量化 / モデル量子化
 ---
 

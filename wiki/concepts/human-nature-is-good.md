@@ -1,7 +1,34 @@
 ---
 created: '2026-04-04T17:23:07.037746+00:00'
-summary: ''
-tags: []
+summary: Mencius argues that human nature is inherently good, using the sincere grief
+  during mourning rituals as evidence that moral cultivation through education can
+  develop this innate goodness.
+tags:
+- 'the user asks: "list 2-4 relevant tags for this article (comma-separated'
+- 'lowercase): # human-nature-is-good". then includes the article about mencius and
+  his theory of innate goodness with examples.
+
+
+  we need to output tags. the tags should be relevant to the article'
+- comma-separated
+- lowercase
+- '2-4 tags.
+
+
+  we need to interpret the article''s content: it''s about mencius'
+- innate goodness
+- moral nature
+- confucianism
+- chinese philosophy
+- mourning rites
+- moral cultivation
+- education
+- 'human nature.
+
+
+  potential tags: "mencius"'
+- '"innate goodness"'
+- '"confucian'
 title: human-nature-is-good
 updated: '2026-04-04T17:23:07.037748+00:00'
 ---

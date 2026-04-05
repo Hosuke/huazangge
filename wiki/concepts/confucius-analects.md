@@ -3,13 +3,15 @@ created: '2026-04-04T19:18:54.312908+00:00'
 summary: A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 tags:
 - chinese-beliefs
+- chinese-philosophy
+- classical-texts
 - confucianism
 - confucius
 - ethics
 - philosophy
 - teachings
 title: Analects of Confucius / 论语
-updated: '2026-04-05T04:45:39.248211+00:00'
+updated: '2026-04-05T05:29:36.954626+00:00'
 ---
 
 ## English
@@ -266,3 +268,171 @@ The Analects encapsulate Confucian ideals, laying emphasis on ethics, governance
 
 ### まとめ
 『論語』は儒教の理想を要約しており、倫理、統治、そして個人の行動を強調しています。中国の哲学や文化を理解するための重要な資源であり続けています。
+
+---
+
+## English
+The *Analects of Confucius* are a collection of sayings and ideas attributed to the Chinese philosopher Confucius and his disciples, emphasizing moral integrity, proper governance, and the cultivation of virtue. This text serves as a foundation for Confucian thought and practice. 
+
+### Key Concepts
+1. **Governance by Virtue**: Confucius emphasizes that rulers should adhere to ritual and propriety. He states, "When rulers uphold rites, the people are easier to govern" (14.42).
+   
+2. **The Junzi (君子)**: This concept, often translated as "gentleman" or "noble person," highlights a moral ideal in Confucian philosophy. Confucius describes the junzi as someone who cultivates themselves to ensure the tranquility of both the elite and common people (14.42).
+
+3. **Self-Cultivation**: The notion of self-improvement is paramount in Confucianism. A common question posed to Confucius is about the characteristics of the junzi, to which he replies consistently that self-cultivation is essential (14.43).
+
+4. **Respect and Duty**: The *Analects* extol the importance of respect for elders and maintaining proper relationships, reflecting broader societal values that contribute to social harmony. For example, when assessing a young boy's behavior, Confucius notes that lack of respect for elders indicates a lack of proper upbringing (14.44).
+
+5. **Education**: Confucius advocates for education as a means to cultivate virtue and prepare for responsible citizenship. He believes in teaching without discrimination, regardless of social class (15.39).
+
+6. **Moral Decision Making**: The text outlines how to navigate moral dilemmas, often emphasizing the significance of intention. The principle "What you do not wish for yourself, do not do to others" is proposed as a guiding rule for ethical conduct (15.24).
+
+### Conclusion
+The *Analects* encapsulate a significant portion of Confucian thought, focusing on morality, ethics, and the social obligations that come with learnedness and leadership.
+
+## 中文
+《论语》是中国哲学家孔子及其弟子的言论和思想的汇集，强调道德修养、政治管理和仁德的培养。该文本作为儒家思想和实践的基础，涵盖广泛的伦理规范和社会行为。
+
+### 主要概念
+1. **以德治国**：孔子强调统治者应遵守仪式和礼节，认为“统治者崇尚礼仪，则人民也就容易听从役使了”（14.42）。
+
+2. **君子（君子）**：这一概念常被翻译为“绅士”或“高尚的人”，突出了儒家思想中的道德理想。孔子将君子视为通过修身养性来确保上层和百姓安宁的人（14.42）。
+
+3. **自我修养**：自我完善的观念在儒家中至关重要。孔子在回应关于君子特征时一致认为，自我修养是最重要的（14.43）。
+
+4. **尊重与责任**：论语重视尊老、敬贤的伦理关系，体现了促进社会和谐的价值观。例如，对于一个年轻男孩的评价时，孔子指出缺乏对长辈的尊重是教育不良的表现（14.44）。
+
+5. **教育**：孔子提倡教育，认为这是培养德行和为负责任的公民做好准备的方式，并主张有教无类，无论社会阶层（15.39）。
+
+6. **道德决策**：文本阐述了应对道德困境的方法，强调意图的重要性。提出 “己所不欲，勿施于人” 作为道德行为的指导原则（15.24）。
+
+### 结论
+《论语》概括了儒家思想的重大部分，侧重于道德、伦理以及学识和领导力带来的社会责任。
+
+## 日本語
+《論語》は中国の哲学者孔子とその弟子たちの言葉や思想を集めたもので、道徳の修養、政治の管理、徳を育てることを強調しています。このテキストは、儒教の思想と実践の基礎として位置づけられています。
+
+### 主要概念
+1. **徳による治国**：孔子は、支配者が礼儀を重んじるべきであると強調し、「統治者が礼儀を重んじれば、人民は扱いやすくなる」（14.42）と述べています。
+   
+2. **君子（君子）**：この概念は「紳士」や「高貴な人」と訳され、儒教の倫理的理想を示しています。孔子は、君子とは自身を修養し、上層階級と一般市民の平穏を確保する者だと説明しています（14.42）。
+
+3. **自己修養**：自己改善の概念は儒教において重要であり、孔子は君子の特性に関する質問に対して常に自己修養が必要だと述べています（14.43）。
+
+4. **尊敬と義務**：論語は年長者への敬意や関係の重要性を称賛し、社会的調和を促進する道徳的価値観を反映しています。孔子は、若者が年長者を尊敬しないことが自分の教育の不足を示していると考えています（14.44）。
+
+5. **教育**：孔子は教育を通じて徳を育む必要性を唱え、社会階級に関係なく教育を受ける権利を主張しています（15.39）。
+
+6. **道徳的判断**：テキストは道徳的ジレンマに対処する方法を示し、意図の重要性を強調します。「自分が望まないことは他人に施すな」といった原則が倫理的行動の指針として提唱されています（15.24）。
+
+### 結論
+《論語》は儒教思想の重要性を反映し、道徳や倫理、学びとリーダーシップに伴う社会的義務に焦点を当てています。
+
+---
+
+## English
+The *Analects of Confucius* (论语) is a classical text featuring the sayings and discussions of the Chinese philosopher Confucius, recorded by his disciples. The following excerpts provide insights into his thoughts on governance, morality, and social relationships.
+
+### Key Excerpts
+
+1. **On Governance and Warfare:**
+   - Confucius expressed concern when the Ji clan planned to attack a neighboring state, Zhuangyu. He believed such actions indicated not only a lack of stability within the state of Lu but also suggested deeper, internal issues. He stated that a ruler should focus on promoting virtue and education to attract those from afar instead of resorting to war.
+
+2. **On the Nature of Authority:**
+   - Confucius remarked that in a well-ordered society, rituals and military actions should originate from the Emperor. Conversely, in times of chaos, power would shift to feudal lords and subsequently, minor officials. This decay of authoritative structure underscored Confucius's belief in the moral responsibility of rulers.
+
+3. **On Friendship and Relationships:**
+   - Confucius identified three types of friendships that are beneficial: those with the upright, the trustworthy, and the knowledgeable. Meanwhile, he cautioned against friendships with the deceitful or those who flatter others for personal gain. In his philosophy, the character of one's friends greatly influences one's moral standing.
+
+4. **On the Pursuit of Knowledge:**
+   - He asserted the importance of lifelong learning and growth, explaining that there are varying levels of wisdom: innate knowledge, learned knowledge, and knowledge gained through adversity. This perspective emphasizes diligent study and continuous self-improvement.
+
+5. **On Virtue and Ethics:**
+   - Confucius emphasized that benevolence (仁) is the foundation of a good person. To embody this virtue, one should exhibit respect, kindness, faithfulness, attentiveness, and generosity in their interactions with others.
+
+These teachings encapsulate Confucius's commitment to moral integrity and societal harmony.
+
+## 中文
+《论语》是中国哲学家孔子的经典著作，记载了孔子的言论和弟子的讨论。以下选录反映了他的治国、道德和人际关系的思想。
+
+### 重要选段
+
+1. **关乎治理与战争：**
+   - 孔子对于季氏准备攻击附庸国颛臾表示忧虑。他认为这种行为不仅表明了鲁国政权的不稳定，还暗示了内部的深层问题。孔子强调，统治者应专注于提倡德行和教育，以吸引远方的人，而不是求助于战争。
+
+2. **关乎权威的本质：**
+   - 孔子指出，在一个有序的社会中，礼乐和军事行动应由天子发起；而在混乱时期，权力则转移到诸侯手中，最终落入小官吏之手。这一权威结构的崩溃反映了孔子对统治者道德责任的深刻认知。
+
+3. **关乎友谊与人际关系：**
+   - 孔子认为有益的朋友包括正直者、诚信者和博学者，同时他对结交那些虚情假意或用奉承手段来获取利益的人表示警惕。在他的哲学中，朋友的品德对自身道德水平影响深远。
+
+4. **关乎求知：**
+   - 他强调学习和成长的重要性，解释了智慧的不同层次：天生的知识、学习得来的知识，以及通过逆境获得的知识。这一观点强调勤奋学习与不断自我提升的价值。
+
+5. **关乎美德与伦理：**
+   - 孔子认为仁（仁）是高尚人格的基础。要体现这种美德，就应该在与他人的交往中展现出尊重、善良、诚信、专注和宽厚。
+
+这些教导凝聚了孔子对道德诚信和社会和谐的承诺。
+
+## 日本語
+『論語』は、中国の哲学者孔子の古典的なテキストで、彼の言葉や弟子たちの議論を記録した集合体です。以下の抜粋は、彼の統治、道徳、社会関係についての思想を提供します。
+
+### 主要な抜粋
+
+1. **統治と戦争について：**
+   - 孔子は、季氏が隣国の卓地を攻撃しようとしたことに危惧を示しました。彼はそのような行動が、魯国の内的な不安定さを示し、さらには深層的な問題を暗示していると考えました。孔子は、統治者は美徳と教育を促進し、遠方から人を呼び寄せるべきだとし、戦争を避けるべきだと述べました。
+
+2. **権威の本質について：**
+   - 孔子は、もし世界が平和であれば、礼楽や軍事行動は天子から始まるべきであり、混乱が生じれば、権力は諸侯に移り、次第に小役人に渡ってしまうと語りました。権威の衰退は、統治者の道徳的責任についての孔子の感じ方を強調しています。
+
+3. **友情と人間関係について：**
+   - 孔子は、益となる友は正直な人、信頼できる人、博識な人の三種であるとし、虚偽やお世辞で利益を得ようとする友人からは警戒すべきであると警告しました。彼の哲学の中で、友人の品格は自らの道徳的地位に深い影響を与えます。
+
+4. **知識の追求について：**
+   - 彼は生涯の学びと成長の重要性を強調し、さまざまな知恵のレベルについて説明しました：生まれつきの知識、学びによる知識、そして逆境を通じて得る知識。これは、学びを大切にし、自らを常に高めることの価値を強調しています。
+
+5. **美徳と倫理について：**
+   -孔子は、仁徳（仁）が良い人の基盤であると強調し、この美徳を体現するためには、他の人とのインタラクションにおいて尊重、親切、誠実、敏速、寛大を示すべきであると教えました。
+
+これらの教えは、孔子が道徳的な誠実と社会的な調和に強くコミットしていることを示しています。
+
+---
+
+## English
+The **Analects of Confucius** (论语) is a collection of sayings and ideas attributed to the Chinese philosopher Confucius and his disciples, compiled during the Warring States period. The text forms the foundation of [[Confucianism]] and has profoundly influenced Chinese culture and East Asian philosophical traditions.
+
+The first chapter, "Xue Er" (學而), contains fundamental teachings about learning, self-cultivation, and ethical conduct. Key concepts introduced include:
+- Continuous learning and practice ("學而時習之")
+- The joy of friendship and learning
+- The importance of [[benevolence]] (仁) as the core virtue
+- Filial piety and fraternal respect as foundations of moral character
+- Self-reflection and integrity in relationships
+- The ideal of the [[junzi]] (君子) or exemplary person
+
+The text emphasizes practical ethics, proper social relationships, and moral self-cultivation as the path to personal and social harmony.
+
+## 中文
+**《论语》** 是儒家经典著作，记载了孔子及其弟子的言行思想，成书于战国时期。作为儒家思想的核心文本，《论语》深刻影响了中国传统文化及东亚文明的发展。
+
+《学而》篇作为《论语》首章，系统阐述了儒家思想的基本原理：
+- 学习与实践的辩证关系（"学而时习之"）
+- [[仁]]作为核心道德范畴的建立
+- 孝悌作为道德实践的根本
+- [[君子]]人格的理想塑造
+- 自我反省与诚信修养
+- 礼乐制度与社会和谐
+
+本章通过孔子与弟子间的对话，展现了儒家重视人伦日用、强调道德实践的思想特色，奠定了中国传统伦理思想的基本框架。
+
+## 日本語
+**『論語』** は、中国の哲学者孔子とその弟子たちの言行を記録した書物で、戦国時代に編纂されました。儒教思想の基盤を形成し、中国文化および東アジアの哲学的伝統に深遠な影響を与えています。
+
+第一章「学而」篇には、学習、自己修養、倫理的実践に関する基本的な教えが含まれています：
+- 継続的な学習と実践（「学而時習之」）
+- [[仁]]を核心的な徳目として確立
+- 孝悌を道徳的実践の基盤とする
+- [[君子]]としての理想的人格形成
+- 自己反省と人間関係における誠実さ
+- 礼楽制度と社会調和
+
+本章は、孔子と弟子たちの対話を通じて、儒教が日常的倫理を重視し、道徳的実践を強調する思想的特徴を示し、中国伝統倫理思想の基本的枠組みを確立しました。

@@ -51,6 +51,17 @@
     "sources": []
   },
   {
+    "slug": "analects-confucius",
+    "title": "The Analects of Confucius / 论语",
+    "summary": "The Analects present the philosophical dialogues and teachings of the ancient Chinese philosopher Confucius.",
+    "tags": [
+      "confucius",
+      "philosophy",
+      "analects"
+    ],
+    "sources": []
+  },
+  {
     "slug": "analects-disciples",
     "title": "Disciples in the Analects / 论语弟子群像",
     "summary": "Notable disciples appearing in Confucius's Analects",
@@ -119,6 +130,17 @@
     "sources": []
   },
   {
+    "slug": "arhat-stages",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "ba-yi-ceremonial-dance",
     "title": "Ba Yi (Eight Rows) / 八佾",
     "summary": "The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.",
@@ -177,8 +199,10 @@
     "tags": [
       "analects",
       "benevolence",
+      "chinese-ethics",
       "confucianism",
       "ethics",
+      "moral-philosophy",
       "philosophy",
       "virtue-ethics"
     ],
@@ -379,13 +403,30 @@
     "summary": "Examination of trust-building mechanisms in Confucian digital humanities platforms",
     "tags": [
       "analects",
+      "authentication",
+      "confucian-studies",
       "confucianism",
       "digital-humanities",
       "ethics",
       "philosophy",
+      "platform-security",
       "trust",
+      "trust-systems",
       "verification",
       "verification-systems"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "confucius-analects-jishi",
+    "title": "Analects - Jishi Chapter / 论语·季氏篇",
+    "summary": "Confucius' teachings on governance, virtue, friendship, and self-cultivation from the Jishi chapter of the Analects",
+    "tags": [
+      "confucianism",
+      "analects",
+      "governance",
+      "virtue-ethics",
+      "self-cultivation"
     ],
     "sources": []
   },
@@ -395,6 +436,8 @@
     "summary": "A collection of sayings and ideas attributed to the Chinese philosopher Confucius.",
     "tags": [
       "chinese-beliefs",
+      "chinese-philosophy",
+      "classical-texts",
       "confucianism",
       "confucius",
       "ethics",
@@ -575,6 +618,18 @@
     "sources": []
   },
   {
+    "slug": "five-virtues-four-vices",
+    "title": "Five Virtues and Four Vices / 五美四恶",
+    "summary": "Confucius's political philosophy outlining five virtues to cultivate and four vices to avoid in governance",
+    "tags": [
+      "confucian-governance",
+      "political-ethics",
+      "analects",
+      "virtue-cultivation"
+    ],
+    "sources": []
+  },
+  {
     "slug": "fixed-livelihood",
     "title": "Fixed Livelihood / 恒产论",
     "summary": "Mencius's economic theory that stable property ownership is essential for moral stability",
@@ -698,7 +753,8 @@
       "google-ai",
       "open-source-models",
       "text-generation",
-      "gemma-family"
+      "gemma-family",
+      "non-target"
     ],
     "sources": []
   },
@@ -711,7 +767,8 @@
       "machine-learning",
       "model-formats",
       "quantization",
-      "llama-cpp"
+      "llama-cpp",
+      "non-target"
     ],
     "sources": []
   },
@@ -799,6 +856,19 @@
     "sources": []
   },
   {
+    "slug": "great-firm-brahmin-origin-sutra",
+    "title": "Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經",
+    "summary": "A Buddhist sutra recounting how the Buddha's past life as Minister Great Firm became enlightened through teachings from the Great Brahma King, then led thousands to liberation across celestial realms.",
+    "tags": [
+      "buddhist-sutra",
+      "mahayana-origin-story",
+      "brahmin-conversion",
+      "thirty-three-heavens",
+      "eight-rare-qualities"
+    ],
+    "sources": []
+  },
+  {
     "slug": "han-dynasty-mencius-reception",
     "title": "Han Dynasty Reception of Mencius / 汉代孟子接受史",
     "summary": "Historical process of Mencius's recognition and preservation during the Han dynasty",
@@ -806,6 +876,20 @@
       "textual-transmission",
       "classical-canon",
       "intellectual-history"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "han-dynasty",
+    "title": "Han Dynasty / 汉朝",
+    "summary": "The Han dynasty (202 BC – 220 AD) was the second imperial dynasty of China, marking a golden age of political stability, economic prosperity, and cultural achievement.",
+    "tags": [
+      "history",
+      "china",
+      "dynasty",
+      "ancient china",
+      "imperial",
+      "stub"
     ],
     "sources": []
   },
@@ -836,6 +920,21 @@
     "sources": []
   },
   {
+    "slug": "human-immortal-sutra-foshuo-renxian-jing",
+    "title": "Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經",
+    "summary": "A Mahayana sutra recounting how King Bimbisara was reborn as the \"Human Immortal,\" son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.",
+    "tags": [
+      "buddhist-sutras",
+      "mahayana",
+      "mahasanghika",
+      "retributive-rebirth",
+      "four-supernatural-powers",
+      "lay-buddhism",
+      "magadha"
+    ],
+    "sources": []
+  },
+  {
     "slug": "human-immortal-sutra-ren-xian-jing",
     "title": "Human Immortal Sutra / 人仙經",
     "summary": "A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara through the celestial being Human Immortal.",
@@ -855,8 +954,24 @@
   {
     "slug": "human-nature-is-good",
     "title": "human-nature-is-good",
-    "summary": "",
-    "tags": [],
+    "summary": "Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.",
+    "tags": [
+      "the user asks: \"list 2-4 relevant tags for this article (comma-separated",
+      "lowercase): # human-nature-is-good\". then includes the article about mencius and his theory of innate goodness with examples.\n\nwe need to output tags. the tags should be relevant to the article",
+      "comma-separated",
+      "lowercase",
+      "2-4 tags.\n\nwe need to interpret the article's content: it's about mencius",
+      "innate goodness",
+      "moral nature",
+      "confucianism",
+      "chinese philosophy",
+      "mourning rites",
+      "moral cultivation",
+      "education",
+      "human nature.\n\npotential tags: \"mencius\"",
+      "\"innate goodness\"",
+      "\"confucian"
+    ],
     "sources": []
   },
   {
@@ -922,8 +1037,22 @@
       "confucianism",
       "ethics",
       "junzi",
+      "moral-cultivation",
       "moral-responsibility",
-      "philosophy"
+      "philosophy",
+      "virtue"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "knowing-destiny-rites-words",
+    "title": "Knowing Destiny, Rites, and Words / 知命知礼知言",
+    "summary": "Confucius's three essential knowledges for becoming a true gentleman in the Analects",
+    "tags": [
+      "confucian-cultivation",
+      "gentleman-ideal",
+      "self-cultivation",
+      "analects"
     ],
     "sources": []
   },
@@ -1020,10 +1149,36 @@
     "sources": []
   },
   {
+    "slug": "mencius",
+    "title": "Mencius / 孟子",
+    "summary": "Mencius (c. 372–289 BCE) was a prominent Chinese philosopher and the most influential interpreter of Confucianism after Confucius, known for his doctrine of the innate goodness of human nature and his political philosophy.",
+    "tags": [
+      "confucianism",
+      "chinese philosophy",
+      "mencius",
+      "warring states period",
+      "classical chinese literature",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "mendicant-life-three-conditions",
     "title": "mendicant-life-three-conditions",
-    "summary": "",
-    "tags": [],
+    "summary": "The user is asking me to write a one-line summary for an article titled \"mendicant-life-three-conditions\" with additional source information about a Buddhist text called \"Discourse on the Origin of the Great Firm Brahman.\"\n\nLooking at the content provided, it describes stages of renunciation in this Buddhist narrative - a detailed account of someone (the Great Firm Brahmin) going through multiple stages of renunciation, rejecting various worldly attachments (permission from king, wealth from six kings, disciples, wives) before finally becoming a renunciant.\n\nHowever, the article title mentions \"mendicant-life-three-conditions\" which suggests there's a main article about three conditions for the mendicant life. The additional source provides a narrative that complements this philosophical framework through a detailed story of renunciation.\n\nI need to write a one-line summary that captures the essence of this article. The content is about:\n1. A narrative about renunciation in Buddhism\n2. The stages of rejecting worldly attachments\n3. A detailed story showing Buddhist teachings on spiritual values\n\nLet me craft a concise one-line summary:\n\nThe article and supplementary source detail the progressive renunciation process of the Great Firm Brahmin, illustrating Buddhist teachings on spiritual hierarchy through his rejection of royal approval, material wealth,",
+    "tags": [
+      "the user wants: \"list 2-4 relevant tags for this article (comma-separated",
+      "lowercase):\"\n\nthe article is \"mendicant-life-three-conditions\". the additional source is a buddhist text about renunciation. likely the tags are about buddhism",
+      "renunciation",
+      "mendicant life",
+      "buddhist teachings",
+      "perhaps \"renunciation\"",
+      "\"buddhism\"",
+      "\"spiritual hierarchy\"",
+      "\"great firm brahmin\"",
+      "\"the three conditions\"? the main article title \"mendicant-life-three-conditions\" suggests three conditions for mendicant life. so tags could be: \"buddhism\"",
+      "\""
+    ],
     "sources": []
   },
   {
@@ -1059,7 +1214,8 @@
       "machine-learning",
       "model-optimization",
       "computational-efficiency",
-      "gguf-format"
+      "gguf-format",
+      "non-target"
     ],
     "sources": []
   },
@@ -1164,7 +1320,8 @@
       "machine-learning",
       "open-source-software",
       "local-ai-inference",
-      "gguf-format"
+      "gguf-format",
+      "non-target"
     ],
     "sources": []
   },
@@ -1177,6 +1334,17 @@
       "political-philosophy",
       "governance",
       "leadership"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "qin-dynasty",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
+      "stub"
     ],
     "sources": []
   },
@@ -1309,6 +1477,17 @@
     "sources": []
   },
   {
+    "slug": "the-works-of-mencius",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "thirty-three-heavens",
     "title": "Trayastriṃśa Heaven / 三十三天（忉利天）",
     "summary": "The Heaven of Thirty-Three Gods where the initial discourse of the Great Firm Brāhmaṇa Sūtra takes place, presided over by Śakra (帝釋天主) and the site of the first teaching of the eight rare qualities.",
@@ -1350,6 +1529,19 @@
     "sources": []
   },
   {
+    "slug": "three-roots-of-unwholesomeness",
+    "title": "Three Roots of Unwholesomeness / 三不善根",
+    "summary": "The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.",
+    "tags": [
+      "buddhist ethics",
+      "mental factors",
+      "core concepts",
+      "unwholesome roots",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "three-treasuries-four-collections",
     "title": "三藏三分 Four Āgamas / Tripartite Canon and Quadruple Sūtra Collections",
     "summary": "The organization of the Buddhist canon into three treasures and four sūtra collections, attributed to Ānanda's compilation guided by celestial beings.",
@@ -1367,9 +1559,13 @@
     "title": "Three Years Mourning / 三年之丧",
     "summary": "The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.",
     "tags": [
-      "xiao",
+      "confucianism",
+      "filial-piety",
       "moral-responsibility",
-      "three-years-mourning"
+      "mourning-practices",
+      "ritual",
+      "three-years-mourning",
+      "xiao"
     ],
     "sources": []
   },
@@ -1474,6 +1670,42 @@
       "human-nature",
       "cultivation",
       "philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "さとり",
+    "title": "Satori / 悟",
+    "summary": "Satori is a Japanese Buddhist term for a sudden awakening or enlightenment experience, often associated with Zen practice.",
+    "tags": [
+      "buddhism",
+      "zen",
+      "japanese buddhist terminology",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "仁政",
+    "title": "Benevolent Governance / 仁政",
+    "summary": "The Confucian ideal of humane government that seeks the well‑being of the people through moral leadership and virtuous policies.",
+    "tags": [
+      "confucianism",
+      "political philosophy",
+      "mencius",
+      "chinese thought",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "止觀",
+    "title": "English Title / 中文标题",
+    "summary": "One-line summary in English",
+    "tags": [
+      "tag1",
+      "tag2",
+      "stub"
     ],
     "sources": []
   }

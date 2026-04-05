@@ -7,6 +7,7 @@ tags:
 - open-source-software
 - local-ai-inference
 - gguf-format
+- non-target
 title: Ollama Framework / Ollama 框架 / Ollamaフレームワーク
 ---
 

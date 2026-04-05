@@ -7,6 +7,7 @@ tags:
 - open-source-models
 - text-generation
 - gemma-family
+- non-target
 title: Gemma AI Model / Gemma AI 模型 / Gemma AIモデル
 ---
 
