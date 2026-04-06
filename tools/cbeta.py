@@ -6,7 +6,6 @@ ingests and compiles them. Over time, the entire Tripiṭaka gets absorbed.
 """
 
 import json
-import os
 import re
 import time
 from datetime import datetime, timezone
@@ -17,10 +16,6 @@ import requests
 from bs4 import BeautifulSoup
 
 from .config import load_config, ensure_dirs
-
-SUPABASE_URL = os.getenv("SUPABASE_URL", "")
-SUPABASE_KEY = os.getenv("SUPABASE_KEY", "")
-SUPABASE_TABLE = "huazangge_ingested"
 
 CBETA_API = "https://cbdata.dila.edu.tw/stable"
 CBETA_XML = "https://raw.githubusercontent.com/cbeta-org/xml-p5/master"
@@ -56,51 +51,25 @@ CANON_NAMES = {
 }
 
 
-def _sb_headers():
-    return {
-        "apikey": SUPABASE_KEY,
-        "Authorization": f"Bearer {SUPABASE_KEY}",
-        "Content-Type": "application/json",
-        "Prefer": "return=minimal",
-    }
+def get_progress_file(base_dir: Path) -> Path:
+    """Get path to the progress tracking file."""
+    meta_dir = Path(load_config(base_dir)["paths"]["meta"])
+    meta_dir.mkdir(parents=True, exist_ok=True)
+    return meta_dir / "cbeta_progress.json"
 
 
-def load_progress(base_dir: Path = None) -> dict:
-    """Load ingestion progress from Supabase, with local fallback."""
-    # Try Supabase first
-    if SUPABASE_URL:
-        try:
-            url = f"{SUPABASE_URL}/rest/v1/{SUPABASE_TABLE}?source=eq.cbeta&select=work_id"
-            resp = requests.get(url, headers=_sb_headers(), timeout=15)
-            resp.raise_for_status()
-            rows = resp.json()
-            works = [r["work_id"] for r in rows]
-            return {"ingested_works": works, "total_ingested": len(works)}
-        except Exception:
-            pass  # Fall through to local
-
-    # Fallback: scan raw directory for cbeta-* folders
-    base = Path(base_dir) if base_dir else Path.cwd()
-    raw_dir = base / "raw"
-    works = []
-    if raw_dir.exists():
-        for d in raw_dir.iterdir():
-            if d.name.startswith("cbeta-") and d.is_dir():
-                work_id = d.name.replace("cbeta-", "").upper()
-                works.append(work_id)
-    return {"ingested_works": works, "total_ingested": len(works)}
+def load_progress(base_dir: Path) -> dict:
+    """Load ingestion progress."""
+    pf = get_progress_file(base_dir)
+    if pf.exists():
+        return json.loads(pf.read_text())
+    return {"ingested_works": [], "total_ingested": 0, "last_run": None}
 
 
-def save_progress_item(work_id: str, title: str = ""):
-    """Record a single ingested work to Supabase."""
-    if not SUPABASE_URL:
-        return
-    url = f"{SUPABASE_URL}/rest/v1/{SUPABASE_TABLE}"
-    headers = _sb_headers()
-    headers["Prefer"] = "return=minimal,resolution=merge-duplicates"
-    payload = {"source": "cbeta", "work_id": work_id, "title": title}
-    resp = requests.post(url, json=payload, headers=headers, timeout=15)
-    resp.raise_for_status()
+def save_progress(base_dir: Path, progress: dict):
+    """Save ingestion progress."""
+    pf = get_progress_file(base_dir)
+    pf.write_text(json.dumps(progress, indent=2, ensure_ascii=False))
 
 
 # ─── Catalog API ─────────────────────────────────────────────
@@ -301,7 +270,7 @@ def learn(
     Call repeatedly to incrementally absorb the entire canon.
     """
     base = Path(base_dir) if base_dir else Path.cwd()
-    progress = load_progress()
+    progress = load_progress(base)
     ingested_set = set(progress["ingested_works"])
 
     # Get works to process
@@ -338,17 +307,24 @@ def learn(
         if path:
             results.append(work_id)
             ingested_set.add(work_id)
-            save_progress_item(work_id, label)
 
         time.sleep(1)  # Be respectful to GitHub
+
+    # Save progress
+    progress["ingested_works"] = list(ingested_set)
+    progress["total_ingested"] = len(ingested_set)
+    progress["last_run"] = datetime.now(timezone.utc).isoformat()
+    save_progress(base, progress)
 
     return results
 
 
 def status(base_dir: Path | None = None) -> dict:
     """Get current learning progress."""
-    progress = load_progress()
+    base = Path(base_dir) if base_dir else Path.cwd()
+    progress = load_progress(base)
     return {
         "total_ingested": progress["total_ingested"],
+        "last_run": progress.get("last_run"),
         "ingested_works": progress["ingested_works"][:20],  # Show recent
     }

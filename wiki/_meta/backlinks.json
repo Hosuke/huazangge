@@ -1,8 +1,19 @@
 {
   "dana-paramita-bodhisattva-giving": [
     "sarvadana-king-yiqieshi",
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "yue-ming-tongzi-moonlight-youth-bodhisattva-sutra",
+    "fuli-prince-fortune-power-cause-effect-sutra",
+    "liang-she-fa-two-grabbing-methods",
+    "si-yuan-four-vows-bodhisattva-practice-yue-ming-jing",
+    "qianshi-san-zhuan-jing",
     "sarvadhana-prince-yiqiechi",
-    "virama-bodhisattva-pusajiamo"
+    "dayi-jing-great-meaning-sutra",
+    "virama-bodhisattva-pusajiamo",
+    "fa-ju-monk",
+    "jinse-wang-jing-golden-king-sutra",
+    "sakra-tests-king-subhuti-yaksha",
+    "five-bliss-food-offering-sutra"
   ],
   "virama-bodhisattva-pusajiamo": [
     "sarvadana-king-yiqieshi",
@@ -37,11 +48,13 @@
     "human-harmony-he-ren",
     "仁者",
     "confucian-trust-verification",
+    "仁愛",
     "benevolence",
     "bodhisattva-sacrifice-king-changshou",
     "confucian-political-philosophy",
     "confucian-ethics",
     "wang-dao-true-king-hegemon",
+    "jinse-wang-jing-golden-king-sutra",
     "君子",
     "extending-kindness-pushing-grace-tui-en",
     "mengzi-people-heart-minjian",
@@ -51,15 +64,38 @@
   ],
   "bodhisattva-path": [
     "miaose-wang-bodhisattva-sacrifice",
+    "prince-mupo-sutra-mu-po-tai-zi",
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "da-fangbian-fo-baoen-jing",
+    "yue-ming-tongzi-moonlight-youth-bodhisattva-sutra",
+    "fuli-prince-fortune-power-cause-effect-sutra",
+    "liang-she-fa-two-grabbing-methods",
+    "compassionate-dragon-king-naga",
+    "si-yuan-four-vows-bodhisattva-practice-yue-ming-jing",
     "miaose-wang-yinyuan-jing",
-    "bodhisattva-path"
+    "dayi-jing-great-meaning-sutra",
+    "bodhisattva-path",
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng",
+    "shizi-yue-fo-ben-sheng-jing",
+    "sakra-tests-king-subhuti-yaksha",
+    "shan-zi-sutra-filial-bodhisattva"
   ],
   "confucian-self-cultivation": [
     "miaose-wang-bodhisattva-sacrifice",
+    "kangcangzi-ear-vision-eye-hearing",
     "understanding-heaven-knowing-fate-liezi",
+    "guanyinzi-chapter-nine",
+    "guan-yinzi-chapter-three-sage-way",
+    "mozi-suo-ran-being-infected",
     "confucian-sincerity-cheng",
     "ultimate-wandering-observation-liezi",
     "mind-solidified-form-dissolved-liezi",
+    "confucian-daoist-ease-difficulty-comparison-bao-puzi",
+    "mozi-rejecting-confucians-fei-ru",
+    "mozi-xiu-shen-self-cultivation",
+    "shang-tong-upper-unity-mozi",
+    "cai-quan-er-de-bu-xing",
+    "mozi-suo-ran-dyeing-influence",
     "doctrine-of-the-mean-zhongyong"
   ],
   "帝釋天": [
@@ -71,7 +107,13 @@
   ],
   "bodhisattva-sacrifice-king-changshou": [
     "miaose-wang-bodhisattva-sacrifice",
-    "non-retaliation-buddhist-teaching"
+    "prince-mupo-sutra-mu-po-tai-zi",
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "compassionate-dragon-king-naga",
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng",
+    "non-retaliation-buddhist-teaching",
+    "jinse-wang-jing-golden-king-sutra",
+    "sakra-tests-king-subhuti-yaksha"
   ],
   "本生經": [
     "miaose-wang-bodhisattva-sacrifice",
@@ -95,7 +137,7 @@
     "miaose-wang-bodhisattva-sacrifice",
     "thirty-seven-bodhiparamitas-an-shigao-commentary"
   ],
-  "金色王經": [
+  "jinse-wang-jing-golden-king-sutra": [
     "miaose-wang-bodhisattva-sacrifice",
     "miaose-wang-yinyuan-jing"
   ],
@@ -104,7 +146,9 @@
   ],
   "布施波羅蜜": [
     "miaose-wang-bodhisattva-sacrifice",
-    "miaose-wang-yinyuan-jing"
+    "miaose-wang-yinyuan-jing",
+    "qianshi-san-zhuan-jing",
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
   ],
   "義浄": [
     "miaose-wang-bodhisattva-sacrifice",
@@ -112,33 +156,187 @@
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "菩薩": [
-    "miaose-wang-bodhisattva-sacrifice"
+    "miaose-wang-bodhisattva-sacrifice",
+    "qianshi-san-zhuan-jing"
   ],
   "帝釈天": [
     "miaose-wang-bodhisattva-sacrifice",
     "miaose-wang-yinyuan-jing",
+    "qianshi-san-zhuan-jing",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "本生経": [
     "miaose-wang-bodhisattva-sacrifice",
     "miaose-wang-yinyuan-jing"
   ],
+  "five-aggregates-contemplation-buddhist": [
+    "jing-shen-hun-po-essence-spirit-soul",
+    "hao-bridge-debate-fish-happiness",
+    "five-thieves-buddhist-doctrine",
+    "sheng-jing-birth-sutras",
+    "ultimate-wandering-observation-liezi",
+    "jinse-wang-jing-golden-king-sutra"
+  ],
+  "human-nature-in-confucianism": [
+    "jing-shen-hun-po-essence-spirit-soul",
+    "guan-yinzi-chapter-three-sage-way",
+    "ruo-min-weakening-the-people",
+    "mozi-suo-ran-being-infected",
+    "儒家",
+    "confucian-sincerity-cheng",
+    "constellation-fate-determinism-bao-puzi",
+    "xuandao-mysterious-way",
+    "guanyinzi-chapter-six-self-transformation",
+    "non-attachment-guanyinzi",
+    "mozi-suo-ran-dyeing-influence",
+    "doctrine-of-the-mean-zhongyong",
+    "tian-yun-zhuangzi"
+  ],
+  "human-nature": [
+    "jing-shen-hun-po-essence-spirit-soul",
+    "twelve-links-dependent-origination",
+    "doctrine-of-the-mean-(zhongyong)",
+    "understanding-heaven-knowing-fate-liezi",
+    "mengzi-seven-chapters-structural-analysis",
+    "confucian-trust-verification",
+    "great-learning-daxue",
+    "mengzi-haoran-qi-vast-flowing-vital-energy",
+    "born-in-adversity-die-in-comfort",
+    "mengzi-four-beginnings-siduan",
+    "four-beginnings-si-duan",
+    "agama-explanation-twelve-links-dependent-origination",
+    "confucian-ethics",
+    "knowledge-learning",
+    "mind-solidified-form-dissolved-liezi"
+  ],
+  "twelve-links-dependent-origination-an-shigao-commentary": [
+    "jing-shen-hun-po-essence-spirit-soul",
+    "prince-mupo-sutra-mu-po-tai-zi",
+    "twelve-links-dependent-origination-an-shigao-commentary",
+    "fenbie-gongde-lun",
+    "miaose-wang-yinyuan-jing",
+    "human-immortal-sutra-ren-xian-jing",
+    "an-shigao-translated-agama-zhengxing-sutra",
+    "great-collection-dharma-gate-sutra",
+    "thirty-seven-bodhiparamitas-an-shigao-commentary",
+    "white-cloth-golden-banner-two-brahmins-origin-sutra",
+    "changahan-jing",
+    "seven-buddhas-current-kalpa",
+    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
+  ],
+  "understanding-heaven-knowing-fate-liezi": [
+    "jing-shen-hun-po-essence-spirit-soul",
+    "four-stages-life-liezi-tianrui",
+    "kangcangzi-ear-vision-eye-hearing",
+    "qiushui-autumn-floods-zhuangzi",
+    "hao-bridge-debate-fish-happiness",
+    "dongmen-wu-grieflessness",
+    "self-other-illusion-dream-wakefulness-guan-yinzi",
+    "bo-chengzi-gao-zhuangzi",
+    "huaxu-kingdom-liezi",
+    "huaxu-dream-liezi",
+    "guanyinzi-chapter-seven-transformation",
+    "beigongzi-ximenzi-virtue-fate-liezi",
+    "force-fate-debate-liezi",
+    "yang-zhu-philosophy-liezi",
+    "guanyinzi-chapter-two",
+    "self-generating-life-death"
+  ],
+  "dream-reality-confusion-liezi": [
+    "jing-shen-hun-po-essence-spirit-soul",
+    "guanyinzi-chapter-eight",
+    "self-other-illusion-dream-wakefulness-guan-yinzi",
+    "huaxu-kingdom-liezi",
+    "huaxu-dream-liezi",
+    "guanyinzi-chapter-six-self-transformation",
+    "yang-zhu-philosophy-liezi",
+    "guanyinzi-chapter-two"
+  ],
+  "benevolence": [
+    "jing-shen-hun-po-essence-spirit-soul",
+    "benevolent-government-ren-zheng",
+    "junzi",
+    "confucius-analects",
+    "confucian-trust-verification",
+    "zigong",
+    "mengzi-haoran-qi-vast-flowing-vital-energy",
+    "seven-types-wives-buddhist-teaching",
+    "子貢",
+    "benevolence",
+    "three-years-mourning",
+    "xiao-jing-classic-of-filial-piety",
+    "analects-disciples",
+    "human-nature",
+    "mengzi-four-beginnings-siduan",
+    "confucian-sincerity-cheng",
+    "mengzi-righteousness-profit-debate",
+    "yan-hui",
+    "confucian-self-examination",
+    "confucian-ethics",
+    "qie-ji-theft-covetous-disease",
+    "knowledge-learning",
+    "guanyinzi-chapter-three",
+    "five-virtues-four-vices",
+    "义",
+    "mozi-xiu-shen-self-cultivation",
+    "君子",
+    "junzi-characteristics",
+    "doctrine-of-the-mean-zhongyong"
+  ],
+  "three-poisons-greed-hatred-delusion-buddhist-teaching": [
+    "jing-shen-hun-po-essence-spirit-soul",
+    "natural-spontaneity-refutation-divine-creation-bao-puzi",
+    "seven-types-wives-buddhist-teaching",
+    "compassionate-dragon-king-naga",
+    "sheng-jing-birth-sutras",
+    "miaose-wang-yinyuan-jing",
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing",
+    "shizi-yue-fo-ben-sheng-jing",
+    "sakra-tests-king-subhuti-yaksha",
+    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
+  ],
+  "non-retaliation-buddhist-teaching": [
+    "jing-shen-hun-po-essence-spirit-soul",
+    "compassionate-dragon-king-naga",
+    "bodhisattva-sacrifice-king-changshou",
+    "dayi-jing-great-meaning-sutra"
+  ],
   "confucian-political-philosophy": [
     "mengzi-political-philosophy-benevolent-rule",
     "benevolent-government-ren-zheng",
     "five-hundred-years-sage-king-cycles",
+    "shang-tong-identifying-with-superiors",
+    "mozi-three-debates-music-governance",
     "doctrine-of-the-mean-(zhongyong)",
     "mengzi-seven-chapters-structural-analysis",
     "human-harmony-he-ren",
+    "hao-bridge-debate-fish-happiness",
     "great-learning-daxue",
+    "zhuangzi-ying-di-wang",
     "mengzi-seven-chapters-gongsun-chou-part-two",
     "tian-shi-di-li-ren-he",
+    "xiao-jing-classic-of-filial-piety",
+    "ruo-min-weakening-the-people",
+    "tian-xia-zhi-yi-righteousness-under-heaven",
+    "shang-xian-exalting-worthy",
+    "mozi-seven-calamities-qi-huan",
     "mengzi-four-beginnings-siduan",
+    "shang-xian-esteeming-worthy-part-two",
     "mengzi-righteousness-profit-debate",
+    "mozi-jie-yong-zhong-frugality-part-2",
+    "erya-classic-chinese-glossary",
     "doctrine-of-the-mean",
+    "mozi-suoran-on-influence",
     "knowledge-learning",
     "five-virtues-four-vices",
+    "mozi-qin-shi-cherishing-scholars",
+    "mozi-jie-yong-utility-frugality",
+    "mozi-rejecting-confucians-fei-ru",
+    "three-dukes-gong-sann-gong",
+    "shang-tong-upper-unity-mozi",
+    "zhuangzi-turtle-story-rejection",
     "mengzi-people-heart-minjian",
+    "tian-yun-zhuangzi",
     "mengzi-hegemon-true-king-ba-wang-distinction"
   ],
   "the-works-of-mencius": [
@@ -158,36 +356,17 @@
     "chaou-ke"
   ],
   "han-dynasty": [
-    "mengzi"
+    "mengzi",
+    "ruo-min-weakening-the-people",
+    "shang-tong-upper-unity-mozi"
   ],
   "qin-dynasty": [
     "mengzi"
   ],
-  "benevolence": [
-    "benevolent-government-ren-zheng",
-    "junzi",
-    "confucius-analects",
-    "confucian-trust-verification",
-    "mengzi-haoran-qi-vast-flowing-vital-energy",
-    "benevolence",
-    "three-years-mourning",
-    "analects-disciples",
-    "human-nature",
-    "mengzi-four-beginnings-siduan",
-    "confucian-sincerity-cheng",
-    "mengzi-righteousness-profit-debate",
-    "yan-hui",
-    "confucian-self-examination",
-    "confucian-ethics",
-    "knowledge-learning",
-    "five-virtues-four-vices",
-    "君子",
-    "junzi-characteristics",
-    "doctrine-of-the-mean-zhongyong"
-  ],
   "human-nature-is-good": [
     "benevolent-government-ren-zheng",
     "mengzi-seven-chapters-structural-analysis",
+    "ruo-min-weakening-the-people",
     "born-in-adversity-die-in-comfort",
     "mengzi-four-beginnings-siduan",
     "great-qi-haoran-zhi-qi",
@@ -197,6 +376,9 @@
   ],
   "mengzi-four-beginnings-siduan": [
     "benevolent-government-ren-zheng",
+    "ruo-min-weakening-the-people",
+    "shang-xian-exalting-worthy",
+    "erya-classic-chinese-glossary",
     "mengzi-unity-through-non-killing-ding-yu-yi",
     "doctrine-of-the-mean",
     "four-contemplations-buddhist-practice-ahang",
@@ -206,6 +388,91 @@
     "benevolent-government-ren-zheng",
     "mengzi-indomitable-heart-budongxin",
     "mengzi-unity-through-non-killing-ding-yu-yi"
+  ],
+  "mozi-upper-canon-jing-shang": [
+    "mozi-upper-canon-jing-shang"
+  ],
+  "mozǐ-canon-explanation-upper-jing-shuo-shang": [
+    "mozi-upper-canon-jing-shang"
+  ],
+  "mozi-xiaoqu-logical-methods": [
+    "mozi-upper-canon-jing-shang",
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "mozi-xiaoqu-mohist-logic": [
+    "mozi-upper-canon-jing-shang",
+    "mozi-xiaoqu-mohist-logic"
+  ],
+  "dao-de-jing-complete": [
+    "mozi-upper-canon-jing-shang",
+    "qiushui-autumn-floods-zhuangzi",
+    "hao-bridge-debate-fish-happiness",
+    "zhuangzi-ying-di-wang",
+    "guarding-practices-wenzi-guardianship",
+    "bo-chengzi-gao-zhuangzi",
+    "confucian-daoist-ease-difficulty-comparison-bao-puzi",
+    "zhuangzi-heaven-earth-chapter",
+    "wenzi-text",
+    "zhuangzi-turtle-story-rejection"
+  ],
+  "mozijing-upper-canon-jing-shang": [
+    "mozi-upper-canon-jing-shang"
+  ],
+  "jian-ai": [
+    "mozi-upper-canon-jing-shang",
+    "mozi-jie-zang-frugal-burial",
+    "shang-tong-identifying-with-superiors",
+    "mozi-three-debates-music-governance",
+    "bu-xiang-ai",
+    "shang-tong-reward-punishment-maf",
+    "mozi-fei-ming-against-fatalism",
+    "mozi-xiaoqu-mohist-logic",
+    "mozi-suo-ran-being-infected",
+    "shang-xian-middle-mozi",
+    "shang-xian-exalting-worthy",
+    "mozi-three-standards-three-fa",
+    "mozi-seven-calamities-qi-huan",
+    "mozi-fayi-standard-law",
+    "mozi-da-qu",
+    "shang-xian-esteeming-worthy-part-two",
+    "tu-men-tunnel-gates-city-defense",
+    "mozi-jie-yong-zhong-frugality-part-2",
+    "mozi-gui-yi-valuing-righteousness",
+    "mozi-illuminating-ghosts-ming-gui",
+    "mozi-heaven-will-tianzhi",
+    "mozi-suoran-on-influence",
+    "qie-ji-theft-covetous-disease",
+    "mozi-jie-yong-utility-frugality",
+    "mozi-jie-zang-funeral-simplicity",
+    "mozi-xiaoqu-logical-methodology",
+    "mozi-honoring-worthy-three-standards",
+    "mozi-xiu-shen-self-cultivation",
+    "shang-tong-upper-unity-mozi",
+    "fei-gong-against-attack-mozi",
+    "mozi-suo-ran-dyeing-influence"
+  ],
+  "mozi-fayi": [
+    "mozi-upper-canon-jing-shang"
+  ],
+  "governance-virtue-de": [
+    "preventing-speech-damming-rivers",
+    "mozi-three-debates-music-governance",
+    "jian-de-zhi-guo",
+    "zhuangzi-ying-di-wang",
+    "ruo-min-weakening-the-people",
+    "born-in-adversity-die-in-comfort",
+    "tian-xia-zhi-yi-righteousness-under-heaven",
+    "dao-de-jing-silk-manuscript",
+    "mozi-seven-calamities-qi-huan",
+    "shang-xian-esteeming-worthy-part-two",
+    "dao-the-way-taoism",
+    "mozi-suoran-on-influence",
+    "mozi-qin-shi-cherishing-scholars",
+    "shang-tong-upward-uniformity-mozi",
+    "three-eras-san世-shangjunshu",
+    "shang-tong-upper-unity-mozi",
+    "zhuangzi-turtle-story-rejection",
+    "mengzi-people-heart-minjian"
   ],
   "mandate-of-heaven": [
     "five-hundred-years-sage-king-cycles"
@@ -221,48 +488,255 @@
     "doctrine-of-the-mean-(zhongyong)",
     "understanding-heaven-knowing-fate-liezi",
     "great-learning-daxue",
+    "guanyinzi-chapter-nine",
     "confucius-western-saint-liezi",
     "confucian-sincerity-cheng",
     "doctrine-of-the-mean",
     "ultimate-wandering-observation-liezi",
-    "mind-solidified-form-dissolved-liezi"
+    "mind-solidified-form-dissolved-liezi",
+    "non-attachment-guanyinzi",
+    "yu-dwelling-abode-daoist-concept",
+    "cai-yu-bu-cai-zhi-jian"
   ],
   "天命": [
     "five-hundred-years-sage-king-cycles"
+  ],
+  "mind-stillness-buddhist-meditation-stone-water": [
+    "shen-gui-dream-yuan-jun-zhuangzi",
+    "zhuangzi-ying-di-wang",
+    "guanyinzi-chapter-eight",
+    "guanyinzi-chapter-nine",
+    "dayi-jing-great-meaning-sutra",
+    "guanyinzi-chapter-seven-transformation",
+    "guanyinzi-chapter-six-self-transformation",
+    "hu-zi-huzi-zhuangzi",
+    "guanyinzi-chapter-two"
+  ],
+  "understanding-heaven-knowing-fate-lieji": [
+    "shen-gui-dream-yuan-jun-zhuangzi"
   ],
   "tathagata-eight-rare-qualities": [
     "twelve-links-dependent-origination",
     "great-firm-brahmin-origin-sutra",
     "miaose-wang-yinyuan-jing",
     "great-firm-brahman-backstory",
+    "ding-sheng-wang-king-caitanya-dhrtarastra",
     "thirty-three-heavens",
+    "agama-explanation-twelve-links-dependent-origination",
     "great-firm-brahman",
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing",
     "seven-buddhas-current-kalpa"
   ],
   "mendicant-life-three-conditions": [
     "twelve-links-dependent-origination",
-    "great-firm-brahman-backstory"
-  ],
-  "human-nature": [
-    "twelve-links-dependent-origination",
-    "doctrine-of-the-mean-(zhongyong)",
-    "understanding-heaven-knowing-fate-liezi",
-    "mengzi-seven-chapters-structural-analysis",
-    "confucian-trust-verification",
-    "great-learning-daxue",
-    "mengzi-haoran-qi-vast-flowing-vital-energy",
-    "born-in-adversity-die-in-comfort",
-    "mengzi-four-beginnings-siduan",
-    "four-beginnings-si-duan",
-    "confucian-ethics",
-    "knowledge-learning",
-    "mind-solidified-form-dissolved-liezi"
+    "great-firm-brahman-backstory",
+    "agama-explanation-twelve-links-dependent-origination"
   ],
   "止觀": [
-    "twelve-links-dependent-origination"
+    "twelve-links-dependent-origination",
+    "agama-explanation-twelve-links-dependent-origination"
   ],
   "さとり": [
-    "twelve-links-dependent-origination"
+    "twelve-links-dependent-origination",
+    "hao-bridge-debate-fish-happiness",
+    "agama-explanation-twelve-links-dependent-origination"
+  ],
+  "mozijing": [
+    "mozi-jie-zang-frugal-burial",
+    "mozi-sage-kings-burial-model"
+  ],
+  "three-years-mourning": [
+    "mozi-jie-zang-frugal-burial",
+    "xiao-jing-classic-of-filial-piety",
+    "mozi-rejecting-confucians-fei-ru",
+    "mozi-jie-zang-funeral-simplicity"
+  ],
+  "mozi-xiu-shen-self-cultivation": [
+    "mozi-jie-zang-frugal-burial",
+    "shang-tong-identifying-with-superiors",
+    "mozi-suo-ran-being-infected",
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "confucian-ethics": [
+    "mozi-jie-zang-frugal-burial",
+    "junzi",
+    "confucian-trust-verification",
+    "seven-types-wives-buddhist-teaching",
+    "benevolence",
+    "xiao-jing-classic-of-filial-piety",
+    "born-in-adversity-die-in-comfort",
+    "great-firm-brahman-backstory",
+    "human-nature",
+    "mengzi-four-beginnings-siduan",
+    "confucian-sincerity-cheng",
+    "mengzi-ritual-food-debate",
+    "mengzi-righteousness-profit-debate",
+    "guan-yinzi-chapter-four-essence-spirit",
+    "mozi-jie-yong-zhong-frugality-part-2",
+    "yan-hui",
+    "confucian-self-examination",
+    "confucian-political-philosophy",
+    "confucian-ethics",
+    "knowledge-learning",
+    "five-virtues-four-vices",
+    "mozi-rejecting-confucians-fei-ru",
+    "providing-people-sustenance-zhi-min-zhi-chan",
+    "tian-yun-zhuangzi"
+  ],
+  "mozi-jie-zang-frugal-burial": [
+    "mozi-jie-zang-frugal-burial",
+    "mozi-sage-kings-burial-model",
+    "mozi-rejecting-confucians-fei-ru"
+  ],
+  "pure-qi-transformation-hunqi-bianhua": [
+    "four-stages-life-liezi-tianrui",
+    "baopuzi-jiu-dan-nine-elixirs",
+    "true-person-without-dreams-liezi",
+    "huaxu-kingdom-liezi",
+    "huaxu-dream-liezi"
+  ],
+  "seeds-of-being-zhongyouji": [
+    "four-stages-life-liezi-tianrui",
+    "zhuangzi-ying-di-wang",
+    "guanyinzi-chapter-two"
+  ],
+  "self-generating-life-death": [
+    "four-stages-life-liezi-tianrui",
+    "dongmen-wu-grieflessness",
+    "beigongzi-ximenzi-virtue-fate-liezi",
+    "guan-bao-friendship-liezi",
+    "force-fate-debate-liezi"
+  ],
+  "dao-the-way-taoism": [
+    "four-stages-life-liezi-tianrui",
+    "kangcangzi-ear-vision-eye-hearing",
+    "pure-qi-transformation-hunqi-bianhua",
+    "baopuzi-yellow-white-alchemy",
+    "dao-ben-ru-mo-dao-as-root-confucianism-as-branch",
+    "qiushui-autumn-floods-zhuangzi",
+    "xinzhai-heart-fasting",
+    "hao-bridge-debate-fish-happiness",
+    "wuyong-zhi-yong-usefulness-of-uselessness",
+    "liang-zhang-min-zhang-cang-lactotherapy",
+    "zhuangzi-ying-di-wang",
+    "guanyinzi-chapter-eight",
+    "baopuzi-jiu-dan-nine-elixirs",
+    "perfect-person-zhiren-zhuangzi",
+    "guanyinzi-chapter-nine",
+    "guan-yinzi-chapter-three-sage-way",
+    "de-yi-wang-yan-zhuangzi",
+    "guarding-practices-wenzi-guardianship",
+    "wu-pu-five-animal-play-hua-tuo",
+    "bo-chengzi-gao-zhuangzi",
+    "true-person-without-dreams-liezi",
+    "confucian-sincerity-cheng",
+    "heart-death-zhuangzi",
+    "five-elements-theory-constancy-transformation",
+    "guan-yinzi-chapter-four-essence-spirit",
+    "zhang-liang-daoist-cultivation-exile",
+    "huaxu-dream-liezi",
+    "mozi-gui-yi-valuing-righteousness",
+    "sheng-ren-zhi-dao-sages-way",
+    "guanyinzi-chapter-seven-transformation",
+    "constellation-fate-determinism-bao-puzi",
+    "guanyinzi-chapter-three",
+    "hun-tun-chaos-death-zhuangzi",
+    "guan-yinzi-chapter-four-spirit-five-elements",
+    "guan-yinzi-chapter-nine-medicinal-treatment",
+    "non-attachment-guanyinzi",
+    "force-fate-debate-liezi",
+    "yu-dwelling-abode-daoist-concept",
+    "cautious-speech-conduct-liezi-shuofu",
+    "gengsang-chu-zhuangzi",
+    "fei-gong-against-attack-mozi",
+    "yang-zhu-philosophy-liezi",
+    "zhuangzi-heaven-earth-chapter",
+    "wenzi-text",
+    "zhuangzi-turtle-story-rejection",
+    "tian-yun-zhuangzi",
+    "guanyinzi-chapter-two",
+    "self-generating-life-death"
+  ],
+  "jingk-soul": [
+    "four-stages-life-liezi-tianrui"
+  ],
+  "wu-zi": [
+    "liutao-six-secret-strategies"
+  ],
+  "sunzi-art-of-war": [
+    "liutao-six-secret-strategies"
+  ],
+  "mozi-jie-yong-utility-frugality": [
+    "mozi-fei-yue-shang-against-music-upper",
+    "mozi-practical-standards-utilitarian-criteria",
+    "mozi-fei-ming-against-fatalism",
+    "mozi-jie-yong-zhong-frugality-part-2",
+    "mozi-gui-yi-valuing-righteousness",
+    "mozi-jie-yong-utility-frugality"
+  ],
+  "mozi-heaven-will-tianzhi": [
+    "shang-tong-identifying-with-superiors",
+    "shang-tong-reward-punishment-maf",
+    "mozi-fei-ming-against-fatalism",
+    "mozi-xiaoqu-mohist-logic",
+    "mozi-suo-ran-being-infected",
+    "tian-xia-zhi-yi-righteousness-under-heaven",
+    "shang-xian-middle-mozi",
+    "shang-xian-exalting-worthy",
+    "mozi-fayi-standard-law",
+    "mozi-gui-yi-valuing-righteousness",
+    "mozi-illuminating-ghosts-ming-gui",
+    "mozi-heaven-will-tianzhi",
+    "shang-tong-upward-uniformity-mozi",
+    "mozi-jie-yong-utility-frugality",
+    "mozi-jie-zang-funeral-simplicity",
+    "mozi-xiaoqu-logical-methodology",
+    "shang-tong-upper-unity-mozi"
+  ],
+  "mozi-self-cultivation-xiu-shen": [
+    "shang-tong-identifying-with-superiors",
+    "shang-xian-exalting-worthy",
+    "mozi-da-qu",
+    "mozi-jie-yong-zhong-frugality-part-2",
+    "mozi-heaven-will-tianzhi",
+    "shang-tong-upper-unity-mozi"
+  ],
+  "confucian-music-yue": [
+    "mozi-three-debates-music-governance",
+    "confucian-ethics",
+    "knowledge-learning",
+    "shared-joy-with-the-people-yu-min-xie-le"
+  ],
+  "mozism": [
+    "mozi-three-debates-music-governance"
+  ],
+  "utilitarianism-mozi": [
+    "mozi-three-debates-music-governance"
+  ],
+  "wang-dao-true-king-hegemon": [
+    "mozi-three-debates-music-governance",
+    "three-eras-san世-shangjunshu"
+  ],
+  "mozi-seven-calamities-qi-huan": [
+    "mozi-three-debates-music-governance",
+    "shang-xian-middle-mozi",
+    "mozi-da-qu",
+    "mozi-jie-yong-zhong-frugality-part-2",
+    "mozi-heaven-will-tianzhi",
+    "mozi-qin-shi-cherishing-scholars",
+    "mozi-xiu-shen-self-cultivation",
+    "shang-tong-upper-unity-mozi"
+  ],
+  "mozi-gui-yi-valuing-righteousness": [
+    "mozi-three-debates-music-governance",
+    "mozi-fei-ming-against-fatalism",
+    "shang-xian-exalting-worthy",
+    "mozi-jie-yong-zhong-frugality-part-2",
+    "mozi-gui-yi-valuing-righteousness",
+    "mozi-banner-system-siege-defense",
+    "mozi-jie-zang-funeral-simplicity",
+    "mozi-xiu-shen-self-cultivation",
+    "shang-tong-upper-unity-mozi"
   ],
   "three-roots-of-unwholesomeness": [
     "san-fa-du-lun-three-dharmas-treatise",
@@ -279,33 +753,217 @@
     "great-firm-brahman",
     "arhat-stages-buddhist-liberation",
     "four-agamas-commentary-commentary-on-four-collections",
+    "shizi-yue-fo-ben-sheng-jing",
     "san-chong-guan-threefold-contemplation",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "initial-awakening": [
-    "san-fa-du-lun-three-dharmas-treatise"
+    "san-fa-du-lun-three-dharmas-treatise",
+    "dayi-jing-great-meaning-sutra",
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng",
+    "shizi-yue-fo-ben-sheng-jing"
+  ],
+  "da-cheng-ben-sheng-xin-di-guan-jing": [
+    "jian-de-zhi-guo",
+    "心地法門",
+    "da-fangbian-fo-baoen-jing",
+    "da-cheng-ben-sheng-xin-di-guan-jing",
+    "xu-fen-buddhist-prologue",
+    "san-chong-guan-threefold-contemplation"
+  ],
+  "sheng-jing-birth-sutras": [
+    "prince-mupo-sutra-mu-po-tai-zi"
+  ],
+  "four-inversions-buddhist": [
+    "prince-mupo-sutra-mu-po-tai-zi",
+    "guanyinzi-chapter-seven-transformation",
+    "four-foundations-mindfulness-an-shigao-commentary",
+    "mind-stillness-buddhist-meditation-stone-water"
+  ],
+  "an-shigao-translation-methodology": [
+    "prince-mupo-sutra-mu-po-tai-zi",
+    "an-shigao-translated-agama-zhengxing-sutra",
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "throw-body-feed-tigers-jataka": [
+    "prince-mupo-sutra-mu-po-tai-zi",
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "da-fangbian-fo-baoen-jing",
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng",
+    "jinse-wang-jing-golden-king-sutra",
+    "sakra-tests-king-subhuti-yaksha"
+  ],
+  "king-sibi-pigeon-sacrifice": [
+    "prince-mupo-sutra-mu-po-tai-zi",
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "da-fangbian-fo-baoen-jing",
+    "compassionate-dragon-king-naga",
+    "bodhisattva-sacrifice-king-changshou",
+    "miaose-wang-yinyuan-jing",
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng",
+    "non-retaliation-buddhist-teaching",
+    "shizi-sutuo-suowa-wang-duanrou-jing",
+    "jinse-wang-jing-golden-king-sutra",
+    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
+  ],
+  "mengzi-hegemon-true-king-ba-wang-distinction": [
+    "prince-mupo-sutra-mu-po-tai-zi",
+    "mozi-suo-ran-being-infected"
+  ],
+  "born-in-adversity-die-in-comfort": [
+    "prince-mupo-sutra-mu-po-tai-zi",
+    "born-in-adversity-die-in-comfort"
+  ],
+  "three-treasures": [
+    "prince-mupo-sutra-mu-po-tai-zi",
+    "bao-en-pin",
+    "seven-types-wives-buddhist-teaching",
+    "true-person-without-dreams-liezi",
+    "da-cheng-ben-sheng-xin-di-guan-jing",
+    "yu-dwelling-abode-daoist-concept",
+    "shizi-yue-fo-ben-sheng-jing",
+    "shan-zi-sutra-filial-bodhisattva"
+  ],
+  "奉戒行善": [
+    "prince-mupo-sutra-mu-po-tai-zi"
+  ],
+  "閉口不言": [
+    "prince-mupo-sutra-mu-po-tai-zi"
+  ],
+  "霸道": [
+    "prince-mupo-sutra-mu-po-tai-zi"
+  ],
+  "輪廻": [
+    "prince-mupo-sutra-mu-po-tai-zi"
+  ],
+  "本生譚": [
+    "prince-mupo-sutra-mu-po-tai-zi"
+  ],
+  "nine-unnatural-deaths-buddhist": [
+    "prince-mupo-sutra-mu-po-tai-zi"
   ],
   "心地觀": [
     "心地法門"
   ],
   "si-en-four-graces-buddhism": [
     "心地法門",
+    "da-fangbian-fo-baoen-jing",
     "da-cheng-ben-sheng-xin-di-guan-jing"
-  ],
-  "da-cheng-ben-sheng-xin-di-guan-jing": [
-    "心地法門",
-    "da-cheng-ben-sheng-xin-di-guan-jing",
-    "xu-fen-buddhist-prologue",
-    "san-chong-guan-threefold-contemplation"
   ],
   "大乗本生心地観経": [
     "心地法門"
+  ],
+  "heart-death-zhuangzi": [
+    "sun-shuao-equanimity-zhuangzi",
+    "traveling-mind-origin-things-zhuangzi"
+  ],
+  "six-vermin-shangjun-shu": [
+    "mozi-practical-standards-utilitarian-criteria",
+    "lai-min-attracting-people"
+  ],
+  "agricultural-foundation": [
+    "mozi-practical-standards-utilitarian-criteria",
+    "five-categories-people-wumin-shangjunshu",
+    "ruo-min-weakening-the-people",
+    "mozi-seven-calamities-qi-huan",
+    "three-vermin-three-shixing-shangjunshu",
+    "mozi-jie-yong-utility-frugality",
+    "ding-fen-determining-names-positions"
+  ],
+  "political-philosophy-analects": [
+    "five-categories-people-wumin-shangjunshu",
+    "investigating-things-extending-knowledge-gewu-zhizhi",
+    "three-eras-san世-shangjunshu",
+    "shang-tong-upper-unity-mozi"
+  ],
+  "governance-leadership": [
+    "five-categories-people-wumin-shangjunshu",
+    "three-dukes-gong-sann-gong",
+    "shang-tong-upper-unity-mozi",
+    "mengzi-hegemon-true-king-ba-wang-distinction"
+  ],
+  "fixed-livelihood": [
+    "five-categories-people-wumin-shangjunshu",
+    "three-vermin-three-shixing-shangjunshu",
+    "agricultural-foundation"
+  ],
+  "first-principle-shangjun-shu": [
+    "five-categories-people-wumin-shangjunshu",
+    "ruo-min-weakening-the-people",
+    "first-principle-shangjun-shu",
+    "shang-jun-shu-volume-5",
+    "lai-min-attracting-people",
+    "three-vermin-three-shixing-shangjunshu",
+    "ding-fen-determining-names-positions"
+  ],
+  "buddhahood": [
+    "prince-sudana-sutta-bodhisattva-generosity"
+  ],
+  "thirty-three-heavens": [
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "great-firm-brahmin-origin-sutra",
+    "great-brahma-king",
+    "great-firm-brahman-backstory",
+    "ding-sheng-wang-king-mahadyuti-origin-karma",
+    "human-immortal-sutra-ren-xian-jing",
+    "brahma-fourfold-teaching",
+    "dayi-jing-great-meaning-sutra",
+    "shan-zi-sutra-filial-bodhisattva"
+  ],
+  "bu-chu-yi-sheng-yu-chu": [
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "fuli-prince-fortune-power-cause-effect-sutra",
+    "five-hindrances-ten-fetters-buddhist-doctrine",
+    "shizi-yue-fo-ben-sheng-jing"
+  ],
+  "bimbisara-king-magadha-ren-xian": [
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "da-fangbian-fo-baoen-jing",
+    "dayi-jing-great-meaning-sutra"
+  ],
+  "confucius-analects": [
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "junzi",
+    "confucius-analects",
+    "qiushui-autumn-floods-zhuangzi",
+    "confucian-trust-verification",
+    "zigong",
+    "benevolence",
+    "three-years-mourning",
+    "xiao-jing-classic-of-filial-piety",
+    "learning-attitude-analects",
+    "four-beginnings-si-duan",
+    "moral-cultivation-methods",
+    "knowing-destiny-rites-words",
+    "junzi-characteristics",
+    "political-philosophy-analects"
+  ],
+  "mahasanghika": [
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "da-cheng-ben-sheng-xin-di-guan-jing"
+  ],
+  "analects-disciples": [
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "confucian-trust-verification",
+    "zigong",
+    "xiao-jing-classic-of-filial-piety",
+    "erya-classic-chinese-glossary"
+  ],
+  "prince-sujata-story-bodhisattva-sacrifice": [
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "da-fangbian-fo-baoen-jing",
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
+  ],
+  "miaose-wang-bodhisattva-sacrifice": [
+    "prince-sudana-sutta-bodhisattva-generosity",
+    "jinse-wang-jing-golden-king-sutra"
   ],
   "knowledge-learning": [
     "junzi",
     "confucian-trust-verification",
     "great-learning-daxue",
     "human-nature",
+    "儒家",
     "mengzi-ritual-food-debate",
     "confucian-ethics",
     "knowledge-learning"
@@ -326,11 +984,13 @@
   "仁爱": [
     "junzi",
     "benevolence",
+    "儒家自省",
     "confucian-self-examination"
   ],
   "知识学习": [
     "junzi",
     "confucian-trust-verification",
+    "儒家自省",
     "confucian-ethics"
   ],
   "儒家自省": [
@@ -338,33 +998,23 @@
     "仁爱",
     "仁者",
     "confucian-trust-verification",
+    "仁愛",
     "benevolence",
     "confucian-ethics",
     "君子"
   ],
+  "仁愛": [
+    "junzi",
+    "benevolence",
+    "儒家自省",
+    "dayi-jing-great-meaning-sutra",
+    "confucian-self-examination"
+  ],
   "知識学習": [
     "junzi",
     "confucian-trust-verification",
+    "儒家自省",
     "confucian-ethics"
-  ],
-  "confucian-ethics": [
-    "junzi",
-    "confucian-trust-verification",
-    "benevolence",
-    "born-in-adversity-die-in-comfort",
-    "great-firm-brahman-backstory",
-    "human-nature",
-    "mengzi-four-beginnings-siduan",
-    "confucian-sincerity-cheng",
-    "mengzi-ritual-food-debate",
-    "mengzi-righteousness-profit-debate",
-    "yan-hui",
-    "confucian-self-examination",
-    "confucian-political-philosophy",
-    "confucian-ethics",
-    "knowledge-learning",
-    "five-virtues-four-vices",
-    "providing-people-sustenance-zhi-min-zhi-chan"
   ],
   "li": [
     "junzi",
@@ -372,9 +1022,12 @@
   ],
   "yan-hui": [
     "junzi",
+    "子貢",
     "benevolence",
     "analects-disciples",
-    "confucian-ethics"
+    "confucian-ethics",
+    "mozi-rejecting-confucians-fei-ru",
+    "zilu"
   ],
   "礼": [
     "junzi",
@@ -392,38 +1045,33 @@
     "confucius-analects",
     "benevolence",
     "three-years-mourning",
+    "xiao-jing-classic-of-filial-piety",
     "yan-hui"
-  ],
-  "confucius-analects": [
-    "junzi",
-    "confucius-analects",
-    "confucian-trust-verification",
-    "benevolence",
-    "three-years-mourning",
-    "learning-attitude-analects",
-    "four-beginnings-si-duan",
-    "moral-cultivation-methods",
-    "knowing-destiny-rites-words",
-    "junzi-characteristics",
-    "political-philosophy-analects"
   ],
   "junzi": [
     "junzi",
     "confucius-analects",
     "confucian-trust-verification",
+    "seven-types-wives-buddhist-teaching",
     "benevolence",
+    "mozi-suo-ran-being-infected",
     "born-in-adversity-die-in-comfort",
     "human-nature",
     "confucius-western-saint-liezi",
     "confucian-sincerity-cheng",
     "mengzi-righteousness-profit-debate",
+    "sheng-ren-zhi-dao-sages-way",
     "four-beginnings-si-duan",
     "confucian-self-examination",
     "confucian-ethics",
     "doctrine-of-the-mean",
     "knowledge-learning",
+    "义",
+    "mozi-qin-shi-cherishing-scholars",
     "moral-cultivation-methods",
     "moral-responsibility",
+    "mozi-xiu-shen-self-cultivation",
+    "shang-tong-upper-unity-mozi",
     "knowing-destiny-rites-words",
     "unsummoned-ministers-bu-zhao-zhi-chen",
     "doctrine-of-the-mean-zhongyong"
@@ -434,17 +1082,36 @@
     "仁爱",
     "仁者",
     "confucian-trust-verification",
+    "仁愛",
     "benevolence",
+    "儒家自省",
     "confucian-sincerity-cheng",
+    "sheng-ren-zhi-dao-sages-way",
     "confucian-self-examination",
     "confucian-ethics",
+    "义",
     "moral-cultivation-methods",
     "knowing-destiny-rites-words",
     "unsummoned-ministers-bu-zhao-zhi-chen"
   ],
   "义": [
     "junzi",
-    "benevolence"
+    "seven-types-wives-buddhist-teaching",
+    "benevolence",
+    "mozi-da-qu",
+    "qie-ji-theft-covetous-disease",
+    "guanyinzi-chapter-three"
+  ],
+  "pure-qi-transforming-living-beings": [
+    "pure-qi-transformation-hunqi-bianhua"
+  ],
+  "unity-of-heaven-human-nature": [
+    "pure-qi-transformation-hunqi-bianhua"
+  ],
+  "mind-solidified-form-dissolved-liezi": [
+    "cicada-catcher-concentration-liezi",
+    "shangqiu-kai-faith-moves-heaven-earth-liezi",
+    "ji-shengzi-fighting-roosters-liezi"
   ],
   "four-books": [
     "doctrine-of-the-mean-(zhongyong)",
@@ -463,6 +1130,7 @@
   "修身": [
     "understanding-heaven-knowing-fate-liezi",
     "confucian-sincerity-cheng",
+    "mozi-suoran-on-influence",
     "doctrine-of-the-mean-zhongyong"
   ],
   "仁者": [
@@ -475,7 +1143,19 @@
   ],
   "three-evil-roots-buddhist": [
     "four-āgama-commentary-ā-hán-mù-chao-jiě",
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing",
     "dana-paramita-bodhisattva-giving"
+  ],
+  "transmutation-alchemy": [
+    "baopuzi-yellow-white-alchemy"
+  ],
+  "wu-zhi-five-fungi-baopuzi": [
+    "baopuzi-yellow-white-alchemy"
+  ],
+  "baopuzi-jiu-dan-nine-elixirs": [
+    "baopuzi-yellow-white-alchemy",
+    "shou-yi-zhi-dao-guarding-the-one",
+    "liang-zuo-shan-two-mountains-immortality-baopuzi"
   ],
   "human-harmony": [
     "human-harmony-he-ren"
@@ -483,12 +1163,37 @@
   "human-harmony-he-ren": [
     "human-harmony-he-ren"
   ],
-  "thirty-three-heavens": [
-    "great-firm-brahmin-origin-sutra",
-    "great-brahma-king",
-    "great-firm-brahman-backstory",
-    "human-immortal-sutra-ren-xian-jing",
-    "brahma-fourfold-teaching"
+  "legalism-philosophy-debate": [
+    "qiushui-autumn-floods-zhuangzi"
+  ],
+  "knowing-destiny-rites-words": [
+    "qiushui-autumn-floods-zhuangzi"
+  ],
+  "gongsun-long-debate": [
+    "qiushui-autumn-floods-zhuangzi"
+  ],
+  "zhuangzi-inner-chapters": [
+    "xinzhai-heart-fasting"
+  ],
+  "void-seal-bodhisattva": [
+    "xinzhai-heart-fasting",
+    "yue-shang-rulai-moon-topped-tathagata"
+  ],
+  "乘物以遊心": [
+    "xinzhai-heart-fasting"
+  ],
+  "心地法門": [
+    "xinzhai-heart-fasting",
+    "five-hindrances-ten-fetters-buddhist-doctrine",
+    "da-cheng-ben-sheng-xin-di-guan-jing"
+  ],
+  "doctrine-of-the-mean-zhongyong": [
+    "xinzhai-heart-fasting",
+    "ding-fen-determining-names-positions"
+  ],
+  "mind-as-organ-of-thought": [
+    "hao-bridge-debate-fish-happiness",
+    "non-attachment-guanyinzi"
   ],
   "defilement-accumulation-in-practice": [
     "great-firm-brahmin-origin-sutra",
@@ -513,6 +1218,14 @@
     "seven-buddhas-current-kalpa",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
+  "wu-wei-non-action": [
+    "natural-spontaneity-refutation-divine-creation-bao-puzi",
+    "sheng-ren-zhi-dao-sages-way"
+  ],
+  "zhi-qing-relation": [
+    "natural-spontaneity-refutation-divine-creation-bao-puzi",
+    "ba-yi-ceremonial-dance"
+  ],
   "four-bases-supernatural-power-siddhartha": [
     "three-dharmas-buddhist-philosophy",
     "bimbisara-king-magadha-ren-xian",
@@ -526,14 +1239,41 @@
     "seven-factors-awakening-an-shigao-commentary",
     "four-agamas-commentary-commentary-on-four-collections"
   ],
+  "jiao-xiang-e": [
+    "bu-xiang-ai"
+  ],
+  "jiao-xiang-li": [
+    "bu-xiang-ai"
+  ],
+  "bu-xiao": [
+    "bu-xiang-ai"
+  ],
+  "bu-ci": [
+    "bu-xiang-ai"
+  ],
+  "dao-zei": [
+    "bu-xiang-ai"
+  ],
+  "sheng-ren": [
+    "bu-xiang-ai"
+  ],
+  "zhi-tian-xia": [
+    "bu-xiang-ai"
+  ],
   "human-immortal-ren-xian": [
-    "bimbisara-king-magadha-ren-xian"
+    "bimbisara-king-magadha-ren-xian",
+    "da-fangbian-fo-baoen-jing",
+    "shou-yi-zhi-dao-guarding-the-one",
+    "xuandao-mysterious-way",
+    "tai-xi-embryo-breathing-baopuzi"
   ],
   "tathagata": [
-    "tathagata-eight-rare-qualities"
+    "tathagata-eight-rare-qualities",
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
   ],
   "śakra": [
-    "tathagata-eight-rare-qualities"
+    "tathagata-eight-rare-qualities",
+    "shizi-sutuo-suowa-wang-duanrou-jing"
   ],
   "mahābrahmā": [
     "tathagata-eight-rare-qualities",
@@ -557,10 +1297,6 @@
   "声聞": [
     "tathagata-eight-rare-qualities"
   ],
-  "three-treasures": [
-    "bao-en-pin",
-    "da-cheng-ben-sheng-xin-di-guan-jing"
-  ],
   "six-paramitas": [
     "bao-en-pin"
   ],
@@ -583,6 +1319,9 @@
   "karma": [
     "bao-en-pin"
   ],
+  "cai-yu-bu-cai-zhi-jian": [
+    "wuyong-zhi-yong-usefulness-of-uselessness"
+  ],
   "confucius-etiquette-xiang-dang": [
     "confucian-trust-verification",
     "confucian-ethics"
@@ -592,14 +1331,18 @@
   ],
   "analects": [
     "confucian-trust-verification",
+    "zigong",
     "analects-disciples",
     "yan-hui",
     "confucian-ethics",
+    "zilu",
     "knowing-destiny-rites-words"
   ],
   "moral-responsibility": [
     "confucian-trust-verification",
+    "guanyinzi-chapter-nine",
     "born-in-adversity-die-in-comfort",
+    "mozi-da-qu",
     "confucian-self-examination",
     "confucian-political-philosophy",
     "confucian-ethics",
@@ -607,6 +1350,7 @@
   ],
   "道徳的責任": [
     "confucian-trust-verification",
+    "仁愛",
     "confucian-self-examination",
     "confucian-ethics"
   ],
@@ -619,8 +1363,11 @@
   "儒教的自省": [
     "confucian-trust-verification"
   ],
-  "analects-disciples": [
-    "confucian-trust-verification"
+  "mozi": [
+    "mozi-fei-ming-against-fatalism",
+    "mozi-gui-yi-valuing-righteousness",
+    "义",
+    "mozi-xiaoqu-logical-methods"
   ],
   "人性-(human-nature)": [
     "great-learning-daxue"
@@ -639,6 +1386,75 @@
   ],
   "君子の人格形成": [
     "great-learning-daxue"
+  ],
+  "bao-puzi": [
+    "liang-zhang-min-zhang-cang-lactotherapy",
+    "wu-pu-five-animal-play-hua-tuo",
+    "baopuzi-immortality-debate",
+    "zhang-liang-daoist-cultivation-exile"
+  ],
+  "yang-zhu-philosophy-liezi": [
+    "the-lost-sheep-at-the-crossroads",
+    "zhuangzi-heaven-earth-chapter"
+  ],
+  "mozijing-sage-kings": [
+    "mozi-sage-kings-burial-model"
+  ],
+  "confucian-ritual": [
+    "mozi-sage-kings-burial-model"
+  ],
+  "xiao-jing-classic-of-filial-piety": [
+    "da-fangbian-fo-baoen-jing",
+    "xiao-jing-classic-of-filial-piety",
+    "erya-classic-chinese-glossary",
+    "shan-zi-sutra-filial-bodhisattva"
+  ],
+  "great-brahma-king": [
+    "da-fangbian-fo-baoen-jing",
+    "human-immortal-sutra-ren-xian-jing",
+    "brahma-fourfold-teaching"
+  ],
+  "ba-en-pin": [
+    "da-fangbian-fo-baoen-jing"
+  ],
+  "mahakasyapa-buddhist-disciple-collected-sutras": [
+    "da-fangbian-fo-baoen-jing",
+    "dayi-jing-great-meaning-sutra"
+  ],
+  "confucius": [
+    "zigong",
+    "confucian-ethics",
+    "five-virtues-four-vices",
+    "knowing-destiny-rites-words"
+  ],
+  "zilu": [
+    "zigong",
+    "子貢",
+    "analects-disciples",
+    "confucian-ethics",
+    "mozi-rejecting-confucians-fei-ru",
+    "zhuangzi-fisherman-yu-fu"
+  ],
+  "孔子": [
+    "zigong",
+    "confucian-ethics",
+    "five-virtues-four-vices",
+    "knowing-destiny-rites-words"
+  ],
+  "道徳責任": [
+    "仁愛"
+  ],
+  "upaya-expedient-means-buddhism": [
+    "yue-ming-tongzi-moonlight-youth-bodhisattva-sutra",
+    "liang-she-fa-two-grabbing-methods",
+    "si-yuan-four-vows-bodhisattva-practice-yue-ming-jing",
+    "virama-bodhisattva-pusajiamo"
+  ],
+  "nirodha-samapatti": [
+    "yue-ming-tongzi-moonlight-youth-bodhisattva-sutra",
+    "true-person-without-dreams-liezi",
+    "jinse-wang-jing-golden-king-sutra",
+    "shan-zi-sutra-filial-bodhisattva"
   ],
   "great-brahma's-fourfold-teaching": [
     "great-brahma-king"
@@ -669,6 +1485,7 @@
   ],
   "阿羅漢": [
     "great-brahma-king",
+    "qianshi-san-zhuan-jing",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "須陀洹果": [
@@ -677,27 +1494,74 @@
   "説一切有部": [
     "great-brahma-king"
   ],
-  "thirty-seven-bodhiparamitas-an-shigao-commentary": [
-    "twelve-links-dependent-origination-an-shigao-commentary"
+  "shan-e-bao-ying-karmic-retribution": [
+    "fuli-prince-fortune-power-cause-effect-sutra",
+    "mozi-heaven-will-tianzhi",
+    "shizi-yue-fo-ben-sheng-jing"
+  ],
+  "cakravartin-seven-treasures-buddhist-texts": [
+    "fuli-prince-fortune-power-cause-effect-sutra"
+  ],
+  "mahayana-dharani-of-compassion": [
+    "yue-shang-rulai-moon-topped-tathagata"
+  ],
+  "lotus-up-tathagata": [
+    "yue-shang-rulai-moon-topped-tathagata"
+  ],
+  "旃檀世界": [
+    "yue-shang-rulai-moon-topped-tathagata"
+  ],
+  "entry-all-knowledge-dharani-gate": [
+    "yue-shang-rulai-moon-topped-tathagata"
+  ],
+  "大乗悲分陀利経": [
+    "yue-shang-rulai-moon-topped-tathagata"
+  ],
+  "five-precepts-buddhist": [
+    "seven-types-wives-buddhist-teaching"
+  ],
+  "七覚意注-(安世高)": [
+    "seven-types-wives-buddhist-teaching",
+    "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "four-noble-truths": [
+    "seven-types-wives-buddhist-teaching",
+    "human-immortal-sutra-ren-xian-jing",
+    "great-collection-dharma-gate-sutra",
+    "shang-tong-upper-unity-mozi",
+    "changahan-jing",
+    "shan-zi-sutra-filial-bodhisattva",
+    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
+  ],
+  "upāya-expedient-means-buddhism": [
+    "seven-types-wives-buddhist-teaching",
+    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "five-aggregates-seven-aspects-an-shigao": [
+    "seven-types-wives-buddhist-teaching",
+    "twelve-links-dependent-origination-an-shigao-commentary"
+  ],
+  "upya-expedient-means-buddhism": [
+    "zhuangzi-ying-di-wang",
+    "non-attachment-guanyinzi"
+  ],
+  "mengzi-political-philosophy-benevolent-rule": [
+    "zhuangzi-ying-di-wang",
+    "ruo-min-weakening-the-people",
+    "shang-xian-exalting-worthy",
+    "bo-chengzi-gao-zhuangzi",
+    "mengzi-unity-through-non-killing-ding-yu-yi",
+    "mozi-suoran-on-influence",
+    "mozi-qin-shi-cherishing-scholars",
+    "shang-tong-upper-unity-mozi",
+    "ding-fen-determining-names-positions",
+    "mengzi-people-heart-minjian"
+  ],
+  "thirty-seven-bodhiparamitas-an-shigao-commentary": [
     "twelve-links-dependent-origination-an-shigao-commentary"
   ],
   "four-noble-truths-an-shigao": [
     "twelve-links-dependent-origination-an-shigao-commentary"
-  ],
-  "twelve-links-dependent-origination-an-shigao-commentary": [
-    "twelve-links-dependent-origination-an-shigao-commentary",
-    "fenbie-gongde-lun",
-    "miaose-wang-yinyuan-jing",
-    "human-immortal-sutra-ren-xian-jing",
-    "an-shigao-translated-agama-zhengxing-sutra",
-    "great-collection-dharma-gate-sutra",
-    "thirty-seven-bodhiparamitas-an-shigao-commentary",
-    "white-cloth-golden-banner-two-brahmins-origin-sutra",
-    "changahan-jing",
-    "seven-buddhas-current-kalpa",
-    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "三十七品道品注-(安世高)": [
     "twelve-links-dependent-origination-an-shigao-commentary"
@@ -718,6 +1582,52 @@
     "seven-buddhas-current-kalpa",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
+  "five-elements": [
+    "guanyinzi-chapter-eight"
+  ],
+  "五行": [
+    "guanyinzi-chapter-eight",
+    "guan-yinzi-chapter-four-essence-spirit"
+  ],
+  "關尹子": [
+    "guanyinzi-chapter-eight",
+    "xu-ji-yi-you-shi",
+    "sheng-ren-zhi-dao-sages-way"
+  ],
+  "guanyinzi-chapter-three": [
+    "guanyinzi-chapter-eight",
+    "guanyinzi-chapter-nine",
+    "xu-ji-yi-you-shi",
+    "guanyinzi-chapter-seven-transformation"
+  ],
+  "guanyinzi-chapter-seven": [
+    "guanyinzi-chapter-eight"
+  ],
+  "five-elements-theory": [
+    "guanyinzi-chapter-eight"
+  ],
+  "dao-de-jing-silk-manuscript": [
+    "guanyinzi-chapter-eight",
+    "guanyinzi-chapter-nine",
+    "bo-chengzi-gao-zhuangzi",
+    "guan-yinzi-chapter-four-essence-spirit"
+  ],
+  "wu-yuan-five-origins-guan-yin-zi": [
+    "guanyinzi-chapter-eight",
+    "guanyinzi-chapter-nine",
+    "shan-mu-yi-dai-niao",
+    "guanyinzi-chapter-seven-transformation"
+  ],
+  "guanyinzi-chapter-seven-transformation": [
+    "guanyinzi-chapter-eight"
+  ],
+  "guan-yinzi-chapter-five-mind-intention-nature": [
+    "guanyinzi-chapter-eight"
+  ],
+  "five-thieves-buddhist-doctrine": [
+    "guanyinzi-chapter-eight",
+    "self-other-illusion-dream-wakefulness-guan-yinzi"
+  ],
   "benevolent": [
     "benevolence"
   ],
@@ -727,12 +1637,25 @@
   "孟子政治哲學": [
     "mengzi-seven-chapters-gongsun-chou-part-two"
   ],
+  "four-contemplations-buddhist-practice-ahang": [
+    "compassionate-dragon-king-naga",
+    "dayi-jing-great-meaning-sutra"
+  ],
+  "baopuzi-immortality-debate": [
+    "baopuzi-jiu-dan-nine-elixirs",
+    "shou-yi-zhi-dao-guarding-the-one",
+    "liang-zuo-shan-two-mountains-immortality-baopuzi"
+  ],
   "filial-piety": [
     "three-years-mourning",
     "confucian-ethics"
   ],
   "孝道": [
     "three-years-mourning"
+  ],
+  "buddhist-cosmology": [
+    "cakravartin-seven-treasures-buddhist-texts",
+    "ding-sheng-wang-king-mahadyuti-origin-karma"
   ],
   "nirodha-samāpatti": [
     "fenbie-gongde-lun",
@@ -742,18 +1665,56 @@
     "fenbie-gongde-lun",
     "nirodha-samapatti"
   ],
-  "five-aggregates-contemplation-buddhist": [
-    "five-thieves-buddhist-doctrine",
-    "ultimate-wandering-observation-liezi"
+  "non-action-wuwei": [
+    "guanyinzi-chapter-nine"
   ],
-  "non-retaliation-buddhist-teaching": [
-    "bodhisattva-sacrifice-king-changshou"
+  "guanyinzi-chapter-two": [
+    "guanyinzi-chapter-nine"
   ],
-  "king-sibi-pigeon-sacrifice": [
-    "bodhisattva-sacrifice-king-changshou",
-    "miaose-wang-yinyuan-jing",
-    "non-retaliation-buddhist-teaching",
-    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
+  "guanyinzi-chapter-five": [
+    "guanyinzi-chapter-nine"
+  ],
+  "guanyinzi-chapter-eight": [
+    "guanyinzi-chapter-nine",
+    "five-elements-theory-constancy-transformation"
+  ],
+  "laozi": [
+    "guanyinzi-chapter-nine"
+  ],
+  "zhuangzi": [
+    "guanyinzi-chapter-nine"
+  ],
+  "consciousness-recognition-guan-yin-zi": [
+    "guanyinzi-chapter-nine"
+  ],
+  "confucian-trust-verification": [
+    "guanyinzi-chapter-nine",
+    "confucian-ethics"
+  ],
+  "great-learning-daxue": [
+    "guanyinzi-chapter-nine",
+    "xiao-jing-classic-of-filial-piety",
+    "great-qi-haoran-zhi-qi",
+    "non-attachment-guanyinzi"
+  ],
+  "dao-the-way-taois": [
+    "guanyinzi-chapter-nine"
+  ],
+  "mind-stillness-budhist-meditation-stone-water": [
+    "guanyinzi-chapter-nine"
+  ],
+  "wu-wei": [
+    "guanyinzi-chapter-nine",
+    "bo-chengzi-gao-zhuangzi",
+    "huaxu-kingdom-liezi",
+    "tian-yun-zhuangzi"
+  ],
+  "shang-tong-upper-unity-mozi": [
+    "mozi-shang-xian-upper"
+  ],
+  "mozi-shang-xian-upper": [
+    "mozi-shang-xian-upper",
+    "mozi-suo-ran-dyeing-influence"
   ],
   "thousand-lamp-body-offering-bodhisattva-practice": [
     "bodhisattva-sacrifice-king-changshou",
@@ -761,22 +1722,40 @@
     "thousand-lamp-body-offering-bodhisattva-practice",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
-  "zilu": [
-    "analects-disciples",
-    "confucian-ethics"
+  "li-ritual": [
+    "xiao-jing-classic-of-filial-piety"
   ],
   "zigong": [
-    "analects-disciples"
-  ],
-  "子路": [
     "analects-disciples",
-    "confucian-ethics"
-  ],
-  "子贡": [
-    "analects-disciples"
+    "mozi-rejecting-confucians-fei-ru",
+    "zilu",
+    "zhuangzi-fisherman-yu-fu"
   ],
   "子貢": [
-    "analects-disciples"
+    "analects-disciples",
+    "zilu",
+    "zhuangzi-fisherman-yu-fu"
+  ],
+  "shangjun-shu": [
+    "ruo-min-weakening-the-people",
+    "ding-fen-determining-names-positions"
+  ],
+  "nong-zhan-agricultural-war": [
+    "ruo-min-weakening-the-people",
+    "shang-jun-shu-volume-5",
+    "lai-min-attracting-people",
+    "ding-fen-determining-names-positions"
+  ],
+  "shangjunshu-book-of-lord-shang": [
+    "ruo-min-weakening-the-people",
+    "ding-fen-determining-names-positions"
+  ],
+  "legalism-hanfeizi": [
+    "ruo-min-weakening-the-people"
+  ],
+  "legalism": [
+    "ruo-min-weakening-the-people",
+    "mozi-xiu-shen-self-cultivation"
   ],
   "the-analects": [
     "ba-yi-ceremonial-dance",
@@ -786,15 +1765,122 @@
     "ba-yi-ceremonial-dance",
     "confucian-music-yue"
   ],
-  "zhi-qing-relation": [
-    "ba-yi-ceremonial-dance"
+  "zhu-fahu": [
+    "sheng-jing-birth-sutras"
+  ],
+  "madhyamaka": [
+    "sheng-jing-birth-sutras",
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "agama-explanation-twelve-links-dependent-origination": [
+    "sheng-jing-birth-sutras",
+    "agama-explanation-twelve-links-dependent-origination"
+  ],
+  "jataka-tales": [
+    "sheng-jing-birth-sutras"
+  ],
+  "神通布教": [
+    "sheng-jing-birth-sutras"
+  ],
+  "業報": [
+    "sheng-jing-birth-sutras"
+  ],
+  "空觀": [
+    "sheng-jing-birth-sutras"
+  ],
+  "出家": [
+    "sheng-jing-birth-sutras"
+  ],
+  "邪命": [
+    "sheng-jing-birth-sutras"
+  ],
+  "無常": [
+    "sheng-jing-birth-sutras"
+  ],
+  "巧方便": [
+    "sheng-jing-birth-sutras"
+  ],
+  "邪婬": [
+    "sheng-jing-birth-sutras"
+  ],
+  "怨親平等": [
+    "sheng-jing-birth-sutras"
+  ],
+  "六度": [
+    "sheng-jing-birth-sutras"
+  ],
+  "精進": [
+    "sheng-jing-birth-sutras"
+  ],
+  "宿世因果": [
+    "sheng-jing-birth-sutras"
+  ],
+  "邪見": [
+    "sheng-jing-birth-sutras"
+  ],
+  "業論": [
+    "sheng-jing-birth-sutras"
+  ],
+  "神通度化": [
+    "sheng-jing-birth-sutras"
+  ],
+  "變文": [
+    "sheng-jing-birth-sutras"
+  ],
+  "寶卷": [
+    "sheng-jing-birth-sutras"
+  ],
+  "戒律": [
+    "sheng-jing-birth-sutras"
+  ],
+  "四十二章經": [
+    "sheng-jing-birth-sutras"
+  ],
+  "shijing": [
+    "mozi-suo-ran-being-infected",
+    "erya-classic-chinese-glossary",
+    "mozi-suoran-on-influence"
+  ],
+  "人性论": [
+    "mozi-suo-ran-being-infected"
+  ],
+  "性善论": [
+    "mozi-suo-ran-being-infected"
+  ],
+  "皋陶": [
+    "mozi-suo-ran-being-infected"
+  ],
+  "伊尹": [
+    "mozi-suo-ran-being-infected",
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "王道與霸道": [
+    "mozi-suo-ran-being-infected"
+  ],
+  "管仲": [
+    "mozi-suo-ran-being-infected"
+  ],
+  "范蠡": [
+    "mozi-suo-ran-being-infected"
+  ],
+  "guan-bao-friendship-liezi": [
+    "mozi-suo-ran-being-infected",
+    "yang-zhu-philosophy-liezi"
+  ],
+  "贪暴苛擾": [
+    "mozi-suo-ran-being-infected"
+  ],
+  "豎刁": [
+    "mozi-suo-ran-being-infected"
+  ],
+  "易牙": [
+    "mozi-suo-ran-being-infected"
+  ],
+  "墨子天志": [
+    "mozi-suo-ran-being-infected"
   ],
   "bodhisattva-sacrifice": [
     "miaose-wang-yinyuan-jing"
-  ],
-  "three-poisons-greed-hatred-delusion-buddhist-teaching": [
-    "miaose-wang-yinyuan-jing",
-    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "義淨": [
     "miaose-wang-yinyuan-jing"
@@ -816,18 +1902,16 @@
     "miaose-wang-yinyuan-jing",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
-  "governance-virtue-de": [
-    "born-in-adversity-die-in-comfort",
-    "dao-de-jing-silk-manuscript",
-    "dao-the-way-taoism",
-    "mengzi-people-heart-minjian"
+  "confucian-sincerity-checheng": [
+    "de-yi-wang-yan-zhuangzi"
+  ],
+  "upayas-skilful-means-buddhism": [
+    "de-yi-wang-yan-zhuangzi"
   ],
   "儒家": [
     "born-in-adversity-die-in-comfort",
-    "mengzi-ritual-food-debate"
-  ],
-  "born-in-adversity-die-in-comfort": [
-    "born-in-adversity-die-in-comfort"
+    "mengzi-ritual-food-debate",
+    "guan-yinzi-chapter-four-essence-spirit"
   ],
   "confucian-education-principles": [
     "born-in-adversity-die-in-comfort"
@@ -845,6 +1929,20 @@
   "twenty-realms-of-existence": [
     "great-firm-brahman-backstory"
   ],
+  "wenzi-text": [
+    "guarding-practices-wenzi-guardianship"
+  ],
+  "guan-yinzi-chapter-three-sage-way": [
+    "guarding-practices-wenzi-guardianship",
+    "guanyinzi-chapter-seven-transformation",
+    "guan-yinzi-chapter-nine-medicinal-treatment",
+    "cautious-speech-conduct-liezi-shuofu"
+  ],
+  "sheng-ren-zhi-dao-sages-way": [
+    "guarding-practices-wenzi-guardianship",
+    "guanyinzi-chapter-seven-transformation",
+    "cautious-speech-conduct-liezi-shuofu"
+  ],
   "pratyekabuddha": [
     "nirodha-samapatti",
     "mahakasyapa-buddhist-disciple-collected-sutras"
@@ -853,24 +1951,30 @@
     "ananda-compiled-scriptures",
     "three-treasuries-four-collections"
   ],
-  "great-brahma-king": [
-    "human-immortal-sutra-ren-xian-jing",
-    "brahma-fourfold-teaching"
-  ],
   "eightfold-noble-path": [
     "human-immortal-sutra-ren-xian-jing",
     "great-collection-dharma-gate-sutra"
-  ],
-  "four-noble-truths": [
-    "human-immortal-sutra-ren-xian-jing",
-    "great-collection-dharma-gate-sutra",
-    "changahan-jing",
-    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "eightfold-noble-path-human-immortal-sutra": [
     "human-immortal-sutra-ren-xian-jing",
     "four-inversions-buddhist",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
+  ],
+  "shang-tong-identifying-with-superiors": [
+    "tian-xia-zhi-yi-righteousness-under-heaven",
+    "three-dukes-gong-sann-gong"
+  ],
+  "shang-tong-upward-conformity": [
+    "shang-xian-exalting-worthy"
+  ],
+  "moz-three-debates-music-governance": [
+    "shang-xian-exalting-worthy"
+  ],
+  "xinzhai-heart-fasting": [
+    "xu-ji-yi-you-shi"
+  ],
+  "righteousness-internal-versus-external": [
+    "xu-ji-yi-you-shi"
   ],
   "three-fruits-buddhist-liberation": [
     "four-agnas-four-absorptions-buddhist-meditation"
@@ -884,24 +1988,156 @@
   "buddhist-meditation-three-serene-steps": [
     "four-agnas-four-absorptions-buddhist-meditation"
   ],
+  "zhi-li-qi-xing-deformed-ones": [
+    "shan-mu-yi-dai-niao"
+  ],
+  "zhili-qixing-deformed-ones-zhuangzi": [
+    "shan-mu-yi-dai-niao"
+  ],
   "force-fate-debate-liezi": [
     "dongmen-wu-grieflessness",
+    "beigongzi-ximenzi-virtue-fate-liezi",
     "guan-bao-friendship-liezi",
     "self-generating-life-death"
   ],
-  "self-generating-life-death": [
-    "dongmen-wu-grieflessness",
-    "guan-bao-friendship-liezi",
-    "force-fate-debate-liezi"
+  "fa-ju-monk": [
+    "qianshi-san-zhuan-jing"
   ],
-  "understanding-heaven-knowing-fate-liezi": [
-    "dongmen-wu-grieflessness",
-    "force-fate-debate-liezi",
-    "self-generating-life-death"
+  "祇樹給孤獨園": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "弟子地決": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "辟支佛地決": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "佛地決": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "阿難": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "布施": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "釋提桓因": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "婆羅門": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "生老病死": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "優波羅越": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "道人": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "五神通": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "彌勒菩薩": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "迦葉": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "天人": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "無生法忍": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "西晉": [
+    "qianshi-san-zhuan-jing",
+    "fa-ju-monk"
+  ],
+  "佛": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "舍衛國": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "至誠": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "禽獸": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "發心出家": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "行道": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "九劫": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "得佛道": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "比丘": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "西晋": [
+    "qianshi-san-zhuan-jing",
+    "fa-ju-monk"
+  ],
+  "仏": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "舎衛国": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "弟子の決": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "辟支仏の決": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "仏の決": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "バラモン": [
+    "qianshi-san-zhuan-jing"
+  ],
+  "弥勒菩薩": [
+    "qianshi-san-zhuan-jing"
   ],
   "yin-yang-dao-philosophy": [
     "dao-de-jing-silk-manuscript",
     "dao-the-way-taoism"
+  ],
+  "tian-zhi": [
+    "mozi-three-standards-three-fa",
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "mozis-political-philosophy": [
+    "mozi-seven-calamities-qi-huan",
+    "shang-tong-upper-unity-mozi"
+  ],
+  "good-governance": [
+    "mozi-seven-calamities-qi-huan"
+  ],
+  "shang-xian-exalting-worthy": [
+    "mozi-seven-calamities-qi-huan",
+    "mozi-gui-yi-valuing-righteousness",
+    "mozi-qin-shi-cherishing-scholars"
+  ],
+  "節用": [
+    "mozi-seven-calamities-qi-huan"
+  ],
+  "mozi-fayi-standard-law": [
+    "mozi-fayi-standard-law"
+  ],
+  "mozis-heaven-will-tianzhi": [
+    "mozi-fayi-standard-law"
+  ],
+  "san-shi-shen-three-corpses": [
+    "shou-yi-zhi-dao-guarding-the-one"
   ],
   "brahma-realm": [
     "brahma-fourfold-teaching"
@@ -923,6 +2159,9 @@
     "brahma-fourfold-teaching",
     "dana-paramita-bodhisattva-giving"
   ],
+  "guan-yin-zi-chapter-five": [
+    "self-other-illusion-dream-wakefulness-guan-yinzi"
+  ],
   "four-beginnings-(sìdu)": [
     "mengzi-four-beginnings-siduan"
   ],
@@ -940,7 +2179,9 @@
     "doctrine-of-the-mean"
   ],
   "great-qi-haoran-zhi-qi": [
-    "mengzi-four-beginnings-siduan"
+    "mengzi-four-beginnings-siduan",
+    "dayi-jing-great-meaning-sutra",
+    "cai-yu-bu-cai-zhi-jian"
   ],
   "不忍人之心": [
     "mengzi-four-beginnings-siduan"
@@ -955,23 +2196,40 @@
     "mengzi-four-beginnings-siduan",
     "confucian-self-examination"
   ],
+  "壹": [
+    "nong-zhan-agricultural-war"
+  ],
+  "law-and-punishment": [
+    "nong-zhan-agricultural-war"
+  ],
+  "de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu": [
+    "bo-chengzi-gao-zhuangzi"
+  ],
+  "gong-yibo-strength-liezi": [
+    "bo-chengzi-gao-zhuangzi"
+  ],
   "seven-buddhas-current-kalpa": [
     "mahasanghika-great-collection-teaching",
+    "dayi-jing-great-meaning-sutra",
     "four-inversions-buddhist"
+  ],
+  "de-yi-wang-yan-zhuangzi": [
+    "true-person-without-dreams-liezi"
+  ],
+  "guan-yinzi-chapter-eight-transcendence": [
+    "true-person-without-dreams-liezi"
+  ],
+  "dao-the-way-taoologism": [
+    "true-person-without-dreams-liezi"
+  ],
+  "shang-jun-shu": [
+    "shang-jun-shu-volume-5"
   ],
   "liezi": [
     "confucius-western-saint-liezi"
   ],
-  "an-shigao-translation-methodology": [
-    "an-shigao-translated-agama-zhengxing-sutra",
-    "thirty-seven-bodhiparamitas-an-shigao-commentary"
-  ],
   "安世高譯經方法論": [
     "an-shigao-translated-agama-zhengxing-sutra"
-  ],
-  "human-nature-in-confucianism": [
-    "confucian-sincerity-cheng",
-    "doctrine-of-the-mean-zhongyong"
   ],
   "emotional-regulation-in-classical-chinese-philosophy": [
     "confucian-sincerity-cheng"
@@ -979,39 +2237,159 @@
   "天人合一": [
     "confucian-sincerity-cheng"
   ],
-  "dao-the-way-taoism": [
-    "confucian-sincerity-cheng",
-    "force-fate-debate-liezi",
-    "self-generating-life-death"
-  ],
   "thirty-seven-bodhiparamitas-an-shigao": [
     "seven-factors-awakening-an-shigao-commentary",
+    "dayi-jing-great-meaning-sutra",
     "four-right-exertions-an-shigao-commentary",
     "five-roots-five-powers-an-shigao-commentary",
-    "four-foundations-mindfulness-an-shigao-commentary"
+    "four-foundations-mindfulness-an-shigao-commentary",
+    "shan-zi-sutra-filial-bodhisattva"
+  ],
+  "mozi-gong-meng-dialogue": [
+    "mozi-da-qu",
+    "qie-ji-theft-covetous-disease",
+    "mozi-rejecting-confucians-fei-ru"
+  ],
+  "三種解脫": [
+    "five-hindrances-ten-fetters-buddhist-doctrine"
+  ],
+  "san-chong-guan-threefold-contemplation": [
+    "five-hindrances-ten-fetters-buddhist-doctrine"
   ],
   "moral-cultivation-methods": [
-    "mengzi-righteousness-profit-debate"
+    "mengzi-righteousness-profit-debate",
+    "mozi-suo-ran-dyeing-influence"
   ],
   "道徳修養": [
     "mengzi-righteousness-profit-debate"
   ],
+  "five-virtues-four-vices": [
+    "five-elements-theory-constancy-transformation",
+    "guanyinzi-chapter-six-self-transformation",
+    "guanyinzi-chapter-two"
+  ],
+  "mozist-defensive-warfare": [
+    "tu-men-tunnel-gates-city-defense"
+  ],
+  "mozi-preparing-against-tunnel-attacks": [
+    "tu-men-tunnel-gates-city-defense"
+  ],
+  "mozi-water-defense-strategies": [
+    "tu-men-tunnel-gates-city-defense"
+  ],
+  "zhuangzi-daozhi-chapter": [
+    "zhuangzi-daozhi-chapter"
+  ],
+  "xuandao-mysterious-way": [
+    "baopuzi-selecting-daoist-texts",
+    "tai-xi-embryo-breathing-baopuzi"
+  ],
   "sarvadana-king-yiqieshi": [
-    "sarvadhana-prince-yiqiechi"
+    "sarvadhana-prince-yiqiechi",
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
   ],
   "一切施王": [
     "sarvadhana-prince-yiqiechi"
+  ],
+  "water": [
+    "guan-yinzi-chapter-four-essence-spirit"
+  ],
+  "fire": [
+    "guan-yinzi-chapter-four-essence-spirit"
+  ],
+  "無我": [
+    "guan-yinzi-chapter-four-essence-spirit",
+    "shizi-sutuo-suowa-wang-duanrou-jing"
+  ],
+  "莊子": [
+    "guan-yinzi-chapter-four-essence-spirit"
+  ],
+  "佛教": [
+    "guan-yinzi-chapter-four-essence-spirit",
+    "hun-tun-chaos-death-zhuangzi"
+  ],
+  "mozi-jie-yong-upper-frugality": [
+    "mozi-jie-yong-zhong-frugality-part-2"
+  ],
+  "jiedu-zhi-guo": [
+    "mozi-jie-yong-zhong-frugality-part-2"
+  ],
+  "mozicomprehensive-overview": [
+    "mozi-jie-yong-zhong-frugality-part-2",
+    "mozi-illuminating-ghosts-ming-gui"
+  ],
+  "mozi-self-cultivation": [
+    "mozi-jie-yong-zhong-frugality-part-2"
   ],
   "wu-wei-non-action-taoism": [
     "dao-the-way-taoism"
   ],
   "無為": [
-    "dao-the-way-taoism"
+    "dao-the-way-taoism",
+    "sheng-ren-zhi-dao-sages-way",
+    "ji-shengzi-fighting-roosters-liezi"
+  ],
+  "philology-xunxue": [
+    "erya-classic-chinese-glossary"
+  ],
+  "xiao-ya": [
+    "erya-classic-chinese-glossary"
+  ],
+  "thirteen-classics": [
+    "erya-classic-chinese-glossary"
+  ],
+  "fangyan": [
+    "erya-classic-chinese-glossary"
+  ],
+  "ultimate-wandering-observation-liezi": [
+    "huaxu-dream-liezi"
+  ],
+  "mohist-philosophy": [
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "惠王": [
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "商湯": [
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "堯舜禹湯文武": [
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "桀紂幽厲": [
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "周公": [
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "mozi-comprehensive-overview": [
+    "mozi-gui-yi-valuing-righteousness",
+    "shang-tong-upper-unity-mozi"
+  ],
+  "ming-gui": [
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "shang-xian": [
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "fei-gong-against-attack-mozi": [
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "mozi-gongshu-dialogue-chapter": [
+    "mozi-gui-yi-valuing-righteousness"
+  ],
+  "chongyan-revered-discourse-zhuangzi": [
+    "chongyan-revered-discourse-zhuangzi"
+  ],
+  "zhuangzi-heaven-earth-chapter": [
+    "chongyan-revered-discourse-zhuangzi",
+    "tian-yun-zhuangzi"
+  ],
+  "transformation-generation-huasheng-liezi": [
+    "dayi-jing-great-meaning-sutra",
+    "guanyinzi-chapter-seven-transformation"
   ],
   "three-dharmas-framework-buddhism": [
-    "virama-bodhisattva-pusajiamo"
-  ],
-  "upaya-expedient-means-buddhism": [
     "virama-bodhisattva-pusajiamo"
   ],
   "three-dharmas-buddhist-philosophy": [
@@ -1020,18 +2398,49 @@
   "善巧方便": [
     "virama-bodhisattva-pusajiamo"
   ],
+  "mozi-defending-city-walls-beichengmen": [
+    "mozi-defending-city-walls-beichengmen"
+  ],
+  "guan-yin-zi": [
+    "sheng-ren-zhi-dao-sages-way"
+  ],
+  "無為而治": [
+    "sheng-ren-zhi-dao-sages-way"
+  ],
+  "自然": [
+    "sheng-ren-zhi-dao-sages-way"
+  ],
   "four-foundations-mindfulness-an-shigao-commentary": [
     "four-right-exertions-an-shigao-commentary",
     "four-contemplations-buddhist-practice-ahang",
     "thirty-seven-bodhiparamitas-an-shigao-commentary",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
-  "great-learning-daxue": [
-    "great-qi-haoran-zhi-qi"
+  "guanyinzi-chapter-five-mind-transformation": [
+    "guanyinzi-chapter-seven-transformation"
   ],
-  "mengzi-political-philosophy-benevolent-rule": [
-    "mengzi-unity-through-non-killing-ding-yu-yi",
-    "mengzi-people-heart-minjian"
+  "guan-yinzi-chapter-six-self-cultivation": [
+    "guanyinzi-chapter-seven-transformation"
+  ],
+  "jing-shen-hun-po-essence-spirit-soul": [
+    "guanyinzi-chapter-seven-transformation",
+    "guarding-stillness-wenzi-jing"
+  ],
+  "laochengzi-illusion-transformation-liezi": [
+    "guanyinzi-chapter-seven-transformation"
+  ],
+  "guan-yinzi-chapter-four-essence-spirit": [
+    "guanyinzi-chapter-seven-transformation"
+  ],
+  "mozi-honoring-worthy-three-standards": [
+    "mozi-illuminating-ghosts-ming-gui",
+    "mozi-suo-ran-dyeing-influence"
+  ],
+  "seven-treasures": [
+    "ding-sheng-wang-king-caitanya-dhrtarastra"
+  ],
+  "sakra-tests-king-subhuti-yaksha": [
+    "ding-sheng-wang-king-caitanya-dhrtarastra"
   ],
   "mengzi-people-heart-minjian": [
     "mengzi-unity-through-non-killing-ding-yu-yi",
@@ -1045,6 +2454,9 @@
   ],
   "dependent-origination": [
     "thirty-three-heavens"
+  ],
+  "ruo-min-weak-people-doctrine": [
+    "lai-min-attracting-people"
   ],
   "seven-factors-of-enlightenment": [
     "great-collection-dharma-gate-sutra"
@@ -1061,8 +2473,11 @@
   "three-trainings": [
     "great-collection-dharma-gate-sutra"
   ],
-  "political-philosophy-analects": [
-    "investigating-things-extending-knowledge-gewu-zhizhi"
+  "qianshi-san-zhuan-jing": [
+    "fa-ju-monk"
+  ],
+  "前世三転経": [
+    "fa-ju-monk"
   ],
   "德行伦理": [
     "confucian-self-examination",
@@ -1074,22 +2489,20 @@
     "confucian-ethics",
     "knowledge-learning"
   ],
-  "mahasanghika": [
-    "da-cheng-ben-sheng-xin-di-guan-jing"
-  ],
   "xianshou-wu-jiao": [
-    "da-cheng-ben-sheng-xin-di-guan-jing"
-  ],
-  "心地法門": [
     "da-cheng-ben-sheng-xin-di-guan-jing"
   ],
   "shi-bao-teachings-numerical-classification": [
     "an-shigao-translation-methodology"
   ],
-  "confucian-music-yue": [
-    "confucian-ethics",
-    "knowledge-learning",
-    "shared-joy-with-the-people-yu-min-xie-le"
+  "moz-defensive-texts": [
+    "mozi-banner-system-siege-defense"
+  ],
+  "mozi-defense-against-mass-assault": [
+    "mozi-banner-system-siege-defense"
+  ],
+  "moz-defensive-strategies": [
+    "mozi-banner-system-siege-defense"
   ],
   "儒家音乐": [
     "confucian-ethics"
@@ -1135,11 +2548,6 @@
     "confucian-ethics",
     "doctrine-of-the-mean"
   ],
-  "confucius": [
-    "confucian-ethics",
-    "five-virtues-four-vices",
-    "knowing-destiny-rites-words"
-  ],
   "neo-confucianism": [
     "confucian-ethics",
     "doctrine-of-the-mean"
@@ -1147,18 +2555,10 @@
   "li-(ritual)": [
     "confucian-ethics"
   ],
-  "孔子": [
-    "confucian-ethics",
-    "five-virtues-four-vices",
-    "knowing-destiny-rites-words"
-  ],
   "荀子": [
     "confucian-ethics"
   ],
   "新儒学": [
-    "confucian-ethics"
-  ],
-  "confucian-trust-verification": [
     "confucian-ethics"
   ],
   "儒家诚信验证": [
@@ -1167,13 +2567,36 @@
   "儒教的信頼検証": [
     "confucian-ethics"
   ],
+  "北涼": [
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
+  ],
+  "高昌": [
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
+  ],
+  "佛教翻譯": [
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
+  ],
+  "北涼の佛教": [
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
+  ],
+  "高昌の佛教": [
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
+  ],
+  "ブッダの生涯": [
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
+  ],
+  "ジャータカ物語": [
+    "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
+  ],
   "阿羅漢果": [
     "great-firm-brahman",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
-  "four-inversions-buddhist": [
-    "four-foundations-mindfulness-an-shigao-commentary",
-    "mind-stillness-buddhist-meditation-stone-water"
+  "wuyong-zhi-yong-usefulness-of-uselessness": [
+    "zhili-qixing-deformed-ones-zhuangzi"
+  ],
+  "匠石之齊": [
+    "zhili-qixing-deformed-ones-zhuangzi"
   ],
   "chan-haan-shi-bao-jing": [
     "four-foundations-mindfulness-an-shigao-commentary"
@@ -1183,6 +2606,52 @@
   ],
   "mengzi-losing-original-heart": [
     "wang-dao-true-king-hegemon"
+  ],
+  "bao-pu-zi": [
+    "xuandao-mysterious-way"
+  ],
+  "divakara": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "guanyin-bodhisattva-avalokiteshvara": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "samantabhadra-bodhisattva": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "shariputra": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "maha-moggallana": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "anuttara-samyak-sambodhi": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "avichi-hell": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "naraka": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "bhumi-stages": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "sukhavati": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "amitabha-buddha": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "five-greater-karmic-obstructions": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "地婆訶羅": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+  ],
+  "三毒": [
+    "da-cheng-li-wen-zi-pu-guang-ming-zang-jing",
+    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "sincerity": [
     "doctrine-of-the-mean"
@@ -1196,6 +2665,25 @@
   ],
   "self‑cultivation": [
     "doctrine-of-the-mean"
+  ],
+  "heaven": [
+    "mozi-heaven-will-tianzhi"
+  ],
+  "tai-shang-gan-ying-pian": [
+    "mozi-heaven-will-tianzhi"
+  ],
+  "蒙求": [
+    "mozi-suoran-on-influence"
+  ],
+  "bu-xiang-ai": [
+    "qie-ji-theft-covetous-disease"
+  ],
+  "juan-ai": [
+    "qie-ji-theft-covetous-disease",
+    "mozi-gongshu-dialogue-chapter"
+  ],
+  "mengzi-righteousness-profit-debate": [
+    "qie-ji-theft-covetous-disease"
   ],
   "ba-yi-ceremonial-dance": [
     "knowledge-learning"
@@ -1211,6 +2699,24 @@
   ],
   "san-fa-du-lun-three-dharmas-treatise": [
     "arhat-stages-buddhist-liberation"
+  ],
+  "propriety": [
+    "guanyinzi-chapter-three"
+  ],
+  "wisdom": [
+    "guanyinzi-chapter-three"
+  ],
+  "trustworthiness": [
+    "guanyinzi-chapter-three"
+  ],
+  "guarding-practices-wenzi-guardianship": [
+    "guarding-emptiness-void-wenzi-xu"
+  ],
+  "wu-wei-governance": [
+    "hun-tun-chaos-death-zhuangzi"
+  ],
+  "順其自然": [
+    "hun-tun-chaos-death-zhuangzi"
   ],
   "zizhang": [
     "five-virtues-four-vices"
@@ -1230,8 +2736,14 @@
   "徳治": [
     "five-virtues-four-vices"
   ],
+  "guarding-emptiness-void-wenzi-xu": [
+    "guarding-stillness-wenzi-jing"
+  ],
   "four-āgama-commentary-ā-hán-mù-chao-jiě": [
     "mind-solidified-form-dissolved-liezi"
+  ],
+  "mozii-xiu-shen-self-cultivation": [
+    "mozi-qin-shi-cherishing-scholars"
   ],
   "儒家诚": [
     "moral-cultivation-methods"
@@ -1239,11 +2751,117 @@
   "儒教的誠": [
     "moral-cultivation-methods"
   ],
+  "three-unifications-legalism-yi-shang-yi-xing-yi-jiao": [
+    "shang-tong-upward-uniformity-mozi",
+    "shang-tong-upper-unity-mozi"
+  ],
+  "shang-tong-reward-punishment-maf": [
+    "shang-tong-upward-uniformity-mozi"
+  ],
+  "moz": [
+    "mozi-jie-yong-utility-frugality"
+  ],
+  "墨子": [
+    "mozi-jie-yong-utility-frugality"
+  ],
+  "楊朱哲學": [
+    "mozi-jie-yong-utility-frugality"
+  ],
+  "shang-tong-upward-uniformity-mozi": [
+    "mozi-jie-yong-utility-frugality"
+  ],
+  "tai-xi-embryo-breathing-baopuzi": [
+    "tai-xi-embryo-breathing-baopuzi"
+  ],
+  "mozi-three-debates-music-governance": [
+    "mozi-rejecting-confucians-fei-ru"
+  ],
+  "impermanence": [
+    "shizi-sutuo-suowa-wang-duanrou-jing"
+  ],
+  "emptiness": [
+    "shizi-sutuo-suowa-wang-duanrou-jing"
+  ],
+  "業力": [
+    "shizi-sutuo-suowa-wang-duanrou-jing"
+  ],
+  "慈悲": [
+    "shizi-sutuo-suowa-wang-duanrou-jing"
+  ],
+  "空性": [
+    "shizi-sutuo-suowa-wang-duanrou-jing"
+  ],
+  "三惡道": [
+    "shizi-sutuo-suowa-wang-duanrou-jing"
+  ],
+  "懺悔": [
+    "shizi-sutuo-suowa-wang-duanrou-jing"
+  ],
+  "三悪道": [
+    "shizi-sutuo-suowa-wang-duanrou-jing"
+  ],
+  "因果応報": [
+    "shizi-sutuo-suowa-wang-duanrou-jing"
+  ],
+  "mozhi": [
+    "ming-gui-xia-ghost-spirit-doctrine"
+  ],
+  "pratyekubuddha-enlightenment": [
+    "jinse-wang-jing-golden-king-sutra"
+  ],
+  "karmic-retribution": [
+    "jinse-wang-jing-golden-king-sutra"
+  ],
   "ministerial-responsibility": [
     "guan-bao-friendship-liezi"
   ],
-  "fixed-livelihood": [
-    "agricultural-foundation"
+  "guanyinzi-chapter-nine-medicinal": [
+    "non-attachment-guanyinzi"
+  ],
+  "mozi-complete-overview": [
+    "mozi-honoring-worthy-three-standards"
+  ],
+  "self-examination": [
+    "mozi-xiu-shen-self-cultivation"
+  ],
+  "universal-love": [
+    "mozi-xiu-shen-self-cultivation"
+  ],
+  "mozi's-political-philosophy": [
+    "mozi-xiu-shen-self-cultivation"
+  ],
+  "墨子政治哲學": [
+    "mozi-xiu-shen-self-cultivation"
+  ],
+  "墨子政治哲学": [
+    "mozi-xiu-shen-self-cultivation"
+  ],
+  "jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra": [
+    "shang-tong-upper-unity-mozi"
+  ],
+  "mozi-political-philosophy": [
+    "shang-tong-upper-unity-mozi"
+  ],
+  "shang-jun-shu-reward-punishment-system": [
+    "shang-tong-upper-unity-mozi"
+  ],
+  "non-attachment-guanyinzi": [
+    "cautious-speech-conduct-liezi-shuofu"
+  ],
+  "authenticity-zhen": [
+    "zhuangzi-fisherman-yu-fu"
+  ],
+  "five-hindrances-ten-fetters-buddhist-doctrine": [
+    "shizi-yue-fo-ben-sheng-jing"
+  ],
+  "si-yuan-four-vows-bodhisattva-practice-yue-ming-jing": [
+    "shizi-yue-fo-ben-sheng-jing"
+  ],
+  "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong": [
+    "sakra-tests-king-subhuti-yaksha"
+  ],
+  "miaose-wang-yinyuan-jing": [
+    "sakra-tests-king-subhuti-yaksha"
   ],
   "four-right-exertions-an-shigao-commentary": [
     "thirty-seven-bodhiparamitas-an-shigao-commentary"
@@ -1273,11 +2891,17 @@
   "四意断注-(安世高)": [
     "thirty-seven-bodhiparamitas-an-shigao-commentary"
   ],
-  "七覚意注-(安世高)": [
-    "thirty-seven-bodhiparamitas-an-shigao-commentary"
-  ],
   "安世高翻訳方法論": [
     "thirty-seven-bodhiparamitas-an-shigao-commentary"
+  ],
+  "mozis-three-standards-three-fa": [
+    "fei-gong-against-attack-mozi"
+  ],
+  "liezi-journey-early-return": [
+    "yang-zhu-philosophy-liezi"
+  ],
+  "guan-yinzi-chapter-nine-medicinal-treatment": [
+    "yang-zhu-philosophy-liezi"
   ],
   "white-cloth-golden-banner-two-brahmins-origin-sutra": [
     "white-cloth-golden-banner-two-brahmins-origin-sutra"
@@ -1291,11 +2915,32 @@
   "大梵相応": [
     "white-cloth-golden-banner-two-brahmins-origin-sutra"
   ],
+  "zhuangzi-ke-yi-chapter": [
+    "zhuangzi-heaven-earth-chapter"
+  ],
+  "hanfeizi": [
+    "ding-fen-determining-names-positions"
+  ],
+  "shang-yang-lord-shang": [
+    "ding-fen-determining-names-positions"
+  ],
+  "hanfeizi-legalism": [
+    "ding-fen-determining-names-positions"
+  ],
+  "wuyong-zhi-yong": [
+    "zhuangzi-turtle-story-rejection"
+  ],
+  "governance-virture-de": [
+    "zhuangzi-turtle-story-rejection"
+  ],
   "tian-xia-you-da-zun-san": [
     "mengzi-people-heart-minjian"
   ],
   "mengzi-unity-through-non-killing-ding-yu-yi": [
     "mengzi-people-heart-minjian"
+  ],
+  "中庸之道": [
+    "cai-yu-bu-cai-zhi-jian"
   ],
   "教育": [
     "human-nature-is-good"
@@ -1303,13 +2948,28 @@
   "如來八難得": [
     "seven-buddhas-current-kalpa"
   ],
+  "huaxu-kingdom-liezi": [
+    "liang-zuo-shan-two-mountains-immortality-baopuzi"
+  ],
+  "an-shigao": [
+    "shan-zi-sutra-filial-bodhisattva"
+  ],
+  "ten-remembrances-buddhist-meditation": [
+    "shan-zi-sutra-filial-bodhisattva"
+  ],
+  "maitreya": [
+    "shan-zi-sutra-filial-bodhisattva"
+  ],
+  "心如止水": [
+    "hu-zi-huzi-zhuangzi"
+  ],
+  "鏡のような心": [
+    "hu-zi-huzi-zhuangzi"
+  ],
+  "five-blessings-food-offering-sutra": [
+    "five-bliss-food-offering-sutra"
+  ],
   "fourfold-noble-path": [
-    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
-  ],
-  "upāya-expedient-means-buddhism": [
-    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
-  ],
-  "三毒": [
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
   "金剛經": [
@@ -1324,7 +2984,7 @@
   "身を捨てて虎に食われる": [
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
-  "governance-leadership": [
-    "mengzi-hegemon-true-king-ba-wang-distinction"
+  "zhuangzi-tianyun-chapter": [
+    "zhuangzi-gengsang-chu-chapter"
   ]
 }

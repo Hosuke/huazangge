@@ -4,7 +4,6 @@ Uses MediaWiki API to fetch full text. No scraping needed.
 All content is public domain.
 """
 
-import os
 import re
 import time
 import json
@@ -15,10 +14,6 @@ import requests
 import frontmatter
 
 from .config import load_config, ensure_dirs
-
-SUPABASE_URL = os.getenv("SUPABASE_URL", "")
-SUPABASE_KEY = os.getenv("SUPABASE_KEY", "")
-SUPABASE_TABLE = "huazangge_ingested"
 
 API_URL = "https://zh.wikisource.org/w/api.php"
 HEADERS = {"User-Agent": "LLMBase/1.0 (https://github.com/Hosuke/llmbase)"}
@@ -162,55 +157,6 @@ def _ingest_page(page_title: str, work_title: str, raw_dir: Path) -> Path | None
     return doc_path
 
 
-def _sb_headers():
-    return {
-        "apikey": SUPABASE_KEY,
-        "Authorization": f"Bearer {SUPABASE_KEY}",
-        "Content-Type": "application/json",
-        "Prefer": "return=minimal",
-    }
-
-
-def _load_ingested() -> set[str]:
-    """Load ingested wikisource works from Supabase, with local fallback."""
-    # Try Supabase first
-    if SUPABASE_URL:
-        try:
-            url = f"{SUPABASE_URL}/rest/v1/{SUPABASE_TABLE}?source=eq.wikisource&select=work_id"
-            resp = requests.get(url, headers=_sb_headers(), timeout=15)
-            resp.raise_for_status()
-            return {r["work_id"] for r in resp.json()}
-        except Exception:
-            pass  # Fall through to local check
-
-    # Fallback: scan raw directory for wikisource-* folders
-    raw_dir = Path.cwd() / "raw"
-    if raw_dir.exists():
-        ingested = set()
-        for d in raw_dir.iterdir():
-            if d.name.startswith("wikisource-") and d.is_dir():
-                idx = d / "index.md"
-                if idx.exists():
-                    post = frontmatter.load(str(idx))
-                    work = post.metadata.get("work", "")
-                    if work:
-                        ingested.add(work)
-        return ingested
-    return set()
-
-
-def _save_progress_item(work_id: str, title: str = ""):
-    """Record a single ingested work to Supabase."""
-    if not SUPABASE_URL:
-        return
-    url = f"{SUPABASE_URL}/rest/v1/{SUPABASE_TABLE}"
-    headers = _sb_headers()
-    headers["Prefer"] = "return=minimal,resolution=merge-duplicates"
-    payload = {"source": "wikisource", "work_id": work_id, "title": title}
-    resp = requests.post(url, json=payload, headers=headers, timeout=15)
-    resp.raise_for_status()
-
-
 def learn(
     reading_list: str | None = None,
     batch_size: int = 5,
@@ -221,8 +167,18 @@ def learn(
     Each call picks the next batch of works not yet ingested.
     """
     base = Path(base_dir) if base_dir else Path.cwd()
+    cfg = load_config(base)
+    meta_dir = Path(cfg["paths"]["meta"])
+    meta_dir.mkdir(parents=True, exist_ok=True)
 
-    ingested = _load_ingested()
+    # Load progress
+    progress_path = meta_dir / "wikisource_progress.json"
+    if progress_path.exists():
+        progress = json.loads(progress_path.read_text())
+    else:
+        progress = {"ingested_works": []}
+
+    ingested = set(progress["ingested_works"])
 
     # Build work list
     if reading_list and reading_list in READING_LISTS:
@@ -249,10 +205,14 @@ def learn(
             if paths:
                 results.append(title)
                 ingested.add(title)
-                _save_progress_item(title, title)
         except Exception:
             pass
         time.sleep(1)
+
+    # Save progress
+    progress["ingested_works"] = list(ingested)
+    progress["last_run"] = datetime.now(timezone.utc).isoformat()
+    progress_path.write_text(json.dumps(progress, indent=2, ensure_ascii=False))
 
     return results
 

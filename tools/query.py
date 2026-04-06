@@ -36,8 +36,8 @@ TONE_INSTRUCTIONS = {
         "可用「者」「也」「矣」「焉」「乎」「哉」等語氣詞，"
         "用「蓋」「夫」「且」「然則」等發語詞及連詞。"
         "引經據典時宜用原文。切勿用白話文。"
-        "範例：'佛者，覺也。覺諸法空，離一切相，是為正覺。"
-        "《心經》云：色不異空，空不異色。此之謂也。'"
+        "範例：'學者，覺也。覺其所未知，明其所未明，是為真學。"
+        "蓋天下之理，非一端可盡，故博學而篤志，切問而近思。'"
     ),
     "scholar": (
         "TONE OVERRIDE: Respond in the style of a careful academic scholar. "
@@ -97,6 +97,7 @@ def query_with_search(
     question: str,
     base_dir: Path | None = None,
     tone: str = "default",
+    file_back: bool = False,
 ) -> str:
     """Multi-step query: first search for relevant articles, then answer."""
     cfg = load_config(base_dir)
@@ -144,12 +145,17 @@ Which articles (by title) are most relevant? List up to 10, one per line, just t
     if tone_instruction:
         system += f"\n\n{tone_instruction}"
 
-    return chat_with_context(
+    answer = chat_with_context(
         question,
         context_files,
         system=system,
         max_tokens=cfg["llm"]["max_tokens"],
     )
+
+    if file_back:
+        _file_output(question, answer, "markdown", cfg)
+
+    return answer
 
 
 def _gather_context(question: str, cfg: dict) -> list[dict]:

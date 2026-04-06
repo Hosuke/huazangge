@@ -1,5 +1,23 @@
 [
   {
+    "slug": "agama-explanation-twelve-links-dependent-origination",
+    "title": "Āgama Explanation of Twelve Links of Dependent Origination / 阿含口解十二因緣經",
+    "summary": "A Han Dynasty Buddhist sutra on the Twelve Links of Dependent Origination, translated by An Shigao with unique inner-outer correlation teachings and karmic analysis.",
+    "tags": [
+      "agama-sutra",
+      "an-shigao",
+      "buddhist-doctrine",
+      "chinese-buddhism",
+      "han-dynasty-buddhism",
+      "liberation",
+      "meditation",
+      "philosophy",
+      "pratityasamutpada",
+      "twelve-links-dependent-origination"
+    ],
+    "sources": []
+  },
+  {
     "slug": "agricultural-foundation",
     "title": "Agricultural Foundation / 农本思想",
     "summary": "Mencius's governance principle that agricultural development is fundamental to state prosperity",
@@ -165,6 +183,169 @@
     "sources": []
   },
   {
+    "slug": "baopuzi-chapter-14-golden-elixir-only-path",
+    "title": "Golden Elixir as the Sole Path to Immortality / 抱朴子卷十四：金丹為不死之正道",
+    "summary": "Ge Hong's emphatic assertion that only the Golden Elixir (金丹) constitutes true immortality, dismissing rituals, prayers, and supernatural powers as insufficient.",
+    "tags": [
+      "baopuzi",
+      "ge-hong",
+      "golden-elixir",
+      "immortality",
+      "daoist-alchemy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baopuzi-chapter-14-importance-of-seeking-master",
+    "title": "The Importance of Seeking a True Master in Baopuzi / 抱朴子卷十四：求师问道",
+    "summary": "Ge Hong's discourse on the rarity of authentic Daoist masters and the necessity of sincere, diligent seeking in cultivation practice.",
+    "tags": [
+      "baopuzi",
+      "daoist-cultivation",
+      "master-disciple-relationship",
+      "ge-hong"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baopuzi-chapter-14-life-brevity-calculation",
+    "title": "Life's Brevity and Urgency in Baopuzi / 抱朴子卷十四：人生短促之歎",
+    "summary": "Ge Hong's vivid calculation of human lifespan, comparing life to a sacrificial animal approaching the slaughterhouse, emphasizing the urgency of cultivation practice.",
+    "tags": [
+      "baopuzi",
+      "ge-hong",
+      "daoist-cultivation",
+      "mortality",
+      "time"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baopuzi-critique-false-deities-folk-religion",
+    "title": "Bao Puzi Chapter 9: Critique of False Deities and Folk Religion / 抱朴子卷九：批判淫祀邪教",
+    "summary": "Ge Hong's philosophical critique of fraudulent religious practices, false deities, and the importance of self-cultivation over external ritual worship.",
+    "tags": [
+      "baopuzi",
+      "daoist-critique",
+      "folk-religion",
+      "chinese-philosophy",
+      "ge-hong"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baopuzi-immortality-debate",
+    "title": "Bao Puzi on Immortals / 抱朴子论神仙不死",
+    "summary": "Ge Hong's philosophical defense of immortality through natural transformation and historical evidence.",
+    "tags": [
+      "baopuzi",
+      "daoism",
+      "immortality",
+      "transcendence",
+      "抱朴子"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baopuzi-jiu-dan-nine-elixirs",
+    "title": "Nine Elixirs in Baopuzi / 抱朴子九丹",
+    "summary": "Baopuzi Volume 4 details the Nine Elixirs (九丹) — the supreme alchemical formulas for immortality including the Cinnabar Flower, Divine Elixir, Return Elixir, and Cold Elixir, along with the Great Clarity Elixir and Golden Liquid methods.",
+    "tags": [
+      "baopuzi",
+      "taoist-alchemy",
+      "nine-elixirs",
+      "immortality",
+      "daoist-esotericism",
+      "jiu-dan",
+      "golden-elixir"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baopuzi-selecting-daoist-texts",
+    "title": "On Selecting Daoist Texts in Baopuzi / 抱朴子論道書之選擇",
+    "summary": "Ge Hong's critical assessment of various Daoist texts including the Daodejing and Zhuangzi, arguing that most are incomplete or misleading, and that true cultivation requires proper guidance rather than mere textual study.",
+    "tags": [
+      "daoist-criticism",
+      "taoist-texts",
+      "textual-study",
+      "baopuzi",
+      "taoism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baopuzi-volume-15-grain-fasting",
+    "title": "Grain Fasting Methods in Baopuzi / 抱朴子断穀諸法",
+    "summary": "Comprehensive examination of grain fasting (断穀) techniques in Ge Hong's Baopuzi, including dietary restrictions, mineral-based foods, breathing practices, and their effects on health and longevity.",
+    "tags": [
+      "baopuzi",
+      "daoist-cultivation",
+      "grain-fasting",
+      "immortality-practices",
+      "ge-hong"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baopuzi-volume-17-mountain-entry",
+    "title": "Baopuzi Volume 17: Mountain Entry Arts / 抱朴子卷十七：入山之法",
+    "summary": "Ge Hong's comprehensive guide to Daoist mountain entry practices, including timing, purification rituals, protective talismans, and methods for dealing with mountain spirits and dangerous creatures.",
+    "tags": [
+      "baopuzi",
+      "daoist-practices",
+      "mountain-entry",
+      "talismans",
+      "chinese-alchemy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baopuzi-volume-19-daoist-scriptures-catalog",
+    "title": "Baopuzi Volume 19: Catalog of Daoist Texts / 抱朴子卷十九道書目錄",
+    "summary": "Ge Hong's comprehensive catalog of over 180 Daoist texts including Three Sovereigns Inner Text, Five Peaks True Form Map, talismans, alchemy scripts, and esoteric practices, as recorded from his teacher Zheng Jun.",
+    "tags": [
+      "baopuzi",
+      "daoist-texts",
+      "ge-hong",
+      "chinese-religion",
+      "bibliography",
+      "esoteric-practice",
+      "talismans"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "baopuzi-yellow-white-alchemy",
+    "title": "Baopuzi on Yellow and White Alchemy / 抱朴子論黃白之術",
+    "summary": "Volume 16 of Ge Hong's Baopuzi presents a systematic exposition of 黄白术 (transmutation alchemy), defending its legitimacy and providing detailed alchemical formulas for creating gold and silver.",
+    "tags": [
+      "baopuzi",
+      "alchemy",
+      "daoism",
+      "ge-hong",
+      "yellow-white-alchemy",
+      "抱朴子",
+      "道教",
+      "煉金術"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "beigongzi-ximenzi-virtue-fate-liezi",
+    "title": "Beigongzi and Ximenzi — Virtue and Fate in Liezi / 北宮子與西門子：德厚命薄",
+    "summary": "A philosophical dialogue exploring how virtue (德) and fate (命) operate independently, with East Guo Master's revelation that Beigongzi has厚德薄命 while Ximenzi has厚命薄德.",
+    "tags": [
+      "liezi",
+      "virtue",
+      "fate",
+      "determinism",
+      "chinese-philosophy",
+      "daoism"
+    ],
+    "sources": []
+  },
+  {
     "slug": "benevolence",
     "title": "Benevolence / 仁",
     "summary": "Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.",
@@ -207,6 +388,19 @@
     "sources": []
   },
   {
+    "slug": "bian-shi-wei-zhi",
+    "title": "Transforming Knowledge into Wisdom / 變識為智",
+    "summary": "The Daoist philosophical concept of transforming rigid consciousness (識) into flexible wisdom (智), a key theme in Guanyinzi Chapter 5.",
+    "tags": [
+      "taoist-philosophy",
+      "epistemology",
+      "consciousness",
+      "wisdom",
+      "daoist-self-cultivation"
+    ],
+    "sources": []
+  },
+  {
     "slug": "bihuajing",
     "title": "The \"Sad Flower Sutra\" / 《悲華經》",
     "summary": "The \"Sad Flower Sutra\" is a Mahayana Buddhist text encompassing teachings delivered by the Buddha on various profound subjects.",
@@ -245,6 +439,19 @@
     "sources": []
   },
   {
+    "slug": "bo-chengzi-gao-zhuangzi",
+    "title": "Bo Chengzi Gao / 伯成子高",
+    "summary": "A hermit from the Zhuangzi who refused to serve as a feudal lord, critiquing the shift from reward-free governance to punitive systems.",
+    "tags": [
+      "zhuangzi",
+      "chinese-philosophy",
+      "daoism",
+      "political-philosophy",
+      "hermit"
+    ],
+    "sources": []
+  },
+  {
     "slug": "bodhisattva-path",
     "title": "The Bodhisattva Path / 菩萨道",
     "summary": "The Bodhisattva path is a central aspect of Mahayana Buddhism, focusing on the aspiration to attain enlightenment for oneself and others.",
@@ -265,6 +472,21 @@
       "self-sacrifice",
       "buddhist-kingship",
       "past-life-stories"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "bodhisattva-throw-body-feed-tiger-stupa-fasheng",
+    "title": "The Sutra of Bodhisattva Throwing His Body to Feed the Hungry Tiger and the Stupa's Origin / 菩薩投身餧餓虎起塔因緣經",
+    "summary": "A Buddhist sutra describing Prince Chandana's self-sacrifice to feed seven hungry tiger cubs, the subsequent stupa's miraculous healing powers, and its translator Fasheng of Northern Liang Gaochang.",
+    "tags": [
+      "buddhist-sutras",
+      "jataka-tales",
+      "bodhisattva-sacrifice",
+      "north-liang",
+      "translation",
+      "stupa",
+      "healing-miracles"
     ],
     "sources": []
   },
@@ -321,6 +543,86 @@
     "sources": []
   },
   {
+    "slug": "bu-shang-wei-ben-principle-cultivation",
+    "title": "Non-Injury as Foundation in Cultivation / 不傷為本",
+    "summary": "The fundamental principle in Daoist cultivation that protecting the body and preserving qi from damage is the essential foundation for longevity and eventual immortality.",
+    "tags": [
+      "baopuzi",
+      "daoist-cultivation",
+      "longevity",
+      "self-preservation",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "bu-xiang-ai",
+    "title": "Non-Mutual Love / 不相愛",
+    "summary": "Mozi's concept identifying the lack of mutual love as the fundamental cause of all social chaos and disorder.",
+    "tags": [
+      "mozi",
+      "confucian-philosophy",
+      "chinese-philosophy",
+      "universal-love",
+      "social-harmony",
+      "pre-qin-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "cai-quan-er-de-bu-xing",
+    "title": "Complete Talent Without Displaying Virtue / 才全而德不形",
+    "summary": "A Zhuangzi philosophical concept about inner perfection transcending external form, exemplified by Ai Tai Tuo's effortless virtue.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "virtue",
+      "spiritual-cultivation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "cai-yu-bu-cai-zhi-jian",
+    "title": "Between Being Useful and Useless / 材與不材之間",
+    "summary": "A Zhuangzi philosophy on navigating between utility and uselessness through alignment with the Dao, avoiding the pitfalls of both extremes.",
+    "tags": [
+      "balance",
+      "daoist-philosophy",
+      "ethics",
+      "survival",
+      "utility",
+      "zhongyong",
+      "zhuangzi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "cakravartin-seven-treasures-buddhist-texts",
+    "title": "Cakravartin — The Universal Monarch with Seven Treasures / 轉輪聖王七寶",
+    "summary": "The Cakravartin (Wheel-turning Sacred King) is a Buddhist archetype of the ideal universal monarch possessing seven precious treasures, described extensively in the Ding Sheng Wang Karma Sutra.",
+    "tags": [
+      "buddhist-royalty",
+      "cakravartin",
+      "seven-treasures",
+      "buddhist-political-theory",
+      "king-mahadyuti"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "cautious-speech-conduct-liezi-shuofu",
+    "title": "Caution in Speech and Conduct / 慎言慎行",
+    "summary": "The philosophical principle from Liezi's Shuofu chapter on how careful speech and conduct shape one's destiny through cause and effect.",
+    "tags": [
+      "liezi",
+      "daoist-philosophy",
+      "speech-conduct",
+      "ethics",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
     "slug": "changahan-jing",
     "title": "Chang Ahan Jing (Long Discourses of the Buddha) / 長阿含經",
     "summary": "The Dīrgha-āgama, the longest collection of the Buddha's long discourses in early Buddhist scripture, compiled in four sections and five recitations.",
@@ -354,6 +656,61 @@
       "mencius-commentary",
       "han-dynasty",
       "classical-scholarship"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "chongyan-revered-discourse-zhuangzi",
+    "title": "Chongyan (Revered Discourse) in Zhuangzi / 重言（莊子）",
+    "summary": "\"Revered Discourse\" (重言) — the second of Zhuangzi's three discourse modes, quoting ancient sages and elders to lend authority to philosophical teachings.",
+    "tags": [
+      "authority",
+      "chinese-philosophy",
+      "daoism",
+      "literary-device",
+      "philosophy",
+      "zhuangzi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "cicada-catcher-concentration-liezi",
+    "title": "The Cicada Catcher: Mastery Through Focused Concentration / 痀僂承蜩：至精至專之道",
+    "summary": "The story of the hunchbacked cicada catcher demonstrates how absolute focus and singleness of purpose (用志不分) enables extraordinary skill in Daoist self-cultivation.",
+    "tags": [
+      "liezi",
+      "daoist-self-cultivation",
+      "concentration",
+      "mastery",
+      "skill",
+      "daoist-practice"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "compassionate-dragon-king-naga",
+    "title": "Compassionate Dragon King (慈心龍王) — Buddhist Narrative of Non-Retaliation / 慈心龍王消伏怨害緣起",
+    "summary": "A Jataka tale depicting a dragon king who conquers the golden-winged garuda through loving-kindness and non-retaliation, exemplifying the power of compassion over violence.",
+    "tags": [
+      "jataka-tales",
+      "dragon-naga",
+      "compassion",
+      "non-retaliation",
+      "bodhisattva-practice",
+      "upāya"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "confucian-daoist-ease-difficulty-comparison-bao-puzi",
+    "title": "Confucianism and Daoism: Ease and Difficulty Comparison / 儒道難易之辯",
+    "summary": "Bao Puzi's systematic comparison of the relative difficulty and ease of Confucian versus Daoist cultivation practices, arguing Daoism is \"difficult to know but easy to practice\" while Confucianism is \"easy to know but difficult to practice.\"",
+    "tags": [
+      "Bao Puzi",
+      "Confucianism",
+      "Daoism",
+      "cultivation",
+      "Chinese philosophy"
     ],
     "sources": []
   },
@@ -523,6 +880,34 @@
     "sources": []
   },
   {
+    "slug": "consciousness-recognition-guan-yin-zi",
+    "title": "Consciousness and Recognition in Guanyinzi / 關尹子意識與認識論",
+    "summary": "An exploration of the philosophical concepts of consciousness (識), mind (心), and intention (意) as discussed in Chapter 5 of the Guanyinzi, emphasizing the Daoist path from recognition to wisdom.",
+    "tags": [
+      "consciousness",
+      "recognition",
+      "Daoist philosophy",
+      "關尹子",
+      "epistemology",
+      "mind",
+      "intention"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "constellation-fate-determinism-bao-puzi",
+    "title": "Constellation-Based Fate Determinism in Bao Puzi / 抱朴子星宿命定論",
+    "summary": "Bao Puzi's argument that human lifespan and potential for immortality are determined by the constellation present at the time of conception, not by divine will.",
+    "tags": [
+      "Bao Puzi",
+      "Chinese philosophy",
+      "celestial",
+      "fate",
+      "immortality"
+    ],
+    "sources": []
+  },
+  {
     "slug": "da-cheng-ben-sheng-xin-di-guan-jing",
     "title": "大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground",
     "summary": "A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.",
@@ -538,6 +923,37 @@
       "mind-ground",
       "prajna",
       "tang-dynasty-translations"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "da-cheng-li-wen-zi-pu-guang-ming-zang-jing",
+    "title": "Mahāyāna Sutra of Universal Light Treasury Transcending Words / 大乘離文字普光明藏經",
+    "summary": "A Mahāyāna Buddhist sutra translated by Divākara during the Tang Dynasty, teaching what bodhisattvas should abandon and realize.",
+    "tags": [
+      "bodhisattva-practice",
+      "buddhist-ethics",
+      "divahara",
+      "divakara",
+      "mahayana-buddhism",
+      "mahayana-sutra",
+      "tang-dynasty",
+      "tang-dynasty-buddhism",
+      "universal-light-treasury",
+      "vaipulya-sutra"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "da-fangbian-fo-baoen-jing",
+    "title": "Great Expedient Sutra on Repaying Buddha's Kindness / 大方便佛報恩經",
+    "summary": "A Mahayana sutra teaching the doctrine of repaying the Four Kindnesses through filial piety and bodhisattva practice.",
+    "tags": [
+      "mahayana-sutra",
+      "four-graces",
+      "filial-piety",
+      "eastern-han",
+      "buddhism"
     ],
     "sources": []
   },
@@ -582,6 +998,32 @@
     "sources": []
   },
   {
+    "slug": "dao-ben-ru-mo-dao-as-root-confucianism-as-branch",
+    "title": "Dao as Root, Confucianism as Branch / 道本儒末",
+    "summary": "A philosophical doctrine from Baopuzi asserting that the Dao is the foundation while Confucianism represents its derivative applications.",
+    "tags": [
+      "baopuzi",
+      "daoist-philosophy",
+      "confucianism",
+      "chinese-philosophy",
+      "dao-confucianism-comparison"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "dao-de-jing-complete",
+    "title": "Dao De Jing (Complete) / 道德經",
+    "summary": "A comprehensive classical Chinese text of Daoist philosophy attributed to Laozi, preserved in multiple manuscript traditions and annotated through extensive commentary lineages across Chinese dynastic history.",
+    "tags": [
+      "dao-de-jing",
+      "laozi",
+      "daoist-classics",
+      "chinese-philosophy",
+      "daodejing"
+    ],
+    "sources": []
+  },
+  {
     "slug": "dao-de-jing-silk-manuscript",
     "title": "Dao De Jing (Silk Manuscript) / 道德經帛書本 / 道德経帛書本",
     "summary": "The Dao De Jing Silk Manuscript presents the earliest complete version of Laozi's text, with its distinctive chapter ordering placing virtue before the Way.",
@@ -608,6 +1050,19 @@
     "sources": []
   },
   {
+    "slug": "dayi-jing-great-meaning-sutra",
+    "title": "Dayi Jing — The Sutra of the Great Meaning / 大意經",
+    "summary": "A Buddhist narrative sutra from the Song Dynasty describing the bodhisattva Dayi's vow to aid all beings, his quest for seven treasures, and his encounters with four jeweled cities before becoming a Buddha.",
+    "tags": [
+      "buddhist-sutras",
+      "narrative-sutras",
+      "song-dynasty",
+      "bodhisattva-practice",
+      "gunabhadra"
+    ],
+    "sources": []
+  },
+  {
     "slug": "de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu",
     "title": "De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助",
     "summary": "The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.",
@@ -617,6 +1072,19 @@
       "moral-legitimacy",
       "governance",
       "political-theory"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "de-yi-wang-yan-zhuangzi",
+    "title": "Forget the Words When the Meaning is Understood / 得意忘言",
+    "summary": "Zhuangzi's philosophical principle that true understanding transcends language, illustrated through the fish trap and rabbit snare metaphors.",
+    "tags": [
+      "language",
+      "metaphor",
+      "philosophy",
+      "taoism",
+      "zhuangzi"
     ],
     "sources": []
   },
@@ -642,6 +1110,85 @@
       "ascetic-practice",
       "mental-afflictions",
       "buddhist-psychology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "deguang-taizi-jing-sutra",
+    "title": "Sutra of Prince Deguang / 德光太子經",
+    "summary": "A Buddhist sutra recounting Prince Deguang's renunciation of royal comforts and his quest for Buddhist enlightenment, featuring teachings on the four pure practices and warnings against贪欲 and放逸.",
+    "tags": [
+      "buddhist-sutra",
+      "bodhisattva-practice",
+      "prince-deguang",
+      "western-jin",
+      "zhu-fahu",
+      "renuciation",
+      "four-pure-practices"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "ding-fen-determining-names-positions",
+    "title": "Determining Names and Positions (定分) / 定分",
+    "summary": "The Shang Yang doctrine establishing clear legal definitions of social roles and property rights as the foundation for orderly governance and the prevention of social chaos.",
+    "tags": [
+      "jurisprudence",
+      "legal-theory",
+      "legalism",
+      "legalist-philosophy",
+      "shangjun-shu",
+      "shangjunshu",
+      "social-order",
+      "statecraft",
+      "warring-states"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "ding-sheng-wang-king-caitanya-dhrtarastra",
+    "title": "King Ding Sheng (Ding Sheng Wang) / 頂生王",
+    "summary": "King Ding Sheng is a bodhisattva incarnation who was born from his father's crown, practiced generous giving, conquered the four continents, and ascended through the thirty-three heavens, illustrating Buddhist teachings on merit and the dangers of greed.",
+    "tags": [
+      "bodhisattva-incarnation",
+      "buddhist-cosmology",
+      "buddhist-narrative",
+      "dana-paramita",
+      "four-continents",
+      "jataka-tale",
+      "king-ding-sheng",
+      "mahayana",
+      "reincarnation-stories",
+      "seven-treasures",
+      "thirty-three-heavens",
+      "wheel-turning-king"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "ding-sheng-wang-king-mahadyuti-origin-karma",
+    "title": "King Ding Sheng (Mahādyuti) — Birth from the Crown and Karmic Journey / 頂生王因緣經 — 頂上化生之因緣敘事",
+    "summary": "A Buddhist Jataka-style narrative recounting how King Mahādyuti, born from his father's crown, conquers the four continents and ascends to Trayastriṃśa Heaven through accumulated merit.",
+    "tags": [
+      "buddhist-narratives",
+      "jataka-tales",
+      "buddhist-cosmology",
+      "king-mahadyuti",
+      "four-continents",
+      "thirty-three-heavens"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "ding-sheng-wang-yinyuan-jing",
+    "title": "The Discourse on King Śuddhodana's Previous Life / 頂生王因緣經",
+    "summary": "A Mahayana sutra describing the Buddha's previous incarnation as King Śuddhodana, a cakravartin who practiced extreme generosity and ruled over the four great continents and the heavenly realms.",
+    "tags": [
+      "buddhist-sutra",
+      "mahayana",
+      "previous-life-narrative",
+      "dana-paramita",
+      "buddhist-cosmology"
     ],
     "sources": []
   },
@@ -713,6 +1260,19 @@
     "sources": []
   },
   {
+    "slug": "dream-reality-self-guan-yin-zi",
+    "title": "The Nature of Self and Reality in Guan Yin Zi / 關尹子中的自我與真實",
+    "summary": "An exploration of the philosophical arguments in Chapter 6 of Guan Yin Zi concerning the distinction between self and other, dreams and reality, and the mutable nature of form.",
+    "tags": [
+      "daoist-philosophy",
+      "chinese-philosophy",
+      "metaphysics",
+      "self",
+      "dreams"
+    ],
+    "sources": []
+  },
+  {
     "slug": "eight-testings-six-omens-liezi",
     "title": "Eight Testings and Six Omens / 覺有八徵夢有六候 / 八徵と六候",
     "summary": "The Liezi philosophical framework classifying eight experiential states of waking life and six categories of dreams, with implications for understanding consciousness.",
@@ -752,6 +1312,24 @@
     "sources": []
   },
   {
+    "slug": "erya-classic-chinese-glossary",
+    "title": "Erya (Classic of Correct Rhymes) / 爾雅",
+    "summary": "The Erya is China's oldest comprehensive glossary, compiled during the Warring States-Han period, providing definitions of classical terms across categories with phonetic annotations.",
+    "tags": [
+      "chinese-classics",
+      "classical-chinese",
+      "confucian-canons",
+      "confucian-texts",
+      "dictionary",
+      "etymology",
+      "han-dynasty",
+      "lexicography",
+      "thirteen-classics",
+      "爾雅"
+    ],
+    "sources": []
+  },
+  {
     "slug": "evil-classification-buddhism-e",
     "title": "Evil and Unwholesome Qualities / 惡 / 悪",
     "summary": "Buddhist classification of unwholesome qualities including bodily, verbal, and mental misconduct, arising from the three poisons.",
@@ -762,6 +1340,19 @@
       "three-poisons",
       "misconduct",
       "klesha"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "evil-section-three-dharmas-sanfang-dunlun",
+    "title": "Evil Section (惡品) in the Three Dharmas Treatise / 三法度論惡品",
+    "summary": "The second chapter of the Three Dharmas Treatise examining evil deeds, desire, and delusion as the three unwholesome roots.",
+    "tags": [
+      "buddhist-philosophy",
+      "three-dharmas",
+      "evil-classification",
+      "desire",
+      "delusion"
     ],
     "sources": []
   },
@@ -779,6 +1370,32 @@
     "sources": []
   },
   {
+    "slug": "fa-ju-monk",
+    "title": "Fajü (法炬) — Western Jin Buddhist Translator / 法炬",
+    "summary": "Fajü was a Buddhist monk from the Western Jin dynasty who translated multiple sutras including the Sutra of the Three Cycles of Past Lives.",
+    "tags": [
+      "western-jin",
+      "buddhist-translators",
+      "chinese-buddhism",
+      "translation-works"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "fei-gong-against-attack-mozi",
+    "title": "Against Attack (非攻) - Mozi's Doctrine of Condemning Aggressive Warfare",
+    "summary": "Mozi's philosophical argument condemning aggressive warfare through progressive analysis of moral inconsistency, demonstrating that large-scale warfare is the ultimate injustice by the same logic used to condemn minor theft.",
+    "tags": [
+      "Chinese philosophy",
+      "Mohist philosophy",
+      "Moral philosophy",
+      "Mozi",
+      "Non-war",
+      "War ethics"
+    ],
+    "sources": []
+  },
+  {
     "slug": "fenbie-gongde-lun",
     "title": "分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)",
     "summary": "A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.",
@@ -788,6 +1405,46 @@
       "mahayana",
       "arhat",
       "sangha"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "fengshi-son-perceptual-inversion-liezi",
+    "title": "The Son of Feng Clan with Perceptual Inversion / 逢氏之子迷罔",
+    "summary": "A story from Liezi about a son who suffers from inverted perceptions, mistaking sweet for bitter, white for black, and right for wrong.",
+    "tags": [
+      "liezi",
+      "perception",
+      "inversion",
+      "madness",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "fenyun-covered-siege-vehicle",
+    "title": "Fenyun Covered Siege Vehicle / 轒轀",
+    "summary": "A heavily armored wheeled vehicle used in ancient Chinese siege warfare for crossing water obstacles and breaching defensive works, documented in Mozi's water defense chapter.",
+    "tags": [
+      "siege-warfare",
+      "military-equipment",
+      "mozi",
+      "ancient-chinese-military",
+      "wheeled-vehicles"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "first-principle-shangjun-shu",
+    "title": "First Principle (壹言) / 壹言",
+    "summary": "A foundational concept from the Book of Lord Shang emphasizing the unity of state power and the importance of concentrating national effort on agriculture and military affairs.",
+    "tags": [
+      "ancient-china",
+      "governance-principles",
+      "legalism",
+      "political-theory",
+      "shang-jun-shu",
+      "state-craft"
     ],
     "sources": []
   },
@@ -833,6 +1490,75 @@
     "sources": []
   },
   {
+    "slug": "five-bliss-food-offering-sutra",
+    "title": "Sutra on Five Blessings from Food Offerings / 佛說食施獲五福報經",
+    "summary": "A Buddhist sutra teaching that providing food to others generates five types of blessings: life, complexion, strength, peace, and eloquence.",
+    "tags": [
+      "buddhist-sutras",
+      "dana",
+      "dana-paramita",
+      "east-jin-dynasty",
+      "eastern-jin",
+      "five-blessings",
+      "food-offering",
+      "food-offerings"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-categories-people-wumin-shangjunshu",
+    "title": "Five Categories of People / 五民",
+    "summary": "The Five Categories (五民) refers to Lord Shang's classification of social groups—scholars, hermits, warriors, artisans, and merchants—with their respective roles and governance implications.",
+    "tags": [
+      "shangjunshu",
+      "legalism",
+      "social-classification",
+      "statecraft",
+      "fivecategories"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-elements-theory-constancy-transformation",
+    "title": "Five Elements Theory: Constancy and Transformation / 五行常變論",
+    "summary": "The theory of five elements (water, fire, wood, metal, earth) as constant yet infinitely variable principles in Chinese cosmology and philosophy.",
+    "tags": [
+      "five-elements",
+      "chinese-philosophy",
+      "cosmology",
+      "transformation",
+      "wuxing"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-elements-transformation-mind-guanyinzi",
+    "title": "The Mind and the Five Elements in Guān Yǐnzǐ Chapter 8 / 關尹子第八章中的心與五行",
+    "summary": "This chapter explores how the mind generates emotions and transformations through desire, and systematically presents the theory of the Five Elements with their generative and conquering cycles.",
+    "tags": [
+      "Daoist philosophy",
+      "Guān Yǐnzǐ",
+      "Five Elements",
+      "Mind and emotions",
+      "Chinese cosmology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "five-hindrances-ten-fetters-buddhist-doctrine",
+    "title": "Five Hindrances and Ten Fetters in Buddhist Doctrine / 五葢十纏",
+    "summary": "A comprehensive explanation of the five hindrances (五葢) that obscure the mind and ten fetters (十纏) that bind beings to samsara, from the Mahāyāna Mind-Ground Sutra commentary.",
+    "tags": [
+      "buddhist-cultivation",
+      "hindrances",
+      "fetters",
+      "mental-defilements",
+      "mahayana",
+      "mind-ground"
+    ],
+    "sources": []
+  },
+  {
     "slug": "five-hundred-years-sage-king-cycles",
     "title": "Five Hundred Years Theory of Sage Kings / 五百年必有王者興",
     "summary": "Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.",
@@ -846,15 +1572,16 @@
     "sources": []
   },
   {
-    "slug": "five-hundred-years-sage-king",
-    "title": "Five Hundred Years必有王者興 / 五百年必有王者興",
-    "summary": "Mencius's famous prophecy that a sage king will arise every five hundred years, with one marked by the appearance of a world-ordering figure.",
+    "slug": "five-peaks-true-form-map-wuyue-zhenxing-tu",
+    "title": "Five Peaks True Form Map / 五嶽真形圖",
+    "summary": "A most sacred Taoist talisman text described in Baopuzi as requiring blood oaths, forty-year transmission cycles, and possessing powers to ward off evil, heal diseases, cross waters, and reveal hidden knowledge.",
     "tags": [
-      "confucian-political-philosophy",
-      "messianism",
-      "mengzi",
-      "historical-providence",
-      "eschatology"
+      "taoist-texts",
+      "talismans",
+      "wuyue",
+      "baopuzi",
+      "chinese-religion",
+      "esoteric-practice"
     ],
     "sources": []
   },
@@ -923,6 +1650,19 @@
     "sources": []
   },
   {
+    "slug": "foshuo-pusa-benxing-jing",
+    "title": "Bodhisattva Practice Sutra / 佛說菩薩本行經",
+    "summary": "A Buddhist sutra (3 volumes) depicting Jataka tales of past Buddha lives, emphasizing the bodhisattva path through charity, sacrifice, and perseverance.",
+    "tags": [
+      "buddhist-sutras",
+      "bodhisattva-path",
+      "jataka-tales",
+      "eastern-jin-dynasty",
+      "chinese-buddhism"
+    ],
+    "sources": []
+  },
+  {
     "slug": "four-agamas-commentary-commentary-on-four-collections",
     "title": "Four Āgamas Commentary / 四阿鋡暮抄解",
     "summary": "A Buddhist philosophical commentary on the Four Āgamas discussing the Three Dharmas of merit, evil, and liberation.",
@@ -957,6 +1697,19 @@
       "supernatural-powers",
       "mahabrahma",
       "four-bases"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "four-battle-states-shangjun-shu",
+    "title": "Four-Battle States (四戰之國) / 四戰之國",
+    "summary": "A geopolitical concept from the Book of Lord Shang describing states located on multiple frontiers and their strategic imperative to emphasize defensive warfare.",
+    "tags": [
+      "legalism",
+      "shang-jun-shu",
+      "military-strategy",
+      "political-theory",
+      "ancient-china"
     ],
     "sources": []
   },
@@ -1027,6 +1780,19 @@
     "sources": []
   },
   {
+    "slug": "four-kingdoms-sleep-dream-liezi",
+    "title": "Four Kingdoms of Dream and Reality / 四國夢覺",
+    "summary": "A philosophical passage from Liezi describing four kingdoms with contrasting relationships to sleep, dreams, and reality.",
+    "tags": [
+      "liezi",
+      "dream-reality",
+      "cosmology",
+      "chinese-philosophy",
+      "comparative-philosophy"
+    ],
+    "sources": []
+  },
+  {
     "slug": "four-noble-truths",
     "title": "Four Noble Truths / 四聖諦",
     "summary": "The core Buddhist doctrine summarizing the nature of suffering, its origin, cessation, and the path to liberation.",
@@ -1065,6 +1831,19 @@
     "sources": []
   },
   {
+    "slug": "four-stages-life-liezi-tianrui",
+    "title": "Four Stages of Life in Liezi's Tianrui Chapter / 列子天瑞四階段人生觀",
+    "summary": "An analysis of Liezi's philosophical framework depicting human life through four transformative stages: infancy, youth, old age, and death, each characterized by distinct qi and virtue states.",
+    "tags": [
+      "liezi",
+      "daoist-philosophy",
+      "life-cycle",
+      "transformation",
+      "tianrui"
+    ],
+    "sources": []
+  },
+  {
     "slug": "four-types-people-self-other-care-buddhist",
     "title": "Four Types of People: Self-Care and Care for Others / 四等人自護護他",
     "summary": "A Buddhist classification from the 七處三觀經 describing four types of people based on whether they guard themselves and whether they protect others.",
@@ -1092,6 +1871,32 @@
     "sources": []
   },
   {
+    "slug": "fuli-prince-fortune-power-cause-effect-sutra",
+    "title": "Fuli Prince Sutra on Merit and Fortune / 福力太子因緣經",
+    "summary": "A Mahayana sutra teaching that cultivating merit and fortune surpasses all other virtues, featuring Prince Fuli's story of ascent to Cakravartin kingship through supreme generosity.",
+    "tags": [
+      "mahayana-sutra",
+      "merit-fortune",
+      "prince-fuli",
+      "causality",
+      "bodhisattva-path",
+      "dana-paramita"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "fuyao-shijie-medicine-timing-baopuzi",
+    "title": "Medicine Timing (服藥時節) in Baopuzi / 抱朴子服藥時節",
+    "summary": "The timing principles for taking medicinal elixirs in Daoist alchemy, distinguishing between therapeutic and nurturing medicines.",
+    "tags": [
+      "baopuzi",
+      "daoist-alchemy",
+      "medicine-timing",
+      "cultivation-methods"
+    ],
+    "sources": []
+  },
+  {
     "slug": "gemma-ai-model",
     "title": "Gemma AI Model / Gemma AI 模型 / Gemma AIモデル",
     "summary": "Google's open-source family of lightweight, state-of-the-art AI models designed for responsible AI development and efficient deployment.",
@@ -1102,6 +1907,19 @@
       "text-generation",
       "gemma-family",
       "non-target"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "gengsang-chu-zhuangzi",
+    "title": "Gengsang Chu Chapter in Zhuangzi / 莊子·庚桑楚",
+    "summary": "A chapter in Zhuangzi featuring the disciple Gengsang Chu's philosophy of preserving life, avoiding fame, and the Daoist concept of the \"hygiene classic.\"",
+    "tags": [
+      "zhuangzi",
+      "daoism",
+      "gengsang-chu",
+      "chinese-philosophy",
+      "preserving-life"
     ],
     "sources": []
   },
@@ -1301,6 +2119,284 @@
     "sources": []
   },
   {
+    "slug": "guan-yinzi-chapter-eight-transcendence",
+    "title": "Guanyinzi Chapter Eight: The Transcendence of the Dao / 關尹子第八章：道之超越",
+    "summary": "Chapter 8 of Guanyinzi discusses the transcendence of the Dao beyond all categorical distinctions, the transformations of the five elements, and the relationship between mind and things.",
+    "tags": [
+      "Daoism",
+      "Guanyinzi",
+      "Chinese philosophy",
+      "Dao",
+      "five elements",
+      "mind"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guan-yinzi-chapter-five-mind-intention-nature",
+    "title": "Guan Yinzi Chapter Five: Mind, Intention, and Nature / 關尹子第五章：心、意與性",
+    "summary": "Chapter 5 of Guan Yinzi explores the relationship between mind (心), intention (意), emotions (情), and original nature (性), presenting a sophisticated psychological framework that distinguishes between the unchanging mind and transforming intentions.",
+    "tags": [
+      "daoist-philosophy",
+      "mind-study",
+      "chinese-philosophy",
+      "guan-yinzi",
+      "intentionality"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guan-yinzi-chapter-four-essence-spirit",
+    "title": "Essence and Spirit (精神) in Guǎn Yǐnzǐ Chapter 4 / 關尹子第四章：精與神",
+    "summary": "A comprehensive analysis of the Daoist concepts of jīng (essence) and shén (spirit) as discussed in Chapter 4 of Guǎn Yǐnzǐ, examining their relationship to the Five Elements and the philosophical principle of \"no-self\" (wú wǒ).",
+    "tags": [
+      "Daoist philosophy",
+      "Chinese metaphysics",
+      "Guǎn Yǐnzǐ",
+      "essence",
+      "spirit",
+      "Five Elements",
+      "精",
+      "神",
+      "魂魄"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guan-yinzi-chapter-four-spirit-five-elements",
+    "title": "Guan Yinzi Chapter 4: On Spirit and the Five Elements / 關尹子第四章：論精神與五行",
+    "summary": "Chapter 4 of Guan Yinzi explores the nature of essence (精), spirit (神), ethereal soul (魂), and corporeal soul (魄), examining how the Five Elements correspond to human consciousness and the philosophical implications for understanding life, death, and unity with the cosmos.",
+    "tags": [
+      "Daoism",
+      "Chinese philosophy",
+      "Guan Yinzi",
+      "Five Elements",
+      "spirit",
+      "soul",
+      "關尹子",
+      "精神魂魄",
+      "五行",
+      "生死"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guan-yinzi-chapter-nine-medicinal-treatment",
+    "title": "Guanyinzi Chapter Nine: Medicinal Treatment / 關尹子第九篇：藥",
+    "summary": "Chapter 9 of Guanyinzi presents teachings on miscellaneous remedies for spiritual and moral ailments, addressing the proper balance between wisdom, speech, and action through paradoxes and practical metaphors.",
+    "tags": [
+      "guanyinzi",
+      "daoism",
+      "chapter-9",
+      "self-cultivation",
+      "wisdom",
+      "daoist-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guan-yinzi-chapter-six-self-cultivation",
+    "title": "Guanyinzi Chapter Six: Self-Cultivation and the Nature of Self / 關尹子第六章：修养与自我本性",
+    "summary": "Chapter Six of Guanyinzi explores the nature of self through dream analysis, form transformation, and the dissolution of subject-object distinctions, presenting core Daoist concepts of self-cultivation.",
+    "tags": [
+      "guanyinzi",
+      "daoist-philosophy",
+      "dream-analysis",
+      "self-cultivation",
+      "chinese-philosophy",
+      "warring-states-period"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guan-yinzi-chapter-three-sage-way",
+    "title": "Guān Yǐnzǐ Chapter Three: The Way of the Sage / 關尹子第三章：聖人之道",
+    "summary": "Chapter 3 of the Daoist classic Guān Yǐnzǐ explores the sage's governance through non-action, the doctrine of non-self, and the inexpressibility of the Dao.",
+    "tags": [
+      "daoism",
+      "chinese-philosophy",
+      "guanyinzi",
+      "sagehood",
+      "non-self",
+      "governance",
+      "taoist-texts"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guany-yinzi-second-chapter-cosmic-principles",
+    "title": "Cosmic Principles in Guany Yinzi Chapter Two / 關尹子第二章的宇宙哲學",
+    "summary": "An exploration of the philosophical concepts in Chapter Two of Guany Yinzi, focusing on the establishment of heaven and earth, the interplay of essence and spirit, and the unity of all things.",
+    "tags": [
+      "Taoist philosophy",
+      "Daoist cosmology",
+      "Chinese classical texts",
+      "essence-spirit theory",
+      "five elements",
+      "dream-reality relationship"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guanyinzi-chapter-eight",
+    "title": "Guanyinzi Chapter 8 / 關尹子第八篇",
+    "summary": "Chapter 8 of the Daoist text Guanyinzi discusses the ineffable nature of the Dao, the five-element transformations, the heart-mind as creator of all things, and the sage's unity with Heaven.",
+    "tags": [
+      "Chinese philosophy",
+      "Daoism",
+      "Guanyinzi",
+      "chinese-philosophy",
+      "classical texts",
+      "classical-chinese-texts",
+      "daoism",
+      "daoist-philosophy",
+      "five-elements",
+      "guan-yinzi",
+      "guanyinzi",
+      "transcendence",
+      "關尹子"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guanyinzi-chapter-five-mind-transformation",
+    "title": "Guanyinzi Chapter Five: Mind and Cosmological Transformation / 關尹子第五章：心與造化",
+    "summary": "Chapter 5 of Guanyinzi explores the nature of the mind (心), its interactions with spirits and external objects, and the sage's mastery over mental transformation to transcend form and qi.",
+    "tags": [
+      "chinese-philosophy",
+      "consciousness",
+      "daoist-meditation",
+      "daoist-philosophy",
+      "daoist-texts",
+      "guanyinzi",
+      "mind",
+      "taoist-philosophy",
+      "transformation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guanyinzi-chapter-nine",
+    "title": "Guanyinzi Chapter Nine: On Medicine / 關尹子第九章：藥者雜治",
+    "summary": "Chapter 9 of Guanyinzi presents the \"medicine\" metaphor for spiritual practice, discussing how the sage applies various remedies to correct imbalances between extremes.",
+    "tags": [
+      "chapter-9",
+      "chinese-philosophy",
+      "classical-chinese",
+      "daoism",
+      "daoist-philosophy",
+      "daoist-texts",
+      "guan-yinzi",
+      "guanyinzi",
+      "medicine-metaphor",
+      "non-attachment",
+      "sage",
+      "self-cultivation",
+      "taoism",
+      "wu-wei"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guanyinzi-chapter-seven-transformation",
+    "title": "Chapter Seven: Transformation (化) in Guanyinzi / 關尹子第七章：化",
+    "summary": "Chapter 7 of Guanyinzi explores the philosophy of transformation (化),阐發道化萬物、聖人任化的深層道理.",
+    "tags": [
+      "Chinese philosophy",
+      "Daoism",
+      "Guanyinzi",
+      "chinese-philosophy",
+      "daoist-cosmology",
+      "daoist-philosophy",
+      "guanyinzi",
+      "qi",
+      "transformation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guanyinzi-chapter-six-self-transformation",
+    "title": "Guanyinzi Chapter Six: On the Self / 關尹子第六章：論自我",
+    "summary": "Chapter 6 of Guanyinzi explores the nature of self, dream versus waking states, form transformation, and the concept of no-self (無我) in Daoist philosophy.",
+    "tags": [
+      "guanyinzi",
+      "daoist-philosophy",
+      "chapter-6",
+      "self-transformation",
+      "dream",
+      "five-elements",
+      "wu-wei"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guanyinzi-chapter-three",
+    "title": "Guanyinzi Chapter Three: On the Sage's Non-Action / 關尹子第三章：聖人無為",
+    "summary": "Chapter 3 of the Daoist classic Guanyinzi expounds on the sage's governance through non-action, teaching by example, and the ineffable nature of the Way.",
+    "tags": [
+      "Daoism",
+      "Chinese philosophy",
+      "Guanyinzi",
+      "non-action",
+      "sage governance"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guanyinzi-chapter-two",
+    "title": "Guanyinzi Chapter Two / 關尹子第二章",
+    "summary": "Chapter Two of the Daoist classic Guanyinzi explores the cosmological principles of establishing heaven and earth through all things, the interplay of essence, spirit, and the five elements.",
+    "tags": [
+      "Daoist philosophy",
+      "Guanyinzi",
+      "Wenshi Zhenjing",
+      "Chinese cosmology",
+      "柱者建天地",
+      "道寓"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guarding-emptiness-void-wenzi-xu",
+    "title": "Guarding Emptiness (守虛) in Wenzi / 文子\"守虛\"論",
+    "summary": "Guarding Emptiness (守虛) is the foundational Daoist practice in Wenzi Volume 3, emphasizing the cultivation of inner emptiness and receptivity as the gateway to understanding the Dao and achieving spiritual clarity.",
+    "tags": [
+      "wenzi",
+      "daoist-meditation",
+      "emptiness",
+      "self-cultivation",
+      "守虛"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guarding-practices-wenzi-guardianship",
+    "title": "Guarding Practices (守) in Wenzi / 文子\"守\"系列哲學",
+    "summary": "The ten \"Guarding\" practices in Wenzi Volume 3 represent a comprehensive Daoist self-cultivation methodology, including guarding emptiness, non-being, equilibrium, simplicity, clarity, authenticity, stillness, law, weakness, and plainness.",
+    "tags": [
+      "wenzi",
+      "daoist-philosophy",
+      "self-cultivation",
+      "guarding-practices",
+      "守"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "guarding-stillness-wenzi-jing",
+    "title": "Guarding Stillness (守靜) in Wenzi / 文子\"守靜\"論",
+    "summary": "Guarding Stillness (守靜) in Wenzi Volume 3 presents stillness as the fundamental governance principle, contrasting it with chaos caused by movement, and emphasizing its role in preserving spiritual energy and achieving longevity.",
+    "tags": [
+      "wenzi",
+      "daoist-philosophy",
+      "stillness",
+      "self-cultivation",
+      "longevity",
+      "守靜"
+    ],
+    "sources": []
+  },
+  {
     "slug": "han-dynasty-mencius-reception",
     "title": "Han Dynasty Reception of Mencius / 汉代孟子接受史",
     "summary": "Historical process of Mencius's recognition and preservation during the Han dynasty",
@@ -1326,6 +2422,32 @@
     "sources": []
   },
   {
+    "slug": "hao-bridge-debate-fish-happiness",
+    "title": "The Hao Bridge Debate / 濠梁之辯",
+    "summary": "The famous philosophical exchange between Zhuangzi and Hui Zi about whether one can know a fish's happiness, exploring questions of consciousness and knowledge.",
+    "tags": [
+      "zhuangzi",
+      "epistemology",
+      "philosophy-debate",
+      "consciousness",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "heart-death-zhuangzi",
+    "title": "Heart Death / 心死",
+    "summary": "The Zhuangzi concept that spiritual death (heart death) is greater than physical death, representing loss of true nature and spontaneity.",
+    "tags": [
+      "Zhuangzi",
+      "Daoist philosophy",
+      "death",
+      "spiritual transformation",
+      "heart-mind"
+    ],
+    "sources": []
+  },
+  {
     "slug": "heart-mind-moral-cultivation-mengzi",
     "title": "Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養",
     "summary": "Mencius' teaching on cultivating the heart-mind (心) as the center of moral life and the recovery of one's lost moral sense",
@@ -1335,6 +2457,72 @@
       "self-cultivation",
       "mengzi",
       "heart-mind"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "hu-zi-huzi-zhuangzi",
+    "title": "Huzi (壺子) - The Master of Hidden Virtue / 壺子",
+    "summary": "The Daoist master Huzi who demonstrated four different spiritual manifestations to the fortune-teller Jixian, illustrating the illusory nature of external judgments and the depth of inner cultivation.",
+    "tags": [
+      "zhuangzi",
+      "daoist-practice",
+      "spiritual-cultivation",
+      "illusion",
+      "perception"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "hua-ce-strategic-planning",
+    "title": "Strategic Planning (畫策) / 畫策",
+    "summary": "Chapter 18 of The Book of Lord Shang discussing fundamental principles of governance, law, and military supremacy.",
+    "tags": [
+      "shang-jun-shu",
+      "legalism",
+      "governance-strategy",
+      "military-philosophy",
+      "qin-dynasty"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "huaxu-dream-liezi",
+    "title": "The Huaxu Dream (華胥之夢) / 華胥之夢",
+    "summary": "The Yellow Emperor's dream journey to the utopian land of Huaxu, representing ideal governance and natural harmony.",
+    "tags": [
+      "liezi",
+      "utopia",
+      "dream",
+      "yellow-emperor",
+      "daoist-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "huaxu-kingdom-liezi",
+    "title": "The Huaxu Kingdom / 華胥氏之國",
+    "summary": "The Yellow Emperor's dream of the utopian Huaxu Kingdom and his subsequent enlightened reign, illustrating the Daoist ideal of natural governance through non-action.",
+    "tags": [
+      "liezi",
+      "daoism",
+      "yellow-emperor",
+      "utopia",
+      "dream",
+      "wu-wei"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "hubin-wheelmaking-discourse-zhuangzi",
+    "title": "Wheelwright's Wheel-Making Discourse / 輪扁斲輪",
+    "summary": "A philosophical discourse in Zhuangzi where a wheelwright explains to Duke Huan why the words of the sages are merely \"dregs\" and true wisdom cannot be transmitted through language.",
+    "tags": [
+      "zhuangzi",
+      "philosophy-of-language",
+      "tacit-knowledge",
+      "ancient-chinese-wisdom",
+      "paradoxes"
     ],
     "sources": []
   },
@@ -1472,6 +2660,19 @@
     "sources": []
   },
   {
+    "slug": "hun-tun-chaos-death-zhuangzi",
+    "title": "The Death of Hun-tun (渾沌之死) / 渾沌之死",
+    "summary": "The parable in Zhuangzi where well-intentioned intervention by 儵 and 忽 destroys the natural simplicity of 渾沌, illustrating the dangers of artificial interference with natural states.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "parable",
+      "non-action",
+      "chaos"
+    ],
+    "sources": []
+  },
+  {
     "slug": "initial-awakening",
     "title": "Initial Awakening / 初發心 / 初発の覚醒",
     "summary": "An early stage of spiritual realization in Buddhist practice, marking the first awakening on the path to liberation.",
@@ -1498,6 +2699,20 @@
     "sources": []
   },
   {
+    "slug": "ji-shengzi-fighting-roosters-liezi",
+    "title": "Ji Shengzi's Fighting Roosters: Spiritual Mastery / 紀渻子養鬭雞 — 精神修養之道",
+    "summary": "The story of Ji Shengzi cultivating fighting roosters illustrates the Daoist path to spiritual mastery through the progression from false confidence to true tranquility.",
+    "tags": [
+      "liezi",
+      "daoist-self-cultivation",
+      "mastery",
+      "spiritual-training",
+      "ziran",
+      "naturalness"
+    ],
+    "sources": []
+  },
+  {
     "slug": "jian-ai",
     "title": "Universal Love (兼愛) / 兼愛",
     "summary": "The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.",
@@ -1513,6 +2728,20 @@
     "sources": []
   },
   {
+    "slug": "jian-de-zhi-guo",
+    "title": "Nation of Established Virtue / 建德之國",
+    "summary": "The ideal Daoist society described by Shi Nan Yi Liao in the Zhuangzi—simple, without artificial desires, where people act freely and live and die with peace.",
+    "tags": [
+      "daoist-philosophy",
+      "daoist-society",
+      "ideal-society",
+      "naturalness",
+      "utopia",
+      "zhuangzi"
+    ],
+    "sources": []
+  },
+  {
     "slug": "jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra",
     "title": "Ten Causes for Teaching the Mind-Ground Sutra / 教起因緣",
     "summary": "The ten reasons why Shakyamuni Buddha taught the Mahayana Mind-Ground Contemplation Sutra, as enumerated in the commentary.",
@@ -1521,6 +2750,46 @@
       "doctrinal-study",
       "mahayana-teaching",
       "shravaka-bodhisattva"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "jing-shen-hun-po-essence-spirit-soul",
+    "title": "Essence, Spirit, Soul, and Corporeal Soul (精神魂魄) / 精神魂魄說",
+    "summary": "A Taoist doctrine from Guanyinzi Chapter 4 explaining the four fundamental spiritual faculties: essence (精), spirit (神), soul (魂), and corporeal soul (魄), their cosmic origins, and their relationship to the Five Elements.",
+    "tags": [
+      "taoism",
+      "spiritual-cultivation",
+      "guanyinzi",
+      "chinese-philosophy",
+      "five-elements",
+      "soul-theory"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "jinse-wang-jing-golden-king-sutra",
+    "title": "Golden-Colored King Sutra / 金色王經",
+    "summary": "A Buddhist sutra recounting how King Golden-Colored, a past life of the Buddha, attained liberation through the perfection of giving (dāna pāramitā) during a great famine.",
+    "tags": [
+      "buddhist-sutra",
+      "jataka-tale",
+      "dana-paramita",
+      "eastern-wei-translation",
+      "gautama-prajnaruci"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "jiu-fang-gao-horse-divination-liezi",
+    "title": "Jiu Fang Gao's Horse Divination / 九方皋相馬",
+    "summary": "A parable about seeing essential nature beyond superficial appearance, exemplified through horse divination that prioritizes inner truth over external signs.",
+    "tags": [
+      "chinese-philosophy",
+      "essence-over-form",
+      "liezi",
+      "perception",
+      "wisdom"
     ],
     "sources": []
   },
@@ -1551,6 +2820,33 @@
       "philosophy",
       "virtue",
       "virtue-ethics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "kangcangzi-ear-vision-eye-hearing",
+    "title": "Kangcangzi: Seeing with Ears and Hearing with Eyes / 亢倉子·耳視目聽",
+    "summary": "A Daoist sage who transcended ordinary sensory limitations through spiritual cultivation, described as able to see with ears and hear with eyes.",
+    "tags": [
+      "daoist-philosophy",
+      "sensory-transcendence",
+      "liezi",
+      "laozi-disciple",
+      "cultivation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "king-ding-sheng-jambudvipa-expansion",
+    "title": "King Ding Sheng's Expansion Across the Four Continents / 頂生王統治四洲",
+    "summary": "The Buddhist narrative of King Ding Sheng (Dhṛtarāṣṭra) who successively conquered Jambudvipa and the three other continents before ascending to the Trayastriṃśa heavens.",
+    "tags": [
+      "buddhist-narratives",
+      "king-ding-sheng",
+      "four-continents",
+      "cakravartin",
+      "indian-buddhism",
+      "medieval-translations"
     ],
     "sources": []
   },
@@ -1624,6 +2920,34 @@
     "sources": []
   },
   {
+    "slug": "kun-peng-giant-fish-bird-liezi",
+    "title": "Kun and Peng / 鯤鵬",
+    "summary": "The legendary giant fish Kun that transforms into the massive Peng bird, a cosmological concept from Liezi describing the vastness of the universe and the transformation of beings.",
+    "tags": [
+      "liezi",
+      "cosmology",
+      "transformation",
+      "daoist-philosophy",
+      "myth"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "lai-min-attracting-people",
+    "title": "Attracting People Policy (徠民) / 徠民政策",
+    "summary": "Shang Yang's policy to attract settlers from other states to cultivate Qin's wastelands, addressing population scarcity through land incentives.",
+    "tags": [
+      "agricultural-policy",
+      "legalism",
+      "population-policy",
+      "qin-dynasty",
+      "shang-jun-shu",
+      "shangjunshu",
+      "state-building"
+    ],
+    "sources": []
+  },
+  {
     "slug": "lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing",
     "title": "Lai Zhou (來舟) / 來舟法師",
     "summary": "A Qing Dynasty monk who authored a major commentary on the Mahayana Mind-Ground Contemplation Sutra, synthesizing Huayan and Tiantai classification systems.",
@@ -1676,6 +3000,71 @@
     "sources": []
   },
   {
+    "slug": "liang-she-fa-two-grabbing-methods",
+    "title": "Two Grabbing Methods / 二攝法 / 二攝法",
+    "summary": "The Buddhist methodology combining material giving (財法) with Dharma teaching (法施) to benefit sentient beings through both physical and spiritual means.",
+    "tags": [
+      "bodhisattva-practice",
+      "dana-paramita",
+      "skillful-means",
+      "mahayana-teaching",
+      "chinese-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "liang-xiao-er-bian-ri-two-children-sun-debate",
+    "title": "Two Children Debating About the Sun / 兩小兒辯日",
+    "summary": "A famous anecdote from Liezi about two children debating whether the sun is closer in the morning or at noon, illustrating the limits of human knowledge.",
+    "tags": [
+      "liezi",
+      "confucius",
+      "epistemology",
+      "philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "liang-zhang-min-zhang-cang-lactotherapy",
+    "title": "Zhang Cang's Lactotherapy / 张苍乳汁养生",
+    "summary": "Zhang Cang (张苍), Han Dynasty Chancellor, achieved exceptional longevity (180 years) through lactotherapy (吮妇人乳汁), demonstrating Daoist practices in historical records.",
+    "tags": [
+      "zhang-cang",
+      "han-dynasty",
+      "lactotherapy",
+      "longevity",
+      "daoist-practice",
+      "historical-record"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "liang-zuo-shan-two-mountains-immortality-baopuzi",
+    "title": "Two Mountains of Immortality in Baopuzi / 抱朴子所述兩座仙山",
+    "summary": "A unique esoteric teaching from Baopuzi describing two mystical mountains where immortality can be obtained through proper cultivation.",
+    "tags": [
+      "daoist-cultivation",
+      "immortality",
+      "baopuzi",
+      "esoteric-teaching",
+      "taoism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "liezi-journey-early-return",
+    "title": "Liezi's Journey and Early Return / 列禦寇之齊與伯昏瞀人的故事",
+    "summary": "The story of Liezi journeying to Qi but turning back after becoming \"startled\" by receiving special treatment, illustrating the danger of being sought after by people.",
+    "tags": [
+      "Zhuangzi",
+      "Liezi",
+      "Boqian Maoren",
+      "Daoist wisdom",
+      "worldly recognition"
+    ],
+    "sources": []
+  },
+  {
     "slug": "light-sound-heaven-buddhist-cosmology",
     "title": "Light-Sound Heaven / 光音天",
     "summary": "The second dhyana heaven in Buddhist cosmology from which beings descended to earth according to the White Cloth Golden Banner Sutra.",
@@ -1684,6 +3073,19 @@
       "dhyana-heavens",
       "light-sound-heaven",
       "world-origin"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "liutao-six-secret-strategies",
+    "title": "Six Secret Strategies / 六韜 / 六韜",
+    "summary": "An ancient Chinese military treatise traditionally attributed to Jiang Ziya, consisting of six sections covering civil and military governance strategies.",
+    "tags": [
+      "military-strategy",
+      "ancient-chinese-text",
+      "jiang-ziya",
+      "six-strategies",
+      "classical-chinese"
     ],
     "sources": []
   },
@@ -2057,6 +3459,22 @@
     "sources": []
   },
   {
+    "slug": "ming-gui-xia-ghost-spirit-doctrine",
+    "title": "Demonstrating the Existence of Ghosts Part 2 / 明鬼下",
+    "summary": "A Mohist chapter demonstrating the existence and moral function of ghosts and spirits, arguing that belief in supernatural reward and punishment is essential for social order.",
+    "tags": [
+      "mozi",
+      "ghosts-spirits",
+      "mohism",
+      "moral-punishment",
+      "chinese-philosophy",
+      "political-philosophy",
+      "sacrificial-rites",
+      "confucianism"
+    ],
+    "sources": []
+  },
+  {
     "slug": "ministerial-advice",
     "title": "Ministerial Advice / 大臣的劝谏",
     "summary": "The role of ministerial advice is crucial in ensuring benevolent governance and societal harmony.",
@@ -2108,6 +3526,19 @@
     "sources": []
   },
   {
+    "slug": "moonlit-king-bodhisattva-sutra-yueguang-puti",
+    "title": "Sutra of the Moonlight King (Moonlight Bodhisattva Sutra) / 佛說月光菩薩經",
+    "summary": "A Mahayana sutra describing the past life of the Buddha as Moonlight King, who attained bodhisattva awakening through the perfection of giving by donating his head to a brahmin.",
+    "tags": [
+      "chinese-buddhist-texts",
+      "dana-paramita",
+      "jataka-tale",
+      "mahayana-sutra",
+      "moonlight-bodhisattva"
+    ],
+    "sources": []
+  },
+  {
     "slug": "moral-cultivation-methods",
     "title": "Moral Cultivation Methods / 道德修养方法",
     "summary": "Confucian techniques for character development including self-examination and principle adherence",
@@ -2147,6 +3578,758 @@
     "sources": []
   },
   {
+    "slug": "mozi-banner-system-siege-defense",
+    "title": "Mozi's Banner System for Siege Defense / 墨子旗幟制度",
+    "summary": "Mozi's systematic color-coded banner system for identifying defenders, materials, and military roles during siege warfare.",
+    "tags": [
+      "ancient-chinese-military",
+      "banners",
+      "city-defense",
+      "communication-systems",
+      "flags-banners",
+      "military-defense",
+      "military-signals",
+      "military-strategy",
+      "mozi",
+      "siege-defense",
+      "siege-warfare",
+      "signal-systems",
+      "warring-states-period"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-ciguo-refraining-from-excesses",
+    "title": "Mozi - Refraining from Excesses (辭過) / 墨子·辭過",
+    "summary": "A chapter from the Mozi examining how ancient sage-kings established proper standards for five essential domains of life—dwelling, clothing, food, transportation, and marriage—contrasting their frugal governance with the excesses of contemporary rulers.",
+    "tags": [
+      "mozi",
+      "mohism",
+      "ancient-chinese-philosophy",
+      "political-philosophy",
+      "frugality",
+      "governance",
+      "confucianism",
+      "chinese-texts"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-cloud-ladder-defense-beiti",
+    "title": "Mozi on Cloud Ladder Defense / 墨子備梯",
+    "summary": "A chapter from the Mozi discussing defensive strategies against cloud ladders in siege warfare, featuring a dialogue between Mozi and his disciple Qin Guli.",
+    "tags": [
+      "ancient-chinese-warfare",
+      "defensive-strategy",
+      "defensive-warfare",
+      "military-defense",
+      "military-strategy",
+      "mohism",
+      "mozi",
+      "qin-guli",
+      "军事防御",
+      "古代战争",
+      "墨家"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-da-qu",
+    "title": "Mozi Da Qu (Great Adoption) / 墨子·大取",
+    "summary": "An analysis of the Mozi chapter \"Da Qu\" which discusses the methodology of moral weighing between benefit and harm, including principles of self-sacrifice for the world.",
+    "tags": [
+      "mozi",
+      "moism",
+      "chinese-philosophy",
+      "ethical-theory",
+      "warring-states-period",
+      "universal-love",
+      "self-sacrifice"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-defending-city-walls-beichengmen",
+    "title": "Defending City Walls (Mozi) / 墨子備城門",
+    "summary": "A Mohist military defense treatise detailing systematic strategies for city wall protection against twelve siege methods, emphasizing preparation, material readiness, and coordinated defender response.",
+    "tags": [
+      "ancient-chinese-warfare",
+      "city-defense",
+      "city-fortification",
+      "military-defense",
+      "mohism",
+      "mozi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-fayi-standard-law",
+    "title": "Mozi's Standard of Law (法儀) / 墨子法儀",
+    "summary": "Mozi argues that all governance requires a standard or model, and that Heaven (天) rather than parents, teachers, or rulers should serve as the ultimate ethical benchmark.",
+    "tags": [
+      "chinese philosophy",
+      "chinese-philosophy",
+      "confucian-critique",
+      "ethical-standard",
+      "governance",
+      "legal philosophy",
+      "legal-standard",
+      "mozi",
+      "political-philosophy",
+      "standard-of-law",
+      "tianzhi",
+      "warring-states"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-fei-gong-zhong-against-attack-middle",
+    "title": "Mozi Fei Gong Zhong / 墨子·非攻中",
+    "summary": "Chapter 18 of the Mozi, continuing the critique of aggressive warfare with detailed economic analysis and historical examples demonstrating the futility of conquest.",
+    "tags": [
+      "mozi",
+      "chinese-philosophy",
+      "war-criticism",
+      "mohism",
+      "military-history"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-fei-ming-against-fatalism",
+    "title": "Against Fatalism (非命上) / 墨子非命思想",
+    "summary": "Mozi's philosophical refutation of fatalism and the doctrine of predetermined destiny, arguing for human agency and the Three Standards methodology.",
+    "tags": [
+      "argumentation",
+      "chinese-philosophy",
+      "fatalism",
+      "human-agency",
+      "mohism",
+      "mozi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-fei-yue-shang-against-music-upper",
+    "title": "Mozi Against Music Part I (非樂上) — Mohist Critique of Music and Governance",
+    "summary": "Mozi's philosophical argument against elaborate music, contending that rulers' expenditure on music harms the people's welfare and disrupts governance, based on the principle of promoting world benefit while eliminating world harm.",
+    "tags": [
+      "mozi",
+      "mohism",
+      "music-and-governance",
+      "chinese-philosophy",
+      "non-pleasure",
+      "confucian-critique"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-gong-meng-chapter",
+    "title": "Mozi - Gong Meng Chapter / 墨子·公孟",
+    "summary": "A philosophical dialogue between Mozi and the Confucian scholar Gong Meng covering debates on proactive moral speech, ritual propriety, fate, and the unity of words and actions.",
+    "tags": [
+      "mozi",
+      "confucian-critique",
+      "philosophical-debate",
+      "chinese-philosophy",
+      "gong-meng"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-gong-meng-dialogue",
+    "title": "The Mozi-Gong Meng Dialogue / 墨子與公孟子之辯",
+    "summary": "A philosophical debate between Mozi and the Confucian scholar Gong Meng covering governance, ritual, fate, ghosts, and the four harmful doctrines of Confucianism.",
+    "tags": [
+      "mozi",
+      "confucianism",
+      "debate",
+      "philosophy",
+      "chinese-ancient-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-gongshu-dialogue-chapter",
+    "title": "Mozi Gongshu Chapter / 墨子公輸篇",
+    "summary": "A chapter from the Mozi text describing Mozi's debate with Gongshu Ban and his dissuasion of Chu's attack on Song through logical argument and a military defense demonstration.",
+    "tags": [
+      "mozi",
+      "chinese-philosophy",
+      "mohism",
+      "military-defense",
+      "gongshu-ban",
+      "dialogic-argument"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-gui-yi-valuing-righteousness",
+    "title": "Mozi Chapter on Valuing Righteousness / 墨子·貴義",
+    "summary": "A chapter from the Mozi emphasizing righteousness as the highest value, contrasting with the utility of name-based versus actual selection, and demonstrating Mozi's political teachings through various encounters.",
+    "tags": [
+      "chinese-philosophy",
+      "classical-chinese-texts",
+      "mohism",
+      "mozi",
+      "political-philosophy",
+      "righteousness",
+      "warring-states"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-heaven-rewards-virtue-emperor-punishment",
+    "title": "Heaven's Rewards for Virtue and Punishment for Vice / 天賞善罰暴",
+    "summary": "Mozi's doctrine that Heaven rewards virtuous rulers and punishes evil ones, as illustrated through the outcomes of sage kings versus tyrants.",
+    "tags": [
+      "mohism",
+      "heavenly-justice",
+      "moral-retribution",
+      "political-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-heaven-will-tianzhi",
+    "title": "Heaven's Will (天志) in Mozi's Philosophy / 墨子天志哲學",
+    "summary": "Mozi's concept of 天志 (Heaven's Will) establishes Heaven as the supreme moral authority that desires righteousness and punishes unrighteousness, serving as the cosmic foundation for political legitimacy and ethical conduct.",
+    "tags": [
+      "chinese-philosophy",
+      "cosmological-moral-order",
+      "ethics",
+      "heaven-tianzhi",
+      "mozi",
+      "political-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-honoring-worthy-three-standards",
+    "title": "Honoring the Worthy with Three Standards / 尚賢三本",
+    "summary": "Mozi's doctrine emphasizing the selection of virtuous officials based on three essential standards: rank, salary, and authority.",
+    "tags": [
+      "mohism",
+      "political-philosophy",
+      "governance",
+      "meritocracy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-illuminating-ghosts-ming-gui",
+    "title": "Mozi - Illuminating Ghosts (Ming Gui) / 墨子·明鬼",
+    "summary": "Mozi's chapter arguing for the existence of ghosts and spirits who reward virtue and punish vice, using historical evidence and experiential verification.",
+    "tags": [
+      "chinese-philosophy",
+      "classical-chinese",
+      "confucian-texts",
+      "ethics",
+      "ghosts-spirits",
+      "moral-retribution",
+      "mozi",
+      "warring-states"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-jie-yong-upper-frugality",
+    "title": "Mozi on Frugality (節用上) / 墨子節用上",
+    "summary": "A Mohist chapter advocating efficient governance through eliminating wasteful expenditures and prioritizing practical utility in clothing, shelter, arms, and transportation.",
+    "tags": [
+      "mozi",
+      "mohism",
+      "political-philosophy",
+      "ancient-china",
+      "economic-policy",
+      "frugality",
+      "practical-utility"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-jie-yong-utility-frugality",
+    "title": "Mozi on Utility (節用) — The Principle of Frugality in Mohist Governance / 墨子節用思想——兼愛天下的功利原則",
+    "summary": "Mozi's \"On Frugality\" (節用) chapter outlines the principle that rulers should only employ resources for practical utility, eliminating wasteful expenditures to maximize social benefit and national strength.",
+    "tags": [
+      "chinese-philosophy",
+      "economic-governance",
+      "frugality",
+      "governance",
+      "mohism",
+      "mozi",
+      "political-philosophy",
+      "population-policy",
+      "practical-philosophy",
+      "utilitarian-philosophy",
+      "warring-states-period"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-jie-yong-zhong-frugality-part-2",
+    "title": "Mozi - Frugality Part 2 (節用中) / 墨子·節用中",
+    "summary": "A Mohist chapter detailing practical governance principles of the ancient sage kings, emphasizing frugal use of resources across food, clothing, shelter, transportation, military equipment, and burial practices.",
+    "tags": [
+      "ancient-china",
+      "confucian-thought",
+      "confucianism",
+      "economic-philosophy",
+      "frugality",
+      "governance",
+      "mohism",
+      "mozi",
+      "political-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-jie-zang-frugal-burial",
+    "title": "Mozi on Frugal Burial (節葬) / 墨子節葬",
+    "summary": "Mozi's critique of excessive burial practices and prolonged mourning, arguing for simple burials based on the examples of ancient sage kings.",
+    "tags": [
+      "burial practices",
+      "burial-practices",
+      "chinese philosophy",
+      "chinese-philosophy",
+      "confucian-critique",
+      "mozi",
+      "social reform",
+      "utilitarianism",
+      "warring states",
+      "warring-states"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-jie-zang-funeral-simplicity",
+    "title": "Mozi's Funeral Simplicity / 墨子節葬思想",
+    "summary": "Mozi's philosophical argument against elaborate funerals and prolonged mourning, advocating simple burial practices based on utilitarian principles.",
+    "tags": [
+      "ancient-chinese-philosophy",
+      "burial-customs",
+      "chinese-philosophy",
+      "confucian-critique",
+      "funeral-rites",
+      "mohism",
+      "mozi",
+      "utilitarian-ethics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-ming-gui-ghost-existence-argument",
+    "title": "Mozi's Argument for Ghost Existence / 墨子明鬼——鬼神存在之論證",
+    "summary": "Mozi's philosophical argument demonstrating the existence of ghosts and spirits through empirical evidence and classical texts, serving as moral governance through supernatural retribution.",
+    "tags": [
+      "mozi",
+      "ghosts-spirits",
+      "mohism",
+      "moral-retribution",
+      "confucian-mozist-debate"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-miscellaneous-defense-zashou",
+    "title": "Miscellaneous Defense (雜守) / 墨子·雜守",
+    "summary": "A Mozi chapter detailing comprehensive urban defense strategies against siege warfare, covering tactical formations, garrison organization, supply management, and beacon communication systems.",
+    "tags": [
+      "mozi",
+      "chinese-military-thought",
+      "siege-warfare",
+      "city-defense",
+      "mohism",
+      "warring-states-period"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-practical-standards-utilitarian-criteria",
+    "title": "Mozi's Practical Standards for Governance / 墨子實用標準",
+    "summary": "Mozi's criteria for evaluating the utility of clothing, shelter, weapons, and transportation in governance decisions.",
+    "tags": [
+      "mozi",
+      "mohism",
+      "practical-philosophy",
+      "governance-standards",
+      "utilitarian-criteria"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-preparing-against-elevated-attacks",
+    "title": "Mozi on Preparing Against Elevated Attacks / 墨子備高臨",
+    "summary": "A chapter from the Mozi detailing Mohist defensive strategies against enemy siege towers and elevated attack positions, including technical specifications for repeating crossbow carts.",
+    "tags": [
+      "ancient-chinese-military",
+      "chinese-philosophy",
+      "city-wall-defense",
+      "defensive-strategy",
+      "defensive-warfare",
+      "military-defense",
+      "mohism",
+      "mozi",
+      "mozi-chapters",
+      "siege-defense",
+      "siege-warfare",
+      "城防",
+      "墨家",
+      "軍事"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-preparing-against-tunnel-attacks",
+    "title": "Preparing Against Tunnel Attacks (Mozi Chapter on Underground Defense) / 墨子備穴",
+    "summary": "A defensive warfare chapter from the Mozi text detailing strategies to detect and counter enemy tunneling attacks under city walls using acoustic detection, smoke熏攻, and structural defenses.",
+    "tags": [
+      "ancient-chinese-military",
+      "ancient-chinese-warfare",
+      "city-defense",
+      "defensive-warfare",
+      "military-defense",
+      "mohism",
+      "mozi",
+      "mozi-bei",
+      "siege-warfare",
+      "tunnel-warfare"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-qin-shi-cherishing-scholars",
+    "title": "Mozi Chapter on Cherishing Scholars / 墨子親士",
+    "summary": "A chapter from the Mozi emphasizing that rulers must cherish and draw close to worthy scholars to preserve their states and achieve success.",
+    "tags": [
+      "mozi",
+      "confucian-political-philosophy",
+      "mohist-doctrine",
+      "worthy-scholars",
+      "governance"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-rejecting-confucians-fei-ru",
+    "title": "Mozi's Rejection of Confucians (非儒下) / 墨子·非儒下",
+    "summary": "A Mohist critique of Confucian ethics, mourning rituals, fatalism, and Confucius's political conduct through detailed arguments and historical anecdotes.",
+    "tags": [
+      "mozi",
+      "confucianism-critique",
+      "chinese-philosophy",
+      "mohism",
+      "spring-and-autumn-period",
+      "yan-zi",
+      "confucius"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-sage-kings-burial-model",
+    "title": "The Sage Kings' Burial Model in Mozi / 墨子聖王葬埋之法",
+    "summary": "Mozi's use of the ancient sage kings (Yao, Shun, Yu) as historical examples for proper burial practices, contrasting with contemporary lavish funerals.",
+    "tags": [
+      "mozi",
+      "sage-kings",
+      "burial-rites",
+      "historical-example",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-seven-calamities-qi-huan",
+    "title": "Seven Calamities in Mozi / 墨子七患",
+    "summary": "A Mohist analysis of the seven types of calamities that threaten state survival, emphasizing preparedness, agricultural foundation, and virtuous governance.",
+    "tags": [
+      "chinese-philosophy",
+      "chinese-political-philosophy",
+      "confucian ethics",
+      "confucianism",
+      "mohism",
+      "mozi",
+      "political philosophy",
+      "political-philosophy",
+      "seven-calamities",
+      "state-craft",
+      "statecraft",
+      "warring states",
+      "warring-states",
+      "warring-states-period"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-shang-xian-upper",
+    "title": "Exalting the Virtuous (尚賢上) / 尚賢上",
+    "summary": "A chapter from the Mozi advocating that rulers should promote virtuous and capable individuals regardless of their social status, emphasizing that the selection of worthy ministers is the foundation of good governance.",
+    "tags": [
+      "ancient-chinese-political-thought",
+      "confucian-wusi-school",
+      "meritocracy",
+      "mozi",
+      "political-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-siege-commands-hao-ling",
+    "title": "Mozi's Siege Commands and Military Orders / 墨子號令",
+    "summary": "This chapter from the Mozi text details the command system, military discipline, spy operations, and organizational protocols for siege defense, emphasizing strict hierarchy and reward-punishment mechanisms.",
+    "tags": [
+      "mozi",
+      "military-defense",
+      "siege-warfare",
+      "ancient-chinese-military",
+      "legalism-mohism",
+      "command-system",
+      "espionage"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-siege-defense-inventory",
+    "title": "Mozi's Siege Defense Inventory Standards / 墨子守城物資儲備法",
+    "summary": "Standardized material requirements for city defense including provisions, weapons, and strategic supplies in Mozi's defensive doctrine.",
+    "tags": [
+      "mozi",
+      "siege-defense",
+      "military-logistics",
+      "supply-standards",
+      "warring-states-period"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-signal-communication-siege-defense",
+    "title": "Mozi's Signal Communication Protocol / 墨子旗鼓信號制度",
+    "summary": "The drum and banner signal system for siege defense communication, establishing coded responses for enemy positions and defensive responses.",
+    "tags": [
+      "mozi",
+      "siege-defense",
+      "military-communication",
+      "signal-system",
+      "drum-codes"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-suo-ran-being-infected",
+    "title": "Being Infected (所染) / 所染",
+    "summary": "A Mohist chapter discussing how both individuals and nations are shaped by the influences and associations they are exposed to, using the silk-dyeing analogy.",
+    "tags": [
+      "mozi",
+      "mohism",
+      "self-cultivation",
+      "political-philosophy",
+      "influence-association"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-suo-ran-dyeing-influence",
+    "title": "Mozi Suo Ran: On Dyeing and Environmental Influence / 墨子所染——染絲之喻與環境熏習",
+    "summary": "Mozi's chapter on the dyeing metaphor illustrating how environmental influence shapes character, applied to state governance and personal cultivation.",
+    "tags": [
+      "mozi",
+      "moral-cultivation",
+      "environmental-influence",
+      "political-philosophy",
+      "confucianism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-suoran-on-influence",
+    "title": "Mozi On Dyeing / 墨子·所染",
+    "summary": "A Mozi chapter using the silk-dyeing metaphor to illustrate how one's associates determine moral character and political fortune.",
+    "tags": [
+      "chinese-philosophy",
+      "confucian-ethics",
+      "confucian-philosophy",
+      "friendship",
+      "historical-example",
+      "influence",
+      "mohism",
+      "moral-cultivation",
+      "mozi",
+      "political-philosophy",
+      "self-cultivation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-three-debates-music-governance",
+    "title": "Mozi's Three Debates on Music and Governance / 墨子三辯",
+    "summary": "A philosophical dialogue in the Mozi examining why sage-kings did not engage in music, and the inverse relationship between musical complexity and governance effectiveness.",
+    "tags": [
+      "ancient-china",
+      "chinese-philosophy",
+      "governance",
+      "mohism",
+      "mozi",
+      "music",
+      "non-music-argument",
+      "philosophical-debate",
+      "utilitarianism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-three-standards-three-fa",
+    "title": "Mozi's Three Standards / 墨子三法",
+    "summary": "Mozi's methodological framework of three standards for evaluating discourse: examination of ancient records, investigation of common experience, and practical application in governance.",
+    "tags": [
+      "mozi",
+      "methodology",
+      "epistemology",
+      "ancient-chinese-philosophy",
+      "mohism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-upper-canon-jing-shang",
+    "title": "Mozi Upper Canon (經上) / 墨子·經上",
+    "summary": "A foundational Mohist philosophical text defining core concepts including knowledge, virtue, cause, and methodology through systematic binary definitions.",
+    "tags": [
+      "chinese-philosophy",
+      "classical-chinese",
+      "definition",
+      "epistemology",
+      "ethics",
+      "logic",
+      "mechanics",
+      "mohism",
+      "mozi",
+      "optics",
+      "warring-states",
+      "warring-states-period"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-water-defense-strategies",
+    "title": "Mozi's Water Defense Strategies / 墨子備水戰術",
+    "summary": "A chapter from the Mozi detailing defensive preparations and tactical responses against water attacks on fortified cities, including drainage systems, naval organization, and coordinated counterattacks.",
+    "tags": [
+      "ancient-chinese-military",
+      "ancient-chinese-strategy",
+      "city-fortification",
+      "defensive-warfare",
+      "military-defense",
+      "military-strategy",
+      "mozi",
+      "siege-warfare",
+      "water-defense",
+      "water-warfare"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-worthy-historians-emperors",
+    "title": "Wise Ministers of History / 聖賢履歴",
+    "summary": "Historical examples of unworthy individuals rising to power through virtue, as cited in Mozi's Honor the Worthy chapter.",
+    "tags": [
+      "mohism",
+      "historical-examples",
+      "governance",
+      "ancient-china"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-xiaoqu-logical-methodology",
+    "title": "Mozi's Logical Methodology / 墨子逻辑方法论 / 墨子論理方法論",
+    "summary": "A systematic analysis of the logical and dialectical methodology presented in the \"Xiaoqu\" chapter of Mozi, including the theory of names and realities, argumentation methods, and principles of correct reasoning.",
+    "tags": [
+      "mozi",
+      "chinese-philosophy",
+      "logic",
+      "dialectics",
+      "warring-states-period",
+      "argumentation-theory",
+      "name-realism",
+      "classical-chinese-thought"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-xiaoqu-logical-methods",
+    "title": "Xiaoqu (Minor Selections) - Mozi's Logical Methods / 墨子小取——論理方法",
+    "summary": "A chapter from the Mozi presenting a systematic analysis of dialectical reasoning methods including analogy, parallelism, citing, deduction, and their proper applications.",
+    "tags": [
+      "argumentation",
+      "chinese-philosophy",
+      "dialectics",
+      "logic",
+      "mohism",
+      "mozi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-xiaoqu-mohist-logic",
+    "title": "Mozi Xiaoqu: On Logical Reasoning / 墨子小取：論辯說之法",
+    "summary": "The Xiaoqu chapter of Mozi presents a systematic exposition of Mohist logic, including seven types of reasoning and epistemological principles for philosophical debate.",
+    "tags": [
+      "argumentation",
+      "canonic-texts",
+      "chinese-philosophy",
+      "classical-chinese",
+      "dialectics",
+      "epistemology",
+      "logic",
+      "mohism",
+      "mozi",
+      "optics",
+      "warring-states",
+      "墨家"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-xiu-shen-self-cultivation",
+    "title": "Mozi's Self-Cultivation / 墨子修身",
+    "summary": "A chapter from the Mozi discussing the fundamentals of self-cultivation, emphasizing courage, action, and integrity as the essential roots of moral cultivation.",
+    "tags": [
+      "chinese-philosophy",
+      "mohism",
+      "moral-philosophy",
+      "mozi",
+      "self-cultivation",
+      "virtue-ethics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-yingdi-ci-qi-observation-military-divination",
+    "title": "Qi Observation in Military Divination / 望氣與軍事占卜",
+    "summary": "A Mozi passage describing techniques of observing vital energy (qi) to predict military outcomes, identifying five types of qi that reveal成败吉凶 on the battlefield.",
+    "tags": [
+      "mozi",
+      "qi-observation",
+      "military-divination",
+      "five-qi-types",
+      "ancient-chinese-military"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "mozi-yingdi-ci-welcoming-enemy-rituals",
+    "title": "Mozi Welcoming Enemy Rituals / 墨子迎敵祠",
+    "summary": "A Mozi chapter describing elaborate ritual protocols for welcoming enemy forces from the four cardinal directions, with corresponding altars, officials, colors, and military preparations.",
+    "tags": [
+      "mozi",
+      "military-ritual",
+      "ancient-chinese-warfare",
+      "defensive-strategy",
+      "confucian-ritual"
+    ],
+    "sources": []
+  },
+  {
     "slug": "nalai-tathagata-story-shengjing",
     "title": "那賴仙人與方迹王的故事 / 那賴仙人與方迹王的故事 / 那賴仙人伝と方迹王物語",
     "summary": "The Buddhist parable of King Fangji enslaved by desire and the ascetic Natai who freed him through teachings on the nature of craving.",
@@ -2156,6 +4339,31 @@
       "ascetic teaching",
       "Buddhist parable",
       "shengjing"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "nanbo-ziqi-form-dead-wood-heart-dead-ashes",
+    "title": "Nanbo Ziqi / 南伯子綦",
+    "summary": "A legendary Daoist sage from Zhuangzi described as sitting in meditation with \"form like withered bones and heart like dead ashes,\" symbolizing profound spiritual realization.",
+    "tags": [
+      "zhuangzi",
+      "daoist-sage",
+      "meditation",
+      "spiritual-cultivation",
+      "ziqi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "natural-spontaneity-refutation-divine-creation-bao-puzi",
+    "title": "Natural Spontaneity and Refutation of Divine Creation in Bao Puzi / 抱朴子自然與天非造物主說",
+    "summary": "Bao Puzi's philosophical argument using analogies of natural reproduction (lice, midges) to refute the idea that Heaven and Earth deliberately create all things.",
+    "tags": [
+      "Bao Puzi",
+      "natural spontaneity",
+      "cosmology",
+      "Chinese philosophy"
     ],
     "sources": []
   },
@@ -2213,6 +4421,19 @@
     "sources": []
   },
   {
+    "slug": "non-attachment-guanyinzi",
+    "title": "Non-Attachment (無物) in Guanyinzi / 關尹子之無物論",
+    "summary": "The Guanyinzi's doctrine of non-attachment to things (無物), emphasizing that the sage responds to the world without grasping and nurtures the self without ego.",
+    "tags": [
+      "guanyinzi",
+      "non-attachment",
+      "daoist-philosophy",
+      "wu-wei",
+      "self-cultivation"
+    ],
+    "sources": []
+  },
+  {
     "slug": "non-retaliation-buddhist-teaching",
     "title": "Non-Retaliation in Buddhist Teaching / 不報怨 / 仏教における報復禁止の教え",
     "summary": "The Buddhist doctrine of abstaining from vengeance and returning harm with harm, exemplified in the story of King Changshou.",
@@ -2222,6 +4443,19 @@
       "karma",
       "compassion",
       "nonviolent-resistance"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "nong-zhan-agricultural-war",
+    "title": "Agricultural War Doctrine / 農戰",
+    "summary": "A Legalist doctrine from the Book of Lord Shang emphasizing the unification of agricultural production and military service as the twin pillars of state power.",
+    "tags": [
+      "legalism",
+      "chinese-political-philosophy",
+      "agricultural-warfare",
+      "state-power",
+      "book-of-lord-shang"
     ],
     "sources": []
   },
@@ -2240,6 +4474,18 @@
     "sources": []
   },
   {
+    "slug": "perfect-person-zhiren-zhuangzi",
+    "title": "Perfect Person (Zhiren) / 至人",
+    "summary": "The highest ideal in Daoist cultivation - one who attains utmost beauty and joy by wandering freely beyond all transformations and attachments.",
+    "tags": [
+      "Daoist cultivation",
+      "Zhuangzi",
+      "spiritual ideal",
+      "zhiren"
+    ],
+    "sources": []
+  },
+  {
     "slug": "political-philosophy-analects",
     "title": "Political Philosophy in Analects / 论语政治哲学",
     "summary": "Confucian governance principles including meritocracy, moral leadership, and social stability",
@@ -2248,6 +4494,18 @@
       "political-philosophy",
       "governance",
       "leadership"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "preventing-speech-damming-rivers",
+    "title": "Preventing People's Speech is Harder than Damming Rivers / 防民之口甚於防川",
+    "summary": "Duke Shao's famous political metaphor warning that suppressing criticism is more dangerous than damming rivers.",
+    "tags": [
+      "political-philosophy",
+      "confucian-wisdom",
+      "ministerial-advice",
+      "zhou-dynasty"
     ],
     "sources": []
   },
@@ -2262,6 +4520,34 @@
       "chinese-philosophy",
       "mohism",
       "logical-paradoxes"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "prince-mupo-sutra-mu-po-tai-zi",
+    "title": "Prince Mupo Sutra / 太子慕魄經",
+    "summary": "A Buddhist sutra about Prince Mupo who remembered past lives, remained silent for 13 years, refused the throne, and became the Buddha, teaching about karmic consequences of excessive mercy.",
+    "tags": [
+      "an-shigao",
+      "buddhist-narrative",
+      "buddhist-sutra",
+      "han-dynasty-translation",
+      "karmic-retribution",
+      "past-lives-memory",
+      "prince-sacrifice"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "prince-sudana-sutta-bodhisattva-generosity",
+    "title": "Prince Sudāna's Story / 太子須大拏經",
+    "summary": "A Jātaka tale depicting Prince Sudāna's practice of dāna pāramitā through extreme acts of charitable giving, including the white elephant, treasury, and his own children.",
+    "tags": [
+      "jataka-tales",
+      "buddhist-narratives",
+      "dana-paramita",
+      "bodhisattva-practice",
+      "prince-sudana"
     ],
     "sources": []
   },
@@ -2295,6 +4581,71 @@
     "sources": []
   },
   {
+    "slug": "pure-qi-transformation-hunqi-bianhua",
+    "title": "Pure Qi Transformation / 純氣變化",
+    "summary": "A Daoist concept from Guanyinzi describing how pure qi (氣) can transform all things in the universe, including reversing natural laws and animating inanimate objects.",
+    "tags": [
+      "daoism",
+      "transformation",
+      "qi-vital-energy",
+      "guanyinzi",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "qianshi-san-zhuan-jing",
+    "title": "Sutra of the Three Cycles of Past Lives / 前世三轉經",
+    "summary": "A Buddhist sutra translated by Faju during the Western Jin dynasty, narrating the Buddha's past life stories of self-sacrifice and the merit of giving, including the breast-milk offering and tiger-feeding incidents.",
+    "tags": [
+      "buddhist-sutras",
+      "jataka-tales",
+      "past-lives",
+      "dana-paramita",
+      "western-jin"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "qie-ji-theft-covetous-disease",
+    "title": "The Theory of Theft Disease (竊疾) / 竊疾論",
+    "summary": "Mozi's critique of the \"theft disease\" - a psychological condition of covetousness that afflicts both individuals and states, demonstrated through the analogy of stealing food while having plenty.",
+    "tags": [
+      "mozi",
+      "mohism",
+      "moral-psychology",
+      "critique-of-war",
+      "philosophy-of-human-nature"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "qin-guli",
+    "title": "Qin Guli / 禽滑釐",
+    "summary": "A devoted disciple of Mozi who served him for three years, later becoming a key figure in Mohist defensive military thought.",
+    "tags": [
+      "mohist",
+      "disciple",
+      "mozi",
+      "military-thought",
+      "ancient-chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "qiushui-autumn-floods-zhuangzi",
+    "title": "Autumn Floods / 秋水",
+    "summary": "Chapter 17 of Zhuangzi featuring the philosophical dialogue between the River God and Sea God on relativism, perspective, and the limits of human understanding.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "relativism",
+      "chinese-philosophy",
+      "fall-water-chapter"
+    ],
+    "sources": []
+  },
+  {
     "slug": "rabbit-king-self-sacrifice-hermit",
     "title": "Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous Rabbit",
     "summary": "The Jataka story of a rabbit king who, having learned the Dharma from a brahmana, offered his own body as fuel for a fire to feed the ascetic during a time of famine.",
@@ -2306,6 +4657,19 @@
       "famine",
       "bodhisattva-compassion",
       "buddhist-narratives"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "remove-harmful-horses-governance",
+    "title": "Remove the Harmful Horses / 去其害馬",
+    "summary": "A governance principle from Zhuangzi where the Yellow Emperor learns from a child that ruling the world is like tending horses—simply remove what harms them.",
+    "tags": [
+      "zhuangzi",
+      "governance",
+      "daoism",
+      "non-interference",
+      "political-philosophy"
     ],
     "sources": []
   },
@@ -2332,6 +4696,40 @@
       "li-rites",
       "practical-wisdom",
       "moral-principles"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "ruo-min-weakening-the-people",
+    "title": "Weakening the People (弱民) / 弱民",
+    "summary": "A Legalist political doctrine advocating that rulers should deliberately weaken the populace to strengthen state power, creating dependence through poverty and labor.",
+    "tags": [
+      "china",
+      "governance",
+      "legalism",
+      "legalist-philosophy",
+      "political-philosophy",
+      "political-theory",
+      "pre-qin-thought",
+      "shangjun-shu",
+      "shangjunshu",
+      "state-power",
+      "statecraft",
+      "warring-states"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "sakra-tests-king-subhuti-yaksha",
+    "title": "Śakra's Test of King Subhūti / 帝釋試験妙色王",
+    "summary": "The narrative episode where Śakra (Indra), disguised as a yakṣa, tests King Subhūti's devotion to the Dharma by demanding his son, wife, and body as offerings.",
+    "tags": [
+      "buddhist-narrative",
+      "sakra",
+      "yakṣa",
+      "king-subhuti",
+      "dharma-test",
+      "self-sacrifice"
     ],
     "sources": []
   },
@@ -2369,6 +4767,32 @@
       "tripartite-classification",
       "guatama-sanghadeva",
       "buddhist-doctrine"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "san-lue-three-strategies",
+    "title": "Three Strategies / 三略",
+    "summary": "A classical Chinese military treatise divided into three volumes (Upper, Middle, Lower) addressing military command, statecraft, and governance principles.",
+    "tags": [
+      "military-strategy",
+      "classical-chinese-text",
+      "seven-military-classics",
+      "chinese-military-thought",
+      "governance"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "san-shi-shen-three-corpses",
+    "title": "Three Corpses / 三尸神",
+    "summary": "The Three Corpses (三尸神) are celestial observers dwelling within the human body who record sins and report them to heaven during the Gengshen day, playing a central role in Daoist karmic surveillance systems.",
+    "tags": [
+      "daoist-cosmology",
+      "body-divinities",
+      "divine-observers",
+      "immortality-practice",
+      "chinese-mythology"
     ],
     "sources": []
   },
@@ -2429,6 +4853,19 @@
     "sources": []
   },
   {
+    "slug": "self-other-illusion-dream-wakefulness-guan-yinzi",
+    "title": "Self and Other in Dreams and Wakefulness / 夢中夢外：我與人的虛幻分別",
+    "summary": "An exploration of Guan Yinzi's philosophical argument that the distinction between self and other collapses in dreams, challenging conventional notions of personal identity.",
+    "tags": [
+      "Daoist philosophy",
+      "self-other distinction",
+      "dream theory",
+      "Guan Yinzi",
+      "Chinese philosophy"
+    ],
+    "sources": []
+  },
+  {
     "slug": "seven-buddhas-current-kalpa",
     "title": "Seven Buddhas of the Current Kalpa / 七佛",
     "summary": "The seven Buddhas who have appeared in the current kalpa, from Vipassin to Shakyamuni.",
@@ -2456,6 +4893,236 @@
     "sources": []
   },
   {
+    "slug": "seven-types-wives-buddhist-teaching",
+    "title": "Seven Types of Wives in Buddhist Teaching / 七輩婦",
+    "summary": "A Buddhist typology of seven wife archetypes from the Sutra on Yù Yě Nǚ, ranging from the ideal Mother-wife to the demonic Murderer-wife.",
+    "tags": [
+      "buddhist-ethics",
+      "buddhist-sutras",
+      "indian-buddhism",
+      "mahayana",
+      "marriage",
+      "woman-teaching",
+      "womens-studies",
+      "yuye-sutra"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shan-e-bao-ying-karmic-retribution",
+    "title": "Shan E Bao Ying / 善惡報應 (善悪因果応報)",
+    "summary": "The doctrine of karmic retribution in Chinese religious traditions, holding that good and evil deeds generate corresponding rewards and punishments from celestial forces.",
+    "tags": [
+      "daoist-moral-philosophy",
+      "karma",
+      "chinese-religion",
+      "cosmic-justice",
+      "moral-cosmic-order"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shan-mu-yi-dai-niao",
+    "title": "The Yi Dai Bird / 意怠鳥",
+    "summary": "The story of the humble, non-competitive Yi Dai bird in Zhuangzi's Mountain Trees chapter, illustrating the Daoist path of safety through humility and non-distinction.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "humility",
+      "non-competition",
+      "survival-wisdom"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shan-zi-sutra-filial-bodhisattva",
+    "title": "The Śhanzi Sutra / 佛說睒子經",
+    "summary": "A Buddhist Jataka tale about a bodhisattva named Shan Zi who demonstrates supreme filial piety by being born as the son of blind parents, and whose accidental death by a king's arrow leads to a miraculous resurrection.",
+    "tags": [
+      "buddhist-sutra",
+      "jataka-tale",
+      "filial-piety",
+      "bodhisattva",
+      "buddhist-narrative"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-jun-shu-reward-punishment-system",
+    "title": "Reward and Punishment System in Shangjunshu / 商君書賞罰制度",
+    "summary": "The Shangjunshu articulates a systematic framework of rewards and punishments as the primary instruments of state governance and military effectiveness.",
+    "tags": [
+      "governance",
+      "legalism",
+      "punishments",
+      "rewards",
+      "shangjunshu"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-jun-shu-volume-5",
+    "title": "Book of Lord Shang Volume 5 / 商君書·卷五",
+    "summary": "The fifth volume of the Book of Lord Shang contains key chapters on military organization, weakening the people, agriculture-war doctrine, and legal administration.",
+    "tags": [
+      "Chinese Philosophy",
+      "Han Feizi",
+      "Legalism",
+      "Political Philosophy",
+      "Shang Yang",
+      "Warring States"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-tong-identifying-with-superiors",
+    "title": "shang-tong-identifying-with-superiors",
+    "summary": "The article explores Mozi's arguments for hierarchical uniformity, emphasizing how a well-structured governance system with unified moral standards and a clear reward-punishment mechanism—spanning from the Son of Heaven down to village leaders—is essential for maintaining order and preventing chaos.",
+    "tags": [
+      "the user asks: \"list 2-4 relevant tags for this article (comma-separated",
+      "lowercase): # shang-tong-identifying-with-superiors\n\n## english\n\n  ### additional arguments from \"shang tong part 3\" (尚同下)\n\n  the third chapter of shang tong (尚同下) presents further elaborated arguments for the doctrine of hierarchical uniformity",
+      "focusing particularly on the mechanism of reward and punishment as instruments for achieving unified governance.\n\n  **the foundation: understanding the condition of the people**\n\n  master mozi begins with a fundamental principle: a wise ruler must consider what brings order to the state and"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-tong-reward-punishment-maf",
+    "title": "Reward and Punishment in Shang Tong Theory / 尚同賞罰論",
+    "summary": "Mozi's theory of reward and punishment as the mechanism for achieving social order through unified standards of the superior.",
+    "tags": [
+      "mozi",
+      "shang-tong",
+      "governance",
+      "rewards-punishments",
+      "political-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-tong-upper-unity-mozi",
+    "title": "Shang Tong (Upper Unity) / 尚同",
+    "summary": "Shang Tong is Mozi's political doctrine advocating hierarchical unity of thought under proper authority to achieve social order.",
+    "tags": [
+      "ancient-chinese-philosophy",
+      "chinese-philosophy",
+      "confucian-political-philosophy",
+      "confucian-thought",
+      "confucianism",
+      "hierarchical-governance",
+      "hierarchy",
+      "moral-harmony",
+      "mozi",
+      "political-philosophy",
+      "social-order",
+      "unity",
+      "warring-states",
+      "warring-states-period"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-tong-upward-conformity",
+    "title": "shang-tong-upward-conformity",
+    "summary": "This article explains Mozi's argument that social order requires rulers to understand the people's true sentiments and establish unified standards of righteousness through a hierarchical governance system, preventing the chaos that naturally arises when each person follows their own individual standards.",
+    "tags": [
+      "ruler authority"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-tong-upward-uniformity-mozi",
+    "title": "shang-tong-upward-uniformity-mozi",
+    "summary": "This article explains Mozi's \"Shang Tong Xia\" doctrine, which establishes a four-tier hierarchical political system where unity and moral alignment flow downward from family to state to world to heaven, with the key principle that rulers must understand the true situation of their people to properly govern through rewards and punishments.",
+    "tags": [
+      "comma-separated",
+      "hierarchical political order"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-xian-esteeming-worthy-part-two",
+    "title": "Shang Xian (Esteeming the Worthy, Part 2) / 尚賢下",
+    "summary": "Mozi's argument that rulers must appoint the worthy and capable to governance, not favor relatives or the handsome, illustrated through historical examples of sage kings selecting ministers.",
+    "tags": [
+      "ancient-chinese-government",
+      "confucian-political-philosophy",
+      "early-chinese-philosophy",
+      "meritocracy",
+      "mozi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-xian-exalting-worthy-mozi",
+    "title": "Exalting the Worthy (尚賢) in Mozi / 墨子尚賢思想",
+    "summary": "Mozi's doctrine on selecting worthy and capable individuals for government positions, emphasizing merit over kinship as the foundation of good governance.",
+    "tags": [
+      "ancient-chinese-philosophy",
+      "confucian-political-philosophy",
+      "governance",
+      "meritocracy",
+      "mozi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-xian-exalting-worthy",
+    "title": "Exalting the Worthy (尚賢) / 尚賢",
+    "summary": "A core Mohist political doctrine emphasizing that rulers should promote individuals of virtue and talent regardless of their social background, making worthy officials the foundation of good governance.",
+    "tags": [
+      "ancient-chinese-philosophy",
+      "chinese-philosophy",
+      "confucian-political-philosophy",
+      "confucianism",
+      "governance",
+      "meritocracy",
+      "mohism",
+      "mozi",
+      "political-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-xian-middle-mozi",
+    "title": "Shang Xian Zhong (Exalting the Worthy, Part 2) / 尚賢中",
+    "summary": "The second chapter of Mozi's Exalting the Worthy doctrine, presenting the \"Three Foundations\" theory and historical exemplars of sage kings who achieved governance through elevating worthy ministers.",
+    "tags": [
+      "mozi",
+      "mohist-political-philosophy",
+      "ancient-chinese-philosophy",
+      "confucian-political-theory",
+      "three-foundations"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shang-xing-rewards-punishments",
+    "title": "Unified Rewards and Punishment (賞刑) / 賞刑統一",
+    "summary": "Shang Yang's doctrine of unified rewards, unified punishments, and unified education as the three pillars of Legalist governance.",
+    "tags": [
+      "shang-jun-shu",
+      "legalism",
+      "rewards-punishment",
+      "governance",
+      "qin-dynasty"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shangqiu-kai-faith-moves-heaven-earth-liezi",
+    "title": "Shangqiu Kai: Faith That Moves Heaven and Earth / 商丘開：至信感人",
+    "summary": "The story of Shangqiu Kai demonstrates how supreme sincerity (至信) can move heaven and earth, allowing one to walk through fire without harm.",
+    "tags": [
+      "liezi",
+      "daoist-self-cultivation",
+      "faith",
+      "supernatural-power",
+      "sincerity",
+      "cheng"
+    ],
+    "sources": []
+  },
+  {
     "slug": "shared-joy-with-the-people-yu-min-xie-le",
     "title": "Shared Joy with the People (與民偕樂) / 民と偕に楽む",
     "summary": "Mencius's principle that rulers should share enjoyment with the people, not hoard pleasures for themselves.",
@@ -2465,6 +5132,47 @@
       "governance",
       "music",
       "king-wen"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shen-gui-dream-yuan-jun-zhuangzi",
+    "title": "The Divine Turtle Story / 神龜能見夢於元君",
+    "summary": "The parable of the divine turtle that could appear in dreams but could not avoid the net, illustrating the limits of wisdom and foreknowledge.",
+    "tags": [
+      "zhuangzi",
+      "wisdom-limits",
+      "prophecy",
+      "fate",
+      "parable"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "sheng-jing-birth-sutras",
+    "title": "Sheng Jing (Birth Sutras) / 生經",
+    "summary": "A Buddhist sutra collection translated by Zhu Fahu during the Western Jin dynasty, containing ten narratives illustrating karmic principles and monastic discipline.",
+    "tags": [
+      "buddhist-sutras",
+      "zhu-fahu",
+      "western-jin",
+      "zhufahu",
+      "shengjing",
+      "early-buddhism",
+      "buddhist-narratives"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "sheng-ren-zhi-dao-sages-way",
+    "title": "The Sage's Way / 聖人之道",
+    "summary": "The philosophical principle from Guanyinzi chapter 3 describing how the sage governs through naturalness, humility, and selflessness rather than through personal intervention.",
+    "tags": [
+      "Chinese ethics",
+      "Daoist philosophy",
+      "Guanyinzi",
+      "governance",
+      "sagehood"
     ],
     "sources": []
   },
@@ -2495,6 +5203,46 @@
     "sources": []
   },
   {
+    "slug": "shizi-sutuo-suowa-wang-duanrou-jing",
+    "title": "Sutra of King Siṃha-Sūdaśa on Abstaining from Meat / 師子素馱娑王斷肉經",
+    "summary": "A Buddhist sutra recounting how King Siṃha-Sūdaśa, born with a lion's head due to past meat-eating karma, is converted to vegetarianism and non-killing by King Wen Yue through teachings on impermanence and compassion.",
+    "tags": [
+      "buddhist-sutras",
+      "vegetarianism",
+      "karmic-transformation",
+      "tang-dynasty-translations",
+      "indian-buddhist-narratives"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shizi-yue-fo-ben-sheng-jing",
+    "title": "The Lion-Moon Buddha Jataka Sutra / 師子月佛本生經",
+    "summary": "A Buddhist Jataka sutra describing how a monkey who received the Five Precepts from an arhat was reborn over multiple lives and eventually became the Buddha Shi Zi Yue (Lion-Moon), with 84,000 golden monkeys receiving bodhisattva predictions.",
+    "tags": [
+      "jataka",
+      "buddhist-narrative",
+      "five-precepts",
+      "karmic-retribution",
+      "vasumitra",
+      "bimbisara"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "shou-yi-zhi-dao-guarding-the-one",
+    "title": "Guarding the One (守一之道) / 守一之道",
+    "summary": "A fundamental Daoist practice of maintaining singular focus on the Dao for immortality, protection, and spiritual transformation, as described in Baopuzi.",
+    "tags": [
+      "daoist-practice",
+      "immortality",
+      "cultivation",
+      "baopuzi",
+      "守一"
+    ],
+    "sources": []
+  },
+  {
     "slug": "si-en-four-graces-buddhism",
     "title": "Four Graces / 四恩 / 四恩",
     "summary": "Buddhist doctrine of repaying four kinds of kindness: parents, sentient beings, ruler, and Triple Gem",
@@ -2520,6 +5268,84 @@
       "gratitude",
       "mahayana-practice",
       "mahayana-teachings"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "si-yuan-four-vows-bodhisattva-practice-yue-ming-jing",
+    "title": "Four Vows (四願) in the Moonlight Bodhisattva Sutra / 月明童子經四願——菩薩修行之根本誓願",
+    "summary": "The Four Vows are the fundamental commitments bodhisattvas make for spiritual practice, encompassing skillful means, spiritual friendship, giving, and dharma practice.",
+    "tags": [
+      "four-vows",
+      "bodhisattva-practice",
+      "yue-ming-puti-jing",
+      "mahayana-vows"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "sima-fa-methods-of-the-marshal",
+    "title": "Methods of the Marshal / 司馬法",
+    "summary": "A classical Chinese military treatise from the Warring States period, emphasizing benevolent warfare, ritual propriety in military affairs, and the integration of Confucian ethics with military strategy.",
+    "tags": [
+      "兵家",
+      "武經七書",
+      "軍事哲學",
+      "先秦兵法",
+      "儒家軍事思想"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "sun-shuao-equanimity-zhuangzi",
+    "title": "Sun Shu'ao's Equanimity / 孫叔敖之無憂",
+    "summary": "The story of Sun Shu'ao who served three times as prime minister without joy and left three times without sorrow, embodying Daoist detachment from official rank.",
+    "tags": [
+      "Zhuangzi",
+      "Sun Shu'ao",
+      "equanimity",
+      "detachment",
+      "official position"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "sun-tzu-art-of-war",
+    "title": "Sun Tzu's Art of War / 孫子兵法 / 孫氏兵法",
+    "summary": "An ancient Chinese military treatise by Sun Tzu consisting of thirteen chapters covering strategic principles, tactics, intelligence gathering, and the philosophy of warfare.",
+    "tags": [
+      "military-strategy",
+      "chinese-classics",
+      "sun-tzu",
+      "military-philosophy",
+      "ancient-chinese-text"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "tai-shang-gan-ying-pian",
+    "title": "Tai Shang Gan Ying Pian / 太上感應篇",
+    "summary": "A foundational Daoist moral treatise on karmic retribution, emphasizing that fortune and misfortune are not arbitrary but arise from one's own actions.",
+    "tags": [
+      "daoist-texts",
+      "moral-philosophy",
+      "karma",
+      "chinese-classics",
+      "immortality"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "tai-xi-embryo-breathing-baopuzi",
+    "title": "Embryo Breathing (胎息) in Baopuzi / 抱朴子中的胎息之法",
+    "summary": "A detailed examination of the embryo breathing technique (胎息) described in Baopuzi as the supreme method of qi cultivation, enabling practitioners to breathe without using nose or mouth as if in the womb.",
+    "tags": [
+      "baopuzi",
+      "breath-practice",
+      "daoist-cultivation",
+      "immortality-practice",
+      "taoism",
+      "three-treasures"
     ],
     "sources": []
   },
@@ -2569,6 +5395,19 @@
       "mindfulness",
       "ananda",
       "three-treasuries"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "the-lost-sheep-at-the-crossroads",
+    "title": "The Lost Sheep at the Crossroads / 歧路亡羊",
+    "summary": "A philosophical parable illustrating how multiple paths lead to loss, emphasizing the importance of unified focus in learning and practice.",
+    "tags": [
+      "liezi",
+      "daoist-philosophy",
+      "wisdom",
+      "decision-making",
+      "learning"
     ],
     "sources": []
   },
@@ -2664,6 +5503,32 @@
     "sources": []
   },
   {
+    "slug": "three-dukes-gong-sann-gong",
+    "title": "Three Dukes (Sān Gōng) / 三公",
+    "summary": "The three highest-ranking officials in ancient Chinese imperial governance, serving as advisors to the Son of Heaven, as described in Mozi's Shang Tong.",
+    "tags": [
+      "mozi",
+      "political-philosophy",
+      "ancient-chinese-government",
+      "shang-tong",
+      "confucian-political-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "three-eras-san世-shangjunshu",
+    "title": "Three Eras Theory / 三世說",
+    "summary": "The Three Eras Theory (三世說) from the Book of Lord Shang describes the historical progression of governance from primitive kinship society through aristocratic rule to centralized legal governance.",
+    "tags": [
+      "shangjunshu",
+      "legalism",
+      "historical-theory",
+      "governance",
+      "san世"
+    ],
+    "sources": []
+  },
+  {
     "slug": "three-evil-roots-buddhist",
     "title": "Three Evil Roots / 三惡本 / 三悪根本",
     "summary": "The three fundamental sources of unwholesome karma: greed (贪), hatred (恚), and delusion (痴), from which all other evils arise.",
@@ -2731,6 +5596,45 @@
     "sources": []
   },
   {
+    "slug": "three-types-liberation-buddhist-uppsala",
+    "title": "Three Types of Liberation in Buddhist Practice / 佛教三種解脫",
+    "summary": "The classification of liberation into desire liberation, form liberation, and cessation absorption, as discussed in the Three Dharmas Treatise.",
+    "tags": [
+      "buddhist-meditation",
+      "liberation",
+      "samadhi",
+      "three-dharmas",
+      "arhat"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "three-unifications-legalism-yi-shang-yi-xing-yi-jiao",
+    "title": "Three Unifications in Legalism / 壹賞壹刑壹教",
+    "summary": "Lord Shang's doctrine of unified rewards, unified punishment, and unified teaching as the three pillars of Legalist state governance.",
+    "tags": [
+      "legalism",
+      "shangjunshu",
+      "state-governance",
+      "reward-punishment",
+      "law"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "three-vermin-three-shixing-shangjunshu",
+    "title": "Three Vermin / 三蝨",
+    "summary": "The Three Vermin (三蝨) concept from the Book of Lord Shang describes three parasitic forces that weaken a state: poverty, wealth, and moral corruption.",
+    "tags": [
+      "shangjunshu",
+      "statecraft",
+      "political-economy",
+      "legalism",
+      "threeworms"
+    ],
+    "sources": []
+  },
+  {
     "slug": "three-years-mourning",
     "title": "Three Years Mourning / 三年之丧",
     "summary": "The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.",
@@ -2789,6 +5693,44 @@
     "sources": []
   },
   {
+    "slug": "tian-xia-zhi-yi-righteousness-under-heaven",
+    "title": "Righteousness Under Heaven / 天下之義",
+    "summary": "Mozi's concept of unified moral order under heaven, advocating that all people should align their standards of righteousness with those of their superiors.",
+    "tags": [
+      "mozi",
+      "shang-tong",
+      "political-philosophy",
+      "confucian-ethics",
+      "moral-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "tian-yun-zhuangzi",
+    "title": "Heaven's Operations / 天運",
+    "summary": "A philosophical exploration of the spontaneous operations of Heaven and cosmic process in Chapter 14 of Zhuangzi, addressing governance, music, and the nature of the Way.",
+    "tags": [
+      "zhuangzi",
+      "daoism",
+      "cosmology",
+      "philosophy",
+      "confucianism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "tian-zifang-chapter-zhuangzi",
+    "title": "Tian Zifang Chapter / 田子方篇",
+    "summary": "Chapter 21 of Zhuangzi featuring philosophical dialogues on true virtue, spontaneous transformation, and the unity with the Way.",
+    "tags": [
+      "Zhuangzi",
+      "Daoist philosophy",
+      "Chinese philosophy",
+      "Tian Zifang"
+    ],
+    "sources": []
+  },
+  {
     "slug": "toutuo-xing",
     "title": "頭陀行 / Dhutanga Practices",
     "summary": "頭陀行乃佛教十三種清淨苦行，修習此法可去衣、食、住之貪著，速得解脫",
@@ -2811,6 +5753,46 @@
       "Chinese philosophy",
       "transformation",
       "生成"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "traveling-mind-origin-things-zhuangzi",
+    "title": "Traveling Mind to the Origin of Things / 遊心於物之初",
+    "summary": "Laozi's teaching in Zhuangzi on the mind wandering to the primordial origin of all things, describing the state of ultimate beauty and joy.",
+    "tags": [
+      "Zhuangzi",
+      "Laozi",
+      "Daoist meditation",
+      "primordial",
+      "origin"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "true-person-without-dreams-liezi",
+    "title": "The True Person Without Dreams / 古之真人其寢不夢",
+    "summary": "The Liezi teaching on the perfected sage (真人) who, through spiritual cultivation, transcends the ordinary distinction between dreaming and waking, achieving a state of pure consciousness untroubled by illusions.",
+    "tags": [
+      "liezi",
+      "daoist-cultivation",
+      "dream-philosophy",
+      "spiritual-attainment",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "tu-men-tunnel-gates-city-defense",
+    "title": "Tumen (Tunnel Gates) / 突門（城門突入口）",
+    "summary": "Tumen were hidden tunnel gate passages built into city walls at intervals of every hundred paces, designed as defensive traps against underground siege attacks using kilns, bellows, and smoke.",
+    "tags": [
+      "mozi",
+      "city-defense",
+      "military-strategy",
+      "warring-states-period",
+      "defensive-warfare",
+      "tunnel-warfare"
     ],
     "sources": []
   },
@@ -2912,6 +5894,31 @@
     "sources": []
   },
   {
+    "slug": "upaya-skillful-means-three-dharmas",
+    "title": "Skillful Means (方便) in the Three Dharmas Treatise / 三法度論方便",
+    "summary": "The concept of skillful means (upāya) as the path leading to liberation, comprising precepts, concentration, and wisdom.",
+    "tags": [
+      "buddhist-practice",
+      "skillful-means",
+      "three-dharmas",
+      "eightfold-path"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "using-war-to-end-war-shangjunshu-doctrine",
+    "title": "Using War to End War / 以戰去戰",
+    "summary": "Shang Yang's dialectical doctrine that war, when conducted properly, serves to eliminate the necessity of future warfare through establishing lasting dominance.",
+    "tags": [
+      "legalism",
+      "shangjunshu",
+      "military-strategy",
+      "dialectics",
+      "governance"
+    ],
+    "sources": []
+  },
+  {
     "slug": "virama-bodhisattva-pusajiamo",
     "title": "Vīrāma (毘羅摩) — Bodhisattva of Giving",
     "summary": "A minister's son who became chief minister and exemplified the perfection of giving through vast generosity and skillful means.",
@@ -2979,6 +5986,19 @@
     "sources": []
   },
   {
+    "slug": "wenzi-text",
+    "title": "Wenzi (The Book of Master Wen) / 文子",
+    "summary": "An ancient Daoist text presenting Laozi's philosophy through a dialogue format, attributed to a disciple of Laozi, covering the nature of the Dao, non-action governance, and the ideal sage.",
+    "tags": [
+      "ancient-philosophy",
+      "chinese-philosophy",
+      "daoist-texts",
+      "laozi-tradition",
+      "wenzi"
+    ],
+    "sources": []
+  },
+  {
     "slug": "white-cloth-golden-banner-two-brahmins-origin-sutra",
     "title": "White Cloth and Golden Banner Two Brahmins Origin Sutra / 白衣金幢二婆羅門緣起經",
     "summary": "A Buddhist sutra recounting the renunciation of two Brahmins and presenting a Buddhist cosmology of human social origins.",
@@ -3009,6 +6029,99 @@
     "sources": []
   },
   {
+    "slug": "woodcutter-dream-deer-liezi",
+    "title": "The Woodcutter's Dream of the Deer / 薪者夢鹿",
+    "summary": "A philosophical story from Liezi about a woodcounter who dreams of catching a deer, leading to a legal dispute about the nature of reality and dream.",
+    "tags": [
+      "liezi",
+      "chinese-philosophy",
+      "dream-reality",
+      "paradox",
+      "zhousongwang"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "wu-pu-five-animal-play-hua-tuo",
+    "title": "Wu Pu and the Five Animal Play / 吴普与五禽戏",
+    "summary": "Wu Pu, student of physician Hua Tuo, practiced the Five Animal Play (Wu Qin Xi) and achieved longevity over 100 years, demonstrating the health benefits of Daoist physical cultivation.",
+    "tags": [
+      "five-animal-play",
+      "daoist-cultivation",
+      "hua-tuo",
+      "wu-pu",
+      "physical-practice",
+      "immortality"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "wu-yuan-five-origins-guan-yin-zi",
+    "title": "The Five Origins (五元) in Guān Yǐnzǐ / 關尹子五元論",
+    "summary": "An exploration of the Five Origins cosmology (天、命、神、元、道) presented in Guān Yǐnzǐ, a Taoist text emphasizing the omnipresence and indivisibility of the cosmic principles.",
+    "tags": [
+      "taoism",
+      "cosmology",
+      "guān-yǐnzǐ",
+      "five-origins",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "wu-zhi-five-fungi-baopuzi",
+    "title": "Five Fungi (五芝) in Baopuzi / 抱朴子五芝",
+    "summary": "The classification and effects of five types of fungi (石芝、木芝、草芝、肉芝、菌芝) for immortality in Daoist alchemy.",
+    "tags": [
+      "baopuzi",
+      "daoist-alchemy",
+      "immortality",
+      "five-fungi",
+      "chinese-mythology"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "wu-zi",
+    "title": "Wu Zi / 吳子",
+    "summary": "A classical Chinese military treatise by Wu Qi, presenting principles of state governance, military strategy, troop discipline, and leadership through dialogues with King Wu of Wei.",
+    "tags": [
+      "兵家",
+      "兵法",
+      "武經七書",
+      "吳起",
+      "魏文侯",
+      "先秦兵學"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "wuyong-zhi-yong-usefulness-of-uselessness",
+    "title": "The Usefulness of Uselessness / 無用之用",
+    "summary": "A central Zhuangzi parable about the useless tree that survives because it has no use to humans, illustrating the Daoist principle that apparent uselessness may be the highest utility.",
+    "tags": [
+      "chinese-philosophy",
+      "daoist-philosophy",
+      "paradox",
+      "paradoxes-in-philosophy",
+      "usability-value",
+      "zhuangzi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "xiang-tian-shu-he-xiang-tian-shu-zhi-jian",
+    "title": "Natural Affinity versus Interest-Based Relationships / 相天屬與相利合",
+    "summary": "A philosophical contrast in Zhuangzi between relationships formed through natural bonds versus those formed through mutual benefit.",
+    "tags": [
+      "zhuangzi",
+      "human-relations",
+      "ethics",
+      "daoist-philosophy"
+    ],
+    "sources": []
+  },
+  {
     "slug": "xianshou-wu-jiao",
     "title": "賢首五教 / Five Teachings of Xianshou / 賢首五教（けんじゅぎょう）",
     "summary": "A five-tiered doctrinal classification system developed by Fazang (Xianshou) of the Huayan school, categorizing all Buddhist teachings from Hinayana to the highest Yogacara-Tathagatagarbha doctrines.",
@@ -3019,6 +6132,50 @@
       "fazang",
       "tang-dynasty-buddhism",
       "doctrinal-hierarchy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "xiao-jing-classic-of-filial-piety",
+    "title": "Classic of Filial Piety / 孝經",
+    "summary": "The Classic of Filial Piety (Xiaojing) is a Confucian text outlining the principles and practices of filial piety, existing in two main textual traditions.",
+    "tags": [
+      "chinese-philosophy",
+      "chinese-texts",
+      "confucian-classics",
+      "confucian-ethics",
+      "confucianism",
+      "ethics",
+      "family",
+      "filial-piety",
+      "stub",
+      "virtue"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "xing-hai-nei-wai",
+    "title": "Inside and Outside the Physical Form / 形骸內外",
+    "summary": "A philosophical distinction in Zhuangzi between the physical body (form) and inner virtue, exemplified by deformed sages whose outer appearance differs from their inner perfection.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "body-mind",
+      "virtue",
+      "self-cultivation"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "xinzhai-heart-fasting",
+    "title": "Heart Fasting / 心齋",
+    "summary": "A Zhuangzi concept of spiritual purification through emptiness of the heart-mind, taught by Confucius to Yan Hui as the path to navigate the human world.",
+    "tags": [
+      "zhuangzi",
+      "daoist-spirituality",
+      "self-cultivation",
+      "chinese-philosophy",
+      "confucian-daoist-dialogue"
     ],
     "sources": []
   },
@@ -3034,6 +6191,32 @@
     "sources": []
   },
   {
+    "slug": "xu-ji-yi-you-shi",
+    "title": "Swimming Through the World with an Empty Self / 虛己以遊世",
+    "summary": "A Zhuangzi parable about how one who empties oneself of ego and self-interest becomes invulnerable to external harm.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "self-empty",
+      "non-attachment",
+      "harmony"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "xuandao-mysterious-way",
+    "title": "Xuandao (The Mysterious Way) / 玄道",
+    "summary": "The supreme metaphysical principle \"玄\" (Xuan/Mystery) discussed in Baopuzi, described as the origin of nature and the great source of all myriad things, transcending physical existence.",
+    "tags": [
+      "daoist-philosophy",
+      "chinese-philosophy",
+      "baopuzi",
+      "cosmology",
+      "spiritual-cultivation"
+    ],
+    "sources": []
+  },
+  {
     "slug": "yan-hui",
     "title": "Yan Hui / 颜回 / 顔回",
     "summary": "Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment in poverty",
@@ -3043,6 +6226,46 @@
       "disciples",
       "virtue-ethics",
       "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "yan-person-return-homeland-liezi",
+    "title": "The Yan Person Returning Home / 燕人歸國",
+    "summary": "A story from Liezi about a man from Yan who was raised in Chu and became confused about his identity when returning to his homeland.",
+    "tags": [
+      "liezi",
+      "identity",
+      "homeland",
+      "confusion",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "yang-zhu-philosophy-liezi",
+    "title": "Yang Zhu's Philosophy in Liezi / 楊朱篇的哲學思想",
+    "summary": "Yang Zhu's individualist and hedonist philosophy as presented in the Liezi, emphasizing self-preservation, the brevity of life, and rejection of fame and social obligations.",
+    "tags": [
+      "chinese-philosophy",
+      "daoist-philosophy",
+      "hedonism",
+      "individualism",
+      "liezi",
+      "yang-zhu"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "yi-wei-shi-wo-yi-yi-wei-xin-yi",
+    "title": "Intention as Dust, Mind as Transitory / 意者塵往來爾",
+    "summary": "The philosophical concept from Guanyinzi that intention (意) is merely the comings and goings of dust, while the mind (心) remains fundamentally unchanged.",
+    "tags": [
+      "taoist-philosophy",
+      "mind",
+      "intention",
+      "daoist-psychology",
+      "daoist-self-cultivation"
     ],
     "sources": []
   },
@@ -3061,6 +6284,95 @@
     "sources": []
   },
   {
+    "slug": "yu-dwelling-abode-daoist-concept",
+    "title": "Yu (Dwelling/Abode) in Daoist Philosophy / 寓（道家哲學中的棲居）",
+    "summary": "The concept of \"寓\" (dwelling/abode) as the Dao's manifestation in all things, from Chapter 2 of Guǎn Yǐnzǐ.",
+    "tags": [
+      "daoist-philosophy",
+      "chinese-philosophy",
+      "metaphysics",
+      "guan-yin-zi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "yu-gong-yi-shan-yugong-moves-mountains",
+    "title": "Yu Gong Moves the Mountains / 愚公移山",
+    "summary": "A famous Chinese fable from Liezi about an old man who decided to move two large mountains blocking his village, demonstrating the power of persistence and collective effort.",
+    "tags": [
+      "liezi",
+      "chinese-fable",
+      "perseverance",
+      "philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "yu-ye-nu-jing-sutra",
+    "title": "Yu Ye Nü Jing (Sutra of Lady Yu Ye) / 佛說玉耶女經",
+    "summary": "A Buddhist sutra teaching conjugal conduct to Lady Yu Ye, featuring the famous doctrine of Seven Types of Wives.",
+    "tags": [
+      "buddhist-sutra",
+      "conjugal-conduct",
+      "ethics",
+      "mahayana",
+      "female-buddhist-teaching"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "yue-ming-tongzi-moonlight-youth-bodhisattva-sutra",
+    "title": "Moonlight Youth (月明童子) — Protagonist of the Moonlight Bodhisattva Sutra / 月明童子——《月光菩薩經》的主人公",
+    "summary": "The Moonlight Youth (月明童子) is a clean-minded young man addressed by the Buddha, symbolizing purity of mind in the sutra.",
+    "tags": [
+      "bodhisattva",
+      "buddhist-protagonist",
+      "moonlight-symbolism",
+      "yue-ming-puti-jing"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "yue-shang-rulai-moon-topped-tathagata",
+    "title": "Moon-Topped Tathāgata / 月上如來",
+    "summary": "Moon-Topped Tathāgata (月上如來) is a historical Buddha described in the Mahāyāna Dhāraṇī of Compassion, predecessor of the Lotus-Up Tathāgata.",
+    "tags": [
+      "buddha",
+      "mahayana-buddhism",
+      "dharani-sutra",
+      "pure-land",
+      "indian-buddhism"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "yun-ti-cloud-ladder",
+    "title": "Cloud Ladder / 雲梯",
+    "summary": "An ancient Chinese siege weapon, a heavy mobile tower used to scale city walls, against which Mozi developed sophisticated defensive strategies.",
+    "tags": [
+      "siege-weaponry",
+      "military-technology",
+      "ancient-chinese-warfare",
+      "mozi",
+      "defensive-strategy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhang-liang-daoist-cultivation-exile",
+    "title": "Zhang Liang's Daoist Cultivation and Exile / 张良修道绝谷",
+    "summary": "Zhang Liang (Zhang Liang), famous strategist of the Han founding, abandoned worldly affairs to pursue Daoist cultivation and practices of fasting (绝谷), demonstrating historical evidence for immortality cultivation.",
+    "tags": [
+      "zhang-liang",
+      "han-dynasty",
+      "daoist-cultivation",
+      "immortality",
+      "historical-evidence",
+      "baopuzi"
+    ],
+    "sources": []
+  },
+  {
     "slug": "zhi-qing-relation",
     "title": "Will and Passion-Nature / 志與情的關係",
     "summary": "Mencius's doctrine on the hierarchical yet interactive relationship between will (zhi) and passion-nature (qing)",
@@ -3071,6 +6383,262 @@
       "human-nature",
       "cultivation",
       "philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhihou-yan-chengzi-spiritual-progression-zhuangzi",
+    "title": "Yan Chengzi's Nine-Year Spiritual Progression / 顏成子游九年大妙",
+    "summary": "The account of Yan Chengzi You's nine-year spiritual transformation from worldly refinement to ultimate enlightenment, as recorded in Zhuangzi.",
+    "tags": [
+      "zhuangzi",
+      "daoism",
+      "spiritual-cultivation",
+      "enlightenment",
+      "self-transformation",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhili-qixing-deformed-ones-zhuangzi",
+    "title": "The Deformed Ones / 支離其形",
+    "summary": "Zhuangzi's celebration of physically deformed individuals who, excluded from worldly usefulness, survive and prosper—the paradox of form versus spirit in Daoist philosophy.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "paradox",
+      "body-and-spirit",
+      "chinese-philosophy",
+      "survival-wisdom"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-daozhi-chapter",
+    "title": "Robber Zhi Chapter (盜跖) / 盜跖篇",
+    "summary": "Zhuangzi Chapter 29 presents a fictional dialogue between Confucius and Robber Zhi, featuring radical critiques of Confucian morality, civilization, and social order.",
+    "tags": [
+      "ancient-chinese-philosophy",
+      "confucianism-critique",
+      "daoist-philosophy",
+      "philosophy",
+      "robber-zhi",
+      "taoism",
+      "zhuangzi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-fables-parables-yuyan",
+    "title": "Zhuangzi Chapter 27: Fables / 莊子·寓言",
+    "summary": "The 27th chapter of Zhuangzi introducing three types of discourse—fables, elders' sayings, and spontaneous speech—to convey Daoist teachings through external examples and natural patterns.",
+    "tags": [
+      "chinese-philosophy",
+      "daoist-philosophy",
+      "discourse-methods",
+      "tian-jun",
+      "tian-ni",
+      "zhuangzi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-fisherman-yu-fu",
+    "title": "The Fisherman Chapter (Yu Fu) / 莊子·漁父",
+    "summary": "A Zhuangzi chapter featuring a Daoist fisherman who teaches Confucius about authenticity (真), criticizing artificial ritual and social conventions while advocating naturalness and genuine sincerity.",
+    "tags": [
+      "authenticity",
+      "confucian-critique",
+      "daoism",
+      "fishing",
+      "governance",
+      "zhuangzi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-gengsang-chu-chapter",
+    "title": "Gengsang Chu Chapter (庚桑楚) / 庚桑楚篇",
+    "summary": "Chapter 23 of Zhuangzi featuring the disciple Gengsang Chu's philosophy of self-preservation, his dialogue with Laozi on the \"hygiene of life,\" and profound discussions of being and non-being.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "gengsang-chu",
+      "chinese-philosophy",
+      "wu-wei"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-great-skill-appears-clumsy-da-qiao-ruo-zhuo",
+    "title": "\"Great Skill Appears Clumsy\" / 大巧若拙",
+    "summary": "A famous Zhuangzi paradox stating that true mastery looks awkward or clumsy, while apparent skill invites theft and competition.",
+    "tags": [
+      "zhuangzi",
+      "daoism",
+      "paradox",
+      "epistemology",
+      "skill"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-heaven-earth-chapter",
+    "title": "Zhuangzi Chapter on Heaven and Earth / 莊子·天地",
+    "summary": "A key chapter from Zhuangzi exploring the nature of the Way, governance through non-action, and the corruption of innate nature through artificiality.",
+    "tags": [
+      "zhuangzi",
+      "daoism",
+      "chinese-philosophy",
+      "wu-wei",
+      "governance"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-ke-yi-chapter",
+    "title": "Kè Yì (Cultivating Deliberate Purpose) / 刻意",
+    "summary": "Zhuangzi Chapter 15 explores five types of self-cultivation and advocates for the sage's path of tranquility, simplicity, and non-deliberate action.",
+    "tags": [
+      "chinese-philosophy",
+      "daoist-philosophy",
+      "self-cultivation",
+      "wuwei",
+      "zhuangzi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-shanxing-chapter",
+    "title": "Shanxing (Rectifying Nature) Chapter in Zhuangzi / 莊子·繕性",
+    "summary": "A chapter discussing the rectification of nature through stillness and naturalness, contrasting worldly learning with returning to original spontaneity, and analyzing the historical decline of the Dao.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "self-cultivation",
+      "chinese-philosophy",
+      "nature",
+      "rectification",
+      "hermit",
+      "ambition"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-supreme-joy-zhi-le",
+    "title": "Supreme Joy (至樂) in Zhuangzi / 莊子至樂篇",
+    "summary": "Zhuangzi's philosophical exploration of true happiness beyond worldly pleasures, arguing that ultimate joy transcends conventional notions of joy itself.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "happiness",
+      "wu-wei",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-thieving-box-qu-qie",
+    "title": "Zhuangzi's \"Thieving the Box\" / 莊子·胠篋",
+    "summary": "A Zhuangzi chapter arguing that preventive measures against petty theft enable great thieves, and that sage teachings are exploited by those who steal states.",
+    "tags": [
+      "zhuangzi",
+      "daoism",
+      "political-philosophy",
+      "anarchism",
+      "paradox"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-tianyun-chapter",
+    "title": "The Operations of Heaven (Tian Yun) / 天運第十四",
+    "summary": "A philosophical chapter from Zhuangzi exploring natural spontaneity, supreme benevolence, Daoist music, and critiques of Confucian ritual propriety.",
+    "tags": [
+      "Chinese Philosophy",
+      "Daoism",
+      "Natural Spontaneity",
+      "Tian Yun",
+      "Zhuangzi"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-true-painter-anti-art",
+    "title": "The True Painter / 眞正的畫者",
+    "summary": "The Zhuangzi story of a painter who achieved perfect spontaneity by removing all conscious thought, embodying Daoist non-action in artistic creation.",
+    "tags": [
+      "Zhuangzi",
+      "Daoist philosophy",
+      "Art",
+      "Non-action",
+      "Spontaneity"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-turtle-story-rejection",
+    "title": "Zhuangzi's Turtle Story / 莊子曳尾塗中",
+    "summary": "The famous anecdote of Zhuangzi refusing official service from the King of Chu, choosing instead to drag his tail in the mud—a classic expression of Daoist values.",
+    "tags": [
+      "zhuangzi",
+      "daoist-philosophy",
+      "political-philosophy",
+      "wu-wei",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-ying-di-wang",
+    "title": "Zhuangzi Chapter 7: Responses of Kings / 莊子·應帝王",
+    "summary": "Chapter 7 of Zhuangzi discusses the qualities of the ideal ruler and the principle of non-action in governance, featuring the famous allegory of Chaos (渾沌).",
+    "tags": [
+      "zhuangzi",
+      "daoism",
+      "governance",
+      "non-action",
+      "chinese-philosophy"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zhuangzi-zhi-bei-you-chapter",
+    "title": "Zhi Bei You (Northern Journey of Knowledge) / 知北遊",
+    "summary": "Chapter 22 of Zhuangzi exploring the nature of knowledge and the omnipresence of the Dao through dialogues between Zhi, Wu Wei Wei, Kuang Qu, and Huang Di.",
+    "tags": [
+      "zhuangzi",
+      "daoism",
+      "chapter-22",
+      "philosophy",
+      "knowledge",
+      "dao"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zigong",
+    "title": "Zigong / 子贡",
+    "summary": "A prominent disciple of Confucius known for diplomatic skill and commercial success.",
+    "tags": [
+      "confucian-disciples",
+      "analects",
+      "warring-states-period",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "zilu",
+    "title": "Zilu / 子路",
+    "summary": "A prominent disciple of Confucius known for his boldness and loyalty.",
+    "tags": [
+      "confucianism",
+      "analects",
+      "disciples",
+      "confucius",
+      "stub"
     ],
     "sources": []
   },
@@ -3101,6 +6669,20 @@
     "sources": []
   },
   {
+    "slug": "义",
+    "title": "Righteousness / 义",
+    "summary": "A fundamental Confucian virtue representing moral righteousness, appropriate conduct, and the principle of doing what is right.",
+    "tags": [
+      "confucianism",
+      "virtue-ethics",
+      "moral-philosophy",
+      "five-constants",
+      "chinese-philosophy",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "五根五力注-(安世高)",
     "title": "Five Roots and Five Powers Commentary (An Shigao) / 五根五力注 (安世高)",
     "summary": "Commentary on the Five Roots and Five Powers by the early Chinese Buddhist translator An Shigao, forming part of the systematic exposition of the thirty‑seven bodhipāramitās.",
@@ -3111,6 +6693,19 @@
       "thirty‑seven bodhipāramitās",
       "five roots",
       "five powers",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "仁愛",
+    "title": "仁愛 / Benevolent Love",
+    "summary": "A Confucian virtue of genuine, substantive love for all people, foundational to moral cultivation and interpersonal harmony.",
+    "tags": [
+      "confucianism",
+      "virtue-ethics",
+      "confucian-virtues",
+      "moral-philosophy",
       "stub"
     ],
     "sources": []
@@ -3142,6 +6737,34 @@
     "sources": []
   },
   {
+    "slug": "儒家",
+    "title": "儒家 / 儒家",
+    "summary": "Confucianism - a foundational Chinese philosophical tradition centered on ethics, virtue, and social harmony.",
+    "tags": [
+      "confucianism",
+      "philosophy",
+      "chinese-thought",
+      "ethics",
+      "confucian-classics",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "儒家自省",
+    "title": "Confucian Self-Reflection / 儒家自省",
+    "summary": "A Confucian practice of daily moral introspection for cultivating virtue and self-improvement.",
+    "tags": [
+      "confucianism",
+      "self-cultivation",
+      "moral-philosophy",
+      "ethics",
+      "confucian-practice",
+      "stub"
+    ],
+    "sources": []
+  },
+  {
     "slug": "君子",
     "title": "Junzi / 君子",
     "summary": "The Confucian ideal of a morally cultivated person who embodies virtue and proper conduct.",
@@ -3164,6 +6787,20 @@
       "stupa",
       "buddhist-cultivation",
       "relics"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "子貢",
+    "title": "Zigong / 子貢",
+    "summary": "A prominent disciple of Confucius known for diplomatic skill and commercial acumen.",
+    "tags": [
+      "confucian-disciples",
+      "ancient-china",
+      "philosophy",
+      "liezi",
+      "zhuangzi",
+      "stub"
     ],
     "sources": []
   },
@@ -3204,6 +6841,19 @@
       "anxiety",
       "existentialism",
       "ancient China"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "生子憂患死於安樂",
+    "title": "Birth through Suffering, Death through Comfort / 生子憂患死於安樂",
+    "summary": "A philosophical concept from Liezi expressing that hardship produces growth while comfort leads to decline.",
+    "tags": [
+      "liezi",
+      "chinese-philosophy",
+      "adversity",
+      "self-cultivation",
+      "stub"
     ],
     "sources": []
   }

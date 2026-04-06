@@ -45,8 +45,8 @@ def run_worker(base_dir: Path | None = None):
         f"health every {health_interval/3600:.0f}h"
     )
 
-    last_learn = 0    # Learn immediately on startup
-    last_compile = 0  # Compile immediately
+    last_learn = 0
+    last_compile = 0
     last_taxonomy = 0
     last_health = 0
 
