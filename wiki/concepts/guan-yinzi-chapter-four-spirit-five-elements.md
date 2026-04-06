@@ -19,6 +19,7 @@ tags:
 - 精神魂魄
 - 五行
 - 生死
+- category:chinese-philosophy
 title: 'Guan Yinzi Chapter 4: On Spirit and the Five Elements / 關尹子第四章：論精神與五行'
 ---
 

@@ -8,6 +8,7 @@ tags:
 - divine-observers
 - immortality-practice
 - chinese-mythology
+- category:other
 title: Three Corpses / 三尸神
 ---
 

@@ -8,6 +8,7 @@ tags:
 - attachment-suffering
 - yijing-translation
 - four-noble-truths
+- category:other
 title: From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖
 ---
 

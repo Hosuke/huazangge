@@ -11,6 +11,7 @@ tags:
 - silk-manuscripts
 - boshu-version
 - dao-de-jing
+- category:other
 title: Dao De Jing (Silk Manuscript) / 道德經帛書本 / 道德経帛書本
 ---
 

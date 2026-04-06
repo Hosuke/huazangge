@@ -10,6 +10,7 @@ tags:
 - daoist-esotericism
 - jiu-dan
 - golden-elixir
+- category:other
 title: Nine Elixirs in Baopuzi / 抱朴子九丹
 ---
 

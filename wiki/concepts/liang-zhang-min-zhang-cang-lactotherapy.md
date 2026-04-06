@@ -9,6 +9,7 @@ tags:
 - longevity
 - daoist-practice
 - historical-record
+- category:other
 title: Zhang Cang's Lactotherapy / 张苍乳汁养生
 ---
 

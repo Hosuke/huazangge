@@ -14,6 +14,7 @@ tags:
 - chinese-philosophy
 - political-philosophy
 - warring-states
+- category:chinese-philosophy
 title: 'Mencius: Gongsun Chou Part Two / 孟子·公孫丑下'
 ---
 

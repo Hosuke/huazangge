@@ -10,6 +10,7 @@ tags:
 - mohism
 - mozi
 - utilitarian-ethics
+- category:chinese-philosophy
 title: Mozi's Funeral Simplicity / 墨子節葬思想
 ---
 

@@ -20,6 +20,7 @@ tags:
 - guanyinzi
 - transcendence
 - 關尹子
+- category:chinese-philosophy
 title: Guanyinzi Chapter 8 / 關尹子第八篇
 ---
 

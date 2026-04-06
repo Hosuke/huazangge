@@ -12,6 +12,7 @@ tags:
 - qi-vital-energy
 - guanyinzi
 - chinese-philosophy
+- category:chinese-philosophy
 title: Pure Qi Transformation / 純氣變化
 ---
 

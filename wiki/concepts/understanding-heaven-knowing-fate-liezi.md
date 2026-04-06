@@ -8,6 +8,7 @@ tags:
 - philosophy
 - self-cultivation
 - wisdom
+- category:chinese-philosophy
 title: Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命
 ---
 

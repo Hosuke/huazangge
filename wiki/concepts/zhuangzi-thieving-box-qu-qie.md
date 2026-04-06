@@ -11,6 +11,7 @@ tags:
 - political-philosophy
 - anarchism
 - paradox
+- category:zhuangzi
 title: Zhuangzi's "Thieving the Box" / 莊子·胠篋
 ---
 

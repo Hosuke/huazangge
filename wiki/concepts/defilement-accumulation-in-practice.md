@@ -7,6 +7,7 @@ tags:
 - ascetic-practice
 - mental-afflictions
 - buddhist-psychology
+- category:other
 title: Defilement Accumulation in Religious Practice / 修行中的烦恼随增
 ---
 

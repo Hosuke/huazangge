@@ -10,6 +10,7 @@ tags:
 - epistemology
 - mind
 - intention
+- category:daoist-philosophy
 title: Consciousness and Recognition in Guanyinzi / 關尹子意識與認識論
 ---
 

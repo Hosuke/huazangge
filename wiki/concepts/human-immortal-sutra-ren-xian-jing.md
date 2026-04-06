@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 人仙經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0009
+  work_id: T0009
 summary: A Mahayana sutra detailing the Buddha's teaching on the rebirth of King Bimbisara
   through the celestial being Human Immortal.
 tags:
@@ -11,6 +17,7 @@ tags:
 - magadha
 - mahayana-sutras
 - vaisravana
+- category:other
 title: Human Immortal Sutra / 人仙經
 ---
 

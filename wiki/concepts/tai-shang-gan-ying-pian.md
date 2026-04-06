@@ -7,6 +7,7 @@ tags:
 - karma
 - chinese-classics
 - immortality
+- category:other
 title: Tai Shang Gan Ying Pian / 太上感應篇
 ---
 

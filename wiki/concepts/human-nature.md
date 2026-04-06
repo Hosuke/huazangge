@@ -13,6 +13,7 @@ tags:
 - human-nature
 - mencius
 - philosophy
+- category:confucianism
 title: Human Nature / 人性
 updated: '2026-04-04T19:19:18.510582+00:00'
 ---

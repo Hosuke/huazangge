@@ -12,6 +12,7 @@ tags:
 - social-hierarchy
 - virtue-ethics
 - governance
+- category:governance
 title: Three Universally Honored Things / 天下有三尊
 ---
 

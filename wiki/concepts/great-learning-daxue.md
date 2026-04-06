@@ -21,6 +21,7 @@ tags:
 - political-philosophy
 - self-cultivation
 - zhu-xi
+- category:chinese-philosophy
 title: The Great Learning / 大學
 ---
 

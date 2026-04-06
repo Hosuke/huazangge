@@ -12,6 +12,7 @@ tags:
 - li-rites
 - practical-wisdom
 - moral-principles
+- category:mengzi
 title: The Debate on Rites versus Food / 礼与食孰重
 ---
 

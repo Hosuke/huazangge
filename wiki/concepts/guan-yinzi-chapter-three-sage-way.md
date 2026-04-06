@@ -14,6 +14,7 @@ tags:
 - non-self
 - governance
 - taoist-texts
+- category:chinese-philosophy
 title: 'Guān Yǐnzǐ Chapter Three: The Way of the Sage / 關尹子第三章：聖人之道'
 ---
 

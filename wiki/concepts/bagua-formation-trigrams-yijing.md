@@ -7,6 +7,7 @@ tags:
 - cosmology
 - trigrams
 - symbolism
+- category:chinese-philosophy
 title: Eight Trigrams Formation / 八卦成列
 ---
 

@@ -12,6 +12,7 @@ tags:
 - nirodha-samapatti
 - first-council
 - pratyekabuddha
+- category:other
 title: 迦葉 Mahākāśyapa / Mahākāśyapa and the Assembly of 84,000 Arhats
 ---
 

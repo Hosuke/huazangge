@@ -11,6 +11,7 @@ tags:
 - family-values
 - domestic-rituals
 - chinese-classics
+- category:other
 title: Inner Regulations (Neize) from the Book of Rites / 禮記內則
 ---
 

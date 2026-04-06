@@ -13,6 +13,7 @@ tags:
 - confucian-philosophy
 - classical-chinese-philosophy
 - heart-mind
+- category:mengzi
 title: Losing and Seeking the Original Heart / 放心
 ---
 

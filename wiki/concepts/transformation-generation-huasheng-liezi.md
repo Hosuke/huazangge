@@ -7,6 +7,7 @@ tags:
 - Chinese philosophy
 - transformation
 - 生成
+- category:chinese-philosophy
 title: Transformation and Generation (化生) / 化生
 ---
 

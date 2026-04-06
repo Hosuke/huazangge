@@ -7,6 +7,7 @@ tags:
 - mental-cultivation
 - an-shigao
 - agama-buddhism
+- category:other
 title: Mind Stillness Analogies in Buddhist Meditation / 持心如石與心如流水 / 仏教瞑想における心の静止の比喩
 ---
 

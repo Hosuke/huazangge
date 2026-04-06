@@ -16,6 +16,7 @@ tags:
 - mohism
 - mozi
 - political-philosophy
+- category:chinese-philosophy
 title: Exalting the Worthy (尚賢) / 尚賢
 ---
 

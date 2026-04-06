@@ -1,4 +1,10 @@
 ---
+sources:
+- chapter: 大傳
+  plugin: wikisource
+  title: 禮記 · 大傳
+  url: https://zh.wikisource.org/wiki/禮記/大傳
+  work: 禮記
 summary: 'The Daxizhuan enumerates six principles (服術) governing mourning garments
   and kinship obligations: 親親, 尊尊, 名, 出入, 長幼, 從服.'
 tags:
@@ -6,6 +12,7 @@ tags:
 - mourning-practices
 - book-of-rites
 - kinship-obligations
+- category:other
 title: The Six Principles of Mourning in Daxizhuan / 禮記大傳服術六法
 ---
 

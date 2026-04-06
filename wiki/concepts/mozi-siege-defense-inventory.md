@@ -7,6 +7,7 @@ tags:
 - military-logistics
 - supply-standards
 - warring-states-period
+- category:mozi
 title: Mozi's Siege Defense Inventory Standards / 墨子守城物資儲備法
 ---
 

@@ -15,6 +15,7 @@ tags:
 - optics
 - warring-states
 - 墨家
+- category:chinese-philosophy
 title: 'Mozi Xiaoqu: On Logical Reasoning / 墨子小取：論辯說之法'
 ---
 

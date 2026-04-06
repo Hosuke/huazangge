@@ -8,6 +8,7 @@ tags:
 - sun-tzu
 - military-philosophy
 - ancient-chinese-text
+- category:other
 title: Sun Tzu's Art of War / 孫子兵法 / 孫氏兵法
 ---
 

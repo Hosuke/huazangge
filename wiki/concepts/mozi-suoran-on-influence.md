@@ -13,6 +13,7 @@ tags:
 - mozi
 - political-philosophy
 - self-cultivation
+- category:chinese-philosophy
 title: Mozi On Dyeing / 墨子·所染
 ---
 

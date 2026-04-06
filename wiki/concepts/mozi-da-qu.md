@@ -10,6 +10,7 @@ tags:
 - warring-states-period
 - universal-love
 - self-sacrifice
+- category:chinese-philosophy
 title: Mozi Da Qu (Great Adoption) / 墨子·大取
 ---
 

@@ -13,6 +13,7 @@ tags:
 - mozi-bei
 - siege-warfare
 - tunnel-warfare
+- category:mozi
 title: Preparing Against Tunnel Attacks (Mozi Chapter on Underground Defense) / 墨子備穴
 ---
 

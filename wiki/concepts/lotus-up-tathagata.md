@@ -7,6 +7,7 @@ tags:
 - mahayana-buddhism
 - buddha
 - dharani
+- category:other
 title: 蓮華上如來 / Lotus-Up Tathāgata (Liánhuá Shàng Rúlái)
 ---
 

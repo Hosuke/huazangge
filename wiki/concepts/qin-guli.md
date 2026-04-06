@@ -7,6 +7,7 @@ tags:
 - mozi
 - military-thought
 - ancient-chinese-philosophy
+- category:mozi
 title: Qin Guli / 禽滑釐
 ---
 

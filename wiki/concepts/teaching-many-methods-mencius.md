@@ -12,6 +12,7 @@ tags:
 - pedagogy
 - moral-cultivation
 - educational-psychology
+- category:mengzi
 title: Teaching Has Many Methods / 教亦多术
 ---
 

@@ -23,6 +23,7 @@ tags:
 - self-cultivation
 - teachings
 - virtue-ethics
+- category:chinese-philosophy
 title: Analects of Confucius / 论语
 updated: '2026-04-05T14:51:00.529790+00:00'
 ---

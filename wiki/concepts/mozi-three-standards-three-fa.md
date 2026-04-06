@@ -8,6 +8,7 @@ tags:
 - epistemology
 - ancient-chinese-philosophy
 - mohism
+- category:mozi
 title: Mozi's Three Standards / 墨子三法
 ---
 

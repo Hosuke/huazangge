@@ -11,6 +11,7 @@ tags:
 - ministerial-advice
 - mengzi
 - moral-responsibility
+- category:mengzi
 title: Official's Duty and Right to Resign / 有官守者，不得其職則去
 ---
 

@@ -8,6 +8,7 @@ tags:
 - equanimity
 - taoism
 - death
+- category:chinese-philosophy
 title: Dongmen Wu's Grieflessness / 東門吳之無憂
 ---
 

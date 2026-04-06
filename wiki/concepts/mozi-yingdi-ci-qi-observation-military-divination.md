@@ -7,6 +7,7 @@ tags:
 - military-divination
 - five-qi-types
 - ancient-chinese-military
+- category:mozi
 title: Qi Observation in Military Divination / 望氣與軍事占卜
 ---
 

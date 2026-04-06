@@ -18,6 +18,7 @@ tags:
 - junzi
 - learning
 - virtue-ethics
+- category:confucianism
 title: Disciples in the Analects / 论语弟子群像
 updated: '2026-04-05T03:17:10.661613+00:00'
 ---

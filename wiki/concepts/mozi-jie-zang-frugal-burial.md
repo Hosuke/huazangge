@@ -12,6 +12,7 @@ tags:
 - utilitarianism
 - warring states
 - warring-states
+- category:chinese-philosophy
 title: Mozi on Frugal Burial (節葬) / 墨子節葬
 ---
 

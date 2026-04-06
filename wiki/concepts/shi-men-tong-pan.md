@@ -7,6 +7,7 @@ tags:
 - sutra-study
 - doctrinal-classification
 - tang-dynasty-buddhism
+- category:other
 title: 十門通判 / Ten-Fold Framework for Sutra Exposition
 ---
 

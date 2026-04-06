@@ -7,6 +7,7 @@ tags:
 - golden-elixir
 - immortality
 - daoist-alchemy
+- category:other
 title: Golden Elixir as the Sole Path to Immortality / 抱朴子卷十四：金丹為不死之正道
 ---
 

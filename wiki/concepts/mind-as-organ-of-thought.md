@@ -12,6 +12,7 @@ tags:
 - mind-cultivation
 - moral-philosophy
 - confucian-self-examination
+- category:mengzi
 title: The Mind as the Organ of Thought / 心之官則思
 ---
 

@@ -8,6 +8,7 @@ tags:
 - seven-treasures
 - buddhist-political-theory
 - king-mahadyuti
+- category:other
 title: Cakravartin — The Universal Monarch with Seven Treasures / 轉輪聖王七寶
 ---
 

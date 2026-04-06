@@ -15,6 +15,7 @@ tags:
 - rectification
 - hermit
 - ambition
+- category:chinese-philosophy
 title: Shanxing (Rectifying Nature) Chapter in Zhuangzi / 莊子·繕性
 ---
 

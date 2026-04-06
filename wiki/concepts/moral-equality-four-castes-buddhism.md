@@ -12,6 +12,7 @@ tags:
 - four-castes
 - brahmin
 - ethics
+- category:other
 title: Moral Equality of the Four Castes in Buddhism / 佛教四姓道德平等說
 ---
 

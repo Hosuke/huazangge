@@ -7,6 +7,7 @@ tags:
 - karma
 - compassion
 - nonviolent-resistance
+- category:other
 title: Non-Retaliation in Buddhist Teaching / 不報怨 / 仏教における報復禁止の教え
 ---
 

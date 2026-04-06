@@ -15,6 +15,7 @@ tags:
 - siege-warfare
 - signal-systems
 - warring-states-period
+- category:mozi
 title: Mozi's Banner System for Siege Defense / 墨子旗幟制度
 ---
 

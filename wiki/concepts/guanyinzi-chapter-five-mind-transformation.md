@@ -12,6 +12,7 @@ tags:
 - mind
 - taoist-philosophy
 - transformation
+- category:chinese-philosophy
 title: 'Guanyinzi Chapter Five: Mind and Cosmological Transformation / 關尹子第五章：心與造化'
 ---
 

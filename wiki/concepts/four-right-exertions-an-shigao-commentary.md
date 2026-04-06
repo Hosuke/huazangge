@@ -7,6 +7,7 @@ tags:
 - han-dynasty-buddhism
 - thirty-seven-factors
 - enlightenment
+- category:other
 title: Four Right Exertions / 四意斷
 ---
 

@@ -9,6 +9,7 @@ tags:
 - warring-states-period
 - defensive-warfare
 - tunnel-warfare
+- category:mozi
 title: Tumen (Tunnel Gates) / 突門（城門突入口）
 ---
 

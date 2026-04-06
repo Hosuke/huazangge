@@ -8,6 +8,7 @@ tags:
 - indra
 - brahma
 - buddha-appearances
+- category:other
 title: Eight Rare Qualities of a Tathagata / 如來八希有法
 ---
 

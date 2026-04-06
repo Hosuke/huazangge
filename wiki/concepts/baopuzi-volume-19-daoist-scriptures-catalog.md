@@ -10,6 +10,7 @@ tags:
 - bibliography
 - esoteric-practice
 - talismans
+- category:other
 title: 'Baopuzi Volume 19: Catalog of Daoist Texts / 抱朴子卷十九道書目錄'
 ---
 

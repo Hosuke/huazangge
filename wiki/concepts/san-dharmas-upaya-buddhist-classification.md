@@ -6,6 +6,7 @@ tags:
 - doctrinal-classification
 - tripartite-teaching
 - eastern-jin-buddhism
+- category:other
 title: Three Dharmas Classification System (三法)
 ---
 

@@ -10,6 +10,7 @@ tags:
 - Buddhist teaching
 - karmic consequences
 - shengjing
+- category:other
 title: 三毒的業報與解脫之道 / 三毒的業報與解脫之道 / 三毒の業報と解脱への道
 ---
 

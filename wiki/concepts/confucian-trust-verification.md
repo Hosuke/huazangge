@@ -22,6 +22,7 @@ tags:
 - trust-systems
 - verification
 - verification-systems
+- category:confucianism
 title: Confucian Trust Verification / 儒家信任验证
 updated: '2026-04-05T05:48:01.835350+00:00'
 ---

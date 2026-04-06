@@ -8,6 +8,7 @@ tags:
 - meritocracy
 - mozi
 - political-philosophy
+- category:mozi
 title: Exalting the Virtuous (尚賢上) / 尚賢上
 ---
 

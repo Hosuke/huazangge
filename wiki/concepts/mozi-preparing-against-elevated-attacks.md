@@ -17,6 +17,7 @@ tags:
 - 城防
 - 墨家
 - 軍事
+- category:chinese-philosophy
 title: Mozi on Preparing Against Elevated Attacks / 墨子備高臨
 ---
 

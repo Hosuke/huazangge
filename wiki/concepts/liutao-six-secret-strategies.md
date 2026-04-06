@@ -7,6 +7,7 @@ tags:
 - jiang-ziya
 - six-strategies
 - classical-chinese
+- category:other
 title: Six Secret Strategies / 六韜 / 六韜
 ---
 

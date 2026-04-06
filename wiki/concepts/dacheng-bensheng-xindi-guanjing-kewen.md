@@ -8,6 +8,7 @@ tags:
 - sutra-commentary
 - mind-ground-contemplation
 - dacheng-tradition
+- category:other
 title: 大乘本生心地觀經淺註科文 / Commentary Outline on the Mahayana Mind-Ground Contemplation
   Sutra
 ---

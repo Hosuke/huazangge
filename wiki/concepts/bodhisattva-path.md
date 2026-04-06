@@ -11,6 +11,7 @@ tags:
 - Bodhisattva
 - Buddhism
 - enlightenment
+- category:other
 title: The Bodhisattva Path / 菩萨道
 updated: '2026-04-05T14:51:00.475513+00:00'
 ---

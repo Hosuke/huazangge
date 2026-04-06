@@ -14,6 +14,7 @@ tags:
 - saint
 - sagehood
 - chinese-philosophy
+- category:chinese-philosophy
 title: Confucius and the Western Saint (西方聖者) / 西方聖者
 ---
 

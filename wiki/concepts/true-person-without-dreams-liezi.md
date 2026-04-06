@@ -8,6 +8,7 @@ tags:
 - dream-philosophy
 - spiritual-attainment
 - chinese-philosophy
+- category:chinese-philosophy
 title: The True Person Without Dreams / 古之真人其寢不夢
 ---
 

@@ -1,8 +1,10 @@
 ---
 sources:
-- plugin: cbeta
-  title: CBETA 大藏經
-  url: https://cbetaonline.dila.edu.tw
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 人本欲生經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0014
+  work_id: T0014
 summary: A Buddhist sutra collection translated by Zhu Fahu during the Western Jin
   dynasty, containing ten narratives illustrating karmic principles and monastic discipline.
 tags:
@@ -13,6 +15,7 @@ tags:
 - shengjing
 - early-buddhism
 - buddhist-narratives
+- category:other
 title: Sheng Jing (Birth Sutras) / 生經
 ---
 

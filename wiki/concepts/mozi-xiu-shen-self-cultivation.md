@@ -8,6 +8,7 @@ tags:
 - mozi
 - self-cultivation
 - virtue-ethics
+- category:chinese-philosophy
 title: Mozi's Self-Cultivation / 墨子修身
 ---
 

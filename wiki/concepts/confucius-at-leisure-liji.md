@@ -7,6 +7,7 @@ tags:
 - zixia
 - ideal-ruler
 - confucian-politics
+- category:confucianism
 title: Confucius at Leisure / 孔子閒居
 ---
 

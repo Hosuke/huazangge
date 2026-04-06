@@ -9,6 +9,7 @@ tags:
 - chinese-philosophy
 - five-elements
 - soul-theory
+- category:chinese-philosophy
 title: Essence, Spirit, Soul, and Corporeal Soul (精神魂魄) / 精神魂魄說
 ---
 

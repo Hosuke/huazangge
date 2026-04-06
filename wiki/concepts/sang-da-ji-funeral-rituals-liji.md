@@ -9,6 +9,7 @@ tags:
 - mourning-practices
 - chinese-rituals
 - liji
+- category:other
 title: 'Sang Da Ji: Major Records of Mourning / 喪大記：喪禮大典'
 ---
 

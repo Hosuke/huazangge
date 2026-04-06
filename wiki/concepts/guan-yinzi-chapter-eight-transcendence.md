@@ -14,6 +14,7 @@ tags:
 - Dao
 - five elements
 - mind
+- category:chinese-philosophy
 title: 'Guanyinzi Chapter Eight: The Transcendence of the Dao / 關尹子第八章：道之超越'
 ---
 

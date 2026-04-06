@@ -12,6 +12,7 @@ tags:
 - determinism
 - chinese-philosophy
 - daoism
+- category:chinese-philosophy
 title: Beigongzi and Ximenzi — Virtue and Fate in Liezi / 北宮子與西門子：德厚命薄
 ---
 

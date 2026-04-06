@@ -6,6 +6,7 @@ tags:
 - chinese-philosophy
 - metaphysics
 - guan-yin-zi
+- category:chinese-philosophy
 title: Yu (Dwelling/Abode) in Daoist Philosophy / 寓（道家哲學中的棲居）
 ---
 

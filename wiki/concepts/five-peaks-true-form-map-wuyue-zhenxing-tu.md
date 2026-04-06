@@ -9,6 +9,7 @@ tags:
 - baopuzi
 - chinese-religion
 - esoteric-practice
+- category:other
 title: Five Peaks True Form Map / 五嶽真形圖
 ---
 

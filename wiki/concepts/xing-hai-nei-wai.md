@@ -13,6 +13,7 @@ tags:
 - body-mind
 - virtue
 - self-cultivation
+- category:daoist-philosophy
 title: Inside and Outside the Physical Form / 形骸內外
 ---
 

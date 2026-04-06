@@ -7,6 +7,7 @@ tags:
 - self-sacrifice
 - six-perfections
 - buddhist-narratives
+- category:other
 title: Throw Body to Feed Tigers (投身飼虎) - Jataka Tale of Prince Mahāsattva
 ---
 

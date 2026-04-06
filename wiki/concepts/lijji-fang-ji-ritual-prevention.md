@@ -12,6 +12,7 @@ tags:
 - ritual-theory
 - social-order
 - classical-chinese-text
+- category:other
 title: Fang Ji - Prevention Through Ritual in the Book of Rites / 禮記·坊記——以禮坊民
 ---
 

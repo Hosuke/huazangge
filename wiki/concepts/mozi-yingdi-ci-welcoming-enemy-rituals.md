@@ -8,6 +8,7 @@ tags:
 - ancient-chinese-warfare
 - defensive-strategy
 - confucian-ritual
+- category:mozi
 title: Mozi Welcoming Enemy Rituals / 墨子迎敵祠
 ---
 

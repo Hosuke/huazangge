@@ -7,6 +7,7 @@ tags:
 - rewards-punishment
 - governance
 - qin-dynasty
+- category:governance
 title: Unified Rewards and Punishment (賞刑) / 賞刑統一
 ---
 

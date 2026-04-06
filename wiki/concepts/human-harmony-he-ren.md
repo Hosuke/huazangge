@@ -11,6 +11,7 @@ tags:
 - mengzi
 - governance
 - social-harmony
+- category:confucianism
 title: Human Harmony (人和) / 人和
 ---
 

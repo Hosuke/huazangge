@@ -7,6 +7,7 @@ tags:
 - filial-piety-buddhism
 - bodhisattva-practice
 - four-kinds-kindness
+- category:other
 title: 報恩品 / The Chapter on Repaying Kindness (Bao'en Pin)
 ---
 

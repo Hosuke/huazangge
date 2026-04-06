@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 佛說波斯匿王太后崩塵土坌身經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0122
+  work_id: T0122
 summary: This article explains Mozi's "Shang Tong Xia" doctrine, which establishes
   a four-tier hierarchical political system where unity and moral alignment flow downward
   from family to state to world to heaven, with the key principle that rulers must
@@ -7,6 +13,7 @@ summary: This article explains Mozi's "Shang Tong Xia" doctrine, which establish
 tags:
 - comma-separated
 - hierarchical political order
+- category:other
 title: shang-tong-upward-uniformity-mozi
 ---
 

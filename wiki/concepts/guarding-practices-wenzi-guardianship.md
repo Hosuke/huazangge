@@ -8,6 +8,7 @@ tags:
 - self-cultivation
 - guarding-practices
 - 守
+- category:daoist-philosophy
 title: Guarding Practices (守) in Wenzi / 文子"守"系列哲學
 ---
 

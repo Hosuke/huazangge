@@ -13,6 +13,7 @@ tags:
 - mengzi
 - text-structure
 - sinology
+- category:confucianism
 title: Mencius Seven Chapters / 孟子七篇結構
 ---
 

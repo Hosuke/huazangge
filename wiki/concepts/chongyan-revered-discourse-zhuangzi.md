@@ -12,6 +12,7 @@ tags:
 - literary-device
 - philosophy
 - zhuangzi
+- category:chinese-philosophy
 title: Chongyan (Revered Discourse) in Zhuangzi / 重言（莊子）
 ---
 

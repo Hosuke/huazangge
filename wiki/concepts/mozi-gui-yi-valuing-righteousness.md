@@ -10,6 +10,7 @@ tags:
 - political-philosophy
 - righteousness
 - warring-states
+- category:chinese-philosophy
 title: Mozi Chapter on Valuing Righteousness / 墨子·貴義
 ---
 

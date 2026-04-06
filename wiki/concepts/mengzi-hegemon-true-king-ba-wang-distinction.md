@@ -11,6 +11,7 @@ tags:
 - confucian-political-philosophy
 - governance
 - virtue
+- category:governance
 title: Hegemon versus True King (霸道與王道) / 霸道與王道
 ---
 

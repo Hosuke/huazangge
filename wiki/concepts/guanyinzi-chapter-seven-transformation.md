@@ -14,6 +14,7 @@ tags:
 - guanyinzi
 - qi
 - transformation
+- category:chinese-philosophy
 title: 'Chapter Seven: Transformation (化) in Guanyinzi / 關尹子第七章：化'
 ---
 

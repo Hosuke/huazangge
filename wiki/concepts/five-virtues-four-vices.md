@@ -12,6 +12,7 @@ tags:
 - political-ethics
 - analects
 - virtue-cultivation
+- category:other
 title: Five Virtues and Four Vices / 五美四恶
 updated: '2026-04-05T05:15:14.498122+00:00'
 ---

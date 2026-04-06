@@ -4,9 +4,11 @@ merged_from:
 - internal-benevolence-external-righteousness-debate
 - ren
 sources:
-- plugin: wikisource
-  title: 維基文庫
-  url: https://zh.wikisource.org
+- book: 论语
+  chapter: 里仁
+  plugin: classical_text
+  title: 论语 · 里仁
+  url: https://ctext.org/analects/li-ren/zh
 summary: Discusses the foundational role of benevolence in Confucian ethics and its
   implications for interpersonal relationships and governance.
 tags:
@@ -24,6 +26,7 @@ tags:
 - righteousness
 - virtue
 - virtue-ethics
+- category:confucianism
 title: Benevolence / 仁
 updated: '2026-04-05T14:51:00.454939+00:00'
 ---

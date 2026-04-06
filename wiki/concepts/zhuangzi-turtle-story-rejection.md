@@ -12,6 +12,7 @@ tags:
 - political-philosophy
 - wu-wei
 - chinese-philosophy
+- category:chinese-philosophy
 title: Zhuangzi's Turtle Story / 莊子曳尾塗中
 ---
 

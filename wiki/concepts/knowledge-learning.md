@@ -15,6 +15,7 @@ tags:
 - learning
 - philosophy
 - scholarship
+- category:confucianism
 title: Knowledge and Learning / 知识与学习
 updated: '2026-04-04T19:19:18.510062+00:00'
 ---

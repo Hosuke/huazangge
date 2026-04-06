@@ -9,6 +9,7 @@ tags:
 - immortality-practice
 - taoism
 - three-treasures
+- category:other
 title: Embryo Breathing (胎息) in Baopuzi / 抱朴子中的胎息之法
 ---
 

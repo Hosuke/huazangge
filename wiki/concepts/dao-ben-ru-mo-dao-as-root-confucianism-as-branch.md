@@ -11,6 +11,7 @@ tags:
 - confucianism
 - chinese-philosophy
 - dao-confucianism-comparison
+- category:chinese-philosophy
 title: Dao as Root, Confucianism as Branch / 道本儒末
 ---
 

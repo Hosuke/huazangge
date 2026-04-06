@@ -10,6 +10,7 @@ tags:
 - dana-paramita
 - self-sacrifice
 - thousand-lamps
+- category:other
 title: The King Who Lit a Thousand Lamps / 以身燃千燈之王
 updated: '2026-04-05T14:51:00.481037+00:00'
 ---

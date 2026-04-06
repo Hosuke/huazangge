@@ -12,6 +12,7 @@ tags:
 - book-of-rites
 - li-ji
 - confucian-self-cultivation
+- category:other
 title: The Mourning Staff in the Book of Rites / 問喪中的喪杖制度
 ---
 

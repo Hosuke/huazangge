@@ -12,6 +12,7 @@ tags:
 - hinayana
 - mental-afflictions
 - ethical-teaching
+- category:other
 title: Four Inversions / 四顛倒 / 四颠倒
 ---
 

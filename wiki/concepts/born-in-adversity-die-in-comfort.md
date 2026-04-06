@@ -19,6 +19,7 @@ tags:
 - moral-cultivation-methods
 - political-philosophy
 - virtue-ethics
+- category:political-philosophy
 title: Born in Adversity, Die in Comfort / 生于忧患，死于安乐
 updated: '2026-04-05T14:51:00.487395+00:00'
 ---

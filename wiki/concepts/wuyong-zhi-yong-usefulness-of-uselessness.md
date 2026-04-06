@@ -14,6 +14,7 @@ tags:
 - paradoxes-in-philosophy
 - usability-value
 - zhuangzi
+- category:chinese-philosophy
 title: The Usefulness of Uselessness / 無用之用
 ---
 

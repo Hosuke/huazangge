@@ -7,6 +7,7 @@ tags:
 - public-domain
 - libraries
 - copyright
+- category:other
 title: Google Books Digitization Project / 谷歌图书数字化项目
 updated: '2026-04-05T05:48:31.556315+00:00'
 ---

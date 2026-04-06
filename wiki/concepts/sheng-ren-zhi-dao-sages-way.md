@@ -8,6 +8,7 @@ tags:
 - Guanyinzi
 - governance
 - sagehood
+- category:daoist-philosophy
 title: The Sage's Way / 聖人之道
 ---
 

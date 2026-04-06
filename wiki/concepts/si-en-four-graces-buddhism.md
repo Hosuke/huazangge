@@ -11,6 +11,7 @@ tags:
 - gratitude
 - mahasattvas
 - mahayana
+- category:other
 title: Four Graces / 四恩 / 四恩
 ---
 

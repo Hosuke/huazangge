@@ -9,6 +9,7 @@ tags:
 - military-defense
 - gongshu-ban
 - dialogic-argument
+- category:chinese-philosophy
 title: Mozi Gongshu Chapter / 墨子公輸篇
 ---
 

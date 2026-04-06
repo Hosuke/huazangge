@@ -11,6 +11,7 @@ tags:
 - bodhisattva-practice
 - wisdom
 - meditation
+- category:other
 title: 入一切種智行陀羅尼門 / Entry into the All-Knowledge Dhāraṇī Gate
 ---
 

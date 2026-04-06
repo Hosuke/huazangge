@@ -10,6 +10,7 @@ tags:
 - moral-retribution
 - mozi
 - warring-states
+- category:chinese-philosophy
 title: Mozi - Illuminating Ghosts (Ming Gui) / 墨子·明鬼
 ---
 

@@ -12,6 +12,7 @@ tags:
 - education
 - self-cultivation
 - knowledge-acquisition
+- category:confucianism
 title: Learning Attitude in Analects / 论语学习态度
 updated: '2026-04-04T22:45:08.598600+00:00'
 ---

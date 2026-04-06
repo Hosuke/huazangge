@@ -14,6 +14,7 @@ tags:
 - chinese-philosophy
 - non-pleasure
 - confucian-critique
+- category:chinese-philosophy
 title: Mozi Against Music Part I (非樂上) — Mohist Critique of Music and Governance
 ---
 

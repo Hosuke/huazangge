@@ -15,6 +15,7 @@ tags:
 - ethics
 - self-cultivation
 - stub
+- category:chinese-philosophy
 title: Doctrine of the Mean (Zhongyong) / 中庸
 ---
 

@@ -7,6 +7,7 @@ tags:
 - filial-piety
 - social-welfare
 - confucian-classics
+- category:other
 title: Elderly Care (Yang Lao) in the Rites / 養老禮
 ---
 

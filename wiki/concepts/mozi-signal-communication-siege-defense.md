@@ -7,6 +7,7 @@ tags:
 - military-communication
 - signal-system
 - drum-codes
+- category:mozi
 title: Mozi's Signal Communication Protocol / 墨子旗鼓信號制度
 ---
 

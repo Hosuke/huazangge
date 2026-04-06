@@ -11,6 +11,7 @@ tags:
 - learning
 - self-cultivation
 - analects
+- category:confucianism
 title: Learning and Its Practice / 学而时习之
 updated: '2026-04-04T18:33:08.532548+00:00'
 ---

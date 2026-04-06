@@ -8,6 +8,7 @@ tags:
 - dana-paramita
 - bodhisattva-practice
 - prince-sudana
+- category:other
 title: Prince Sudāna's Story / 太子須大拏經
 ---
 

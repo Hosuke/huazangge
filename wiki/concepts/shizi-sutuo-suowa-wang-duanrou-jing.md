@@ -12,6 +12,7 @@ tags:
 - karmic-transformation
 - tang-dynasty-translations
 - indian-buddhist-narratives
+- category:other
 title: Sutra of King Siṃha-Sūdaśa on Abstaining from Meat / 師子素馱娑王斷肉經
 ---
 

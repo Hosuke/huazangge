@@ -18,6 +18,7 @@ tags:
 - philosophy
 - virtue
 - virtue-ethics
+- category:confucianism
 title: The Role of the Junzi / 君子的角色
 updated: '2026-04-05T05:47:04.183723+00:00'
 ---

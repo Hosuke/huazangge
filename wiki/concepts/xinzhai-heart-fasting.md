@@ -11,6 +11,7 @@ tags:
 - self-cultivation
 - chinese-philosophy
 - confucian-daoist-dialogue
+- category:chinese-philosophy
 title: Heart Fasting / 心齋
 ---
 

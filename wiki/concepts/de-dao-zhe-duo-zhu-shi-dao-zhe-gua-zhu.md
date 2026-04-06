@@ -12,6 +12,7 @@ tags:
 - moral-legitimacy
 - governance
 - political-theory
+- category:governance
 title: De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助
 ---
 

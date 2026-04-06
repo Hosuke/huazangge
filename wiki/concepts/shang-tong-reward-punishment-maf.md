@@ -7,6 +7,7 @@ tags:
 - governance
 - rewards-punishments
 - political-philosophy
+- category:mozi
 title: Reward and Punishment in Shang Tong Theory / 尚同賞罰論
 ---
 

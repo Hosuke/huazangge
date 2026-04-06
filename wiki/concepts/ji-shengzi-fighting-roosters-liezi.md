@@ -9,6 +9,7 @@ tags:
 - spiritual-training
 - ziran
 - naturalness
+- category:liezi
 title: 'Ji Shengzi''s Fighting Roosters: Spiritual Mastery / 紀渻子養鬭雞 — 精神修養之道'
 ---
 

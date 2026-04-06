@@ -11,6 +11,7 @@ tags:
 - self-cultivation
 - wuwei
 - zhuangzi
+- category:chinese-philosophy
 title: Kè Yì (Cultivating Deliberate Purpose) / 刻意
 ---
 

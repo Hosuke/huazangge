@@ -10,6 +10,7 @@ tags:
 - 兼愛
 - 墨家
 - 墨子
+- category:chinese-philosophy
 title: Universal Love (兼愛) / 兼愛
 updated: '2026-04-04T16:54:13.631591+00:00'
 ---

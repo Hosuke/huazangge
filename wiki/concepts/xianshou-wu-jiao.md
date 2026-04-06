@@ -9,6 +9,7 @@ tags:
 - fazang
 - tang-dynasty-buddhism
 - doctrinal-hierarchy
+- category:other
 title: 賢首五教 / Five Teachings of Xianshou / 賢首五教（けんじゅぎょう）
 ---
 

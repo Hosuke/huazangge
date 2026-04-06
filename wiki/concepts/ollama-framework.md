@@ -8,6 +8,7 @@ tags:
 - local-ai-inference
 - gguf-format
 - non-target
+- category:other
 title: Ollama Framework / Ollama 框架 / Ollamaフレームワーク
 ---
 

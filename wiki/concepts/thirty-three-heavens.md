@@ -10,6 +10,7 @@ tags:
 - buddhist-cosmology
 - heavenly-assembly
 - tathagata-eight-rare-qualities
+- category:other
 title: Trayastriṃśa Heaven / 三十三天（忉利天）
 ---
 

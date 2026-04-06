@@ -10,6 +10,7 @@ tags:
 - analects
 - warring-states-period
 - stub
+- category:other
 title: Zigong / 子贡
 ---
 

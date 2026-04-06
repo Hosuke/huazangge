@@ -11,6 +11,7 @@ tags:
 - filial-piety
 - eastern-han
 - buddhism
+- category:other
 title: Great Expedient Sutra on Repaying Buddha's Kindness / 大方便佛報恩經
 ---
 

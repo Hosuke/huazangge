@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 佛說大愛道般泥洹經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0144
+  work_id: T0144
 summary: The fundamental Taoist concept of Dao (The Way), the ultimate reality and
   principle underlying the universe.
 tags:
@@ -7,6 +13,7 @@ tags:
 - metaphysics
 - dao-de-jing
 - wang-bi
+- category:chinese-philosophy
 title: Dao (The Way) / 道
 ---
 

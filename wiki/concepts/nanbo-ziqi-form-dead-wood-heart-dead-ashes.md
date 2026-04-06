@@ -12,6 +12,7 @@ tags:
 - meditation
 - spiritual-cultivation
 - ziqi
+- category:zhuangzi
 title: Nanbo Ziqi / 南伯子綦
 ---
 

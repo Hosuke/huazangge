@@ -13,6 +13,7 @@ tags:
 - early-buddhism
 - han-dynasty-translation
 - personal-cultivation
+- category:other
 title: 'Four Types of People: Self-Care and Care for Others / 四等人自護護他'
 ---
 

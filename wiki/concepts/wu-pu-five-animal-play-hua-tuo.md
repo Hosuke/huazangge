@@ -14,6 +14,7 @@ tags:
 - wu-pu
 - physical-practice
 - immortality
+- category:other
 title: Wu Pu and the Five Animal Play / 吴普与五禽戏
 ---
 

@@ -20,6 +20,7 @@ tags:
 - unity
 - warring-states
 - warring-states-period
+- category:chinese-philosophy
 title: Shang Tong (Upper Unity) / 尚同
 ---
 

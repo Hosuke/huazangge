@@ -6,6 +6,7 @@ tags:
 - skillful-means
 - three-dharmas
 - eightfold-path
+- category:other
 title: Skillful Means (方便) in the Three Dharmas Treatise / 三法度論方便
 ---
 

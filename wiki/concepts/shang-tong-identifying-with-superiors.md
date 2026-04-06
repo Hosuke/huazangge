@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 佛說波斯匿王太后崩塵土坌身經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0122
+  work_id: T0122
 summary: The article explores Mozi's arguments for hierarchical uniformity, emphasizing
   how a well-structured governance system with unified moral standards and a clear
   reward-punishment mechanism—spanning from the Son of Heaven down to village leaders—is
@@ -12,6 +18,7 @@ tags:
   for achieving unified governance.\n\n  **the foundation: understanding the condition
   of the people**\n\n  master mozi begins with a fundamental principle: a wise ruler
   must consider what brings order to the state and"
+- category:other
 title: shang-tong-identifying-with-superiors
 ---
 

@@ -12,6 +12,7 @@ tags:
 - han-dynasty-buddhism
 - five-aggregates
 - mindfulness
+- category:other
 title: Four Foundations of Mindfulness / 四意止
 ---
 

@@ -12,6 +12,7 @@ tags:
 - Daoist meditation
 - primordial
 - origin
+- category:zhuangzi
 title: Traveling Mind to the Origin of Things / 遊心於物之初
 ---
 

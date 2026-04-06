@@ -13,6 +13,7 @@ tags:
 - 军事防御
 - 古代战争
 - 墨家
+- category:mozi
 title: Mozi on Cloud Ladder Defense / 墨子備梯
 ---
 

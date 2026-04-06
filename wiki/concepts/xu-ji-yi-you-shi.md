@@ -11,6 +11,7 @@ tags:
 - self-empty
 - non-attachment
 - harmony
+- category:daoist-philosophy
 title: Swimming Through the World with an Empty Self / 虛己以遊世
 ---
 

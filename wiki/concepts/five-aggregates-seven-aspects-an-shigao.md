@@ -8,6 +8,7 @@ tags:
 - contemplation-methods
 - early-buddhism
 - han-dynasty-translation
+- category:other
 title: Five Aggregates Analyzed Through Seven Aspects / 五蘊七事分析法
 ---
 

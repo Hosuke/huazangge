@@ -13,6 +13,7 @@ tags:
 - arhat
 - renunciation
 - past-life-narrative
+- category:other
 title: The Great Firm Brahman / 大堅固婆羅門
 ---
 

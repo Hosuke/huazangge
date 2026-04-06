@@ -11,6 +11,7 @@ tags:
 - death
 - spiritual transformation
 - heart-mind
+- category:daoist-philosophy
 title: Heart Death / 心死
 ---
 

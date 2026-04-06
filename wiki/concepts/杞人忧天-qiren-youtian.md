@@ -7,6 +7,7 @@ tags:
 - anxiety
 - existentialism
 - ancient China
+- category:chinese-philosophy
 title: The Man Who Worried About Heaven Falling (杞人憂天) / 杞人憂天
 ---
 

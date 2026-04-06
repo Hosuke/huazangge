@@ -9,6 +9,7 @@ tags:
 - essence-spirit theory
 - five elements
 - dream-reality relationship
+- category:other
 title: Cosmic Principles in Guany Yinzi Chapter Two / 關尹子第二章的宇宙哲學
 ---
 

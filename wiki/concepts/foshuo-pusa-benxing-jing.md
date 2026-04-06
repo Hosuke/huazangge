@@ -11,6 +11,7 @@ tags:
 - jataka-tales
 - eastern-jin-dynasty
 - chinese-buddhism
+- category:other
 title: Bodhisattva Practice Sutra / 佛說菩薩本行經
 ---
 

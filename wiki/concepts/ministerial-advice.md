@@ -10,6 +10,7 @@ tags:
 - mencius
 - benevolent-government
 - moral-responsibility
+- category:other
 title: Ministerial Advice / 大臣的劝谏
 updated: '2026-04-04T17:47:25.083051+00:00'
 ---

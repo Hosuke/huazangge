@@ -11,6 +11,7 @@ tags:
 - mahayana
 - lotus
 - bodhisattva-realm
+- category:other
 title: 蓮華世界 / Lotus World (Liánhuá Shìjiè)
 ---
 

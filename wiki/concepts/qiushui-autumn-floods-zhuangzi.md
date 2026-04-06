@@ -11,6 +11,7 @@ tags:
 - relativism
 - chinese-philosophy
 - fall-water-chapter
+- category:chinese-philosophy
 title: Autumn Floods / 秋水
 ---
 

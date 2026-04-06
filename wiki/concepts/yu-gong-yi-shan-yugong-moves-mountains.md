@@ -7,6 +7,7 @@ tags:
 - chinese-fable
 - perseverance
 - philosophy
+- category:liezi
 title: Yu Gong Moves the Mountains / 愚公移山
 ---
 

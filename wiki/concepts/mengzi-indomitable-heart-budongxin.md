@@ -11,6 +11,7 @@ tags:
 - courage
 - moral-will
 - confucian-spirituality
+- category:self-cultivation
 title: Indefatigable Heart (不動心) / 不動心
 ---
 

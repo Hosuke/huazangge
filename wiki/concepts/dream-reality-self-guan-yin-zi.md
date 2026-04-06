@@ -13,6 +13,7 @@ tags:
 - metaphysics
 - self
 - dreams
+- category:chinese-philosophy
 title: The Nature of Self and Reality in Guan Yin Zi / 關尹子中的自我與真實
 ---
 

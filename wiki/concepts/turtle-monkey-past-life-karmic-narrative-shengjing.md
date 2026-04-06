@@ -10,6 +10,7 @@ tags:
 - monkey
 - deception
 - shengjing
+- category:other
 title: 鱉獼猴前世的業報故事 / 鱉と獼猴の前世因果物語 / 거북이와 원숭이의 전생 업보 이야기
 ---
 

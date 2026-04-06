@@ -11,6 +11,7 @@ tags:
 - environmental-influence
 - political-philosophy
 - confucianism
+- category:confucianism
 title: 'Mozi Suo Ran: On Dyeing and Environmental Influence / 墨子所染——染絲之喻與環境熏習'
 ---
 

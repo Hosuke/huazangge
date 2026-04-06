@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 四阿鋡暮抄解 (2卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T1505
+  work_id: T1505
 summary: A Buddhist philosophical commentary on the Four Āgamas discussing the Three
   Dharmas of merit, evil, and liberation.
 tags:
@@ -7,6 +13,7 @@ tags:
 - three-dharmas
 - buddhist-commentary
 - qin-dynasty-buddhism
+- category:other
 title: Four Āgamas Commentary / 四阿鋡暮抄解
 ---
 

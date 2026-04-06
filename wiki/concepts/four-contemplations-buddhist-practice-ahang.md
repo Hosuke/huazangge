@@ -7,6 +7,7 @@ tags:
 - self-examination
 - an-shigao
 - agama-buddhism
+- category:other
 title: Four Contemplations / 四事 / 四つの観法
 ---
 

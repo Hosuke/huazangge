@@ -19,6 +19,7 @@ tags:
 - practical-philosophy
 - utilitarian-philosophy
 - warring-states-period
+- category:chinese-philosophy
 title: Mozi on Utility (節用) — The Principle of Frugality in Mohist Governance / 墨子節用思想——兼愛天下的功利原則
 ---
 

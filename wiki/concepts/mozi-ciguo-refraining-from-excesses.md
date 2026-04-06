@@ -16,6 +16,7 @@ tags:
 - governance
 - confucianism
 - chinese-texts
+- category:confucianism
 title: Mozi - Refraining from Excesses (辭過) / 墨子·辭過
 ---
 

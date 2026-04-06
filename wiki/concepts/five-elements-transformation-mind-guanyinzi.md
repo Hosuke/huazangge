@@ -13,6 +13,7 @@ tags:
 - Five Elements
 - Mind and emotions
 - Chinese cosmology
+- category:daoist-philosophy
 title: The Mind and the Five Elements in Guān Yǐnzǐ Chapter 8 / 關尹子第八章中的心與五行
 ---
 

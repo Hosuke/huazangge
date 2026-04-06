@@ -13,6 +13,7 @@ tags:
 - spiritual-cultivation
 - illusion
 - perception
+- category:zhuangzi
 title: Huzi (壺子) - The Master of Hidden Virtue / 壺子
 ---
 

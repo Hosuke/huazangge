@@ -18,6 +18,7 @@ tags:
 - philosophy
 - self-cultivation
 - virtue-ethics
+- category:chinese-philosophy
 title: Sincerity (Cheng) in Confucianism / 誠
 updated: '2026-04-05T14:51:00.499610+00:00'
 ---

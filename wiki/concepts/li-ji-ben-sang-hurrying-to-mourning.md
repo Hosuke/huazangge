@@ -1,4 +1,10 @@
 ---
+sources:
+- chapter: 大傳
+  plugin: wikisource
+  title: 禮記 · 大傳
+  url: https://zh.wikisource.org/wiki/禮記/大傳
+  work: 禮記
 summary: The Book of Rites describes the ritual procedures for a son rushing home
   upon learning of a parent's death, including immediate response protocols, travel
   customs, and mourning ceremonies.
@@ -8,6 +14,7 @@ tags:
 - mourning-rites
 - li-ji
 - chinese-ritual
+- category:other
 title: Rushing to Mourning (Ben Sang) / 禮記·奔喪
 ---
 

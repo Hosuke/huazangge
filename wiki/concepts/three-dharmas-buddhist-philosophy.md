@@ -8,6 +8,7 @@ tags:
 - evil
 - liberation
 - buddhist-ethics
+- category:other
 title: Three Dharmas / 三法
 ---
 

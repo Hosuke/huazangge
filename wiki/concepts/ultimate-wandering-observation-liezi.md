@@ -7,6 +7,7 @@ tags:
 - self-cultivation
 - spiritual-practice
 - chinese-philosophy
+- category:chinese-philosophy
 title: Ultimate Wandering and Observation (至游至觀) / 至游至觀
 ---
 

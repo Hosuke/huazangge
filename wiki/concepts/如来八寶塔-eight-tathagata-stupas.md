@@ -11,6 +11,7 @@ tags:
 - stupa
 - buddhist-cultivation
 - relics
+- category:other
 title: Eight Tathāgata Stupas / 如來八寶塔 / 如来八宝塔
 ---
 

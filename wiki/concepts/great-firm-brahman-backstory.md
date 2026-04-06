@@ -16,6 +16,7 @@ tags:
 - buddhist-narrative
 - indian-buddhism
 - three-jewels
+- category:other
 title: The Origin Story of the Great Firm Brāhmaṇa / 大堅固婆羅門緣起
 ---
 

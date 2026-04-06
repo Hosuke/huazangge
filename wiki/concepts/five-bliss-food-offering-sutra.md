@@ -1,8 +1,10 @@
 ---
 sources:
-- plugin: cbeta
-  title: CBETA 大藏經
-  url: https://cbetaonline.dila.edu.tw
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 佛說食施獲五福報經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0132a
+  work_id: T0132a
 summary: 'A Buddhist sutra teaching that providing food to others generates five types
   of blessings: life, complexion, strength, peace, and eloquence.'
 tags:
@@ -14,6 +16,7 @@ tags:
 - five-blessings
 - food-offering
 - food-offerings
+- category:other
 title: Sutra on Five Blessings from Food Offerings / 佛說食施獲五福報經
 ---
 

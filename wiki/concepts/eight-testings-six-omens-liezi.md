@@ -7,6 +7,7 @@ tags:
 - consciousness
 - taoist-psychology
 - philosophy-of-mind
+- category:liezi
 title: Eight Testings and Six Omens / 覺有八徵夢有六候 / 八徵と六候
 ---
 

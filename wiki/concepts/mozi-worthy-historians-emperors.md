@@ -6,6 +6,7 @@ tags:
 - historical-examples
 - governance
 - ancient-china
+- category:governance
 title: Wise Ministers of History / 聖賢履歴
 ---
 

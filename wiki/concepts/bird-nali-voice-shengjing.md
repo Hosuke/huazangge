@@ -8,6 +8,7 @@ tags:
 - Buddhist teaching
 - shengjing
 - impermanence
+- category:other
 title: 我所鳥的故事 / 我所鳥的故事 / 「我所」鳥の物語
 ---
 

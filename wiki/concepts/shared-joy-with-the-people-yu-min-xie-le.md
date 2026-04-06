@@ -11,6 +11,7 @@ tags:
 - governance
 - music
 - king-wen
+- category:governance
 title: Shared Joy with the People (與民偕樂) / 民と偕に楽む
 ---
 

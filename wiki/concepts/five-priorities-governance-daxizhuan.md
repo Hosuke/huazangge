@@ -1,4 +1,10 @@
 ---
+sources:
+- chapter: 大傳
+  plugin: wikisource
+  title: 禮記 · 大傳
+  url: https://zh.wikisource.org/wiki/禮記/大傳
+  work: 禮記
 summary: The Daxizhuan chapter of the Book of Rites outlines five governance priorities:亲近、报功、举贤、使能、存爱,
   forming the foundation of Confucian political philosophy.
 tags:
@@ -6,6 +12,7 @@ tags:
 - governance
 - book-of-rites
 - ritual-ethics
+- category:governance
 title: The Five Priorities of Governance in Daxizhuan / 禮記大傳人道五端
 ---
 

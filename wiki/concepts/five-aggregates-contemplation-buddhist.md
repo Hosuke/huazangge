@@ -7,6 +7,7 @@ tags:
 - contemplation-practice
 - five-aggregates
 - non-self
+- category:other
 title: Five Aggregates Contemplation / 五陰觀 / 五蘊の観想
 ---
 

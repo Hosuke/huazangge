@@ -14,6 +14,7 @@ tags:
 - king-mahadyuti
 - four-continents
 - thirty-three-heavens
+- category:other
 title: King Ding Sheng (Mahādyuti) — Birth from the Crown and Karmic Journey / 頂生王因緣經
   — 頂上化生之因緣敘事
 ---

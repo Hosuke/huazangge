@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 大集法門經 (2卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0012
+  work_id: T0012
 summary: A Buddhist pedagogical method presenting doctrine through systematic numerical
   categories from one to ten, used for monastic education and memorization.
 tags:
@@ -7,6 +13,7 @@ tags:
 - monastic-education
 - sarvastivada
 - doctrinal-organization
+- category:other
 title: Great Collection Teaching / 大集法門
 ---
 

@@ -9,6 +9,7 @@ tags:
 - individualism
 - liezi
 - yang-zhu
+- category:chinese-philosophy
 title: Yang Zhu's Philosophy in Liezi / 楊朱篇的哲學思想
 ---
 

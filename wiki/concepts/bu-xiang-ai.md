@@ -8,6 +8,7 @@ tags:
 - universal-love
 - social-harmony
 - pre-qin-philosophy
+- category:chinese-philosophy
 title: Non-Mutual Love / 不相愛
 ---
 

@@ -7,6 +7,7 @@ tags:
 - four-debts-of-gratitude
 - bao-en-pin
 - stub
+- category:other
 title: Three Treasures / 三宝
 ---
 

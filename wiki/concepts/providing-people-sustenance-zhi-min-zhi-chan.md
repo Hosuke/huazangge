@@ -13,6 +13,7 @@ tags:
 - economic-ethics
 - governance
 - welfare
+- category:governance
 title: Providing the People with Sustenance (制民之產) / 民に産業を制する
 ---
 

@@ -11,6 +11,7 @@ tags:
 - virtue
 - moral-psychology
 - self-cultivation
+- category:self-cultivation
 title: Extending Kindness (推恩) / 推恩
 ---
 

@@ -8,6 +8,7 @@ tags:
 - emptiness
 - self-cultivation
 - 守虛
+- category:self-cultivation
 title: Guarding Emptiness (守虛) in Wenzi / 文子"守虛"論
 ---
 

@@ -12,6 +12,7 @@ tags:
 - cosmology
 - chinese-philosophy
 - comparative-philosophy
+- category:chinese-philosophy
 title: Four Kingdoms of Dream and Reality / 四國夢覺
 ---
 

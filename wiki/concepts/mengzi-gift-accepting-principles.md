@@ -14,6 +14,7 @@ tags:
 - integrity
 - political-theory
 - gift-giving
+- category:mengzi
 title: Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿
 ---
 

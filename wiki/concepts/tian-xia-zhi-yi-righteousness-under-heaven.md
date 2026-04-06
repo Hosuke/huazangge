@@ -7,6 +7,7 @@ tags:
 - political-philosophy
 - confucian-ethics
 - moral-philosophy
+- category:mozi
 title: Righteousness Under Heaven / 天下之義
 ---
 

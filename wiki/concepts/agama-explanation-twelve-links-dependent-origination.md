@@ -13,6 +13,7 @@ tags:
 - philosophy
 - pratityasamutpada
 - twelve-links-dependent-origination
+- category:other
 title: Āgama Explanation of Twelve Links of Dependent Origination / 阿含口解十二因緣經
 ---
 

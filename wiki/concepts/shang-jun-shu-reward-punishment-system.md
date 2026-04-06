@@ -7,6 +7,7 @@ tags:
 - punishments
 - rewards
 - shangjunshu
+- category:governance
 title: Reward and Punishment System in Shangjunshu / 商君書賞罰制度
 ---
 

@@ -12,6 +12,7 @@ tags:
 - utopia
 - dream
 - wu-wei
+- category:liezi
 title: The Huaxu Kingdom / 華胥氏之國
 ---
 

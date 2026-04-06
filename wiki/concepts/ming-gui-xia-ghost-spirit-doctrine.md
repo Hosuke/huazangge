@@ -16,6 +16,7 @@ tags:
 - political-philosophy
 - sacrificial-rites
 - confucianism
+- category:chinese-philosophy
 title: Demonstrating the Existence of Ghosts Part 2 / 明鬼下
 ---
 

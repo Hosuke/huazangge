@@ -7,6 +7,7 @@ tags:
 - lotus-world
 - buddhist-cosmogony
 - chinese-buddhism
+- category:other
 title: 大乘悲分陀利經 / Mahāyāna Dhāraṇī of Compassion
 ---
 

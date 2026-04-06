@@ -23,6 +23,7 @@ tags:
 - stream-enterer
 - stub
 - theravada
+- category:other
 title: 阿羅漢位 / Stages of Arhat Liberation
 updated: '2026-04-05T14:51:00.435204+00:00'
 ---

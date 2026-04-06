@@ -7,6 +7,7 @@ tags:
 - moral-psychology
 - social-stability
 - land-reform
+- category:other
 title: Fixed Livelihood / 恒产论
 updated: '2026-04-04T17:23:07.037390+00:00'
 ---

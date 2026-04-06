@@ -12,6 +12,7 @@ tags:
 - political-philosophy
 - virtue
 - analects
+- category:confucianism
 title: Governance through Virtue / 为政以德
 updated: '2026-04-04T18:33:08.534759+00:00'
 ---

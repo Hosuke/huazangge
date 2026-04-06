@@ -6,6 +6,7 @@ tags:
 - buddhist-translators
 - chinese-buddhism
 - translation-works
+- category:other
 title: Fajü (法炬) — Western Jin Buddhist Translator / 法炬
 ---
 

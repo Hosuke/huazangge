@@ -8,6 +8,7 @@ tags:
 - mastery
 - skill
 - daoist-practice
+- category:liezi
 title: 'The Cicada Catcher: Mastery Through Focused Concentration / 痀僂承蜩：至精至專之道'
 ---
 

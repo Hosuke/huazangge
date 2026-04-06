@@ -7,6 +7,7 @@ tags:
 - determinism
 - free-will
 - taoism
+- category:chinese-philosophy
 title: Force and Fate Debate / 力命之辯
 ---
 

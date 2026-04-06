@@ -11,6 +11,7 @@ tags:
 - mengzi
 - governance
 - ruler-minister-relations
+- category:confucianism
 title: Unsummoned Ministers / 不召之臣
 ---
 

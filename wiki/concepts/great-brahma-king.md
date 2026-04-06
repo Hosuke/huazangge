@@ -8,6 +8,7 @@ tags:
 - human-immortal-sutra
 - thirty-three-heavens
 - stub
+- category:other
 title: Great Brahma King / 大梵天王
 ---
 

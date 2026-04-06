@@ -14,6 +14,7 @@ tags:
 - mental-defilements
 - mahayana
 - mind-ground
+- category:other
 title: Five Hindrances and Ten Fetters in Buddhist Doctrine / 五葢十纏
 ---
 

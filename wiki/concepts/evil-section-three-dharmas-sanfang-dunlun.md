@@ -7,6 +7,7 @@ tags:
 - evil-classification
 - desire
 - delusion
+- category:other
 title: Evil Section (惡品) in the Three Dharmas Treatise / 三法度論惡品
 ---
 

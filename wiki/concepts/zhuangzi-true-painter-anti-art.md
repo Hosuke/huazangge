@@ -11,6 +11,7 @@ tags:
 - Art
 - Non-action
 - Spontaneity
+- category:daoist-philosophy
 title: The True Painter / 眞正的畫者
 ---
 

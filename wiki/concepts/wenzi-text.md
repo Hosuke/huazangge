@@ -12,6 +12,7 @@ tags:
 - daoist-texts
 - laozi-tradition
 - wenzi
+- category:chinese-philosophy
 title: Wenzi (The Book of Master Wen) / 文子
 ---
 

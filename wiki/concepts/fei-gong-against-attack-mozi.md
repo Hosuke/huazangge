@@ -14,6 +14,7 @@ tags:
 - Mozi
 - Non-war
 - War ethics
+- category:chinese-philosophy
 title: Against Attack (非攻) - Mozi's Doctrine of Condemning Aggressive Warfare
 ---
 

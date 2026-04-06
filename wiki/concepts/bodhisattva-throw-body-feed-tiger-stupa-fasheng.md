@@ -15,6 +15,7 @@ tags:
 - translation
 - stupa
 - healing-miracles
+- category:other
 title: The Sutra of Bodhisattva Throwing His Body to Feed the Hungry Tiger and the
   Stupa's Origin / 菩薩投身餧餓虎起塔因緣經
 ---

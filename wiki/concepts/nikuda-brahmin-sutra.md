@@ -7,6 +7,7 @@ tags:
 - brahmins
 - defilement
 - śrāvaka-path
+- category:other
 title: Discourse on Nikuda Brahmins / 佛說尼拘陀梵志經
 ---
 

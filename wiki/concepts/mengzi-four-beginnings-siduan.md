@@ -23,6 +23,7 @@ tags:
 - moral-psychology
 - sinology
 - virtue-ethics
+- category:confucianism
 title: Four Beginnings (四端) / 四端說
 ---
 

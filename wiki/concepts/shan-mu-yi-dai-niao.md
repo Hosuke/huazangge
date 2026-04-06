@@ -11,6 +11,7 @@ tags:
 - humility
 - non-competition
 - survival-wisdom
+- category:daoist-philosophy
 title: The Yi Dai Bird / 意怠鳥
 ---
 

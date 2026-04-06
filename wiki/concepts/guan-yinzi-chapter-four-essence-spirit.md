@@ -12,6 +12,7 @@ tags:
 - 精
 - 神
 - 魂魄
+- category:daoist-philosophy
 title: Essence and Spirit (精神) in Guǎn Yǐnzǐ Chapter 4 / 關尹子第四章：精與神
 ---
 

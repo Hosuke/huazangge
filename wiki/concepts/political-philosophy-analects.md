@@ -13,6 +13,7 @@ tags:
 - political-philosophy
 - governance
 - leadership
+- category:confucianism
 title: Political Philosophy in Analects / 论语政治哲学
 updated: '2026-04-04T22:45:08.599606+00:00'
 ---

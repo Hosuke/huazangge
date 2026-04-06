@@ -8,6 +8,7 @@ tags:
 - thirty-seven-factors
 - faith
 - wisdom
+- category:other
 title: Five Roots and Five Powers / 五根五力
 ---
 

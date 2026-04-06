@@ -13,6 +13,7 @@ tags:
 - cosmology
 - brahmins
 - origin-of-society
+- category:other
 title: Buddhist Origin of the Four Castes / 四姓起源
 ---
 

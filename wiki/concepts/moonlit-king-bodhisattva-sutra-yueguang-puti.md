@@ -13,6 +13,7 @@ tags:
 - jataka-tale
 - mahayana-sutra
 - moonlight-bodhisattva
+- category:other
 title: Sutra of the Moonlight King (Moonlight Bodhisattva Sutra) / 佛說月光菩薩經
 ---
 

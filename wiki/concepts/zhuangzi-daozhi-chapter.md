@@ -14,6 +14,7 @@ tags:
 - robber-zhi
 - taoism
 - zhuangzi
+- category:daoist-philosophy
 title: Robber Zhi Chapter (盜跖) / 盜跖篇
 ---
 

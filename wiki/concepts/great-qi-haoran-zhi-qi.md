@@ -12,6 +12,7 @@ tags:
 - moral-cultivation
 - qi
 - spiritual-cultivation
+- category:chinese-philosophy
 title: Great Qi / 浩然之氣 / 浩然之気
 ---
 

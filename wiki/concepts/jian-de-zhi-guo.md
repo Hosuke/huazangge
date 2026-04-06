@@ -12,6 +12,7 @@ tags:
 - naturalness
 - utopia
 - zhuangzi
+- category:daoist-philosophy
 title: Nation of Established Virtue / 建德之國
 ---
 

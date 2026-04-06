@@ -16,6 +16,7 @@ tags:
 - philosophy
 - reflection
 - self-cultivation
+- category:confucianism
 title: Self-Examination in Confucianism / 三省吾身
 updated: '2026-04-04T19:14:38.715915+00:00'
 ---

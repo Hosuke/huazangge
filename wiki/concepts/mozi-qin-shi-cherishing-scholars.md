@@ -7,6 +7,7 @@ tags:
 - mohist-doctrine
 - worthy-scholars
 - governance
+- category:mozi
 title: Mozi Chapter on Cherishing Scholars / 墨子親士
 ---
 

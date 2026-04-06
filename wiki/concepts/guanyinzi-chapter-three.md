@@ -11,6 +11,7 @@ tags:
 - Guanyinzi
 - non-action
 - sage governance
+- category:chinese-philosophy
 title: 'Guanyinzi Chapter Three: On the Sage''s Non-Action / 關尹子第三章：聖人無為'
 ---
 

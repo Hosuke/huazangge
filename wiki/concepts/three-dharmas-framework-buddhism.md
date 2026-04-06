@@ -7,6 +7,7 @@ tags:
 - three-dharmas
 - abhidharma
 - eastern-jin-dynasty
+- category:other
 title: Three Dharmas / 三法 / 三法
 ---
 

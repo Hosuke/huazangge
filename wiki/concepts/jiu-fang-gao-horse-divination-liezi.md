@@ -7,6 +7,7 @@ tags:
 - liezi
 - perception
 - wisdom
+- category:chinese-philosophy
 title: Jiu Fang Gao's Horse Divination / 九方皋相馬
 ---
 

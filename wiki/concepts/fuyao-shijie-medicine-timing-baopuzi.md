@@ -6,6 +6,7 @@ tags:
 - daoist-alchemy
 - medicine-timing
 - cultivation-methods
+- category:other
 title: Medicine Timing (服藥時節) in Baopuzi / 抱朴子服藥時節
 ---
 

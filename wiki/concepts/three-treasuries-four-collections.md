@@ -12,6 +12,7 @@ tags:
 - buddhist-canon
 - tipitaka
 - sutra-classification
+- category:other
 title: 三藏三分 Four Āgamas / Tripartite Canon and Quadruple Sūtra Collections
 ---
 

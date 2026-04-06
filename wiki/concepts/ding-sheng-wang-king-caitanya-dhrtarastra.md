@@ -1,8 +1,10 @@
 ---
 sources:
-- plugin: cbeta
-  title: CBETA 大藏經
-  url: https://cbetaonline.dila.edu.tw
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 頂生王故事經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0039
+  work_id: T0039
 summary: King Ding Sheng is a bodhisattva incarnation who was born from his father's
   crown, practiced generous giving, conquered the four continents, and ascended through
   the thirty-three heavens, illustrating Buddhist teachings on merit and the dangers
@@ -20,6 +22,7 @@ tags:
 - seven-treasures
 - thirty-three-heavens
 - wheel-turning-king
+- category:other
 title: King Ding Sheng (Ding Sheng Wang) / 頂生王
 ---
 

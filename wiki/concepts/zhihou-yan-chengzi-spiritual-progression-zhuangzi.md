@@ -12,6 +12,7 @@ tags:
 - enlightenment
 - self-transformation
 - chinese-philosophy
+- category:chinese-philosophy
 title: Yan Chengzi's Nine-Year Spiritual Progression / 顏成子游九年大妙
 ---
 

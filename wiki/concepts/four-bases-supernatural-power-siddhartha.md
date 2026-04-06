@@ -12,6 +12,7 @@ tags:
 - supernatural-powers
 - mahabrahma
 - four-bases
+- category:other
 title: Four Bases of Supernatural Power / 四神足
 ---
 

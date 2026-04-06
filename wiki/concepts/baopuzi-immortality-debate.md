@@ -11,6 +11,7 @@ tags:
 - immortality
 - transcendence
 - 抱朴子
+- category:other
 title: Bao Puzi on Immortals / 抱朴子论神仙不死
 ---
 

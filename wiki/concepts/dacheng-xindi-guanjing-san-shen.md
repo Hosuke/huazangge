@@ -14,6 +14,7 @@ tags:
 - mahayana-philosophy
 - tathagata
 - buddhist-cosmology
+- category:other
 title: 如來三身 / Three Bodies of the Tathagata (三身說)
 ---
 

@@ -8,6 +8,7 @@ tags:
 - dana-paramita
 - eastern-wei-translation
 - gautama-prajnaruci
+- category:other
 title: Golden-Colored King Sutra / 金色王經
 ---
 

@@ -10,6 +10,7 @@ tags:
 - core teachings
 - four noble truths
 - stub
+- category:other
 title: Four Noble Truths / 四聖諦
 ---
 

@@ -7,6 +7,7 @@ tags:
 - samadhi
 - cessation
 - Buddhist phenomenology
+- category:other
 title: 滅盡定 Nirodhāsamāpatti / Absorption of Cessation
 ---
 

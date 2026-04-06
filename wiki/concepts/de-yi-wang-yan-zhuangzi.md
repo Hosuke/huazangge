@@ -11,6 +11,7 @@ tags:
 - philosophy
 - taoism
 - zhuangzi
+- category:zhuangzi
 title: Forget the Words When the Meaning is Understood / 得意忘言
 ---
 

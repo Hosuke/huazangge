@@ -7,6 +7,7 @@ tags:
 - han-dynasty-buddhism
 - parthian-buddhism
 - translation-history
+- category:other
 title: An Shigao's Translation Methodology / 安世高譯經方法
 ---
 

@@ -8,6 +8,7 @@ tags:
 - dream theory
 - Guan Yinzi
 - Chinese philosophy
+- category:chinese-philosophy
 title: Self and Other in Dreams and Wakefulness / 夢中夢外：我與人的虛幻分別
 ---
 

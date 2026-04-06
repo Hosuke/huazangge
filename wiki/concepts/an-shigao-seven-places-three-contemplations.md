@@ -8,6 +8,7 @@ tags:
 - buddhist-meditation
 - chinese-buddhism-history
 - parthian-buddhism
+- category:other
 title: 'An Shigao''s Contribution: Seven Places and Three Contemplations / 安世高與七處三觀經'
 ---
 

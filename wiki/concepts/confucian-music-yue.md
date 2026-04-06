@@ -14,6 +14,7 @@ tags:
 - moral-cultivation
 - analects
 - confucian-concepts
+- category:other
 title: Confucian View of Music (Yue) / 儒家的音乐观（乐）
 updated: '2026-04-04T18:02:23.028464+00:00'
 ---

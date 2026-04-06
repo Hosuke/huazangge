@@ -11,6 +11,7 @@ tags:
 - virtue-ethics
 - great-learning
 - governance
+- category:confucianism
 title: Virtue as Root, Wealth as Branch / 德本財末
 ---
 

@@ -11,6 +11,7 @@ tags:
 - mengzi
 - virtue-theory
 - moral-psychology
+- category:confucianism
 title: Internal and External Righteousness / 仁內義外 / 仁内義外
 ---
 

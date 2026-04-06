@@ -22,6 +22,7 @@ tags:
 - philosophy
 - stub
 - virtue
+- category:chinese-philosophy
 title: Confucian Ethics / 儒家伦理
 updated: '2026-04-05T14:51:00.522948+00:00'
 ---

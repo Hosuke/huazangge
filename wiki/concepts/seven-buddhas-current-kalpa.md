@@ -12,6 +12,7 @@ tags:
 - seven-buddhas
 - mahapadana
 - agama
+- category:other
 title: Seven Buddhas of the Current Kalpa / 七佛
 ---
 

@@ -13,6 +13,7 @@ tags:
 - benevolent-government
 - governance-virtue-de
 - sinology
+- category:confucianism
 title: Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想
 ---
 

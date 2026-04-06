@@ -11,6 +11,7 @@ tags:
 - paradox
 - epistemology
 - skill
+- category:zhuangzi
 title: '"Great Skill Appears Clumsy" / 大巧若拙'
 ---
 

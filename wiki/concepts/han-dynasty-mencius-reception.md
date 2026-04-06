@@ -11,6 +11,7 @@ tags:
 - textual-transmission
 - classical-canon
 - intellectual-history
+- category:other
 title: Han Dynasty Reception of Mencius / 汉代孟子接受史
 updated: '2026-04-04T17:07:10.547600+00:00'
 ---

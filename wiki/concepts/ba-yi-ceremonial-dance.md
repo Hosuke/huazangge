@@ -1,9 +1,11 @@
 ---
 created: '2026-04-04T18:02:23.026688+00:00'
 sources:
-- plugin: wikisource
-  title: 維基文庫
-  url: https://zh.wikisource.org
+- chapter: 八佾第三
+  plugin: wikisource
+  title: 論語 · 八佾第三
+  url: https://zh.wikisource.org/wiki/論語/八佾第三
+  work: 論語
 summary: The ceremonial dance of eight rows of eight performers, a symbol of ritual
   order and social hierarchy in ancient Chinese rites.
 tags:
@@ -12,6 +14,7 @@ tags:
 - ceremony
 - social-order
 - confucian-concepts
+- category:other
 title: Ba Yi (Eight Rows) / 八佾
 updated: '2026-04-04T18:02:23.026719+00:00'
 ---

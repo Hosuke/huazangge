@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 大堅固婆羅門緣起經 (2卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0008
+  work_id: T0008
 summary: A Buddhist sutra recounting how the Buddha's past life as Minister Great
   Firm became enlightened through teachings from the Great Brahma King, then led thousands
   to liberation across celestial realms.
@@ -8,6 +14,7 @@ tags:
 - brahmin-conversion
 - thirty-three-heavens
 - eight-rare-qualities
+- category:other
 title: Great Firm Brahmin Origin Sutra / 大堅固婆羅門緣起經
 ---
 

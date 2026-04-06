@@ -8,6 +8,7 @@ tags:
 - early-chinese-philosophy
 - meritocracy
 - mozi
+- category:mozi
 title: Shang Xian (Esteeming the Worthy, Part 2) / 尚賢下
 ---
 

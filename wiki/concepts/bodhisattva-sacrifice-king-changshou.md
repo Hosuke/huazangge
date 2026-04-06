@@ -7,6 +7,7 @@ tags:
 - self-sacrifice
 - buddhist-kingship
 - past-life-stories
+- category:other
 title: King Changshou's Sacrifice / 長壽王的犧牲 / 長寿王の犠牲
 ---
 

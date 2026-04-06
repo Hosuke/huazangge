@@ -13,6 +13,7 @@ tags:
 - 軍事哲學
 - 先秦兵法
 - 儒家軍事思想
+- category:other
 title: Methods of the Marshal / 司馬法
 ---
 

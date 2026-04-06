@@ -7,6 +7,7 @@ tags:
 - intention
 - daoist-psychology
 - daoist-self-cultivation
+- category:other
 title: Intention as Dust, Mind as Transitory / 意者塵往來爾
 ---
 

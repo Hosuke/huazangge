@@ -12,6 +12,7 @@ tags:
 - folk-religion
 - chinese-philosophy
 - ge-hong
+- category:chinese-philosophy
 title: 'Bao Puzi Chapter 9: Critique of False Deities and Folk Religion / 抱朴子卷九：批判淫祀邪教'
 ---
 

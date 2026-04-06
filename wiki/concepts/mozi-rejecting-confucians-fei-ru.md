@@ -9,6 +9,7 @@ tags:
 - spring-and-autumn-period
 - yan-zi
 - confucius
+- category:chinese-philosophy
 title: Mozi's Rejection of Confucians (非儒下) / 墨子·非儒下
 ---
 

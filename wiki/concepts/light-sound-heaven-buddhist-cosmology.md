@@ -6,6 +6,7 @@ tags:
 - dhyana-heavens
 - light-sound-heaven
 - world-origin
+- category:other
 title: Light-Sound Heaven / 光音天
 ---
 

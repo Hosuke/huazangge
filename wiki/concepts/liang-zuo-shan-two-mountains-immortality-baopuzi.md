@@ -7,6 +7,7 @@ tags:
 - baopuzi
 - esoteric-teaching
 - taoism
+- category:other
 title: Two Mountains of Immortality in Baopuzi / 抱朴子所述兩座仙山
 ---
 

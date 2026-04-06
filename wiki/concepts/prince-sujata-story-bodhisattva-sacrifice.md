@@ -16,6 +16,7 @@ tags:
 - 須闍提太子
 - 佛教故事
 - 孝道
+- category:other
 title: The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice
 ---
 

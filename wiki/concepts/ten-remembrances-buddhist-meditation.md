@@ -6,6 +6,7 @@ tags:
 - mindfulness
 - ananda
 - three-treasuries
+- category:other
 title: Ten Remembrances / 十念
 ---
 

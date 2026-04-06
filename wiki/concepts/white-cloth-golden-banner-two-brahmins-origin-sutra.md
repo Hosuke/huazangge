@@ -2,9 +2,11 @@
 merged_from:
 - baiyi-jinzhuang-brahmin-origin-sutra
 sources:
-- plugin: cbeta
-  title: CBETA 大藏經
-  url: https://cbetaonline.dila.edu.tw
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 白衣金幢二婆羅門緣起經 (3卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0010
+  work_id: T0010
 summary: A Buddhist sutra recounting the renunciation of two Brahmins and presenting
   a Buddhist cosmology of human social origins.
 tags:
@@ -17,6 +19,7 @@ tags:
 - karma-teaching
 - origen-narrative
 - renunciation
+- category:other
 title: White Cloth and Golden Banner Two Brahmins Origin Sutra / 白衣金幢二婆羅門緣起經
 updated: '2026-04-05T14:51:00.441128+00:00'
 ---

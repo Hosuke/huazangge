@@ -8,6 +8,7 @@ tags:
 - filial-piety
 - bodhisattva
 - buddhist-narrative
+- category:other
 title: The Śhanzi Sutra / 佛說睒子經
 ---
 

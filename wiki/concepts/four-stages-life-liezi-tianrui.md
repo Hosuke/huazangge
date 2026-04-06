@@ -13,6 +13,7 @@ tags:
 - life-cycle
 - transformation
 - tianrui
+- category:daoist-philosophy
 title: Four Stages of Life in Liezi's Tianrui Chapter / 列子天瑞四階段人生觀
 ---
 

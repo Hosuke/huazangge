@@ -6,6 +6,7 @@ tags:
 - sense-defilements
 - moral-psychology
 - early-buddhism
+- category:other
 title: Five Thieves / 五賊
 ---
 

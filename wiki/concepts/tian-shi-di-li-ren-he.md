@@ -14,6 +14,7 @@ tags:
 - political-theory
 - social-harmony
 - strategic-thinking
+- category:governance
 title: Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和
 ---
 

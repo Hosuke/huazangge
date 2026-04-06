@@ -7,6 +7,7 @@ tags:
 - daoist-cultivation
 - mortality
 - time
+- category:other
 title: Life's Brevity and Urgency in Baopuzi / 抱朴子卷十四：人生短促之歎
 ---
 

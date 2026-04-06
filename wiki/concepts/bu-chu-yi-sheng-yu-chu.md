@@ -6,6 +6,7 @@ tags:
 - Mahayana Buddhism
 - Buddhist cosmology
 - Spiritual progress
+- category:other
 title: 補處 / One Life Remaining Before Buddhahood
 ---
 

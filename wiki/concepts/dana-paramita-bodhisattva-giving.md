@@ -7,6 +7,7 @@ tags:
 - six-perfections
 - dana
 - altruism
+- category:other
 title: Dāna Pāramitā / 檀波羅蜜 / 檀波羅蜜
 ---
 

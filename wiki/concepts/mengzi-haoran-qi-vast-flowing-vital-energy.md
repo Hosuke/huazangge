@@ -11,6 +11,7 @@ tags:
 - confucian-cultivation
 - moral-spirituality
 - self-cultivation
+- category:self-cultivation
 title: Vast Flowing Qi (浩然之氣) / 浩然之氣
 ---
 

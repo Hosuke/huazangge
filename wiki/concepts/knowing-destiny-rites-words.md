@@ -11,6 +11,7 @@ tags:
 - gentleman-ideal
 - self-cultivation
 - analects
+- category:self-cultivation
 title: Knowing Destiny, Rites, and Words / 知命知礼知言
 updated: '2026-04-05T05:15:14.499945+00:00'
 ---

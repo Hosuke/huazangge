@@ -1,4 +1,10 @@
 ---
+sources:
+- chapter: 大傳
+  plugin: wikisource
+  title: 禮記 · 大傳
+  url: https://zh.wikisource.org/wiki/禮記/大傳
+  work: 禮記
 summary: The Daxizhuan outlines the "separate branch" (別子為祖) lineage system that governed
   kinship organization, ancestral worship, and inheritance in ancient Chinese society.
 tags:
@@ -6,6 +12,7 @@ tags:
 - kinship-system
 - ancestral-worship
 - book-of-rites
+- category:other
 title: The Clan Lineage System in Daxizhuan / 禮記大傳宗法制度
 ---
 

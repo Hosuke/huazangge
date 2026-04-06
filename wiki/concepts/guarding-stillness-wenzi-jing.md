@@ -9,6 +9,7 @@ tags:
 - self-cultivation
 - longevity
 - 守靜
+- category:daoist-philosophy
 title: Guarding Stillness (守靜) in Wenzi / 文子"守靜"論
 ---
 

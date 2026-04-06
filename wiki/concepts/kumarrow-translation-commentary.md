@@ -7,6 +7,7 @@ tags:
 - buddhist-translation
 - qin-dynasty
 - chinese-buddhism
+- category:other
 title: Kumārajīva's Translation Methodology in Four Āgamas Commentary / 鳩摩羅什譯經方法
 ---
 

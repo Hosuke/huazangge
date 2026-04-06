@@ -13,6 +13,7 @@ tags:
 - human-nature
 - classical-chinese-philosophy
 - ethics
+- category:mengzi
 title: The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論
 ---
 

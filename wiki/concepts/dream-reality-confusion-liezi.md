@@ -14,6 +14,7 @@ tags:
 - philosophy-of-mind
 - paradox
 - illusion
+- category:liezi
 title: Confusion of Dreams and Reality / 夢覺不分 / 夢と現実の混同
 ---
 

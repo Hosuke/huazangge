@@ -7,6 +7,7 @@ tags:
 - skillful-means
 - mahayana-teaching
 - chinese-buddhism
+- category:other
 title: Two Grabbing Methods / 二攝法 / 二攝法
 ---
 

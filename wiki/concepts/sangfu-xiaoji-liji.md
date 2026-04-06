@@ -1,4 +1,10 @@
 ---
+sources:
+- chapter: 喪服小記
+  plugin: wikisource
+  title: 禮記 · 喪服小記
+  url: https://zh.wikisource.org/wiki/禮記/喪服小記
+  work: 禮記
 summary: A chapter from the Book of Rites detailing mourning dress regulations, mourning
   periods, and ritual protocols for various kinship relationships.
 tags:
@@ -7,6 +13,7 @@ tags:
 - mourning-rituals
 - chinese-ritual
 - ancient-chinese-law
+- category:other
 title: Sangfu Xiaoji (Minor Records of Mourning Dress) / 喪服小記
 ---
 

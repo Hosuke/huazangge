@@ -12,6 +12,7 @@ tags:
 - four-agamas
 - sutra-compilation
 - canonical-history
+- category:other
 title: 阿難集經 Ānanda's Compilation of the Buddhist Canon
 ---
 

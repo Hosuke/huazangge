@@ -9,6 +9,7 @@ tags:
 - heaven-tianzhi
 - mozi
 - political-philosophy
+- category:chinese-philosophy
 title: Heaven's Will (天志) in Mozi's Philosophy / 墨子天志哲學
 ---
 

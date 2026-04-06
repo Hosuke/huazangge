@@ -9,6 +9,7 @@ tags:
 - causality
 - bodhisattva-path
 - dana-paramita
+- category:other
 title: Fuli Prince Sutra on Merit and Fortune / 福力太子因緣經
 ---
 

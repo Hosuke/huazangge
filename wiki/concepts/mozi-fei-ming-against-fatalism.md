@@ -8,6 +8,7 @@ tags:
 - human-agency
 - mohism
 - mozi
+- category:chinese-philosophy
 title: Against Fatalism (非命上) / 墨子非命思想
 ---
 

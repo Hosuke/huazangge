@@ -6,6 +6,7 @@ tags:
 - breath-meditation
 - four-assemblies
 - anapana
+- category:other
 title: 四種阿那般那 / Four Ānāpānas / 四つの阿那般那
 ---
 

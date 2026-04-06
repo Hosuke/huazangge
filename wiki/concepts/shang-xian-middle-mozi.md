@@ -8,6 +8,7 @@ tags:
 - ancient-chinese-philosophy
 - confucian-political-theory
 - three-foundations
+- category:mozi
 title: Shang Xian Zhong (Exalting the Worthy, Part 2) / 尚賢中
 ---
 

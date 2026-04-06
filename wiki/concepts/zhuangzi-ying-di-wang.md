@@ -11,6 +11,7 @@ tags:
 - governance
 - non-action
 - chinese-philosophy
+- category:chinese-philosophy
 title: 'Zhuangzi Chapter 7: Responses of Kings / 莊子·應帝王'
 ---
 

@@ -7,6 +7,7 @@ tags:
 - homeland
 - confusion
 - chinese-philosophy
+- category:chinese-philosophy
 title: The Yan Person Returning Home / 燕人歸國
 ---
 

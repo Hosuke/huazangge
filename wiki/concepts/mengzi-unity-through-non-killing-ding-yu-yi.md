@@ -11,6 +11,7 @@ tags:
 - confucian-ethics
 - governance
 - unity
+- category:governance
 title: Unity Through Non-Killing / 定於一
 ---
 

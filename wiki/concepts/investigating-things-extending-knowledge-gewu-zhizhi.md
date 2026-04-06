@@ -8,6 +8,7 @@ tags:
 - self-cultivation
 - epistemology
 - chinese-philosophy
+- category:chinese-philosophy
 title: Investigating Things and Extending Knowledge / 格物致知
 ---
 

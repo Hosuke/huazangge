@@ -14,6 +14,7 @@ tags:
 - famine
 - bodhisattva-compassion
 - buddhist-narratives
+- category:other
 title: Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous
   Rabbit
 ---

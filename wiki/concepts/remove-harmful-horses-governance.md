@@ -11,6 +11,7 @@ tags:
 - daoism
 - non-interference
 - political-philosophy
+- category:zhuangzi
 title: Remove the Harmful Horses / 去其害馬
 ---
 

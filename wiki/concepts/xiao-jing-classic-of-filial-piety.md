@@ -16,6 +16,7 @@ tags:
 - filial-piety
 - stub
 - virtue
+- category:chinese-philosophy
 title: Classic of Filial Piety / 孝經
 ---
 

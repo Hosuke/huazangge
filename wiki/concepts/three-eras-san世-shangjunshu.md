@@ -8,6 +8,7 @@ tags:
 - historical-theory
 - governance
 - san世
+- category:governance
 title: Three Eras Theory / 三世說
 ---
 

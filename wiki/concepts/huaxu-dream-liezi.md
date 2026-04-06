@@ -7,6 +7,7 @@ tags:
 - dream
 - yellow-emperor
 - daoist-philosophy
+- category:daoist-philosophy
 title: The Huaxu Dream (華胥之夢) / 華胥之夢
 ---
 

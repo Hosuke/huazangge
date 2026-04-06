@@ -11,6 +11,7 @@ tags:
 - commentaries
 - huayan-school
 - qing-dynasty
+- category:other
 title: Lai Zhou (來舟) / 來舟法師
 ---
 

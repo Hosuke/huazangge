@@ -10,6 +10,7 @@ tags:
 - doctrinal-study
 - mahayana-teaching
 - shravaka-bodhisattva
+- category:other
 title: Ten Causes for Teaching the Mind-Ground Sutra / 教起因緣
 ---
 

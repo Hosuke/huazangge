@@ -15,6 +15,7 @@ tags:
 - state-power
 - statecraft
 - warring-states
+- category:governance
 title: Weakening the People (弱民) / 弱民
 ---
 

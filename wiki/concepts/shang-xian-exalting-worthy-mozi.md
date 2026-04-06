@@ -7,6 +7,7 @@ tags:
 - governance
 - meritocracy
 - mozi
+- category:mozi
 title: Exalting the Worthy (尚賢) in Mozi / 墨子尚賢思想
 ---
 

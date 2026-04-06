@@ -7,6 +7,7 @@ tags:
 - economic-policy
 - statecraft
 - ancient-china
+- category:other
 title: Agricultural Foundation / 农本思想
 updated: '2026-04-04T17:23:07.037565+00:00'
 ---

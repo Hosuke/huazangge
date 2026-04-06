@@ -14,6 +14,7 @@ tags:
 - optics
 - warring-states
 - warring-states-period
+- category:chinese-philosophy
 title: Mozi Upper Canon (經上) / 墨子·經上
 ---
 

@@ -7,6 +7,7 @@ tags:
 - daoist-philosophy
 - wu-wei
 - self-cultivation
+- category:daoist-philosophy
 title: Non-Attachment (無物) in Guanyinzi / 關尹子之無物論
 ---
 

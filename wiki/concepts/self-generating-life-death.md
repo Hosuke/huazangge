@@ -7,6 +7,7 @@ tags:
 - fate
 - taoism
 - cosmology
+- category:chinese-philosophy
 title: Self-Generating Life and Death / 自生自死
 ---
 

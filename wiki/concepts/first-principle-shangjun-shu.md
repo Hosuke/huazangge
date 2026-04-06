@@ -9,6 +9,7 @@ tags:
 - political-theory
 - shang-jun-shu
 - state-craft
+- category:other
 title: First Principle (壹言) / 壹言
 ---
 

@@ -10,6 +10,7 @@ tags:
 - practice-critique
 - mental-afflictions
 - four-precepts
+- category:other
 title: The Discourse on Niḡrodha Brahmā / 佛說尼拘陀梵志經
 ---
 

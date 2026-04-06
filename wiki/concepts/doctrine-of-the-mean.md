@@ -7,6 +7,7 @@ sources:
 summary: ''
 tags:
 - stub
+- category:other
 title: Doctrine Of The Mean
 ---
 

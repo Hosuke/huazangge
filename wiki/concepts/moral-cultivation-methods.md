@@ -11,6 +11,7 @@ tags:
 - self-cultivation
 - virtue-ethics
 - moral-development
+- category:confucianism
 title: Moral Cultivation Methods / 道德修养方法
 updated: '2026-04-04T22:45:08.600479+00:00'
 ---

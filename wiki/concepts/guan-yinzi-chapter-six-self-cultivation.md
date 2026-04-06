@@ -14,6 +14,7 @@ tags:
 - self-cultivation
 - chinese-philosophy
 - warring-states-period
+- category:chinese-philosophy
 title: 'Guanyinzi Chapter Six: Self-Cultivation and the Nature of Self / 關尹子第六章：修养与自我本性'
 ---
 

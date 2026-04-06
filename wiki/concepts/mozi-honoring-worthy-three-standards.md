@@ -6,6 +6,7 @@ tags:
 - political-philosophy
 - governance
 - meritocracy
+- category:governance
 title: Honoring the Worthy with Three Standards / 尚賢三本
 ---
 

@@ -6,6 +6,7 @@ tags:
 - confucius
 - epistemology
 - philosophy
+- category:liezi
 title: Two Children Debating About the Sun / 兩小兒辯日
 ---
 

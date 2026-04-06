@@ -10,6 +10,7 @@ tags:
 - zhu-fahu
 - renuciation
 - four-pure-practices
+- category:other
 title: Sutra of Prince Deguang / 德光太子經
 ---
 

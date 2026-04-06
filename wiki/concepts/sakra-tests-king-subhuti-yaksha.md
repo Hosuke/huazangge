@@ -8,6 +8,7 @@ tags:
 - king-subhuti
 - dharma-test
 - self-sacrifice
+- category:other
 title: Śakra's Test of King Subhūti / 帝釋試験妙色王
 ---
 

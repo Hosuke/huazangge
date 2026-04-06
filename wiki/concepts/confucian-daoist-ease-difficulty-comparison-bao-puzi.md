@@ -12,6 +12,7 @@ tags:
 - Daoism
 - cultivation
 - Chinese philosophy
+- category:chinese-philosophy
 title: 'Confucianism and Daoism: Ease and Difficulty Comparison / 儒道難易之辯'
 ---
 

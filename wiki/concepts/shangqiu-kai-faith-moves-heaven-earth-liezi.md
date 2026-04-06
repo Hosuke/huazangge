@@ -8,6 +8,7 @@ tags:
 - supernatural-power
 - sincerity
 - cheng
+- category:liezi
 title: 'Shangqiu Kai: Faith That Moves Heaven and Earth / 商丘開：至信感人'
 ---
 

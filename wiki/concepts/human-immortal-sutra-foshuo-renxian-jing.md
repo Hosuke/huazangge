@@ -14,6 +14,7 @@ tags:
 - four-supernatural-powers
 - lay-buddhism
 - magadha
+- category:other
 title: Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經
 ---
 

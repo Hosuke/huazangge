@@ -7,6 +7,7 @@ tags:
 - cultivation
 - baopuzi
 - 守一
+- category:other
 title: Guarding the One (守一之道) / 守一之道
 ---
 

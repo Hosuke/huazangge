@@ -13,6 +13,7 @@ tags:
 - mencius
 - moral-responsibility
 - philosophy
+- category:confucianism
 title: Moral Responsibility / 道德责任
 updated: '2026-04-04T19:16:41.470197+00:00'
 ---

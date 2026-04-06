@@ -8,6 +8,7 @@ tags:
 - confucian-classics
 - womens-education
 - six-arts
+- category:other
 title: Gender-Specific Education in the Rites / 男女之教
 ---
 

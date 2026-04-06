@@ -7,6 +7,7 @@ tags:
 - state-governance
 - reward-punishment
 - law
+- category:other
 title: Three Unifications in Legalism / 壹賞壹刑壹教
 ---
 

@@ -12,6 +12,7 @@ tags:
 - tacit-knowledge
 - ancient-chinese-wisdom
 - paradoxes
+- category:zhuangzi
 title: Wheelwright's Wheel-Making Discourse / 輪扁斲輪
 ---
 

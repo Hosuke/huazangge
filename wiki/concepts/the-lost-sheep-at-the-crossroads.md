@@ -7,6 +7,7 @@ tags:
 - wisdom
 - decision-making
 - learning
+- category:daoist-philosophy
 title: The Lost Sheep at the Crossroads / 歧路亡羊
 ---
 

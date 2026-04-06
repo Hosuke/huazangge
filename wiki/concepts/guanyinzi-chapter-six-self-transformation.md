@@ -9,6 +9,7 @@ tags:
 - dream
 - five-elements
 - wu-wei
+- category:daoist-philosophy
 title: 'Guanyinzi Chapter Six: On the Self / 關尹子第六章：論自我'
 ---
 

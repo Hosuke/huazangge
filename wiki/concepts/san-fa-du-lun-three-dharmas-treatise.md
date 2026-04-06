@@ -7,6 +7,7 @@ tags:
 - tripartite-classification
 - guatama-sanghadeva
 - buddhist-doctrine
+- category:other
 title: Three Dharmas Treatise (三法度論)
 ---
 

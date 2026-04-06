@@ -12,6 +12,7 @@ tags:
 - lost mind
 - Confucian learning
 - self-examination
+- category:other
 title: Moral Cultivation and the Lost Mind in Mencius / 放心与求其放心
 ---
 

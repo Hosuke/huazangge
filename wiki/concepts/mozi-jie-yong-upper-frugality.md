@@ -10,6 +10,7 @@ tags:
 - economic-policy
 - frugality
 - practical-utility
+- category:mozi
 title: Mozi on Frugality (節用上) / 墨子節用上
 ---
 

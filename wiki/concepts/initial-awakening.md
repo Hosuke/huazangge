@@ -11,6 +11,7 @@ tags:
 - stages-of-awakening
 - mahayana-terms
 - stub
+- category:other
 title: Initial Awakening / 初發心 / 初発の覚醒
 ---
 

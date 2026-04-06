@@ -13,6 +13,7 @@ tags:
 - Confucian philosophy
 - great body
 - small body
+- category:other
 title: The Great and Small Bodies in Mencius / 大体与小体
 ---
 

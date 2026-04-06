@@ -19,6 +19,7 @@ tags:
 - thirty-three-heavens
 - tricycles
 - vaisravana
+- category:other
 title: Brahma's Fourfold Teaching on Liberation / 梵天王四法
 updated: '2026-04-05T14:51:00.493427+00:00'
 ---

@@ -1,8 +1,10 @@
 ---
 sources:
-- plugin: cbeta
-  title: CBETA 大藏經
-  url: https://cbetaonline.dila.edu.tw
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 佛說八正道經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0112
+  work_id: T0112
 summary: The Eightfold Noble Path as expounded in the Sutra of the Human Immortal,
   taught by Mahabrahma Deva as the method for achieving pure contemplation and liberation.
 tags:
@@ -11,6 +13,7 @@ tags:
 - eightfold-path
 - mahabrahma
 - liberation
+- category:other
 title: Eightfold Noble Path (Human Immortal Sutra) / 八正道
 ---
 

@@ -8,6 +8,7 @@ tags:
 - kanishka-sect
 - early-buddhism
 - wuliangshou-jing
+- category:other
 title: Vīrāma (毘羅摩) — Bodhisattva of Giving
 ---
 

@@ -12,6 +12,7 @@ tags:
 - dream-reality
 - paradox
 - zhousongwang
+- category:chinese-philosophy
 title: The Woodcutter's Dream of the Deer / 薪者夢鹿
 ---
 

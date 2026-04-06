@@ -12,6 +12,7 @@ tags:
 - cosmology
 - fate
 - determinism
+- category:chinese-philosophy
 title: Four Permutations of Fate / 四可之命
 ---
 

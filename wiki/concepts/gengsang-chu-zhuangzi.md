@@ -11,6 +11,7 @@ tags:
 - gengsang-chu
 - chinese-philosophy
 - preserving-life
+- category:chinese-philosophy
 title: Gengsang Chu Chapter in Zhuangzi / 莊子·庚桑楚
 ---
 

@@ -12,6 +12,7 @@ tags:
 - natural spontaneity
 - cosmology
 - Chinese philosophy
+- category:chinese-philosophy
 title: Natural Spontaneity and Refutation of Divine Creation in Bao Puzi / 抱朴子自然與天非造物主說
 ---
 

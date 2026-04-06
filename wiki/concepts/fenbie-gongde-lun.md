@@ -11,6 +11,7 @@ tags:
 - mahayana
 - arhat
 - sangha
+- category:other
 title: 分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)
 ---
 

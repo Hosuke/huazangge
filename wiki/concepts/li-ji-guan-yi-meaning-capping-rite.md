@@ -15,6 +15,7 @@ tags:
 - confucian-philosophy
 - self-cultivation
 - rites-of-passage
+- category:self-cultivation
 title: The Meaning of the Capping Rite / 禮記·冠義
 ---
 

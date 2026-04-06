@@ -13,6 +13,7 @@ tags:
 - siege-warfare
 - water-defense
 - water-warfare
+- category:mozi
 title: Mozi's Water Defense Strategies / 墨子備水戰術
 ---
 

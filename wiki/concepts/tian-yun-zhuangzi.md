@@ -12,6 +12,7 @@ tags:
 - cosmology
 - philosophy
 - confucianism
+- category:confucianism
 title: Heaven's Operations / 天運
 ---
 

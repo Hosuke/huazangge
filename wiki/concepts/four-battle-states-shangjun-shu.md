@@ -7,6 +7,7 @@ tags:
 - military-strategy
 - political-theory
 - ancient-china
+- category:other
 title: Four-Battle States (四戰之國) / 四戰之國
 ---
 

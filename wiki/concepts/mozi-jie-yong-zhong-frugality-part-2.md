@@ -16,6 +16,7 @@ tags:
 - mohism
 - mozi
 - political-philosophy
+- category:confucianism
 title: Mozi - Frugality Part 2 (節用中) / 墨子·節用中
 ---
 

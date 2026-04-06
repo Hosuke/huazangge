@@ -13,6 +13,7 @@ tags:
 - lexicography
 - thirteen-classics
 - 爾雅
+- category:other
 title: Erya (Classic of Correct Rhymes) / 爾雅
 ---
 

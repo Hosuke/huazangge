@@ -13,6 +13,7 @@ tags:
 - confucius
 - virtue
 - self-cultivation
+- category:confucianism
 title: The Conduct of the Ru (Ruxing) / 儒行
 ---
 

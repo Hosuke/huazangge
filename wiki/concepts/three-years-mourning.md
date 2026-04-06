@@ -15,6 +15,7 @@ tags:
 - ritual-practice
 - three-years-mourning
 - xiao
+- category:confucianism
 title: Three Years Mourning / 三年之丧
 updated: '2026-04-05T05:47:04.184523+00:00'
 ---

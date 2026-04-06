@@ -6,6 +6,7 @@ tags:
 - Mahayana philosophy
 - Contemplation practice
 - Threefold truth
+- category:other
 title: 三種觀 / Threefold Contemplation Practice
 ---
 

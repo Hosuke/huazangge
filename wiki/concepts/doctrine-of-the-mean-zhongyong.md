@@ -13,6 +13,7 @@ tags:
 - virtue-ethics
 - self-cultivation
 - zhongyong
+- category:chinese-philosophy
 title: Doctrine of the Mean (Zhongyong) / 中庸
 ---
 

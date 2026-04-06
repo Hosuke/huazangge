@@ -14,6 +14,7 @@ tags:
 - cakravartin
 - indian-buddhism
 - medieval-translations
+- category:other
 title: King Ding Sheng's Expansion Across the Four Continents / 頂生王統治四洲
 ---
 

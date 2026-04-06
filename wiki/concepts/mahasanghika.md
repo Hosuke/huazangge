@@ -6,6 +6,7 @@ tags:
 - mahayana-origins
 - buddhist-doctrine
 - stub
+- category:other
 title: Mahāsaṃghika / 大眾部 / マハーサングヒカ
 ---
 

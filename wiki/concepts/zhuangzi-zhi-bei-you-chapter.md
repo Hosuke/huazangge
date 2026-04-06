@@ -12,6 +12,7 @@ tags:
 - philosophy
 - knowledge
 - dao
+- category:zhuangzi
 title: Zhi Bei You (Northern Journey of Knowledge) / 知北遊
 ---
 

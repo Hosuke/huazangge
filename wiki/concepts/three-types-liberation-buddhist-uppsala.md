@@ -7,6 +7,7 @@ tags:
 - samadhi
 - three-dharmas
 - arhat
+- category:other
 title: Three Types of Liberation in Buddhist Practice / 佛教三種解脫
 ---
 

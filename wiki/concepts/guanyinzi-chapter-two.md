@@ -9,6 +9,7 @@ tags:
 - Chinese cosmology
 - 柱者建天地
 - 道寓
+- category:daoist-philosophy
 title: Guanyinzi Chapter Two / 關尹子第二章
 ---
 

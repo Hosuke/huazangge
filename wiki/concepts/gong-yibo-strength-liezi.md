@@ -9,6 +9,7 @@ tags:
 - humility
 - self-cultivation
 - chinese-philosophy
+- category:chinese-philosophy
 title: Gong Yibo's Humility About Strength (公儀伯之力) / 公儀伯之力
 ---
 

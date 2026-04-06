@@ -8,6 +8,7 @@ tags:
 - grain-fasting
 - immortality-practices
 - ge-hong
+- category:other
 title: Grain Fasting Methods in Baopuzi / 抱朴子断穀諸法
 ---
 

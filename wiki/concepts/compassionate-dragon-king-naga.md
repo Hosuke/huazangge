@@ -9,6 +9,7 @@ tags:
 - non-retaliation
 - bodhisattva-practice
 - upāya
+- category:other
 title: Compassionate Dragon King (慈心龍王) — Buddhist Narrative of Non-Retaliation /
   慈心龍王消伏怨害緣起
 ---

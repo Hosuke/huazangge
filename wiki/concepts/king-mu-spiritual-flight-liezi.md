@@ -8,6 +8,7 @@ tags:
 - transcendence
 - king-mu
 - huazhiren
+- category:liezi
 title: King Mu's Spiritual Flight / 周穆王神遊 / 周穆王のspirit journey
 ---
 

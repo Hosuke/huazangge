@@ -10,6 +10,7 @@ tags:
 - gratitude
 - mahayana-practice
 - mahayana-teachings
+- category:other
 title: 四恩 / Four Kindnesses / 四恩（しおりん）
 ---
 

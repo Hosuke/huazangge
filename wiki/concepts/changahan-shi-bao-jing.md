@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 長阿含十報法經 (2卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0013
+  work_id: T0013
 summary: An early Buddhist sutra presenting systematic teachings from one to ten,
   translated by An Shigao during the Eastern Han dynasty.
 tags:
@@ -7,6 +13,7 @@ tags:
 - an-shigao
 - han-dynasty-buddhism
 - digha-nikaya
+- category:other
 title: Chang A Han Shi Bao Jing (Long Discourses Tenfold Teachings Sutra) / 長阿含十報法經
 ---
 

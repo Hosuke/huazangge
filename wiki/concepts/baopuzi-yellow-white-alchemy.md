@@ -15,6 +15,7 @@ tags:
 - 抱朴子
 - 道教
 - 煉金術
+- category:other
 title: Baopuzi on Yellow and White Alchemy / 抱朴子論黃白之術
 ---
 

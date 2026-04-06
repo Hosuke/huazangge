@@ -20,6 +20,7 @@ tags:
 - philosophy
 - political-philosophy
 - virtue-ethics
+- category:chinese-philosophy
 title: Benevolent Government / 仁政 / 仁政
 updated: '2026-04-05T14:51:00.460816+00:00'
 ---

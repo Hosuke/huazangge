@@ -13,6 +13,7 @@ tags:
 - body-and-spirit
 - chinese-philosophy
 - survival-wisdom
+- category:chinese-philosophy
 title: The Deformed Ones / 支離其形
 ---
 

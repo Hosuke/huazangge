@@ -13,6 +13,7 @@ tags:
 - mengzi
 - ministerial-advice
 - virtue-ethics
+- category:mengzi
 title: Mencius on Righteousness vs. Profit / 孟子论义利
 ---
 

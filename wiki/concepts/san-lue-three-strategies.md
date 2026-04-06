@@ -7,6 +7,7 @@ tags:
 - seven-military-classics
 - chinese-military-thought
 - governance
+- category:governance
 title: Three Strategies / 三略
 ---
 

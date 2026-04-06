@@ -12,6 +12,7 @@ tags:
 - non-music-argument
 - philosophical-debate
 - utilitarianism
+- category:chinese-philosophy
 title: Mozi's Three Debates on Music and Governance / 墨子三辯
 ---
 

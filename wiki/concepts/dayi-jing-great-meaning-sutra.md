@@ -13,6 +13,7 @@ tags:
 - song-dynasty
 - bodhisattva-practice
 - gunabhadra
+- category:other
 title: Dayi Jing — The Sutra of the Great Meaning / 大意經
 ---
 

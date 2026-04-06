@@ -20,6 +20,7 @@ tags:
 - mind-ground
 - prajna
 - tang-dynasty-translations
+- category:other
 title: 大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground
 updated: '2026-04-05T14:51:00.535998+00:00'
 ---

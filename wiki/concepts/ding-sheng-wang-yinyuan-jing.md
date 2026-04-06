@@ -12,6 +12,7 @@ tags:
 - previous-life-narrative
 - dana-paramita
 - buddhist-cosmology
+- category:other
 title: The Discourse on King Śuddhodana's Previous Life / 頂生王因緣經
 ---
 

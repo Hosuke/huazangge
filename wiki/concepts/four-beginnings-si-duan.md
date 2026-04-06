@@ -12,6 +12,7 @@ tags:
 - human-nature
 - mengzi
 - virtue-ethics
+- category:chinese-philosophy
 title: Four Beginnings / 四端 / 四端説
 ---
 

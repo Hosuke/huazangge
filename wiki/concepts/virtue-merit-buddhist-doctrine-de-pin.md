@@ -7,6 +7,7 @@ tags:
 - three-roots-goodness
 - precepts-meditation
 - eastern-jin-buddhism
+- category:other
 title: Virtue Section (德品) - Buddhist Spiritual Cultivation
 ---
 

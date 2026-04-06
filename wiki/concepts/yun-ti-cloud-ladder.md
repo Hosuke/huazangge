@@ -7,6 +7,7 @@ tags:
 - ancient-chinese-warfare
 - mozi
 - defensive-strategy
+- category:mozi
 title: Cloud Ladder / 雲梯
 ---
 

@@ -11,6 +11,7 @@ tags:
 - virtue-ethics
 - leadership
 - moral-character
+- category:confucianism
 title: Junzi Characteristics / 君子品格
 updated: '2026-04-04T22:45:08.595675+00:00'
 ---

@@ -7,6 +7,7 @@ tags:
 - consciousness
 - wisdom
 - daoist-self-cultivation
+- category:other
 title: Transforming Knowledge into Wisdom / 變識為智
 ---
 

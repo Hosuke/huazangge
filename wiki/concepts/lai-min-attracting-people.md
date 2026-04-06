@@ -9,6 +9,7 @@ tags:
 - shang-jun-shu
 - shangjunshu
 - state-building
+- category:other
 title: Attracting People Policy (徠民) / 徠民政策
 ---
 

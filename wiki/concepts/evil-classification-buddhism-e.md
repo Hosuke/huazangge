@@ -8,6 +8,7 @@ tags:
 - three-poisons
 - misconduct
 - klesha
+- category:other
 title: Evil and Unwholesome Qualities / 惡 / 悪
 ---
 

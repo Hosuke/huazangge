@@ -8,6 +8,7 @@ tags:
 - tang-translations
 - yijing
 - buddhist-narrative
+- category:other
 title: King Subhūti's Cause and Conditions Sutra / 妙色王因緣經
 ---
 

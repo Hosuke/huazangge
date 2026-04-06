@@ -8,6 +8,7 @@ tags:
 - guān-yǐnzǐ
 - five-origins
 - chinese-philosophy
+- category:chinese-philosophy
 title: The Five Origins (五元) in Guān Yǐnzǐ / 關尹子五元論
 ---
 

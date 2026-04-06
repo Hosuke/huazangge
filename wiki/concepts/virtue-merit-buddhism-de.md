@@ -9,6 +9,7 @@ tags:
 - meditation
 - six-perfections
 - three-roots
+- category:other
 title: Merit and Virtue in Buddhist Practice / 德 / 徳
 ---
 

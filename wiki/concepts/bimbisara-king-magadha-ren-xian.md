@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 頻婆娑羅王經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0041
+  work_id: T0041
 summary: The Magadha king devoted to the Buddha, whose past life as a "Human Immortal"
   attained stream-entry, now reborn as a celestial prince.
 tags:
@@ -7,6 +13,7 @@ tags:
 - reincarnation
 - stream-entry
 - four-heavenly-kings
+- category:other
 title: King Bimbisara / 頻婆娑羅王
 ---
 

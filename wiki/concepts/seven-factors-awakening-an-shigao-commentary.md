@@ -8,6 +8,7 @@ tags:
 - thirty-seven-factors
 - awakening
 - enlightenment
+- category:other
 title: Seven Factors of Awakening / 七覺意
 ---
 

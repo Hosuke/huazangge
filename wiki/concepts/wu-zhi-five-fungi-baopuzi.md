@@ -7,6 +7,7 @@ tags:
 - immortality
 - five-fungi
 - chinese-mythology
+- category:other
 title: Five Fungi (五芝) in Baopuzi / 抱朴子五芝
 ---
 

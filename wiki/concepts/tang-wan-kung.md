@@ -10,6 +10,7 @@ tags:
 - tang-wan-kung
 - mencius
 - confucianism
+- category:confucianism
 title: Tang Wan Kung / 唐宓公
 updated: '2026-04-04T17:35:33.316464+00:00'
 ---

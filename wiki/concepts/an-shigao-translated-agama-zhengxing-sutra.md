@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 佛說阿含正行經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0151
+  work_id: T0151
 summary: An Eastern Han translation by An Shigao presenting core Buddhist teachings
   on proper conduct, the five thieves, and mental cultivation.
 tags:
@@ -7,6 +13,7 @@ tags:
 - eastern-han-translation
 - an-shigao
 - mind-practice
+- category:other
 title: Fo Shuo Ahán Zhèng Xíng Jīng (The Sutra of Proper Conduct in Āgama) / 佛說阿含正行經
 ---
 

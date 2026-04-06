@@ -1,8 +1,10 @@
 ---
 sources:
-- plugin: cbeta
-  title: CBETA 大藏經
-  url: https://cbetaonline.dila.edu.tw
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 佛說玉耶女經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0142a
+  work_id: T0142a
 summary: A Buddhist sutra teaching conjugal conduct to Lady Yu Ye, featuring the famous
   doctrine of Seven Types of Wives.
 tags:
@@ -11,6 +13,7 @@ tags:
 - ethics
 - mahayana
 - female-buddhist-teaching
+- category:other
 title: Yu Ye Nü Jing (Sutra of Lady Yu Ye) / 佛說玉耶女經
 ---
 

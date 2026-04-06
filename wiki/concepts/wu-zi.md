@@ -9,6 +9,7 @@ tags:
 - 吳起
 - 魏文侯
 - 先秦兵學
+- category:other
 title: Wu Zi / 吳子
 ---
 

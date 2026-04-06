@@ -10,6 +10,7 @@ tags:
 - Zhuangzi
 - spiritual ideal
 - zhiren
+- category:zhuangzi
 title: Perfect Person (Zhiren) / 至人
 ---
 

@@ -7,6 +7,7 @@ tags:
 - expedient-means
 - path
 - cultivation
+- category:other
 title: Expedient Means / 方便 / 方便
 ---
 

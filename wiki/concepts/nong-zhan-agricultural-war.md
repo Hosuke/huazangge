@@ -7,6 +7,7 @@ tags:
 - agricultural-warfare
 - state-power
 - book-of-lord-shang
+- category:other
 title: Agricultural War Doctrine / 農戰
 ---
 

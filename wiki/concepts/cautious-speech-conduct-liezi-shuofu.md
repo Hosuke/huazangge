@@ -7,6 +7,7 @@ tags:
 - speech-conduct
 - ethics
 - chinese-philosophy
+- category:chinese-philosophy
 title: Caution in Speech and Conduct / 慎言慎行
 ---
 

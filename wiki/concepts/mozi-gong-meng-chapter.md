@@ -8,6 +8,7 @@ tags:
 - philosophical-debate
 - chinese-philosophy
 - gong-meng
+- category:chinese-philosophy
 title: Mozi - Gong Meng Chapter / 墨子·公孟
 ---
 

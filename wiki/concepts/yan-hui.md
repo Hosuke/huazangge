@@ -11,6 +11,7 @@ tags:
 - disciples
 - virtue-ethics
 - stub
+- category:confucianism
 title: Yan Hui / 颜回 / 顔回
 ---
 

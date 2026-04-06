@@ -8,6 +8,7 @@ tags:
 - mozi
 - ancient-chinese-military
 - wheeled-vehicles
+- category:mozi
 title: Fenyun Covered Siege Vehicle / 轒轀
 ---
 

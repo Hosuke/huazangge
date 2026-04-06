@@ -7,6 +7,7 @@ tags:
 - meditation
 - liberation
 - philosophy
+- category:other
 title: Twelve Links of Dependent Origination / 十二因緣
 ---
 

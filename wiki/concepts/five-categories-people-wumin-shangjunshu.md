@@ -8,6 +8,7 @@ tags:
 - social-classification
 - statecraft
 - fivecategories
+- category:other
 title: Five Categories of People / 五民
 ---
 

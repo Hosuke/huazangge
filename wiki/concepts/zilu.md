@@ -1,8 +1,10 @@
 ---
 sources:
-- plugin: wikisource
-  title: 維基文庫
-  url: https://zh.wikisource.org
+- chapter: 子路第十三
+  plugin: wikisource
+  title: 論語 · 子路第十三
+  url: https://zh.wikisource.org/wiki/論語/子路第十三
+  work: 論語
 summary: A prominent disciple of Confucius known for his boldness and loyalty.
 tags:
 - confucianism
@@ -10,6 +12,7 @@ tags:
 - disciples
 - confucius
 - stub
+- category:confucianism
 title: Zilu / 子路
 ---
 

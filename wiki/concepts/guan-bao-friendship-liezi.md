@@ -8,6 +8,7 @@ tags:
 - friendship
 - historical-anecdote
 - taoism
+- category:chinese-philosophy
 title: Guan Zhong and Bao Shuya Friendship / 管鮑之交
 ---
 

@@ -5,6 +5,7 @@ tags:
 - Mahayana Buddhism
 - sutras
 - Buddhist teachings
+- category:other
 title: The "Sad Flower Sutra" / 《悲華經》
 ---
 

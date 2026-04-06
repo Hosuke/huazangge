@@ -7,6 +7,7 @@ tags:
 - governance-strategy
 - military-philosophy
 - qin-dynasty
+- category:other
 title: Strategic Planning (畫策) / 畫策
 ---
 

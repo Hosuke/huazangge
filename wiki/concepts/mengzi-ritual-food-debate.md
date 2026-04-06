@@ -13,6 +13,7 @@ tags:
 - ritual propriety
 - confucian-political-philosophy
 - moral-responsibility
+- category:mengzi
 title: Mencius on Ritual Propriety vs. Necessity / 孟子论礼与食
 ---
 

@@ -12,6 +12,7 @@ tags:
 - daoist-classics
 - chinese-philosophy
 - daodejing
+- category:chinese-philosophy
 title: Dao De Jing (Complete) / 道德經
 ---
 

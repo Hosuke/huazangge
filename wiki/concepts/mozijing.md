@@ -7,6 +7,7 @@ tags:
 - classical-texts
 - chinese-philosophy
 - stub
+- category:chinese-philosophy
 title: Mozijing / 墨經
 ---
 

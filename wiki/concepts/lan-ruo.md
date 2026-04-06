@@ -6,6 +6,7 @@ tags:
 - ascetic-practice
 - forest-monasticism
 - aranya
+- category:other
 title: 蘭若 / Forest Hermitage Practice
 ---
 

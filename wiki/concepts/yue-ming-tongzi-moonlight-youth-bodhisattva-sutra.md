@@ -11,6 +11,7 @@ tags:
 - buddhist-protagonist
 - moonlight-symbolism
 - yue-ming-puti-jing
+- category:other
 title: Moonlight Youth (月明童子) — Protagonist of the Moonlight Bodhisattva Sutra / 月明童子——《月光菩薩經》的主人公
 ---
 

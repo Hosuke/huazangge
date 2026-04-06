@@ -7,6 +7,7 @@ tags:
 - self-cultivation
 - political-philosophy
 - influence-association
+- category:mozi
 title: Being Infected (所染) / 所染
 ---
 

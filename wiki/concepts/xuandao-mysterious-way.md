@@ -8,6 +8,7 @@ tags:
 - baopuzi
 - cosmology
 - spiritual-cultivation
+- category:chinese-philosophy
 title: Xuandao (The Mysterious Way) / 玄道
 ---
 

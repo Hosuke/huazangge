@@ -7,6 +7,7 @@ tags:
 - ancient-chinese-government
 - shang-tong
 - confucian-political-philosophy
+- category:mozi
 title: Three Dukes (Sān Gōng) / 三公
 ---
 

@@ -12,6 +12,7 @@ tags:
 - Boqian Maoren
 - Daoist wisdom
 - worldly recognition
+- category:zhuangzi
 title: Liezi's Journey and Early Return / 列禦寇之齊與伯昏瞀人的故事
 ---
 

@@ -7,6 +7,7 @@ tags:
 - cosmology
 - transformation
 - wuxing
+- category:chinese-philosophy
 title: 'Five Elements Theory: Constancy and Transformation / 五行常變論'
 ---
 

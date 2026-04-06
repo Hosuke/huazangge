@@ -8,6 +8,7 @@ tags:
 - quantization
 - llama-cpp
 - non-target
+- category:other
 title: GGUF Model Format / GGUF 模型格式 / GGUFモデルフォーマット
 ---
 

@@ -11,6 +11,7 @@ tags:
 - argumentation-theory
 - name-realism
 - classical-chinese-thought
+- category:chinese-philosophy
 title: Mozi's Logical Methodology / 墨子逻辑方法论 / 墨子論理方法論
 ---
 

@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 大集法門經 (2卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0012
+  work_id: T0012
 summary: A Mahayana sutra presenting Buddhist teachings through systematic numerical
   enumeration from one to ten, taught by Śāriputra.
 tags:
@@ -7,6 +13,7 @@ tags:
 - shravaka-teachings
 - sarvastivada
 - chinese-buddhist-translation
+- category:other
 title: Great Collection Dharma Gate Sutra / 大集法門經
 ---
 

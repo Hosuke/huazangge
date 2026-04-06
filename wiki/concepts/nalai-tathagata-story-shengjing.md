@@ -7,6 +7,7 @@ tags:
 - ascetic teaching
 - Buddhist parable
 - shengjing
+- category:other
 title: 那賴仙人與方迹王的故事 / 那賴仙人與方迹王的故事 / 那賴仙人伝と方迹王物語
 ---
 

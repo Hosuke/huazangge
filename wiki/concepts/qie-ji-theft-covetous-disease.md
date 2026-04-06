@@ -13,6 +13,7 @@ tags:
 - moral-psychology
 - critique-of-war
 - philosophy-of-human-nature
+- category:mozi
 title: The Theory of Theft Disease (竊疾) / 竊疾論
 ---
 

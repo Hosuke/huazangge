@@ -11,6 +11,7 @@ tags:
 - philosophy-debate
 - consciousness
 - chinese-philosophy
+- category:chinese-philosophy
 title: The Hao Bridge Debate / 濠梁之辯
 ---
 

@@ -11,6 +11,7 @@ tags:
 - chinese-philosophy
 - wu-wei
 - governance
+- category:chinese-philosophy
 title: Zhuangzi Chapter on Heaven and Earth / 莊子·天地
 ---
 

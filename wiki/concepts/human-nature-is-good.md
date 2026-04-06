@@ -1,9 +1,11 @@
 ---
 created: '2026-04-04T17:23:07.037746+00:00'
 sources:
-- plugin: wikisource
-  title: 維基文庫
-  url: https://zh.wikisource.org
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 佛說波斯匿王太后崩塵土坌身經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0122
+  work_id: T0122
 summary: Mencius argues that human nature is inherently good, using the sincere grief
   during mourning rituals as evidence that moral cultivation through education can
   develop this innate goodness.
@@ -33,6 +35,7 @@ tags:
   potential tags: "mencius"'
 - '"innate goodness"'
 - '"confucian'
+- category:chinese-philosophy
 title: human-nature-is-good
 updated: '2026-04-04T17:23:07.037748+00:00'
 ---

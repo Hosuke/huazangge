@@ -12,6 +12,7 @@ tags:
 - tang-dynasty-buddhism
 - universal-light-treasury
 - vaipulya-sutra
+- category:other
 title: Mahāyāna Sutra of Universal Light Treasury Transcending Words / 大乘離文字普光明藏經
 ---
 

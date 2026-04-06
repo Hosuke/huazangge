@@ -12,6 +12,7 @@ tags:
 - chinese philosophy
 - moral development
 - stub
+- category:chinese-philosophy
 title: Confucian Self-Cultivation / 儒家自我修养
 ---
 

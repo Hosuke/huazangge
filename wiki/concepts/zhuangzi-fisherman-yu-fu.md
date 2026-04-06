@@ -13,6 +13,7 @@ tags:
 - fishing
 - governance
 - zhuangzi
+- category:zhuangzi
 title: The Fisherman Chapter (Yu Fu) / 莊子·漁父
 ---
 

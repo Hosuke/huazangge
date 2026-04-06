@@ -13,6 +13,7 @@ tags:
 - parable
 - non-action
 - chaos
+- category:daoist-philosophy
 title: The Death of Hun-tun (渾沌之死) / 渾沌之死
 ---
 

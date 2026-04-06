@@ -7,6 +7,7 @@ tags:
 - past-life-vow
 - kashapa-buddha
 - conversion-narrative
+- category:other
 title: Sumati (Xumoti) — Buddhist Laywoman Narrative / 須摩提女——佛教在家女性敘事
 ---
 

@@ -11,6 +11,7 @@ tags:
 - dharani
 - mahayana
 - tathagata-origin
+- category:other
 title: 虛空印菩薩 / Void Seal Bodhisattva (Xūkōng Yìn Púsà)
 ---
 

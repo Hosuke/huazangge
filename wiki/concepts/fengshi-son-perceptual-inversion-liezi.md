@@ -12,6 +12,7 @@ tags:
 - inversion
 - madness
 - chinese-philosophy
+- category:chinese-philosophy
 title: The Son of Feng Clan with Perceptual Inversion / 逢氏之子迷罔
 ---
 

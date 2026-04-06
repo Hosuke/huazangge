@@ -13,6 +13,7 @@ tags:
 - book-of-rites
 - confucian-political-philosophy
 - self-cultivation
+- category:chinese-philosophy
 title: Duke Ai Inquires (Liji Chapter) / 禮記·哀公問
 ---
 

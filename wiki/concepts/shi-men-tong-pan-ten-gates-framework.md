@@ -11,6 +11,7 @@ tags:
 - huayan-school
 - textual-analysis
 - classical-chinese-buddhism
+- category:other
 title: Ten Gates Framework / 十門通判
 ---
 

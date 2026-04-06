@@ -6,6 +6,7 @@ tags:
 - moral-teaching
 - causes-of-death
 - Buddhist-medicine
+- category:other
 title: Nine Unnatural/Unexplained Deaths / 九橫 / 九横
 ---
 

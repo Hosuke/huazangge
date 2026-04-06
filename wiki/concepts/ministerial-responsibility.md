@@ -11,6 +11,7 @@ tags:
 - liezi
 - confucianism
 - stub
+- category:chinese-philosophy
 title: Ministerial Responsibility / 臣責
 ---
 

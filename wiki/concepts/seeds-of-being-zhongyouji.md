@@ -12,6 +12,7 @@ tags:
 - metamorphosis
 - Chinese philosophy
 - nature
+- category:chinese-philosophy
 title: Seeds of Being (種有幾) / 種有幾
 ---
 

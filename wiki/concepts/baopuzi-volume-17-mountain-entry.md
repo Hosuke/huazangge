@@ -8,6 +8,7 @@ tags:
 - mountain-entry
 - talismans
 - chinese-alchemy
+- category:other
 title: 'Baopuzi Volume 17: Mountain Entry Arts / 抱朴子卷十七：入山之法'
 ---
 

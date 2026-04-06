@@ -15,6 +15,7 @@ tags:
 - early-buddhism
 - bhiksusamgha-translations
 - kanishka-sect
+- category:other
 title: Prince Sarvadhāna (一切持王子) — The Crown Prince of Universal Possession and Giving
 ---
 

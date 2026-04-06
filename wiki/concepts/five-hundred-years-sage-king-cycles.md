@@ -11,6 +11,7 @@ tags:
 - mengzi
 - historical-theory
 - eschatology
+- category:confucianism
 title: Five Hundred Years Theory of Sage Kings / 五百年必有王者興
 ---
 

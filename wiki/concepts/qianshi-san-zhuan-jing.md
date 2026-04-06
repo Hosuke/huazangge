@@ -13,6 +13,7 @@ tags:
 - past-lives
 - dana-paramita
 - western-jin
+- category:other
 title: Sutra of the Three Cycles of Past Lives / 前世三轉經
 ---
 

@@ -9,6 +9,7 @@ tags:
 - military-defense
 - mohism
 - mozi
+- category:mozi
 title: Defending City Walls (Mozi) / 墨子備城門
 ---
 

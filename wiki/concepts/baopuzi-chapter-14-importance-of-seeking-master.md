@@ -11,6 +11,7 @@ tags:
 - daoist-cultivation
 - master-disciple-relationship
 - ge-hong
+- category:other
 title: The Importance of Seeking a True Master in Baopuzi / 抱朴子卷十四：求师问道
 ---
 

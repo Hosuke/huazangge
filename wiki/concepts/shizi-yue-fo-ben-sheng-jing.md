@@ -9,6 +9,7 @@ tags:
 - karmic-retribution
 - vasumitra
 - bimbisara
+- category:other
 title: The Lion-Moon Buddha Jataka Sutra / 師子月佛本生經
 ---
 

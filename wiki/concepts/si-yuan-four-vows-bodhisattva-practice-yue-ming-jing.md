@@ -12,6 +12,7 @@ tags:
 - bodhisattva-practice
 - yue-ming-puti-jing
 - mahayana-vows
+- category:other
 title: Four Vows (四願) in the Moonlight Bodhisattva Sutra / 月明童子經四願——菩薩修行之根本誓願
 ---
 

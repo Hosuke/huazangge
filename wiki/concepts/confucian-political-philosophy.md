@@ -11,6 +11,7 @@ tags:
 - analects
 - philosophy
 - governance
+- category:confucianism
 title: Confucian Political Philosophy / 儒家政治哲学
 updated: '2026-04-04T19:18:19.466724+00:00'
 ---

@@ -11,6 +11,7 @@ tags:
 - daoism
 - political-philosophy
 - hermit
+- category:chinese-philosophy
 title: Bo Chengzi Gao / 伯成子高
 ---
 

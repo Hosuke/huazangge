@@ -8,6 +8,7 @@ tags:
 - text-generation
 - gemma-family
 - non-target
+- category:other
 title: Gemma AI Model / Gemma AI 模型 / Gemma AIモデル
 ---
 

@@ -8,6 +8,7 @@ tags:
 - war-criticism
 - mohism
 - military-history
+- category:chinese-philosophy
 title: Mozi Fei Gong Zhong / 墨子·非攻中
 ---
 

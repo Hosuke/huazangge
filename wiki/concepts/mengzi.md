@@ -22,6 +22,7 @@ tags:
 - stub
 - warring states period
 - warring-states-period
+- category:chinese-philosophy
 title: Mencius / 孟子
 updated: '2026-04-04T16:14:40.126532+00:00'
 ---

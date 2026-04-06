@@ -12,6 +12,7 @@ tags:
 - gengsang-chu
 - chinese-philosophy
 - wu-wei
+- category:chinese-philosophy
 title: Gengsang Chu Chapter (庚桑楚) / 庚桑楚篇
 ---
 

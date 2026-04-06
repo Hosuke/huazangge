@@ -14,6 +14,7 @@ tags:
 - woman-teaching
 - womens-studies
 - yuye-sutra
+- category:other
 title: Seven Types of Wives in Buddhist Teaching / 七輩婦
 ---
 

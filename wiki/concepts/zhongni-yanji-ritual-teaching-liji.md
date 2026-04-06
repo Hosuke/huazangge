@@ -1,8 +1,10 @@
 ---
 sources:
-- plugin: wikisource
-  title: 維基文庫
-  url: https://zh.wikisource.org
+- chapter: 仲尼燕居
+  plugin: wikisource
+  title: 禮記 · 仲尼燕居
+  url: https://zh.wikisource.org/wiki/禮記/仲尼燕居
+  work: 禮記
 summary: A chapter from the Book of Rites where Confucius discusses ritual propriety
   (禮), the principle of moderation (中), and the complementary roles of ritual and
   music (禮樂) with his disciples.
@@ -12,6 +14,7 @@ tags:
 - ritualpropriety
 - confucian-philosophy
 - confucian-political-philosophy
+- category:confucianism
 title: Zhongni at Home / 仲尼燕居
 ---
 

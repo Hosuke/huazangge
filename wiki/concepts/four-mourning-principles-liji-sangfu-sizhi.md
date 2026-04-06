@@ -1,8 +1,10 @@
 ---
 sources:
-- plugin: wikisource
-  title: 維基文庫
-  url: https://zh.wikisource.org
+- chapter: 喪服四制
+  plugin: wikisource
+  title: 禮記 · 喪服四制
+  url: https://zh.wikisource.org/wiki/禮記/喪服四制
+  work: 禮記
 summary: A Confucian framework from the Book of Rites categorizing mourning rituals
   into four principles—grace, righteousness, propriety, and adaptability—based on
   benevolence, duty, ceremony, and wisdom.
@@ -12,6 +14,7 @@ tags:
 - mourning-rituals
 - book-of-liji
 - confucian-ethics
+- category:confucianism
 title: Four Mourning Principles (Sangfu Sizhi) / 喪服四制
 ---
 

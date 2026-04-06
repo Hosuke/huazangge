@@ -12,6 +12,7 @@ tags:
 - equanimity
 - detachment
 - official position
+- category:zhuangzi
 title: Sun Shu'ao's Equanimity / 孫叔敖之無憂
 ---
 

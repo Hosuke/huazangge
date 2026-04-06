@@ -7,6 +7,7 @@ tags:
 - liezi
 - laozi-disciple
 - cultivation
+- category:daoist-philosophy
 title: 'Kangcangzi: Seeing with Ears and Hearing with Eyes / 亢倉子·耳視目聽'
 ---
 

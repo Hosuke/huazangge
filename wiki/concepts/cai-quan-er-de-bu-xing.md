@@ -10,6 +10,7 @@ tags:
 - daoist-philosophy
 - virtue
 - spiritual-cultivation
+- category:daoist-philosophy
 title: Complete Talent Without Displaying Virtue / 才全而德不形
 ---
 

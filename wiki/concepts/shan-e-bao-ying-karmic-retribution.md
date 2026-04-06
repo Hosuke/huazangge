@@ -8,6 +8,7 @@ tags:
 - chinese-religion
 - cosmic-justice
 - moral-cosmic-order
+- category:other
 title: Shan E Bao Ying / 善惡報應 (善悪因果応報)
 ---
 

@@ -7,6 +7,7 @@ tags:
 - burial-rites
 - historical-example
 - chinese-philosophy
+- category:chinese-philosophy
 title: The Sage Kings' Burial Model in Mozi / 墨子聖王葬埋之法
 ---
 

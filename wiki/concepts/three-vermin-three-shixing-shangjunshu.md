@@ -7,6 +7,7 @@ tags:
 - political-economy
 - legalism
 - threeworms
+- category:other
 title: Three Vermin / 三蝨
 ---
 

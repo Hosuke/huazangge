@@ -13,6 +13,7 @@ tags:
 - perfection-of-giving
 - buddhist-narratives
 - śibi-jataka
+- category:other
 title: King Śibi Saves the Pigeon (尸毘王救鴿) - The Great Sacrifice of Flesh for Life
 ---
 

@@ -11,6 +11,7 @@ tags:
 - human-nature
 - confucian-philosophy
 - classical-chinese-philosophy
+- category:mengzi
 title: Willow-Cup Metaphor / 杞柳桮棬
 ---
 

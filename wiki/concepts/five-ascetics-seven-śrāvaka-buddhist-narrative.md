@@ -8,6 +8,7 @@ tags:
 - Buddhist narrative
 - śrāvaka
 - shengjing
+- category:other
 title: 五仙人的故事與七覺支的象徵意義 / 五仙人故事與七覺支象徵意義 / 五仙人の物語と七覚支の象徴的意義
 ---
 

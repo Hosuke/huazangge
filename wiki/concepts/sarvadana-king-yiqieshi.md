@@ -10,6 +10,7 @@ tags:
 - early-buddhism
 - bhiksusamgha-translations
 - kanishka-sect
+- category:other
 title: King Sarvadāna (一切施王) — The Sovereign Who Gave Everything
 ---
 

@@ -8,6 +8,7 @@ tags:
 - chinese-philosophy
 - guan-yinzi
 - intentionality
+- category:chinese-philosophy
 title: 'Guan Yinzi Chapter Five: Mind, Intention, and Nature / 關尹子第五章：心、意與性'
 ---
 

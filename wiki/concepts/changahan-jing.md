@@ -12,6 +12,7 @@ tags:
 - chinese-buddhism
 - sutra
 - hindic-buddhism
+- category:other
 title: Chang Ahan Jing (Long Discourses of the Buddha) / 長阿含經
 ---
 

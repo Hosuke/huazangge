@@ -14,6 +14,7 @@ tags:
 - etiquette
 - ritual-propriety
 - confucianism
+- category:chinese-philosophy
 title: Confucius's Etiquette in Public Life / 孔子乡党礼仪
 updated: '2026-04-04T17:47:54.725202+00:00'
 ---

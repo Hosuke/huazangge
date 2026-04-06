@@ -14,6 +14,7 @@ tags:
 - mengzi
 - military-strategy
 - political-philosophy
+- category:governance
 title: The People's Heart / 民心
 updated: '2026-04-05T14:51:00.469908+00:00'
 ---

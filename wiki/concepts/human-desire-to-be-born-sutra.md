@@ -1,4 +1,10 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 人本欲生經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0014
+  work_id: T0014
 summary: A Buddhist sutra on the twelve links of dependent origination, attributed
   to An Shigao's translation from the Later Han dynasty.
 tags:
@@ -7,6 +13,7 @@ tags:
 - an-shigao
 - han-dynasty-translation
 - dependent-origination
+- category:other
 title: Sutra on Human Desire to Be Born / 人本欲生經
 ---
 

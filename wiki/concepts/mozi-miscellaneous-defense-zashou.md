@@ -9,6 +9,7 @@ tags:
 - city-defense
 - mohism
 - warring-states-period
+- category:mozi
 title: Miscellaneous Defense (雜守) / 墨子·雜守
 ---
 

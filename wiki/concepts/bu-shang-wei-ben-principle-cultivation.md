@@ -8,6 +8,7 @@ tags:
 - longevity
 - self-preservation
 - chinese-philosophy
+- category:chinese-philosophy
 title: Non-Injury as Foundation in Cultivation / 不傷為本
 ---
 

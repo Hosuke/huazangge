@@ -10,6 +10,7 @@ summary: Examination of Confucius' principles of governance as outlined in the A
 tags:
 - confucius
 - governance
+- category:governance
 title: Governance in the Analects / 论语中的治理
 updated: '2026-04-05T04:36:22.910070+00:00'
 ---

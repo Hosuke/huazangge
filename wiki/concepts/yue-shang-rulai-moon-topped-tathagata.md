@@ -7,6 +7,7 @@ tags:
 - dharani-sutra
 - pure-land
 - indian-buddhism
+- category:other
 title: Moon-Topped Tathāgata / 月上如來
 ---
 

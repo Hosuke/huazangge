@@ -10,6 +10,7 @@ tags:
 - chinese-buddhism
 - suffering
 - cyclic-existence
+- category:other
 title: Twelve Links of Dependent Origination / 十二因緣 / 十二縁起
 ---
 

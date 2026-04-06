@@ -10,6 +10,7 @@ tags:
 - legalism-mohism
 - command-system
 - espionage
+- category:mozi
 title: Mozi's Siege Commands and Military Orders / 墨子號令
 ---
 

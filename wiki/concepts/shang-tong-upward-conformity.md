@@ -1,10 +1,17 @@
 ---
+sources:
+- canon: 大正藏
+  plugin: buddhist_sutra
+  title: 佛說波斯匿王太后崩塵土坌身經 (1卷)
+  url: https://cbetaonline.dila.edu.tw/zh/T0122
+  work_id: T0122
 summary: This article explains Mozi's argument that social order requires rulers to
   understand the people's true sentiments and establish unified standards of righteousness
   through a hierarchical governance system, preventing the chaos that naturally arises
   when each person follows their own individual standards.
 tags:
 - ruler authority
+- category:other
 title: shang-tong-upward-conformity
 ---
 

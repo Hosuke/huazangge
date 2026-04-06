@@ -6,6 +6,7 @@ tags:
 - mental-afflictions
 - karmic-formation
 - ethical-teaching
+- category:other
 title: Three Evil Roots / 三惡本 / 三悪根本
 ---
 

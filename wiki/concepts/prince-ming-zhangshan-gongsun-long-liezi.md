@@ -13,6 +13,7 @@ tags:
 - chinese-philosophy
 - mohism
 - logical-paradoxes
+- category:chinese-philosophy
 title: Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟
 ---
 

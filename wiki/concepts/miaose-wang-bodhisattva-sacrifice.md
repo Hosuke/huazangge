@@ -8,6 +8,7 @@ tags:
 - king-sacrifice
 - yijing
 - tang-buddhism
+- category:other
 title: King Subhūti / 妙色王
 ---
 

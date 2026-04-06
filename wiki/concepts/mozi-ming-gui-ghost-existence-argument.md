@@ -8,6 +8,7 @@ tags:
 - mohism
 - moral-retribution
 - confucian-mozist-debate
+- category:mozi
 title: Mozi's Argument for Ghost Existence / 墨子明鬼——鬼神存在之論證
 ---
 

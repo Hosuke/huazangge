@@ -11,6 +11,7 @@ tags:
 - mengzi
 - governance
 - virtue-vs-power
+- category:governance
 title: The Way of the True King vs. Hegemony (王道與霸道) / 王道と霸道
 ---
 

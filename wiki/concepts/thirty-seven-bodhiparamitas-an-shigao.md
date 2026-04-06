@@ -15,6 +15,7 @@ tags:
 - chinese-buddhism
 - han-dynasty
 - numerical-teachings
+- category:other
 title: Thirty-Seven Factors of Enlightenment / 三十七道品
 ---
 

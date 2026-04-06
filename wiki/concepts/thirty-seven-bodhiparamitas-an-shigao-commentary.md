@@ -13,6 +13,7 @@ tags:
 - noble-eightfold-path
 - early-buddhism
 - chinese-buddhism
+- category:other
 title: Thirty-Seven Bodhiparamitas / 三十七品道品 / 三十七波羅蜜
 ---
 

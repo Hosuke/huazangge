@@ -12,6 +12,7 @@ tags:
 - Political Philosophy
 - Shang Yang
 - Warring States
+- category:chinese-philosophy
 title: Book of Lord Shang Volume 5 / 商君書·卷五
 ---
 

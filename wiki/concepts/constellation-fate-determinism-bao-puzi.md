@@ -8,6 +8,7 @@ tags:
 - celestial
 - fate
 - immortality
+- category:chinese-philosophy
 title: Constellation-Based Fate Determinism in Bao Puzi / 抱朴子星宿命定論
 ---
 

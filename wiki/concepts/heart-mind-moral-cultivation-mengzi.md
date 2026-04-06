@@ -11,6 +11,7 @@ tags:
 - self-cultivation
 - mengzi
 - heart-mind
+- category:confucianism
 title: Heart-Mind and Moral Cultivation / 心性修養 / 心と道徳修養
 ---
 

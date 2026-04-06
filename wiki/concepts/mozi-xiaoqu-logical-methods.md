@@ -8,6 +8,7 @@ tags:
 - logic
 - mohism
 - mozi
+- category:chinese-philosophy
 title: Xiaoqu (Minor Selections) - Mozi's Logical Methods / 墨子小取——論理方法
 ---
 

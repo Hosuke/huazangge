@@ -20,6 +20,7 @@ tags:
 - self-cultivation
 - taoism
 - wu-wei
+- category:chinese-philosophy
 title: 'Guanyinzi Chapter Nine: On Medicine / 關尹子第九章：藥者雜治'
 ---
 

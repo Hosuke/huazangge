@@ -6,6 +6,7 @@ tags:
 - heavenly-justice
 - moral-retribution
 - political-philosophy
+- category:political-philosophy
 title: Heaven's Rewards for Virtue and Punishment for Vice / 天賞善罰暴
 ---
 

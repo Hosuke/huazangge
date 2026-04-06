@@ -13,6 +13,7 @@ tags:
 - debate
 - philosophy
 - chinese-ancient-philosophy
+- category:confucianism
 title: The Mozi-Gong Meng Dialogue / 墨子與公孟子之辯
 ---
 

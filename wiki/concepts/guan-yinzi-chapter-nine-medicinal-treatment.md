@@ -13,6 +13,7 @@ tags:
 - self-cultivation
 - wisdom
 - daoist-philosophy
+- category:daoist-philosophy
 title: 'Guanyinzi Chapter Nine: Medicinal Treatment / 關尹子第九篇：藥'
 ---
 

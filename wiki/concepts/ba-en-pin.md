@@ -11,6 +11,7 @@ tags:
 - sutra-literature
 - mahayana
 - stub
+- category:other
 title: Ba-en-pin / 报答父母恩品
 ---
 

@@ -9,6 +9,7 @@ tags:
 - transformation
 - yinwen
 - change
+- category:liezi
 title: Lao Chengzi's Study of Illusion / 老成子學幻 / 老成子の幻化学
 ---
 

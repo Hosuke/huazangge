@@ -10,6 +10,7 @@ tags:
 - human-relations
 - ethics
 - daoist-philosophy
+- category:daoist-philosophy
 title: Natural Affinity versus Interest-Based Relationships / 相天屬與相利合
 ---
 

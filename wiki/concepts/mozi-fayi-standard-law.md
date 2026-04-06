@@ -15,6 +15,7 @@ tags:
 - standard-of-law
 - tianzhi
 - warring-states
+- category:chinese-philosophy
 title: Mozi's Standard of Law (法儀) / 墨子法儀
 ---
 

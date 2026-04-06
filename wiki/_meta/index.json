@@ -13,7 +13,8 @@
       "meditation",
       "philosophy",
       "pratityasamutpada",
-      "twelve-links-dependent-origination"
+      "twelve-links-dependent-origination",
+      "category:other"
     ],
     "sources": []
   },
@@ -25,7 +26,8 @@
       "agriculture",
       "economic-policy",
       "statecraft",
-      "ancient-china"
+      "ancient-china",
+      "category:other"
     ],
     "sources": []
   },
@@ -38,7 +40,8 @@
       "han-dynasty-translations",
       "buddhist-meditation",
       "chinese-buddhism-history",
-      "parthian-buddhism"
+      "parthian-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -51,9 +54,18 @@
       "agama-literature",
       "eastern-han-translation",
       "an-shigao",
-      "mind-practice"
+      "mind-practice",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "佛說阿含正行經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0151",
+        "work_id": "T0151"
+      }
+    ]
   },
   {
     "slug": "an-shigao-translation-methodology",
@@ -64,7 +76,8 @@
       "early-buddhist-translations",
       "han-dynasty-buddhism",
       "parthian-buddhism",
-      "translation-history"
+      "translation-history",
+      "category:other"
     ],
     "sources": []
   },
@@ -82,7 +95,8 @@
       "education",
       "junzi",
       "learning",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -102,7 +116,8 @@
       "confucianism",
       "learning",
       "self-cultivation",
-      "analects"
+      "analects",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -118,7 +133,8 @@
     "summary": "Examination of Confucius' principles of governance as outlined in the Analects.",
     "tags": [
       "confucius",
-      "governance"
+      "governance",
+      "category:governance"
     ],
     "sources": [
       {
@@ -139,7 +155,8 @@
       "three-treasuries",
       "four-agamas",
       "sutra-compilation",
-      "canonical-history"
+      "canonical-history",
+      "category:other"
     ],
     "sources": [
       {
@@ -167,7 +184,8 @@
       "stages-of-practice",
       "stream-enterer",
       "stub",
-      "theravada"
+      "theravada",
+      "category:other"
     ],
     "sources": [
       {
@@ -186,7 +204,8 @@
       "filial-piety",
       "sutra-literature",
       "mahayana",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": [
       {
@@ -205,13 +224,16 @@
       "analects",
       "ceremony",
       "social-order",
-      "confucian-concepts"
+      "confucian-concepts",
+      "category:other"
     ],
     "sources": [
       {
+        "chapter": "八佾第三",
         "plugin": "wikisource",
-        "title": "維基文庫",
-        "url": "https://zh.wikisource.org"
+        "title": "論語 · 八佾第三",
+        "url": "https://zh.wikisource.org/wiki/論語/八佾第三",
+        "work": "論語"
       }
     ]
   },
@@ -224,7 +246,8 @@
       "chinese-philosophy",
       "cosmology",
       "trigrams",
-      "symbolism"
+      "symbolism",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -237,7 +260,8 @@
       "gratitude-teaching",
       "filial-piety-buddhism",
       "bodhisattva-practice",
-      "four-kinds-kindness"
+      "four-kinds-kindness",
+      "category:other"
     ],
     "sources": []
   },
@@ -250,7 +274,8 @@
       "ge-hong",
       "golden-elixir",
       "immortality",
-      "daoist-alchemy"
+      "daoist-alchemy",
+      "category:other"
     ],
     "sources": []
   },
@@ -262,7 +287,8 @@
       "baopuzi",
       "daoist-cultivation",
       "master-disciple-relationship",
-      "ge-hong"
+      "ge-hong",
+      "category:other"
     ],
     "sources": [
       {
@@ -281,7 +307,8 @@
       "ge-hong",
       "daoist-cultivation",
       "mortality",
-      "time"
+      "time",
+      "category:other"
     ],
     "sources": []
   },
@@ -294,7 +321,8 @@
       "daoist-critique",
       "folk-religion",
       "chinese-philosophy",
-      "ge-hong"
+      "ge-hong",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -313,7 +341,8 @@
       "daoism",
       "immortality",
       "transcendence",
-      "抱朴子"
+      "抱朴子",
+      "category:other"
     ],
     "sources": [
       {
@@ -334,7 +363,8 @@
       "immortality",
       "daoist-esotericism",
       "jiu-dan",
-      "golden-elixir"
+      "golden-elixir",
+      "category:other"
     ],
     "sources": []
   },
@@ -347,7 +377,8 @@
       "taoist-texts",
       "textual-study",
       "baopuzi",
-      "taoism"
+      "taoism",
+      "category:other"
     ],
     "sources": []
   },
@@ -360,7 +391,8 @@
       "daoist-cultivation",
       "grain-fasting",
       "immortality-practices",
-      "ge-hong"
+      "ge-hong",
+      "category:other"
     ],
     "sources": []
   },
@@ -373,7 +405,8 @@
       "daoist-practices",
       "mountain-entry",
       "talismans",
-      "chinese-alchemy"
+      "chinese-alchemy",
+      "category:other"
     ],
     "sources": []
   },
@@ -388,7 +421,8 @@
       "chinese-religion",
       "bibliography",
       "esoteric-practice",
-      "talismans"
+      "talismans",
+      "category:other"
     ],
     "sources": []
   },
@@ -404,7 +438,8 @@
       "yellow-white-alchemy",
       "抱朴子",
       "道教",
-      "煉金術"
+      "煉金術",
+      "category:other"
     ],
     "sources": [
       {
@@ -424,7 +459,8 @@
       "fate",
       "determinism",
       "chinese-philosophy",
-      "daoism"
+      "daoism",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -452,13 +488,16 @@
       "philosophy",
       "righteousness",
       "virtue",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:confucianism"
     ],
     "sources": [
       {
-        "plugin": "wikisource",
-        "title": "維基文庫",
-        "url": "https://zh.wikisource.org"
+        "book": "论语",
+        "chapter": "里仁",
+        "plugin": "classical_text",
+        "title": "论语 · 里仁",
+        "url": "https://ctext.org/analects/li-ren/zh"
       }
     ]
   },
@@ -478,7 +517,8 @@
       "moral-responsibility",
       "philosophy",
       "political-philosophy",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -497,7 +537,8 @@
       "epistemology",
       "consciousness",
       "wisdom",
-      "daoist-self-cultivation"
+      "daoist-self-cultivation",
+      "category:other"
     ],
     "sources": []
   },
@@ -508,7 +549,8 @@
     "tags": [
       "Mahayana Buddhism",
       "sutras",
-      "Buddhist teachings"
+      "Buddhist teachings",
+      "category:other"
     ],
     "sources": []
   },
@@ -521,9 +563,18 @@
       "magadha",
       "reincarnation",
       "stream-entry",
-      "four-heavenly-kings"
+      "four-heavenly-kings",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "頻婆娑羅王經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0041",
+        "work_id": "T0041"
+      }
+    ]
   },
   {
     "slug": "bird-nali-voice-shengjing",
@@ -535,7 +586,8 @@
       "parable",
       "Buddhist teaching",
       "shengjing",
-      "impermanence"
+      "impermanence",
+      "category:other"
     ],
     "sources": []
   },
@@ -548,7 +600,8 @@
       "chinese-philosophy",
       "daoism",
       "political-philosophy",
-      "hermit"
+      "hermit",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -565,7 +618,8 @@
     "tags": [
       "Bodhisattva",
       "Buddhism",
-      "enlightenment"
+      "enlightenment",
+      "category:other"
     ],
     "sources": [
       {
@@ -584,7 +638,8 @@
       "king-as-bodhisattva",
       "self-sacrifice",
       "buddhist-kingship",
-      "past-life-stories"
+      "past-life-stories",
+      "category:other"
     ],
     "sources": []
   },
@@ -599,7 +654,8 @@
       "north-liang",
       "translation",
       "stupa",
-      "healing-miracles"
+      "healing-miracles",
+      "category:other"
     ],
     "sources": [
       {
@@ -623,7 +679,8 @@
       "moral-cultivation",
       "moral-cultivation-methods",
       "political-philosophy",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:political-philosophy"
     ],
     "sources": [
       {
@@ -651,7 +708,8 @@
       "supernatural-powers",
       "thirty-three-heavens",
       "tricycles",
-      "vaisravana"
+      "vaisravana",
+      "category:other"
     ],
     "sources": []
   },
@@ -663,7 +721,8 @@
       "Bodhisattva stages",
       "Mahayana Buddhism",
       "Buddhist cosmology",
-      "Spiritual progress"
+      "Spiritual progress",
+      "category:other"
     ],
     "sources": []
   },
@@ -676,7 +735,8 @@
       "daoist-cultivation",
       "longevity",
       "self-preservation",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -690,7 +750,8 @@
       "chinese-philosophy",
       "universal-love",
       "social-harmony",
-      "pre-qin-philosophy"
+      "pre-qin-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -702,7 +763,8 @@
       "zhuangzi",
       "daoist-philosophy",
       "virtue",
-      "spiritual-cultivation"
+      "spiritual-cultivation",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -723,7 +785,8 @@
       "survival",
       "utility",
       "zhongyong",
-      "zhuangzi"
+      "zhuangzi",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -742,7 +805,8 @@
       "cakravartin",
       "seven-treasures",
       "buddhist-political-theory",
-      "king-mahadyuti"
+      "king-mahadyuti",
+      "category:other"
     ],
     "sources": []
   },
@@ -755,7 +819,8 @@
       "daoist-philosophy",
       "speech-conduct",
       "ethics",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -768,7 +833,8 @@
       "agama",
       "chinese-buddhism",
       "sutra",
-      "hindic-buddhism"
+      "hindic-buddhism",
+      "category:other"
     ],
     "sources": [
       {
@@ -787,9 +853,18 @@
       "numerical-teachings",
       "an-shigao",
       "han-dynasty-buddhism",
-      "digha-nikaya"
+      "digha-nikaya",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "長阿含十報法經 (2卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0013",
+        "work_id": "T0013"
+      }
+    ]
   },
   {
     "slug": "chaou-ke",
@@ -798,7 +873,8 @@
     "tags": [
       "mencius-commentary",
       "han-dynasty",
-      "classical-scholarship"
+      "classical-scholarship",
+      "category:other"
     ],
     "sources": []
   },
@@ -812,7 +888,8 @@
       "daoism",
       "literary-device",
       "philosophy",
-      "zhuangzi"
+      "zhuangzi",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -832,7 +909,8 @@
       "concentration",
       "mastery",
       "skill",
-      "daoist-practice"
+      "daoist-practice",
+      "category:liezi"
     ],
     "sources": []
   },
@@ -844,9 +922,18 @@
       "confucian-ritual",
       "kinship-system",
       "ancestral-worship",
-      "book-of-rites"
+      "book-of-rites",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "chapter": "大傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 大傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/大傳",
+        "work": "禮記"
+      }
+    ]
   },
   {
     "slug": "compassionate-dragon-king-naga",
@@ -858,7 +945,8 @@
       "compassion",
       "non-retaliation",
       "bodhisattva-practice",
-      "upāya"
+      "upāya",
+      "category:other"
     ],
     "sources": []
   },
@@ -871,7 +959,8 @@
       "Confucianism",
       "Daoism",
       "cultivation",
-      "Chinese philosophy"
+      "Chinese philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -896,7 +985,8 @@
       "moral-responsibility",
       "philosophy",
       "stub",
-      "virtue"
+      "virtue",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -915,7 +1005,8 @@
       "gender-roles",
       "confucian-classics",
       "womens-education",
-      "six-arts"
+      "six-arts",
+      "category:other"
     ],
     "sources": []
   },
@@ -929,7 +1020,8 @@
       "ritual",
       "moral-cultivation",
       "analects",
-      "confucian-concepts"
+      "confucian-concepts",
+      "category:other"
     ],
     "sources": [
       {
@@ -947,7 +1039,8 @@
       "confucianism",
       "analects",
       "philosophy",
-      "governance"
+      "governance",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -967,7 +1060,8 @@
       "ethics",
       "chinese philosophy",
       "moral development",
-      "stub"
+      "stub",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -990,7 +1084,8 @@
       "moral-responsibility",
       "philosophy",
       "reflection",
-      "self-cultivation"
+      "self-cultivation",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -1014,7 +1109,8 @@
       "four-books",
       "philosophy",
       "self-cultivation",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1043,7 +1139,8 @@
       "trust-metrics",
       "trust-systems",
       "verification",
-      "verification-systems"
+      "verification-systems",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -1069,7 +1166,8 @@
       "philosophy",
       "self-cultivation",
       "teachings",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1090,7 +1188,8 @@
       "book-of-rites",
       "zixia",
       "ideal-ruler",
-      "confucian-politics"
+      "confucian-politics",
+      "category:confucianism"
     ],
     "sources": []
   },
@@ -1104,7 +1203,8 @@
       "chinese-philosophy",
       "etiquette",
       "ritual-propriety",
-      "confucianism"
+      "confucianism",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1124,7 +1224,8 @@
       "confucian-daoist-synthesis",
       "saint",
       "sagehood",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1145,7 +1246,8 @@
       "關尹子",
       "epistemology",
       "mind",
-      "intention"
+      "intention",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -1158,7 +1260,8 @@
       "Chinese philosophy",
       "celestial",
       "fate",
-      "immortality"
+      "immortality",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -1177,7 +1280,8 @@
       "mind-cultivation",
       "mind-ground",
       "prajna",
-      "tang-dynasty-translations"
+      "tang-dynasty-translations",
+      "category:other"
     ],
     "sources": [
       {
@@ -1201,7 +1305,8 @@
       "tang-dynasty",
       "tang-dynasty-buddhism",
       "universal-light-treasury",
-      "vaipulya-sutra"
+      "vaipulya-sutra",
+      "category:other"
     ],
     "sources": []
   },
@@ -1214,7 +1319,8 @@
       "four-graces",
       "filial-piety",
       "eastern-han",
-      "buddhism"
+      "buddhism",
+      "category:other"
     ],
     "sources": [
       {
@@ -1233,7 +1339,8 @@
       "chinese-buddhist-texts",
       "sutra-commentary",
       "mind-ground-contemplation",
-      "dacheng-tradition"
+      "dacheng-tradition",
+      "category:other"
     ],
     "sources": []
   },
@@ -1247,7 +1354,8 @@
       "three-bodies-doctrine",
       "mahayana-philosophy",
       "tathagata",
-      "buddhist-cosmology"
+      "buddhist-cosmology",
+      "category:other"
     ],
     "sources": [
       {
@@ -1266,7 +1374,8 @@
       "bodhisattva-practice",
       "six-perfections",
       "dana",
-      "altruism"
+      "altruism",
+      "category:other"
     ],
     "sources": []
   },
@@ -1279,7 +1388,8 @@
       "daoist-philosophy",
       "confucianism",
       "chinese-philosophy",
-      "dao-confucianism-comparison"
+      "dao-confucianism-comparison",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1298,7 +1408,8 @@
       "laozi",
       "daoist-classics",
       "chinese-philosophy",
-      "daodejing"
+      "daodejing",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1317,7 +1428,8 @@
       "chinese-classics",
       "silk-manuscripts",
       "boshu-version",
-      "dao-de-jing"
+      "dao-de-jing",
+      "category:other"
     ],
     "sources": [
       {
@@ -1336,9 +1448,18 @@
       "chinese-philosophy",
       "metaphysics",
       "dao-de-jing",
-      "wang-bi"
+      "wang-bi",
+      "category:chinese-philosophy"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "佛說大愛道般泥洹經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0144",
+        "work_id": "T0144"
+      }
+    ]
   },
   {
     "slug": "dayi-jing-great-meaning-sutra",
@@ -1349,7 +1470,8 @@
       "narrative-sutras",
       "song-dynasty",
       "bodhisattva-practice",
-      "gunabhadra"
+      "gunabhadra",
+      "category:other"
     ],
     "sources": [
       {
@@ -1368,7 +1490,8 @@
       "mengzi",
       "moral-legitimacy",
       "governance",
-      "political-theory"
+      "political-theory",
+      "category:governance"
     ],
     "sources": [
       {
@@ -1387,7 +1510,8 @@
       "metaphor",
       "philosophy",
       "taoism",
-      "zhuangzi"
+      "zhuangzi",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -1406,7 +1530,8 @@
       "economic-ethics",
       "virtue-ethics",
       "great-learning",
-      "governance"
+      "governance",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -1424,7 +1549,8 @@
       "buddhist-ethics",
       "ascetic-practice",
       "mental-afflictions",
-      "buddhist-psychology"
+      "buddhist-psychology",
+      "category:other"
     ],
     "sources": []
   },
@@ -1439,7 +1565,8 @@
       "western-jin",
       "zhu-fahu",
       "renuciation",
-      "four-pure-practices"
+      "four-pure-practices",
+      "category:other"
     ],
     "sources": []
   },
@@ -1456,7 +1583,8 @@
       "shangjunshu",
       "social-order",
       "statecraft",
-      "warring-states"
+      "warring-states",
+      "category:other"
     ],
     "sources": []
   },
@@ -1476,13 +1604,16 @@
       "reincarnation-stories",
       "seven-treasures",
       "thirty-three-heavens",
-      "wheel-turning-king"
+      "wheel-turning-king",
+      "category:other"
     ],
     "sources": [
       {
-        "plugin": "cbeta",
-        "title": "CBETA 大藏經",
-        "url": "https://cbetaonline.dila.edu.tw"
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "頂生王故事經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0039",
+        "work_id": "T0039"
       }
     ]
   },
@@ -1496,7 +1627,8 @@
       "buddhist-cosmology",
       "king-mahadyuti",
       "four-continents",
-      "thirty-three-heavens"
+      "thirty-three-heavens",
+      "category:other"
     ],
     "sources": [
       {
@@ -1515,7 +1647,8 @@
       "mahayana",
       "previous-life-narrative",
       "dana-paramita",
-      "buddhist-cosmology"
+      "buddhist-cosmology",
+      "category:other"
     ],
     "sources": [
       {
@@ -1537,7 +1670,8 @@
       "confucianism",
       "ethics",
       "self-cultivation",
-      "stub"
+      "stub",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1557,7 +1691,8 @@
       "chinese-philosophy",
       "virtue-ethics",
       "self-cultivation",
-      "zhongyong"
+      "zhongyong",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1572,7 +1707,8 @@
     "title": "Doctrine Of The Mean",
     "summary": "",
     "tags": [
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": [
       {
@@ -1592,7 +1728,8 @@
       "grief",
       "equanimity",
       "taoism",
-      "death"
+      "death",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -1606,7 +1743,8 @@
       "reality",
       "philosophy-of-mind",
       "paradox",
-      "illusion"
+      "illusion",
+      "category:liezi"
     ],
     "sources": [
       {
@@ -1625,7 +1763,8 @@
       "chinese-philosophy",
       "metaphysics",
       "self",
-      "dreams"
+      "dreams",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1644,7 +1783,8 @@
       "dream-theory",
       "consciousness",
       "taoist-psychology",
-      "philosophy-of-mind"
+      "philosophy-of-mind",
+      "category:liezi"
     ],
     "sources": []
   },
@@ -1657,13 +1797,16 @@
       "noble-path",
       "eightfold-path",
       "mahabrahma",
-      "liberation"
+      "liberation",
+      "category:other"
     ],
     "sources": [
       {
-        "plugin": "cbeta",
-        "title": "CBETA 大藏經",
-        "url": "https://cbetaonline.dila.edu.tw"
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "佛說八正道經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0112",
+        "work_id": "T0112"
       }
     ]
   },
@@ -1676,7 +1819,8 @@
       "elderly-care",
       "filial-piety",
       "social-welfare",
-      "confucian-classics"
+      "confucian-classics",
+      "category:other"
     ],
     "sources": []
   },
@@ -1689,7 +1833,8 @@
       "mahayana",
       "bodhisattva-practice",
       "wisdom",
-      "meditation"
+      "meditation",
+      "category:other"
     ],
     "sources": [
       {
@@ -1713,7 +1858,8 @@
       "han-dynasty",
       "lexicography",
       "thirteen-classics",
-      "爾雅"
+      "爾雅",
+      "category:other"
     ],
     "sources": []
   },
@@ -1727,7 +1873,8 @@
       "unwholesome",
       "three-poisons",
       "misconduct",
-      "klesha"
+      "klesha",
+      "category:other"
     ],
     "sources": []
   },
@@ -1740,7 +1887,8 @@
       "three-dharmas",
       "evil-classification",
       "desire",
-      "delusion"
+      "delusion",
+      "category:other"
     ],
     "sources": []
   },
@@ -1753,7 +1901,8 @@
       "confucian-ethics",
       "virtue",
       "moral-psychology",
-      "self-cultivation"
+      "self-cultivation",
+      "category:self-cultivation"
     ],
     "sources": [
       {
@@ -1771,7 +1920,8 @@
       "western-jin",
       "buddhist-translators",
       "chinese-buddhism",
-      "translation-works"
+      "translation-works",
+      "category:other"
     ],
     "sources": []
   },
@@ -1785,7 +1935,8 @@
       "Moral philosophy",
       "Mozi",
       "Non-war",
-      "War ethics"
+      "War ethics",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1804,7 +1955,8 @@
       "han-dynasty-translations",
       "mahayana",
       "arhat",
-      "sangha"
+      "sangha",
+      "category:other"
     ],
     "sources": [
       {
@@ -1823,7 +1975,8 @@
       "perception",
       "inversion",
       "madness",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -1842,7 +1995,8 @@
       "military-equipment",
       "mozi",
       "ancient-chinese-military",
-      "wheeled-vehicles"
+      "wheeled-vehicles",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -1856,7 +2010,8 @@
       "legalism",
       "political-theory",
       "shang-jun-shu",
-      "state-craft"
+      "state-craft",
+      "category:other"
     ],
     "sources": []
   },
@@ -1869,7 +2024,8 @@
       "buddhist-meditation",
       "contemplation-practice",
       "five-aggregates",
-      "non-self"
+      "non-self",
+      "category:other"
     ],
     "sources": []
   },
@@ -1883,7 +2039,8 @@
       "five-aggregates",
       "contemplation-methods",
       "early-buddhism",
-      "han-dynasty-translation"
+      "han-dynasty-translation",
+      "category:other"
     ],
     "sources": []
   },
@@ -1897,7 +2054,8 @@
       "karmic rebirth",
       "Buddhist narrative",
       "śrāvaka",
-      "shengjing"
+      "shengjing",
+      "category:other"
     ],
     "sources": []
   },
@@ -1913,13 +2071,16 @@
       "eastern-jin",
       "five-blessings",
       "food-offering",
-      "food-offerings"
+      "food-offerings",
+      "category:other"
     ],
     "sources": [
       {
-        "plugin": "cbeta",
-        "title": "CBETA 大藏經",
-        "url": "https://cbetaonline.dila.edu.tw"
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "佛說食施獲五福報經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0132a",
+        "work_id": "T0132a"
       }
     ]
   },
@@ -1932,7 +2093,8 @@
       "legalism",
       "social-classification",
       "statecraft",
-      "fivecategories"
+      "fivecategories",
+      "category:other"
     ],
     "sources": []
   },
@@ -1945,7 +2107,8 @@
       "chinese-philosophy",
       "cosmology",
       "transformation",
-      "wuxing"
+      "wuxing",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -1958,7 +2121,8 @@
       "Guān Yǐnzǐ",
       "Five Elements",
       "Mind and emotions",
-      "Chinese cosmology"
+      "Chinese cosmology",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -1978,7 +2142,8 @@
       "fetters",
       "mental-defilements",
       "mahayana",
-      "mind-ground"
+      "mind-ground",
+      "category:other"
     ],
     "sources": [
       {
@@ -1997,7 +2162,8 @@
       "political-philosophy",
       "mengzi",
       "historical-theory",
-      "eschatology"
+      "eschatology",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -2017,7 +2183,8 @@
       "wuyue",
       "baopuzi",
       "chinese-religion",
-      "esoteric-practice"
+      "esoteric-practice",
+      "category:other"
     ],
     "sources": []
   },
@@ -2029,9 +2196,18 @@
       "confucian-political-philosophy",
       "governance",
       "book-of-rites",
-      "ritual-ethics"
+      "ritual-ethics",
+      "category:governance"
     ],
-    "sources": []
+    "sources": [
+      {
+        "chapter": "大傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 大傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/大傳",
+        "work": "禮記"
+      }
+    ]
   },
   {
     "slug": "five-roots-five-powers-an-shigao-commentary",
@@ -2043,7 +2219,8 @@
       "han-dynasty-buddhism",
       "thirty-seven-factors",
       "faith",
-      "wisdom"
+      "wisdom",
+      "category:other"
     ],
     "sources": []
   },
@@ -2056,7 +2233,8 @@
       "five-aggregates",
       "sense-defilements",
       "moral-psychology",
-      "early-buddhism"
+      "early-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -2068,7 +2246,8 @@
       "confucian-governance",
       "political-ethics",
       "analects",
-      "virtue-cultivation"
+      "virtue-cultivation",
+      "category:other"
     ],
     "sources": [
       {
@@ -2086,7 +2265,8 @@
       "economics",
       "moral-psychology",
       "social-stability",
-      "land-reform"
+      "land-reform",
+      "category:other"
     ],
     "sources": []
   },
@@ -2099,7 +2279,8 @@
       "chinese-philosophy",
       "determinism",
       "free-will",
-      "taoism"
+      "taoism",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -2112,7 +2293,8 @@
       "bodhisattva-path",
       "jataka-tales",
       "eastern-jin-dynasty",
-      "chinese-buddhism"
+      "chinese-buddhism",
+      "category:other"
     ],
     "sources": [
       {
@@ -2131,9 +2313,18 @@
       "four-agamas",
       "three-dharmas",
       "buddhist-commentary",
-      "qin-dynasty-buddhism"
+      "qin-dynasty-buddhism",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "四阿鋡暮抄解 (2卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T1505",
+        "work_id": "T1505"
+      }
+    ]
   },
   {
     "slug": "four-agnas-four-absorptions-buddhist-meditation",
@@ -2143,7 +2334,8 @@
       "buddhist-meditation",
       "breath-meditation",
       "four-assemblies",
-      "anapana"
+      "anapana",
+      "category:other"
     ],
     "sources": []
   },
@@ -2156,7 +2348,8 @@
       "meditation",
       "supernatural-powers",
       "mahabrahma",
-      "four-bases"
+      "four-bases",
+      "category:other"
     ],
     "sources": [
       {
@@ -2175,7 +2368,8 @@
       "shang-jun-shu",
       "military-strategy",
       "political-theory",
-      "ancient-china"
+      "ancient-china",
+      "category:other"
     ],
     "sources": []
   },
@@ -2189,7 +2383,8 @@
       "ethics",
       "human-nature",
       "mengzi",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2208,7 +2403,8 @@
       "caste",
       "cosmology",
       "brahmins",
-      "origin-of-society"
+      "origin-of-society",
+      "category:other"
     ],
     "sources": [
       {
@@ -2227,7 +2423,8 @@
       "contemplative-practice",
       "self-examination",
       "an-shigao",
-      "agama-buddhism"
+      "agama-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -2240,7 +2437,8 @@
       "an-shigao",
       "han-dynasty-buddhism",
       "five-aggregates",
-      "mindfulness"
+      "mindfulness",
+      "category:other"
     ],
     "sources": [
       {
@@ -2259,7 +2457,8 @@
       "mahayana",
       "hinayana",
       "mental-afflictions",
-      "ethical-teaching"
+      "ethical-teaching",
+      "category:other"
     ],
     "sources": [
       {
@@ -2278,7 +2477,8 @@
       "dream-reality",
       "cosmology",
       "chinese-philosophy",
-      "comparative-philosophy"
+      "comparative-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2297,13 +2497,16 @@
       "rites-of-passage",
       "mourning-rituals",
       "book-of-liji",
-      "confucian-ethics"
+      "confucian-ethics",
+      "category:confucianism"
     ],
     "sources": [
       {
+        "chapter": "喪服四制",
         "plugin": "wikisource",
-        "title": "維基文庫",
-        "url": "https://zh.wikisource.org"
+        "title": "禮記 · 喪服四制",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服四制",
+        "work": "禮記"
       }
     ]
   },
@@ -2315,7 +2518,8 @@
       "buddhism",
       "core teachings",
       "four noble truths",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": [
       {
@@ -2334,7 +2538,8 @@
       "chinese-philosophy",
       "cosmology",
       "fate",
-      "determinism"
+      "determinism",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2353,7 +2558,8 @@
       "an-shigao",
       "han-dynasty-buddhism",
       "thirty-seven-factors",
-      "enlightenment"
+      "enlightenment",
+      "category:other"
     ],
     "sources": []
   },
@@ -2366,7 +2572,8 @@
       "daoist-philosophy",
       "life-cycle",
       "transformation",
-      "tianrui"
+      "tianrui",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -2386,7 +2593,8 @@
       "an-shigao",
       "early-buddhism",
       "han-dynasty-translation",
-      "personal-cultivation"
+      "personal-cultivation",
+      "category:other"
     ],
     "sources": [
       {
@@ -2405,9 +2613,18 @@
       "Āgama literature",
       "Three Factors doctrine",
       "Chinese Buddhist translation",
-      "Śrāvakayāna"
+      "Śrāvakayāna",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "四阿鋡暮抄解 (2卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T1505",
+        "work_id": "T1505"
+      }
+    ]
   },
   {
     "slug": "fuli-prince-fortune-power-cause-effect-sutra",
@@ -2419,7 +2636,8 @@
       "prince-fuli",
       "causality",
       "bodhisattva-path",
-      "dana-paramita"
+      "dana-paramita",
+      "category:other"
     ],
     "sources": []
   },
@@ -2431,7 +2649,8 @@
       "baopuzi",
       "daoist-alchemy",
       "medicine-timing",
-      "cultivation-methods"
+      "cultivation-methods",
+      "category:other"
     ],
     "sources": []
   },
@@ -2445,7 +2664,8 @@
       "open-source-models",
       "text-generation",
       "gemma-family",
-      "non-target"
+      "non-target",
+      "category:other"
     ],
     "sources": []
   },
@@ -2458,7 +2678,8 @@
       "daoism",
       "gengsang-chu",
       "chinese-philosophy",
-      "preserving-life"
+      "preserving-life",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2478,7 +2699,8 @@
       "model-formats",
       "quantization",
       "llama-cpp",
-      "non-target"
+      "non-target",
+      "category:other"
     ],
     "sources": []
   },
@@ -2493,7 +2715,8 @@
       "strength",
       "humility",
       "self-cultivation",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -2505,7 +2728,8 @@
       "digitization",
       "public-domain",
       "libraries",
-      "copyright"
+      "copyright",
+      "category:other"
     ],
     "sources": []
   },
@@ -2516,7 +2740,8 @@
     "tags": [
       "governance",
       "leadership",
-      "ethics"
+      "ethics",
+      "category:governance"
     ],
     "sources": []
   },
@@ -2529,7 +2754,8 @@
       "governance",
       "political-philosophy",
       "virtue",
-      "analects"
+      "analects",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -2549,7 +2775,8 @@
       "mind-body distinction",
       "Confucian philosophy",
       "great body",
-      "small body"
+      "small body",
+      "category:other"
     ],
     "sources": [
       {
@@ -2569,7 +2796,8 @@
       "four-bases-supernatural-power",
       "human-immortal-sutra",
       "thirty-three-heavens",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": []
   },
@@ -2582,9 +2810,18 @@
       "numerical-teachings",
       "shravaka-teachings",
       "sarvastivada",
-      "chinese-buddhist-translation"
+      "chinese-buddhist-translation",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "大集法門經 (2卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0012",
+        "work_id": "T0012"
+      }
+    ]
   },
   {
     "slug": "great-firm-brahman-backstory",
@@ -2598,7 +2835,8 @@
       "prthag-jana",
       "buddhist-narrative",
       "indian-buddhism",
-      "three-jewels"
+      "three-jewels",
+      "category:other"
     ],
     "sources": [
       {
@@ -2617,7 +2855,8 @@
       "brahmin",
       "arhat",
       "renunciation",
-      "past-life-narrative"
+      "past-life-narrative",
+      "category:other"
     ],
     "sources": [
       {
@@ -2636,9 +2875,18 @@
       "mahayana-origin-story",
       "brahmin-conversion",
       "thirty-three-heavens",
-      "eight-rare-qualities"
+      "eight-rare-qualities",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "大堅固婆羅門緣起經 (2卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0008",
+        "work_id": "T0008"
+      }
+    ]
   },
   {
     "slug": "great-learning-daxue",
@@ -2656,7 +2904,8 @@
       "neo-confucianism",
       "political-philosophy",
       "self-cultivation",
-      "zhu-xi"
+      "zhu-xi",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2676,7 +2925,8 @@
       "mengzi",
       "moral-cultivation",
       "qi",
-      "spiritual-cultivation"
+      "spiritual-cultivation",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2695,7 +2945,8 @@
       "chinese-philosophy",
       "friendship",
       "historical-anecdote",
-      "taoism"
+      "taoism",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -2709,7 +2960,8 @@
       "Chinese philosophy",
       "Dao",
       "five elements",
-      "mind"
+      "mind",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2728,7 +2980,8 @@
       "mind-study",
       "chinese-philosophy",
       "guan-yinzi",
-      "intentionality"
+      "intentionality",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -2745,7 +2998,8 @@
       "Five Elements",
       "精",
       "神",
-      "魂魄"
+      "魂魄",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -2763,7 +3017,8 @@
       "關尹子",
       "精神魂魄",
       "五行",
-      "生死"
+      "生死",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2783,7 +3038,8 @@
       "chapter-9",
       "self-cultivation",
       "wisdom",
-      "daoist-philosophy"
+      "daoist-philosophy",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -2803,7 +3059,8 @@
       "dream-analysis",
       "self-cultivation",
       "chinese-philosophy",
-      "warring-states-period"
+      "warring-states-period",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2824,7 +3081,8 @@
       "sagehood",
       "non-self",
       "governance",
-      "taoist-texts"
+      "taoist-texts",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2844,7 +3102,8 @@
       "Chinese classical texts",
       "essence-spirit theory",
       "five elements",
-      "dream-reality relationship"
+      "dream-reality relationship",
+      "category:other"
     ],
     "sources": []
   },
@@ -2865,7 +3124,8 @@
       "guan-yinzi",
       "guanyinzi",
       "transcendence",
-      "關尹子"
+      "關尹子",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2888,7 +3148,8 @@
       "guanyinzi",
       "mind",
       "taoist-philosophy",
-      "transformation"
+      "transformation",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -2910,7 +3171,8 @@
       "sage",
       "self-cultivation",
       "taoism",
-      "wu-wei"
+      "wu-wei",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2933,7 +3195,8 @@
       "daoist-philosophy",
       "guanyinzi",
       "qi",
-      "transformation"
+      "transformation",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2954,7 +3217,8 @@
       "self-transformation",
       "dream",
       "five-elements",
-      "wu-wei"
+      "wu-wei",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -2967,7 +3231,8 @@
       "Chinese philosophy",
       "Guanyinzi",
       "non-action",
-      "sage governance"
+      "sage governance",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -2987,7 +3252,8 @@
       "Wenshi Zhenjing",
       "Chinese cosmology",
       "柱者建天地",
-      "道寓"
+      "道寓",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -3000,7 +3266,8 @@
       "daoist-meditation",
       "emptiness",
       "self-cultivation",
-      "守虛"
+      "守虛",
+      "category:self-cultivation"
     ],
     "sources": []
   },
@@ -3013,7 +3280,8 @@
       "daoist-philosophy",
       "self-cultivation",
       "guarding-practices",
-      "守"
+      "守",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -3027,7 +3295,8 @@
       "stillness",
       "self-cultivation",
       "longevity",
-      "守靜"
+      "守靜",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -3038,7 +3307,8 @@
     "tags": [
       "textual-transmission",
       "classical-canon",
-      "intellectual-history"
+      "intellectual-history",
+      "category:other"
     ],
     "sources": [
       {
@@ -3058,7 +3328,8 @@
       "dynasty",
       "ancient china",
       "imperial",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": []
   },
@@ -3071,7 +3342,8 @@
       "epistemology",
       "philosophy-debate",
       "consciousness",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -3090,7 +3362,8 @@
       "Daoist philosophy",
       "death",
       "spiritual transformation",
-      "heart-mind"
+      "heart-mind",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -3109,7 +3382,8 @@
       "moral-psychology",
       "self-cultivation",
       "mengzi",
-      "heart-mind"
+      "heart-mind",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -3128,7 +3402,8 @@
       "daoist-practice",
       "spiritual-cultivation",
       "illusion",
-      "perception"
+      "perception",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -3147,7 +3422,8 @@
       "legalism",
       "governance-strategy",
       "military-philosophy",
-      "qin-dynasty"
+      "qin-dynasty",
+      "category:other"
     ],
     "sources": []
   },
@@ -3160,7 +3436,8 @@
       "utopia",
       "dream",
       "yellow-emperor",
-      "daoist-philosophy"
+      "daoist-philosophy",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -3174,7 +3451,8 @@
       "yellow-emperor",
       "utopia",
       "dream",
-      "wu-wei"
+      "wu-wei",
+      "category:liezi"
     ],
     "sources": [
       {
@@ -3193,7 +3471,8 @@
       "philosophy-of-language",
       "tacit-knowledge",
       "ancient-chinese-wisdom",
-      "paradoxes"
+      "paradoxes",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -3212,9 +3491,18 @@
       "twelve-links",
       "an-shigao",
       "han-dynasty-translation",
-      "dependent-origination"
+      "dependent-origination",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "人本欲生經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0014",
+        "work_id": "T0014"
+      }
+    ]
   },
   {
     "slug": "human-harmony-he-ren",
@@ -3225,7 +3513,8 @@
       "political-philosophy",
       "mengzi",
       "governance",
-      "social-harmony"
+      "social-harmony",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -3244,13 +3533,16 @@
       "sutras",
       "celestial-beings",
       "reincarnation",
-      "magadha"
+      "magadha",
+      "category:other"
     ],
     "sources": [
       {
-        "plugin": "cbeta",
-        "title": "CBETA 大藏經",
-        "url": "https://cbetaonline.dila.edu.tw"
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "人仙經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0009",
+        "work_id": "T0009"
       }
     ]
   },
@@ -3265,7 +3557,8 @@
       "retributive-rebirth",
       "four-supernatural-powers",
       "lay-buddhism",
-      "magadha"
+      "magadha",
+      "category:other"
     ],
     "sources": [
       {
@@ -3288,9 +3581,18 @@
       "king-bimbisara",
       "magadha",
       "mahayana-sutras",
-      "vaisravana"
+      "vaisravana",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "人仙經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0009",
+        "work_id": "T0009"
+      }
+    ]
   },
   {
     "slug": "human-nature-in-confucianism",
@@ -3300,7 +3602,8 @@
       "confucianism",
       "philosophy",
       "human nature",
-      "stub"
+      "stub",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -3329,13 +3632,16 @@
       "education",
       "human nature.\n\npotential tags: \"mencius\"",
       "\"innate goodness\"",
-      "\"confucian"
+      "\"confucian",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
-        "plugin": "wikisource",
-        "title": "維基文庫",
-        "url": "https://zh.wikisource.org"
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "佛說波斯匿王太后崩塵土坌身經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0122",
+        "work_id": "T0122"
       }
     ]
   },
@@ -3348,7 +3654,8 @@
       "Mencius",
       "Gaozi",
       "Confucian philosophy",
-      "classical Chinese thought"
+      "classical Chinese thought",
+      "category:other"
     ],
     "sources": [
       {
@@ -3370,7 +3677,8 @@
       "confucianism",
       "human-nature",
       "mencius",
-      "philosophy"
+      "philosophy",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -3389,7 +3697,8 @@
       "daoist-philosophy",
       "parable",
       "non-action",
-      "chaos"
+      "chaos",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -3408,7 +3717,8 @@
       "spiritual-practice",
       "stages-of-awakening",
       "mahayana-terms",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": [
       {
@@ -3427,7 +3737,8 @@
       "neo-confucianism",
       "self-cultivation",
       "epistemology",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -3441,7 +3752,8 @@
       "mastery",
       "spiritual-training",
       "ziran",
-      "naturalness"
+      "naturalness",
+      "category:liezi"
     ],
     "sources": []
   },
@@ -3456,7 +3768,8 @@
       "universalism",
       "兼愛",
       "墨家",
-      "墨子"
+      "墨子",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -3470,7 +3783,8 @@
       "ideal-society",
       "naturalness",
       "utopia",
-      "zhuangzi"
+      "zhuangzi",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -3488,7 +3802,8 @@
       "buddhism",
       "doctrinal-study",
       "mahayana-teaching",
-      "shravaka-bodhisattva"
+      "shravaka-bodhisattva",
+      "category:other"
     ],
     "sources": [
       {
@@ -3508,7 +3823,8 @@
       "guanyinzi",
       "chinese-philosophy",
       "five-elements",
-      "soul-theory"
+      "soul-theory",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -3521,7 +3837,8 @@
       "jataka-tale",
       "dana-paramita",
       "eastern-wei-translation",
-      "gautama-prajnaruci"
+      "gautama-prajnaruci",
+      "category:other"
     ],
     "sources": []
   },
@@ -3534,7 +3851,8 @@
       "essence-over-form",
       "liezi",
       "perception",
-      "wisdom"
+      "wisdom",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -3546,7 +3864,8 @@
       "confucianism",
       "virtue-ethics",
       "leadership",
-      "moral-character"
+      "moral-character",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -3570,7 +3889,8 @@
       "moral-responsibility",
       "philosophy",
       "virtue",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -3589,7 +3909,8 @@
       "sensory-transcendence",
       "liezi",
       "laozi-disciple",
-      "cultivation"
+      "cultivation",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -3603,7 +3924,8 @@
       "four-continents",
       "cakravartin",
       "indian-buddhism",
-      "medieval-translations"
+      "medieval-translations",
+      "category:other"
     ],
     "sources": [
       {
@@ -3623,7 +3945,8 @@
       "spiritual-practice",
       "transcendence",
       "king-mu",
-      "huazhiren"
+      "huazhiren",
+      "category:liezi"
     ],
     "sources": []
   },
@@ -3637,7 +3960,8 @@
       "bodhisattva-giving",
       "perfection-of-giving",
       "buddhist-narratives",
-      "śibi-jataka"
+      "śibi-jataka",
+      "category:other"
     ],
     "sources": [
       {
@@ -3655,7 +3979,8 @@
       "confucian-cultivation",
       "gentleman-ideal",
       "self-cultivation",
-      "analects"
+      "analects",
+      "category:self-cultivation"
     ],
     "sources": [
       {
@@ -3677,7 +4002,8 @@
       "knowledge",
       "learning",
       "philosophy",
-      "scholarship"
+      "scholarship",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -3696,7 +4022,8 @@
       "translation-history",
       "buddhist-translation",
       "qin-dynasty",
-      "chinese-buddhism"
+      "chinese-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -3709,7 +4036,8 @@
       "cosmology",
       "transformation",
       "daoist-philosophy",
-      "myth"
+      "myth",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -3724,7 +4052,8 @@
       "qin-dynasty",
       "shang-jun-shu",
       "shangjunshu",
-      "state-building"
+      "state-building",
+      "category:other"
     ],
     "sources": []
   },
@@ -3737,7 +4066,8 @@
       "chinese-buddhism",
       "commentaries",
       "huayan-school",
-      "qing-dynasty"
+      "qing-dynasty",
+      "category:other"
     ],
     "sources": [
       {
@@ -3756,7 +4086,8 @@
       "meditation",
       "ascetic-practice",
       "forest-monasticism",
-      "aranya"
+      "aranya",
+      "category:other"
     ],
     "sources": []
   },
@@ -3770,7 +4101,8 @@
       "illusion",
       "transformation",
       "yinwen",
-      "change"
+      "change",
+      "category:liezi"
     ],
     "sources": []
   },
@@ -3782,7 +4114,8 @@
       "confucianism",
       "education",
       "self-cultivation",
-      "knowledge-acquisition"
+      "knowledge-acquisition",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -3803,9 +4136,18 @@
       "book-of-rites",
       "mourning-rites",
       "li-ji",
-      "chinese-ritual"
+      "chinese-ritual",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "chapter": "大傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 大傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/大傳",
+        "work": "禮記"
+      }
+    ]
   },
   {
     "slug": "li-ji-guan-yi-meaning-capping-rite",
@@ -3818,7 +4160,8 @@
       "chinese-classics",
       "confucian-philosophy",
       "self-cultivation",
-      "rites-of-passage"
+      "rites-of-passage",
+      "category:self-cultivation"
     ],
     "sources": [
       {
@@ -3837,7 +4180,8 @@
       "dana-paramita",
       "skillful-means",
       "mahayana-teaching",
-      "chinese-buddhism"
+      "chinese-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -3849,7 +4193,8 @@
       "liezi",
       "confucius",
       "epistemology",
-      "philosophy"
+      "philosophy",
+      "category:liezi"
     ],
     "sources": []
   },
@@ -3863,7 +4208,8 @@
       "lactotherapy",
       "longevity",
       "daoist-practice",
-      "historical-record"
+      "historical-record",
+      "category:other"
     ],
     "sources": []
   },
@@ -3876,7 +4222,8 @@
       "immortality",
       "baopuzi",
       "esoteric-teaching",
-      "taoism"
+      "taoism",
+      "category:other"
     ],
     "sources": []
   },
@@ -3889,7 +4236,8 @@
       "Liezi",
       "Boqian Maoren",
       "Daoist wisdom",
-      "worldly recognition"
+      "worldly recognition",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -3907,7 +4255,8 @@
       "buddhist-cosmology",
       "dhyana-heavens",
       "light-sound-heaven",
-      "world-origin"
+      "world-origin",
+      "category:other"
     ],
     "sources": []
   },
@@ -3920,7 +4269,8 @@
       "chinese-philosophy",
       "book-of-rites",
       "confucian-political-philosophy",
-      "self-cultivation"
+      "self-cultivation",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -3941,7 +4291,8 @@
       "rites",
       "family-values",
       "domestic-rituals",
-      "chinese-classics"
+      "chinese-classics",
+      "category:other"
     ],
     "sources": [
       {
@@ -3960,7 +4311,8 @@
       "confucian-political-philosophy",
       "ritual-theory",
       "social-order",
-      "classical-chinese-text"
+      "classical-chinese-text",
+      "category:other"
     ],
     "sources": [
       {
@@ -3979,7 +4331,8 @@
       "ancient-chinese-text",
       "jiang-ziya",
       "six-strategies",
-      "classical-chinese"
+      "classical-chinese",
+      "category:other"
     ],
     "sources": []
   },
@@ -3992,7 +4345,8 @@
       "lotus-world",
       "mahayana-buddhism",
       "buddha",
-      "dharani"
+      "dharani",
+      "category:other"
     ],
     "sources": []
   },
@@ -4005,7 +4359,8 @@
       "pure-land",
       "mahayana",
       "lotus",
-      "bodhisattva-realm"
+      "bodhisattva-realm",
+      "category:other"
     ],
     "sources": [
       {
@@ -4024,7 +4379,8 @@
       "arhat",
       "nirodha-samapatti",
       "first-council",
-      "pratyekabuddha"
+      "pratyekabuddha",
+      "category:other"
     ],
     "sources": [
       {
@@ -4043,9 +4399,18 @@
       "numerical-classification",
       "monastic-education",
       "sarvastivada",
-      "doctrinal-organization"
+      "doctrinal-organization",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "大集法門經 (2卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0012",
+        "work_id": "T0012"
+      }
+    ]
   },
   {
     "slug": "mahasanghika",
@@ -4055,7 +4420,8 @@
       "early-buddhist-schools",
       "mahayana-origins",
       "buddhist-doctrine",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": []
   },
@@ -4068,7 +4434,8 @@
       "dharani",
       "lotus-world",
       "buddhist-cosmogony",
-      "chinese-buddhism"
+      "chinese-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -4089,7 +4456,8 @@
       "mengzi",
       "moral-psychology",
       "sinology",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -4108,7 +4476,8 @@
       "confucian-philosophy",
       "human-nature",
       "classical-chinese-philosophy",
-      "ethics"
+      "ethics",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -4129,7 +4498,8 @@
       "confucian-ethics",
       "integrity",
       "political-theory",
-      "gift-giving"
+      "gift-giving",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -4150,7 +4520,8 @@
       "qi-vital-energy",
       "confucian-cultivation",
       "moral-spirituality",
-      "self-cultivation"
+      "self-cultivation",
+      "category:self-cultivation"
     ],
     "sources": [
       {
@@ -4169,7 +4540,8 @@
       "political-philosophy",
       "confucian-political-philosophy",
       "governance",
-      "virtue"
+      "virtue",
+      "category:governance"
     ],
     "sources": [
       {
@@ -4188,7 +4560,8 @@
       "self-cultivation",
       "courage",
       "moral-will",
-      "confucian-spirituality"
+      "confucian-spirituality",
+      "category:self-cultivation"
     ],
     "sources": [
       {
@@ -4208,7 +4581,8 @@
       "moral-cultivation",
       "confucian-philosophy",
       "classical-chinese-philosophy",
-      "heart-mind"
+      "heart-mind",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -4227,7 +4601,8 @@
       "moral cultivation",
       "lost mind",
       "Confucian learning",
-      "self-examination"
+      "self-examination",
+      "category:other"
     ],
     "sources": [
       {
@@ -4247,7 +4622,8 @@
       "governance",
       "mengzi",
       "military-strategy",
-      "political-philosophy"
+      "political-philosophy",
+      "category:governance"
     ],
     "sources": [
       {
@@ -4266,7 +4642,8 @@
       "political-philosophy",
       "benevolent-government",
       "governance-virtue-de",
-      "sinology"
+      "sinology",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -4287,7 +4664,8 @@
       "governance-leadership",
       "mengzi",
       "ministerial-advice",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -4308,7 +4686,8 @@
       "mengzi",
       "ritual propriety",
       "confucian-political-philosophy",
-      "moral-responsibility"
+      "moral-responsibility",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -4329,7 +4708,8 @@
       "confucianism",
       "chinese-philosophy",
       "political-philosophy",
-      "warring-states"
+      "warring-states",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -4350,7 +4730,8 @@
       "classical-chinese-philosophy",
       "mengzi",
       "text-structure",
-      "sinology"
+      "sinology",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -4371,7 +4752,8 @@
       "political-philosophy",
       "confucian-ethics",
       "governance",
-      "unity"
+      "unity",
+      "category:governance"
     ],
     "sources": [
       {
@@ -4396,7 +4778,8 @@
       "mengzi",
       "stub",
       "warring states period",
-      "warring-states-period"
+      "warring-states-period",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -4418,7 +4801,8 @@
       "bodhisattva",
       "king-sacrifice",
       "yijing",
-      "tang-buddhism"
+      "tang-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -4432,7 +4816,8 @@
       "bodhisattva-sacrifice",
       "tang-translations",
       "yijing",
-      "buddhist-narrative"
+      "buddhist-narrative",
+      "category:other"
     ],
     "sources": []
   },
@@ -4445,7 +4830,8 @@
       "confucian-philosophy",
       "mind-cultivation",
       "moral-philosophy",
-      "confucian-self-examination"
+      "confucian-self-examination",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -4465,7 +4851,8 @@
       "spiritual-attainment",
       "self-cultivation",
       "consciousness",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -4478,7 +4865,8 @@
       "meditation-analogies",
       "mental-cultivation",
       "an-shigao",
-      "agama-buddhism"
+      "agama-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -4494,7 +4882,8 @@
       "chinese-philosophy",
       "political-philosophy",
       "sacrificial-rites",
-      "confucianism"
+      "confucianism",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -4511,7 +4900,8 @@
     "tags": [
       "mencius",
       "benevolent-government",
-      "moral-responsibility"
+      "moral-responsibility",
+      "category:other"
     ],
     "sources": [
       {
@@ -4530,7 +4920,8 @@
       "governance-leadership",
       "ministerial-advice",
       "mengzi",
-      "moral-responsibility"
+      "moral-responsibility",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -4549,7 +4940,8 @@
       "political-theory",
       "liezi",
       "confucianism",
-      "stub"
+      "stub",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -4569,7 +4961,8 @@
       "model-optimization",
       "computational-efficiency",
       "gguf-format",
-      "non-target"
+      "non-target",
+      "category:other"
     ],
     "sources": []
   },
@@ -4582,7 +4975,8 @@
       "dana-paramita",
       "jataka-tale",
       "mahayana-sutra",
-      "moonlight-bodhisattva"
+      "moonlight-bodhisattva",
+      "category:other"
     ],
     "sources": [
       {
@@ -4600,7 +4994,8 @@
       "confucianism",
       "self-cultivation",
       "virtue-ethics",
-      "moral-development"
+      "moral-development",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -4619,7 +5014,8 @@
       "caste-equality",
       "four-castes",
       "brahmin",
-      "ethics"
+      "ethics",
+      "category:other"
     ],
     "sources": [
       {
@@ -4639,7 +5035,8 @@
       "confucianism",
       "mencius",
       "moral-responsibility",
-      "philosophy"
+      "philosophy",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -4666,7 +5063,8 @@
       "siege-defense",
       "siege-warfare",
       "signal-systems",
-      "warring-states-period"
+      "warring-states-period",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -4682,7 +5080,8 @@
       "frugality",
       "governance",
       "confucianism",
-      "chinese-texts"
+      "chinese-texts",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -4707,7 +5106,8 @@
       "qin-guli",
       "军事防御",
       "古代战争",
-      "墨家"
+      "墨家",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -4722,7 +5122,8 @@
       "ethical-theory",
       "warring-states-period",
       "universal-love",
-      "self-sacrifice"
+      "self-sacrifice",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -4736,7 +5137,8 @@
       "city-fortification",
       "military-defense",
       "mohism",
-      "mozi"
+      "mozi",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -4756,7 +5158,8 @@
       "political-philosophy",
       "standard-of-law",
       "tianzhi",
-      "warring-states"
+      "warring-states",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -4769,7 +5172,8 @@
       "chinese-philosophy",
       "war-criticism",
       "mohism",
-      "military-history"
+      "military-history",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -4783,7 +5187,8 @@
       "fatalism",
       "human-agency",
       "mohism",
-      "mozi"
+      "mozi",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -4797,7 +5202,8 @@
       "music-and-governance",
       "chinese-philosophy",
       "non-pleasure",
-      "confucian-critique"
+      "confucian-critique",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -4816,7 +5222,8 @@
       "confucian-critique",
       "philosophical-debate",
       "chinese-philosophy",
-      "gong-meng"
+      "gong-meng",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -4829,7 +5236,8 @@
       "confucianism",
       "debate",
       "philosophy",
-      "chinese-ancient-philosophy"
+      "chinese-ancient-philosophy",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -4851,7 +5259,8 @@
       "mohism",
       "military-defense",
       "gongshu-ban",
-      "dialogic-argument"
+      "dialogic-argument",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -4866,7 +5275,8 @@
       "mozi",
       "political-philosophy",
       "righteousness",
-      "warring-states"
+      "warring-states",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -4878,7 +5288,8 @@
       "mohism",
       "heavenly-justice",
       "moral-retribution",
-      "political-philosophy"
+      "political-philosophy",
+      "category:political-philosophy"
     ],
     "sources": []
   },
@@ -4892,7 +5303,8 @@
       "ethics",
       "heaven-tianzhi",
       "mozi",
-      "political-philosophy"
+      "political-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -4904,7 +5316,8 @@
       "mohism",
       "political-philosophy",
       "governance",
-      "meritocracy"
+      "meritocracy",
+      "category:governance"
     ],
     "sources": []
   },
@@ -4920,7 +5333,8 @@
       "ghosts-spirits",
       "moral-retribution",
       "mozi",
-      "warring-states"
+      "warring-states",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -4935,7 +5349,8 @@
       "ancient-china",
       "economic-policy",
       "frugality",
-      "practical-utility"
+      "practical-utility",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -4954,7 +5369,8 @@
       "population-policy",
       "practical-philosophy",
       "utilitarian-philosophy",
-      "warring-states-period"
+      "warring-states-period",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -4977,7 +5393,8 @@
       "governance",
       "mohism",
       "mozi",
-      "political-philosophy"
+      "political-philosophy",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -5001,7 +5418,8 @@
       "social reform",
       "utilitarianism",
       "warring states",
-      "warring-states"
+      "warring-states",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5017,7 +5435,8 @@
       "funeral-rites",
       "mohism",
       "mozi",
-      "utilitarian-ethics"
+      "utilitarian-ethics",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5030,7 +5449,8 @@
       "ghosts-spirits",
       "mohism",
       "moral-retribution",
-      "confucian-mozist-debate"
+      "confucian-mozist-debate",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5044,7 +5464,8 @@
       "siege-warfare",
       "city-defense",
       "mohism",
-      "warring-states-period"
+      "warring-states-period",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5057,7 +5478,8 @@
       "mohism",
       "practical-philosophy",
       "governance-standards",
-      "utilitarian-criteria"
+      "utilitarian-criteria",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5079,7 +5501,8 @@
       "siege-warfare",
       "城防",
       "墨家",
-      "軍事"
+      "軍事",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5097,7 +5520,8 @@
       "mozi",
       "mozi-bei",
       "siege-warfare",
-      "tunnel-warfare"
+      "tunnel-warfare",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5110,7 +5534,8 @@
       "confucian-political-philosophy",
       "mohist-doctrine",
       "worthy-scholars",
-      "governance"
+      "governance",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5125,7 +5550,8 @@
       "mohism",
       "spring-and-autumn-period",
       "yan-zi",
-      "confucius"
+      "confucius",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5138,7 +5564,8 @@
       "sage-kings",
       "burial-rites",
       "historical-example",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5160,7 +5587,8 @@
       "statecraft",
       "warring states",
       "warring-states",
-      "warring-states-period"
+      "warring-states-period",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -5179,7 +5607,8 @@
       "confucian-wusi-school",
       "meritocracy",
       "mozi",
-      "political-philosophy"
+      "political-philosophy",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5194,7 +5623,8 @@
       "ancient-chinese-military",
       "legalism-mohism",
       "command-system",
-      "espionage"
+      "espionage",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5207,7 +5637,8 @@
       "siege-defense",
       "military-logistics",
       "supply-standards",
-      "warring-states-period"
+      "warring-states-period",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5220,7 +5651,8 @@
       "siege-defense",
       "military-communication",
       "signal-system",
-      "drum-codes"
+      "drum-codes",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5233,7 +5665,8 @@
       "mohism",
       "self-cultivation",
       "political-philosophy",
-      "influence-association"
+      "influence-association",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5246,7 +5679,8 @@
       "moral-cultivation",
       "environmental-influence",
       "political-philosophy",
-      "confucianism"
+      "confucianism",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -5271,7 +5705,8 @@
       "moral-cultivation",
       "mozi",
       "political-philosophy",
-      "self-cultivation"
+      "self-cultivation",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5288,7 +5723,8 @@
       "music",
       "non-music-argument",
       "philosophical-debate",
-      "utilitarianism"
+      "utilitarianism",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5301,7 +5737,8 @@
       "methodology",
       "epistemology",
       "ancient-chinese-philosophy",
-      "mohism"
+      "mohism",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5321,7 +5758,8 @@
       "mozi",
       "optics",
       "warring-states",
-      "warring-states-period"
+      "warring-states-period",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5339,7 +5777,8 @@
       "mozi",
       "siege-warfare",
       "water-defense",
-      "water-warfare"
+      "water-warfare",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5351,7 +5790,8 @@
       "mohism",
       "historical-examples",
       "governance",
-      "ancient-china"
+      "ancient-china",
+      "category:governance"
     ],
     "sources": []
   },
@@ -5367,7 +5807,8 @@
       "warring-states-period",
       "argumentation-theory",
       "name-realism",
-      "classical-chinese-thought"
+      "classical-chinese-thought",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5381,7 +5822,8 @@
       "dialectics",
       "logic",
       "mohism",
-      "mozi"
+      "mozi",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5401,7 +5843,8 @@
       "mozi",
       "optics",
       "warring-states",
-      "墨家"
+      "墨家",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5415,7 +5858,8 @@
       "moral-philosophy",
       "mozi",
       "self-cultivation",
-      "virtue-ethics"
+      "virtue-ethics",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5428,7 +5872,8 @@
       "qi-observation",
       "military-divination",
       "five-qi-types",
-      "ancient-chinese-military"
+      "ancient-chinese-military",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5441,7 +5886,8 @@
       "military-ritual",
       "ancient-chinese-warfare",
       "defensive-strategy",
-      "confucian-ritual"
+      "confucian-ritual",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5454,7 +5900,8 @@
       "mohism",
       "classical-texts",
       "chinese-philosophy",
-      "stub"
+      "stub",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -5467,7 +5914,8 @@
       "attachment",
       "ascetic teaching",
       "Buddhist parable",
-      "shengjing"
+      "shengjing",
+      "category:other"
     ],
     "sources": []
   },
@@ -5480,7 +5928,8 @@
       "daoist-sage",
       "meditation",
       "spiritual-cultivation",
-      "ziqi"
+      "ziqi",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -5498,7 +5947,8 @@
       "Bao Puzi",
       "natural spontaneity",
       "cosmology",
-      "Chinese philosophy"
+      "Chinese philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -5517,7 +5967,8 @@
       "nikuda",
       "brahmins",
       "defilement",
-      "śrāvaka-path"
+      "śrāvaka-path",
+      "category:other"
     ],
     "sources": []
   },
@@ -5529,7 +5980,8 @@
       "buddhist-ethics",
       "moral-teaching",
       "causes-of-death",
-      "Buddhist-medicine"
+      "Buddhist-medicine",
+      "category:other"
     ],
     "sources": []
   },
@@ -5542,7 +5994,8 @@
       "arhat",
       "samadhi",
       "cessation",
-      "Buddhist phenomenology"
+      "Buddhist phenomenology",
+      "category:other"
     ],
     "sources": []
   },
@@ -5557,7 +6010,8 @@
       "nikaya-literature",
       "practice-critique",
       "mental-afflictions",
-      "four-precepts"
+      "four-precepts",
+      "category:other"
     ],
     "sources": []
   },
@@ -5570,7 +6024,8 @@
       "non-attachment",
       "daoist-philosophy",
       "wu-wei",
-      "self-cultivation"
+      "self-cultivation",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -5583,7 +6038,8 @@
       "bodhisattva-virtues",
       "karma",
       "compassion",
-      "nonviolent-resistance"
+      "nonviolent-resistance",
+      "category:other"
     ],
     "sources": []
   },
@@ -5596,7 +6052,8 @@
       "chinese-political-philosophy",
       "agricultural-warfare",
       "state-power",
-      "book-of-lord-shang"
+      "book-of-lord-shang",
+      "category:other"
     ],
     "sources": []
   },
@@ -5610,7 +6067,8 @@
       "open-source-software",
       "local-ai-inference",
       "gguf-format",
-      "non-target"
+      "non-target",
+      "category:other"
     ],
     "sources": []
   },
@@ -5622,7 +6080,8 @@
       "Daoist cultivation",
       "Zhuangzi",
       "spiritual ideal",
-      "zhiren"
+      "zhiren",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -5640,7 +6099,8 @@
       "confucianism",
       "political-philosophy",
       "governance",
-      "leadership"
+      "leadership",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -5660,7 +6120,8 @@
       "political-philosophy",
       "confucian-wisdom",
       "ministerial-advice",
-      "zhou-dynasty"
+      "zhou-dynasty",
+      "category:political-philosophy"
     ],
     "sources": []
   },
@@ -5674,7 +6135,8 @@
       "dialectics",
       "chinese-philosophy",
       "mohism",
-      "logical-paradoxes"
+      "logical-paradoxes",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -5695,7 +6157,8 @@
       "han-dynasty-translation",
       "karmic-retribution",
       "past-lives-memory",
-      "prince-sacrifice"
+      "prince-sacrifice",
+      "category:other"
     ],
     "sources": []
   },
@@ -5708,7 +6171,8 @@
       "buddhist-narratives",
       "dana-paramita",
       "bodhisattva-practice",
-      "prince-sudana"
+      "prince-sudana",
+      "category:other"
     ],
     "sources": []
   },
@@ -5724,7 +6188,8 @@
       "mahayana",
       "須闍提太子",
       "佛教故事",
-      "孝道"
+      "孝道",
+      "category:other"
     ],
     "sources": [
       {
@@ -5743,7 +6208,8 @@
       "confucian-political-philosophy",
       "economic-ethics",
       "governance",
-      "welfare"
+      "welfare",
+      "category:governance"
     ],
     "sources": [
       {
@@ -5762,7 +6228,8 @@
       "transformation",
       "qi-vital-energy",
       "guanyinzi",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -5781,7 +6248,8 @@
       "jataka-tales",
       "past-lives",
       "dana-paramita",
-      "western-jin"
+      "western-jin",
+      "category:other"
     ],
     "sources": [
       {
@@ -5800,7 +6268,8 @@
       "mohism",
       "moral-psychology",
       "critique-of-war",
-      "philosophy-of-human-nature"
+      "philosophy-of-human-nature",
+      "category:mozi"
     ],
     "sources": [
       {
@@ -5819,7 +6288,8 @@
       "disciple",
       "mozi",
       "military-thought",
-      "ancient-chinese-philosophy"
+      "ancient-chinese-philosophy",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -5832,7 +6302,8 @@
       "daoist-philosophy",
       "relativism",
       "chinese-philosophy",
-      "fall-water-chapter"
+      "fall-water-chapter",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -5853,7 +6324,8 @@
       "hermit",
       "famine",
       "bodhisattva-compassion",
-      "buddhist-narratives"
+      "buddhist-narratives",
+      "category:other"
     ],
     "sources": [
       {
@@ -5872,7 +6344,8 @@
       "governance",
       "daoism",
       "non-interference",
-      "political-philosophy"
+      "political-philosophy",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -5891,7 +6364,8 @@
       "ethics",
       "mengzi",
       "virtue-theory",
-      "moral-psychology"
+      "moral-psychology",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -5910,7 +6384,8 @@
       "confucian-ethics",
       "li-rites",
       "practical-wisdom",
-      "moral-principles"
+      "moral-principles",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -5936,7 +6411,8 @@
       "shangjunshu",
       "state-power",
       "statecraft",
-      "warring-states"
+      "warring-states",
+      "category:governance"
     ],
     "sources": []
   },
@@ -5949,7 +6425,8 @@
       "book-of-rites",
       "confucius",
       "virtue",
-      "self-cultivation"
+      "self-cultivation",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -5969,7 +6446,8 @@
       "yakṣa",
       "king-subhuti",
       "dharma-test",
-      "self-sacrifice"
+      "self-sacrifice",
+      "category:other"
     ],
     "sources": []
   },
@@ -5981,7 +6459,8 @@
       "Buddhist meditation",
       "Mahayana philosophy",
       "Contemplation practice",
-      "Threefold truth"
+      "Threefold truth",
+      "category:other"
     ],
     "sources": []
   },
@@ -5993,7 +6472,8 @@
       "buddhist-philosophy",
       "doctrinal-classification",
       "tripartite-teaching",
-      "eastern-jin-buddhism"
+      "eastern-jin-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -6006,7 +6486,8 @@
       "eastern-jin-dynasty",
       "tripartite-classification",
       "guatama-sanghadeva",
-      "buddhist-doctrine"
+      "buddhist-doctrine",
+      "category:other"
     ],
     "sources": []
   },
@@ -6019,7 +6500,8 @@
       "classical-chinese-text",
       "seven-military-classics",
       "chinese-military-thought",
-      "governance"
+      "governance",
+      "category:governance"
     ],
     "sources": []
   },
@@ -6032,7 +6514,8 @@
       "body-divinities",
       "divine-observers",
       "immortality-practice",
-      "chinese-mythology"
+      "chinese-mythology",
+      "category:other"
     ],
     "sources": []
   },
@@ -6046,7 +6529,8 @@
       "funeral-rites",
       "mourning-practices",
       "chinese-rituals",
-      "liji"
+      "liji",
+      "category:other"
     ],
     "sources": []
   },
@@ -6059,9 +6543,18 @@
       "li-ji",
       "mourning-rituals",
       "chinese-ritual",
-      "ancient-chinese-law"
+      "ancient-chinese-law",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "chapter": "喪服小記",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪服小記",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪服小記",
+        "work": "禮記"
+      }
+    ]
   },
   {
     "slug": "sarvadana-king-yiqieshi",
@@ -6074,7 +6567,8 @@
       "renunciation",
       "early-buddhism",
       "bhiksusamgha-translations",
-      "kanishka-sect"
+      "kanishka-sect",
+      "category:other"
     ],
     "sources": []
   },
@@ -6089,7 +6583,8 @@
       "renunciation",
       "early-buddhism",
       "bhiksusamgha-translations",
-      "kanishka-sect"
+      "kanishka-sect",
+      "category:other"
     ],
     "sources": [
       {
@@ -6108,7 +6603,8 @@
       "Taoist cosmology",
       "metamorphosis",
       "Chinese philosophy",
-      "nature"
+      "nature",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -6127,7 +6623,8 @@
       "chinese-philosophy",
       "fate",
       "taoism",
-      "cosmology"
+      "cosmology",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -6140,7 +6637,8 @@
       "self-other distinction",
       "dream theory",
       "Guan Yinzi",
-      "Chinese philosophy"
+      "Chinese philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -6153,7 +6651,8 @@
       "buddhist-history",
       "seven-buddhas",
       "mahapadana",
-      "agama"
+      "agama",
+      "category:other"
     ],
     "sources": [
       {
@@ -6173,7 +6672,8 @@
       "han-dynasty-buddhism",
       "thirty-seven-factors",
       "awakening",
-      "enlightenment"
+      "enlightenment",
+      "category:other"
     ],
     "sources": []
   },
@@ -6189,7 +6689,8 @@
       "marriage",
       "woman-teaching",
       "womens-studies",
-      "yuye-sutra"
+      "yuye-sutra",
+      "category:other"
     ],
     "sources": [
       {
@@ -6208,7 +6709,8 @@
       "karma",
       "chinese-religion",
       "cosmic-justice",
-      "moral-cosmic-order"
+      "moral-cosmic-order",
+      "category:other"
     ],
     "sources": []
   },
@@ -6221,7 +6723,8 @@
       "daoist-philosophy",
       "humility",
       "non-competition",
-      "survival-wisdom"
+      "survival-wisdom",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -6240,7 +6743,8 @@
       "jataka-tale",
       "filial-piety",
       "bodhisattva",
-      "buddhist-narrative"
+      "buddhist-narrative",
+      "category:other"
     ],
     "sources": []
   },
@@ -6253,7 +6757,8 @@
       "legalism",
       "punishments",
       "rewards",
-      "shangjunshu"
+      "shangjunshu",
+      "category:governance"
     ],
     "sources": []
   },
@@ -6267,7 +6772,8 @@
       "Legalism",
       "Political Philosophy",
       "Shang Yang",
-      "Warring States"
+      "Warring States",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -6284,9 +6790,18 @@
     "tags": [
       "the user asks: \"list 2-4 relevant tags for this article (comma-separated",
       "lowercase): # shang-tong-identifying-with-superiors\n\n## english\n\n  ### additional arguments from \"shang tong part 3\" (尚同下)\n\n  the third chapter of shang tong (尚同下) presents further elaborated arguments for the doctrine of hierarchical uniformity",
-      "focusing particularly on the mechanism of reward and punishment as instruments for achieving unified governance.\n\n  **the foundation: understanding the condition of the people**\n\n  master mozi begins with a fundamental principle: a wise ruler must consider what brings order to the state and"
+      "focusing particularly on the mechanism of reward and punishment as instruments for achieving unified governance.\n\n  **the foundation: understanding the condition of the people**\n\n  master mozi begins with a fundamental principle: a wise ruler must consider what brings order to the state and",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "佛說波斯匿王太后崩塵土坌身經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0122",
+        "work_id": "T0122"
+      }
+    ]
   },
   {
     "slug": "shang-tong-reward-punishment-maf",
@@ -6297,7 +6812,8 @@
       "shang-tong",
       "governance",
       "rewards-punishments",
-      "political-philosophy"
+      "political-philosophy",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -6319,7 +6835,8 @@
       "social-order",
       "unity",
       "warring-states",
-      "warring-states-period"
+      "warring-states-period",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -6334,9 +6851,18 @@
     "title": "shang-tong-upward-conformity",
     "summary": "This article explains Mozi's argument that social order requires rulers to understand the people's true sentiments and establish unified standards of righteousness through a hierarchical governance system, preventing the chaos that naturally arises when each person follows their own individual standards.",
     "tags": [
-      "ruler authority"
+      "ruler authority",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "佛說波斯匿王太后崩塵土坌身經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0122",
+        "work_id": "T0122"
+      }
+    ]
   },
   {
     "slug": "shang-tong-upward-uniformity-mozi",
@@ -6344,9 +6870,18 @@
     "summary": "This article explains Mozi's \"Shang Tong Xia\" doctrine, which establishes a four-tier hierarchical political system where unity and moral alignment flow downward from family to state to world to heaven, with the key principle that rulers must understand the true situation of their people to properly govern through rewards and punishments.",
     "tags": [
       "comma-separated",
-      "hierarchical political order"
+      "hierarchical political order",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "佛說波斯匿王太后崩塵土坌身經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0122",
+        "work_id": "T0122"
+      }
+    ]
   },
   {
     "slug": "shang-xian-esteeming-worthy-part-two",
@@ -6357,7 +6892,8 @@
       "confucian-political-philosophy",
       "early-chinese-philosophy",
       "meritocracy",
-      "mozi"
+      "mozi",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -6370,7 +6906,8 @@
       "confucian-political-philosophy",
       "governance",
       "meritocracy",
-      "mozi"
+      "mozi",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -6387,7 +6924,8 @@
       "meritocracy",
       "mohism",
       "mozi",
-      "political-philosophy"
+      "political-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -6406,7 +6944,8 @@
       "mohist-political-philosophy",
       "ancient-chinese-philosophy",
       "confucian-political-theory",
-      "three-foundations"
+      "three-foundations",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -6419,7 +6958,8 @@
       "legalism",
       "rewards-punishment",
       "governance",
-      "qin-dynasty"
+      "qin-dynasty",
+      "category:governance"
     ],
     "sources": []
   },
@@ -6433,7 +6973,8 @@
       "faith",
       "supernatural-power",
       "sincerity",
-      "cheng"
+      "cheng",
+      "category:liezi"
     ],
     "sources": []
   },
@@ -6446,7 +6987,8 @@
       "confucian-political-philosophy",
       "governance",
       "music",
-      "king-wen"
+      "king-wen",
+      "category:governance"
     ],
     "sources": [
       {
@@ -6465,7 +7007,8 @@
       "wisdom-limits",
       "prophecy",
       "fate",
-      "parable"
+      "parable",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -6486,13 +7029,16 @@
       "zhufahu",
       "shengjing",
       "early-buddhism",
-      "buddhist-narratives"
+      "buddhist-narratives",
+      "category:other"
     ],
     "sources": [
       {
-        "plugin": "cbeta",
-        "title": "CBETA 大藏經",
-        "url": "https://cbetaonline.dila.edu.tw"
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "人本欲生經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0014",
+        "work_id": "T0014"
       }
     ]
   },
@@ -6505,7 +7051,8 @@
       "Daoist philosophy",
       "Guanyinzi",
       "governance",
-      "sagehood"
+      "sagehood",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -6518,7 +7065,8 @@
       "hermeneutics",
       "huayan-school",
       "textual-analysis",
-      "classical-chinese-buddhism"
+      "classical-chinese-buddhism",
+      "category:other"
     ],
     "sources": [
       {
@@ -6537,7 +7085,8 @@
       "chinese-buddhism",
       "sutra-study",
       "doctrinal-classification",
-      "tang-dynasty-buddhism"
+      "tang-dynasty-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -6550,7 +7099,8 @@
       "vegetarianism",
       "karmic-transformation",
       "tang-dynasty-translations",
-      "indian-buddhist-narratives"
+      "indian-buddhist-narratives",
+      "category:other"
     ],
     "sources": [
       {
@@ -6570,7 +7120,8 @@
       "five-precepts",
       "karmic-retribution",
       "vasumitra",
-      "bimbisara"
+      "bimbisara",
+      "category:other"
     ],
     "sources": []
   },
@@ -6583,7 +7134,8 @@
       "immortality",
       "cultivation",
       "baopuzi",
-      "守一"
+      "守一",
+      "category:other"
     ],
     "sources": []
   },
@@ -6596,7 +7148,8 @@
       "doctrinal-studies",
       "gratitude",
       "mahasattvas",
-      "mahayana"
+      "mahayana",
+      "category:other"
     ],
     "sources": [
       {
@@ -6618,7 +7171,8 @@
       "four-benefactors",
       "gratitude",
       "mahayana-practice",
-      "mahayana-teachings"
+      "mahayana-teachings",
+      "category:other"
     ],
     "sources": []
   },
@@ -6630,7 +7184,8 @@
       "four-vows",
       "bodhisattva-practice",
       "yue-ming-puti-jing",
-      "mahayana-vows"
+      "mahayana-vows",
+      "category:other"
     ],
     "sources": [
       {
@@ -6649,7 +7204,8 @@
       "武經七書",
       "軍事哲學",
       "先秦兵法",
-      "儒家軍事思想"
+      "儒家軍事思想",
+      "category:other"
     ],
     "sources": [
       {
@@ -6667,9 +7223,18 @@
       "confucian-ritual",
       "mourning-practices",
       "book-of-rites",
-      "kinship-obligations"
+      "kinship-obligations",
+      "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "chapter": "大傳",
+        "plugin": "wikisource",
+        "title": "禮記 · 大傳",
+        "url": "https://zh.wikisource.org/wiki/禮記/大傳",
+        "work": "禮記"
+      }
+    ]
   },
   {
     "slug": "sumati-woman-buddhist-narrative",
@@ -6680,7 +7245,8 @@
       "laywoman",
       "past-life-vow",
       "kashapa-buddha",
-      "conversion-narrative"
+      "conversion-narrative",
+      "category:other"
     ],
     "sources": []
   },
@@ -6693,7 +7259,8 @@
       "Sun Shu'ao",
       "equanimity",
       "detachment",
-      "official position"
+      "official position",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -6712,7 +7279,8 @@
       "chinese-classics",
       "sun-tzu",
       "military-philosophy",
-      "ancient-chinese-text"
+      "ancient-chinese-text",
+      "category:other"
     ],
     "sources": []
   },
@@ -6725,7 +7293,8 @@
       "moral-philosophy",
       "karma",
       "chinese-classics",
-      "immortality"
+      "immortality",
+      "category:other"
     ],
     "sources": []
   },
@@ -6739,7 +7308,8 @@
       "daoist-cultivation",
       "immortality-practice",
       "taoism",
-      "three-treasures"
+      "three-treasures",
+      "category:other"
     ],
     "sources": []
   },
@@ -6750,7 +7320,8 @@
     "tags": [
       "tang-wan-kung",
       "mencius",
-      "confucianism"
+      "confucianism",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -6769,7 +7340,8 @@
       "rare-qualities",
       "indra",
       "brahma",
-      "buddha-appearances"
+      "buddha-appearances",
+      "category:other"
     ],
     "sources": []
   },
@@ -6782,7 +7354,8 @@
       "confucian-education",
       "pedagogy",
       "moral-cultivation",
-      "educational-psychology"
+      "educational-psychology",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -6800,7 +7373,8 @@
       "buddhist-meditation",
       "mindfulness",
       "ananda",
-      "three-treasuries"
+      "three-treasuries",
+      "category:other"
     ],
     "sources": []
   },
@@ -6813,7 +7387,8 @@
       "daoist-philosophy",
       "wisdom",
       "decision-making",
-      "learning"
+      "learning",
+      "category:daoist-philosophy"
     ],
     "sources": []
   },
@@ -6832,7 +7407,8 @@
       "seven-awakening-factors",
       "noble-eightfold-path",
       "early-buddhism",
-      "chinese-buddhism"
+      "chinese-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -6848,7 +7424,8 @@
       "enlightenment",
       "chinese-buddhism",
       "han-dynasty",
-      "numerical-teachings"
+      "numerical-teachings",
+      "category:other"
     ],
     "sources": [
       {
@@ -6869,7 +7446,8 @@
       "deva-realm",
       "buddhist-cosmology",
       "heavenly-assembly",
-      "tathagata-eight-rare-qualities"
+      "tathagata-eight-rare-qualities",
+      "category:other"
     ],
     "sources": []
   },
@@ -6883,7 +7461,8 @@
       "chinese-buddhism",
       "dana-paramita",
       "self-sacrifice",
-      "thousand-lamps"
+      "thousand-lamps",
+      "category:other"
     ],
     "sources": []
   },
@@ -6897,7 +7476,8 @@
       "merit",
       "evil",
       "liberation",
-      "buddhist-ethics"
+      "buddhist-ethics",
+      "category:other"
     ],
     "sources": []
   },
@@ -6910,7 +7490,8 @@
       "classification",
       "three-dharmas",
       "abhidharma",
-      "eastern-jin-dynasty"
+      "eastern-jin-dynasty",
+      "category:other"
     ],
     "sources": []
   },
@@ -6923,7 +7504,8 @@
       "political-philosophy",
       "ancient-chinese-government",
       "shang-tong",
-      "confucian-political-philosophy"
+      "confucian-political-philosophy",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -6936,7 +7518,8 @@
       "legalism",
       "historical-theory",
       "governance",
-      "san世"
+      "san世",
+      "category:governance"
     ],
     "sources": []
   },
@@ -6948,7 +7531,8 @@
       "buddhist-doctrine",
       "mental-afflictions",
       "karmic-formation",
-      "ethical-teaching"
+      "ethical-teaching",
+      "category:other"
     ],
     "sources": []
   },
@@ -6964,7 +7548,8 @@
       "samsara",
       "Buddhist teaching",
       "karmic consequences",
-      "shengjing"
+      "shengjing",
+      "category:other"
     ],
     "sources": []
   },
@@ -6977,7 +7562,8 @@
       "mental factors",
       "core concepts",
       "unwholesome roots",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": []
   },
@@ -6990,7 +7576,8 @@
       "three-refuges",
       "four-debts-of-gratitude",
       "bao-en-pin",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": []
   },
@@ -7003,7 +7590,8 @@
       "four-agamas",
       "buddhist-canon",
       "tipitaka",
-      "sutra-classification"
+      "sutra-classification",
+      "category:other"
     ],
     "sources": [
       {
@@ -7022,7 +7610,8 @@
       "liberation",
       "samadhi",
       "three-dharmas",
-      "arhat"
+      "arhat",
+      "category:other"
     ],
     "sources": []
   },
@@ -7035,7 +7624,8 @@
       "shangjunshu",
       "state-governance",
       "reward-punishment",
-      "law"
+      "law",
+      "category:other"
     ],
     "sources": []
   },
@@ -7048,7 +7638,8 @@
       "statecraft",
       "political-economy",
       "legalism",
-      "threeworms"
+      "threeworms",
+      "category:other"
     ],
     "sources": []
   },
@@ -7064,7 +7655,8 @@
       "ritual",
       "ritual-practice",
       "three-years-mourning",
-      "xiao"
+      "xiao",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -7083,7 +7675,8 @@
       "bodhisattva-compassion",
       "self-sacrifice",
       "six-perfections",
-      "buddhist-narratives"
+      "buddhist-narratives",
+      "category:other"
     ],
     "sources": []
   },
@@ -7099,7 +7692,8 @@
       "military-strategy",
       "political-theory",
       "social-harmony",
-      "strategic-thinking"
+      "strategic-thinking",
+      "category:governance"
     ],
     "sources": [
       {
@@ -7118,7 +7712,8 @@
       "mengzi",
       "social-hierarchy",
       "virtue-ethics",
-      "governance"
+      "governance",
+      "category:governance"
     ],
     "sources": [
       {
@@ -7137,7 +7732,8 @@
       "shang-tong",
       "political-philosophy",
       "confucian-ethics",
-      "moral-philosophy"
+      "moral-philosophy",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -7150,7 +7746,8 @@
       "daoism",
       "cosmology",
       "philosophy",
-      "confucianism"
+      "confucianism",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -7168,7 +7765,8 @@
       "Zhuangzi",
       "Daoist philosophy",
       "Chinese philosophy",
-      "Tian Zifang"
+      "Tian Zifang",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -7187,7 +7785,8 @@
       "monastic-practice",
       "austerities",
       "dhutanga",
-      "twelve-austerities"
+      "twelve-austerities",
+      "category:other"
     ],
     "sources": []
   },
@@ -7200,7 +7799,8 @@
       "Taoist cosmology",
       "Chinese philosophy",
       "transformation",
-      "生成"
+      "生成",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -7213,7 +7813,8 @@
       "Laozi",
       "Daoist meditation",
       "primordial",
-      "origin"
+      "origin",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -7232,7 +7833,8 @@
       "daoist-cultivation",
       "dream-philosophy",
       "spiritual-attainment",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -7246,7 +7848,8 @@
       "military-strategy",
       "warring-states-period",
       "defensive-warfare",
-      "tunnel-warfare"
+      "tunnel-warfare",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -7261,7 +7864,8 @@
       "turtle",
       "monkey",
       "deception",
-      "shengjing"
+      "shengjing",
+      "category:other"
     ],
     "sources": []
   },
@@ -7277,7 +7881,8 @@
       "early-buddhism",
       "chinese-buddhism",
       "suffering",
-      "cyclic-existence"
+      "cyclic-existence",
+      "category:other"
     ],
     "sources": []
   },
@@ -7290,7 +7895,8 @@
       "pratityasamutpada",
       "meditation",
       "liberation",
-      "philosophy"
+      "philosophy",
+      "category:other"
     ],
     "sources": []
   },
@@ -7303,7 +7909,8 @@
       "daoist-meditation",
       "self-cultivation",
       "spiritual-practice",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -7317,7 +7924,8 @@
       "liezi",
       "philosophy",
       "self-cultivation",
-      "wisdom"
+      "wisdom",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -7330,7 +7938,8 @@
       "political-philosophy",
       "mengzi",
       "governance",
-      "ruler-minister-relations"
+      "ruler-minister-relations",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -7349,7 +7958,8 @@
       "upaya",
       "expedient-means",
       "path",
-      "cultivation"
+      "cultivation",
+      "category:other"
     ],
     "sources": []
   },
@@ -7361,7 +7971,8 @@
       "buddhist-practice",
       "skillful-means",
       "three-dharmas",
-      "eightfold-path"
+      "eightfold-path",
+      "category:other"
     ],
     "sources": []
   },
@@ -7374,7 +7985,8 @@
       "shangjunshu",
       "military-strategy",
       "dialectics",
-      "governance"
+      "governance",
+      "category:governance"
     ],
     "sources": []
   },
@@ -7388,7 +8000,8 @@
       "bhiksusamgha-translations",
       "kanishka-sect",
       "early-buddhism",
-      "wuliangshou-jing"
+      "wuliangshou-jing",
+      "category:other"
     ],
     "sources": []
   },
@@ -7403,7 +8016,8 @@
       "precept",
       "meditation",
       "six-perfections",
-      "three-roots"
+      "three-roots",
+      "category:other"
     ],
     "sources": []
   },
@@ -7416,7 +8030,8 @@
       "merit-giving",
       "three-roots-goodness",
       "precepts-meditation",
-      "eastern-jin-buddhism"
+      "eastern-jin-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -7429,7 +8044,8 @@
       "lotus-world",
       "dharani",
       "mahayana",
-      "tathagata-origin"
+      "tathagata-origin",
+      "category:other"
     ],
     "sources": [
       {
@@ -7447,7 +8063,8 @@
       "confucian-political-philosophy",
       "mengzi",
       "governance",
-      "virtue-vs-power"
+      "virtue-vs-power",
+      "category:governance"
     ],
     "sources": [
       {
@@ -7466,7 +8083,8 @@
       "mourning-practices",
       "book-of-rites",
       "li-ji",
-      "confucian-self-cultivation"
+      "confucian-self-cultivation",
+      "category:other"
     ],
     "sources": [
       {
@@ -7485,7 +8103,8 @@
       "chinese-philosophy",
       "daoist-texts",
       "laozi-tradition",
-      "wenzi"
+      "wenzi",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -7508,13 +8127,16 @@
       "four-castes",
       "karma-teaching",
       "origen-narrative",
-      "renunciation"
+      "renunciation",
+      "category:other"
     ],
     "sources": [
       {
-        "plugin": "cbeta",
-        "title": "CBETA 大藏經",
-        "url": "https://cbetaonline.dila.edu.tw"
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "白衣金幢二婆羅門緣起經 (3卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0010",
+        "work_id": "T0010"
       }
     ]
   },
@@ -7527,7 +8149,8 @@
       "gaozi",
       "human-nature",
       "confucian-philosophy",
-      "classical-chinese-philosophy"
+      "classical-chinese-philosophy",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -7546,7 +8169,8 @@
       "chinese-philosophy",
       "dream-reality",
       "paradox",
-      "zhousongwang"
+      "zhousongwang",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -7566,7 +8190,8 @@
       "hua-tuo",
       "wu-pu",
       "physical-practice",
-      "immortality"
+      "immortality",
+      "category:other"
     ],
     "sources": [
       {
@@ -7585,7 +8210,8 @@
       "cosmology",
       "guān-yǐnzǐ",
       "five-origins",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -7598,7 +8224,8 @@
       "daoist-alchemy",
       "immortality",
       "five-fungi",
-      "chinese-mythology"
+      "chinese-mythology",
+      "category:other"
     ],
     "sources": []
   },
@@ -7612,7 +8239,8 @@
       "武經七書",
       "吳起",
       "魏文侯",
-      "先秦兵學"
+      "先秦兵學",
+      "category:other"
     ],
     "sources": []
   },
@@ -7626,7 +8254,8 @@
       "paradox",
       "paradoxes-in-philosophy",
       "usability-value",
-      "zhuangzi"
+      "zhuangzi",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -7644,7 +8273,8 @@
       "zhuangzi",
       "human-relations",
       "ethics",
-      "daoist-philosophy"
+      "daoist-philosophy",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -7664,7 +8294,8 @@
       "chinese-buddhism",
       "fazang",
       "tang-dynasty-buddhism",
-      "doctrinal-hierarchy"
+      "doctrinal-hierarchy",
+      "category:other"
     ],
     "sources": []
   },
@@ -7682,7 +8313,8 @@
       "family",
       "filial-piety",
       "stub",
-      "virtue"
+      "virtue",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -7701,7 +8333,8 @@
       "daoist-philosophy",
       "body-mind",
       "virtue",
-      "self-cultivation"
+      "self-cultivation",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -7720,7 +8353,8 @@
       "daoist-spirituality",
       "self-cultivation",
       "chinese-philosophy",
-      "confucian-daoist-dialogue"
+      "confucian-daoist-dialogue",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -7737,7 +8371,8 @@
     "tags": [
       "Buddhist hermeneutics",
       "Sutra structure",
-      "Buddhist text studies"
+      "Buddhist text studies",
+      "category:other"
     ],
     "sources": []
   },
@@ -7750,7 +8385,8 @@
       "daoist-philosophy",
       "self-empty",
       "non-attachment",
-      "harmony"
+      "harmony",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -7769,7 +8405,8 @@
       "chinese-philosophy",
       "baopuzi",
       "cosmology",
-      "spiritual-cultivation"
+      "spiritual-cultivation",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -7782,7 +8419,8 @@
       "analects",
       "disciples",
       "virtue-ethics",
-      "stub"
+      "stub",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -7801,7 +8439,8 @@
       "identity",
       "homeland",
       "confusion",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -7815,7 +8454,8 @@
       "hedonism",
       "individualism",
       "liezi",
-      "yang-zhu"
+      "yang-zhu",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -7828,7 +8468,8 @@
       "mind",
       "intention",
       "daoist-psychology",
-      "daoist-self-cultivation"
+      "daoist-self-cultivation",
+      "category:other"
     ],
     "sources": []
   },
@@ -7842,7 +8483,8 @@
       "buddhist-narrative",
       "attachment-suffering",
       "yijing-translation",
-      "four-noble-truths"
+      "four-noble-truths",
+      "category:other"
     ],
     "sources": []
   },
@@ -7854,7 +8496,8 @@
       "daoist-philosophy",
       "chinese-philosophy",
       "metaphysics",
-      "guan-yin-zi"
+      "guan-yin-zi",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -7866,7 +8509,8 @@
       "liezi",
       "chinese-fable",
       "perseverance",
-      "philosophy"
+      "philosophy",
+      "category:liezi"
     ],
     "sources": []
   },
@@ -7879,13 +8523,16 @@
       "conjugal-conduct",
       "ethics",
       "mahayana",
-      "female-buddhist-teaching"
+      "female-buddhist-teaching",
+      "category:other"
     ],
     "sources": [
       {
-        "plugin": "cbeta",
-        "title": "CBETA 大藏經",
-        "url": "https://cbetaonline.dila.edu.tw"
+        "canon": "大正藏",
+        "plugin": "buddhist_sutra",
+        "title": "佛說玉耶女經 (1卷)",
+        "url": "https://cbetaonline.dila.edu.tw/zh/T0142a",
+        "work_id": "T0142a"
       }
     ]
   },
@@ -7897,7 +8544,8 @@
       "bodhisattva",
       "buddhist-protagonist",
       "moonlight-symbolism",
-      "yue-ming-puti-jing"
+      "yue-ming-puti-jing",
+      "category:other"
     ],
     "sources": [
       {
@@ -7916,7 +8564,8 @@
       "mahayana-buddhism",
       "dharani-sutra",
       "pure-land",
-      "indian-buddhism"
+      "indian-buddhism",
+      "category:other"
     ],
     "sources": []
   },
@@ -7929,7 +8578,8 @@
       "military-technology",
       "ancient-chinese-warfare",
       "mozi",
-      "defensive-strategy"
+      "defensive-strategy",
+      "category:mozi"
     ],
     "sources": []
   },
@@ -7943,7 +8593,8 @@
       "daoist-cultivation",
       "immortality",
       "historical-evidence",
-      "baopuzi"
+      "baopuzi",
+      "category:other"
     ],
     "sources": []
   },
@@ -7957,7 +8608,8 @@
       "passion-nature",
       "human-nature",
       "cultivation",
-      "philosophy"
+      "philosophy",
+      "category:mengzi"
     ],
     "sources": [
       {
@@ -7977,7 +8629,8 @@
       "spiritual-cultivation",
       "enlightenment",
       "self-transformation",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -7997,7 +8650,8 @@
       "paradox",
       "body-and-spirit",
       "chinese-philosophy",
-      "survival-wisdom"
+      "survival-wisdom",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8016,13 +8670,16 @@
       "book-of-rites",
       "ritualpropriety",
       "confucian-philosophy",
-      "confucian-political-philosophy"
+      "confucian-political-philosophy",
+      "category:confucianism"
     ],
     "sources": [
       {
+        "chapter": "仲尼燕居",
         "plugin": "wikisource",
-        "title": "維基文庫",
-        "url": "https://zh.wikisource.org"
+        "title": "禮記 · 仲尼燕居",
+        "url": "https://zh.wikisource.org/wiki/禮記/仲尼燕居",
+        "work": "禮記"
       }
     ]
   },
@@ -8037,7 +8694,8 @@
       "philosophy",
       "robber-zhi",
       "taoism",
-      "zhuangzi"
+      "zhuangzi",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -8057,7 +8715,8 @@
       "discourse-methods",
       "tian-jun",
       "tian-ni",
-      "zhuangzi"
+      "zhuangzi",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8077,7 +8736,8 @@
       "daoism",
       "fishing",
       "governance",
-      "zhuangzi"
+      "zhuangzi",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -8096,7 +8756,8 @@
       "daoist-philosophy",
       "gengsang-chu",
       "chinese-philosophy",
-      "wu-wei"
+      "wu-wei",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8115,7 +8776,8 @@
       "daoism",
       "paradox",
       "epistemology",
-      "skill"
+      "skill",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -8134,7 +8796,8 @@
       "daoism",
       "chinese-philosophy",
       "wu-wei",
-      "governance"
+      "governance",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8153,7 +8816,8 @@
       "daoist-philosophy",
       "self-cultivation",
       "wuwei",
-      "zhuangzi"
+      "zhuangzi",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8175,7 +8839,8 @@
       "nature",
       "rectification",
       "hermit",
-      "ambition"
+      "ambition",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8194,7 +8859,8 @@
       "daoist-philosophy",
       "happiness",
       "wu-wei",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8213,7 +8879,8 @@
       "daoism",
       "political-philosophy",
       "anarchism",
-      "paradox"
+      "paradox",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -8232,7 +8899,8 @@
       "Daoism",
       "Natural Spontaneity",
       "Tian Yun",
-      "Zhuangzi"
+      "Zhuangzi",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8251,7 +8919,8 @@
       "Daoist philosophy",
       "Art",
       "Non-action",
-      "Spontaneity"
+      "Spontaneity",
+      "category:daoist-philosophy"
     ],
     "sources": [
       {
@@ -8270,7 +8939,8 @@
       "daoist-philosophy",
       "political-philosophy",
       "wu-wei",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8289,7 +8959,8 @@
       "daoism",
       "governance",
       "non-action",
-      "chinese-philosophy"
+      "chinese-philosophy",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8309,7 +8980,8 @@
       "chapter-22",
       "philosophy",
       "knowledge",
-      "dao"
+      "dao",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -8327,7 +8999,8 @@
       "confucian-disciples",
       "analects",
       "warring-states-period",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": [
       {
@@ -8346,13 +9019,16 @@
       "analects",
       "disciples",
       "confucius",
-      "stub"
+      "stub",
+      "category:confucianism"
     ],
     "sources": [
       {
+        "chapter": "子路第十三",
         "plugin": "wikisource",
-        "title": "維基文庫",
-        "url": "https://zh.wikisource.org"
+        "title": "論語 · 子路第十三",
+        "url": "https://zh.wikisource.org/wiki/論語/子路第十三",
+        "work": "論語"
       }
     ]
   },
@@ -8364,7 +9040,8 @@
       "buddhism",
       "zen",
       "japanese buddhist terminology",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": [
       {
@@ -8384,7 +9061,8 @@
       "seven factors of enlightenment",
       "thirty‑seven bodhiparamitas",
       "early chinese buddhism",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": []
   },
@@ -8398,7 +9076,8 @@
       "moral-philosophy",
       "five-constants",
       "chinese-philosophy",
-      "stub"
+      "stub",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8419,7 +9098,8 @@
       "thirty‑seven bodhipāramitās",
       "five roots",
       "five powers",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": []
   },
@@ -8432,7 +9112,8 @@
       "virtue-ethics",
       "confucian-virtues",
       "moral-philosophy",
-      "stub"
+      "stub",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -8451,7 +9132,8 @@
       "virtue",
       "ethics",
       "philosophy",
-      "stub"
+      "stub",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -8470,7 +9152,8 @@
       "virtue-ethics",
       "chinese-philosophy",
       "moral-exemplar",
-      "stub"
+      "stub",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8490,7 +9173,8 @@
       "chinese-thought",
       "ethics",
       "confucian-classics",
-      "stub"
+      "stub",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -8510,7 +9194,8 @@
       "moral-philosophy",
       "ethics",
       "confucian-practice",
-      "stub"
+      "stub",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -8529,7 +9214,8 @@
       "ethics",
       "virtue",
       "ideal person",
-      "stub"
+      "stub",
+      "category:confucianism"
     ],
     "sources": [
       {
@@ -8548,7 +9234,8 @@
       "mahayana",
       "stupa",
       "buddhist-cultivation",
-      "relics"
+      "relics",
+      "category:other"
     ],
     "sources": [
       {
@@ -8568,7 +9255,8 @@
       "philosophy",
       "liezi",
       "zhuangzi",
-      "stub"
+      "stub",
+      "category:zhuangzi"
     ],
     "sources": [
       {
@@ -8587,7 +9275,8 @@
       "confucianism",
       "political philosophy",
       "chinese philosophy",
-      "stub"
+      "stub",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {
@@ -8609,7 +9298,8 @@
       "meditation",
       "mind-ground",
       "dharma-gate",
-      "stub"
+      "stub",
+      "category:other"
     ],
     "sources": [
       {
@@ -8628,7 +9318,8 @@
       "Chinese philosophy",
       "anxiety",
       "existentialism",
-      "ancient China"
+      "ancient China",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -8641,7 +9332,8 @@
       "chinese-philosophy",
       "adversity",
       "self-cultivation",
-      "stub"
+      "stub",
+      "category:chinese-philosophy"
     ],
     "sources": []
   },
@@ -8654,7 +9346,8 @@
       "chinese philosophy",
       "classical text",
       "yin xi",
-      "stub"
+      "stub",
+      "category:chinese-philosophy"
     ],
     "sources": [
       {

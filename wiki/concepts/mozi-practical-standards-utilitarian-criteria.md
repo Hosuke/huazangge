@@ -7,6 +7,7 @@ tags:
 - practical-philosophy
 - governance-standards
 - utilitarian-criteria
+- category:mozi
 title: Mozi's Practical Standards for Governance / 墨子實用標準
 ---
 

@@ -20,6 +20,7 @@ tags:
 - warring states
 - warring-states
 - warring-states-period
+- category:chinese-philosophy
 title: Seven Calamities in Mozi / 墨子七患
 ---
 

@@ -11,6 +11,7 @@ tags:
 - happiness
 - wu-wei
 - chinese-philosophy
+- category:chinese-philosophy
 title: Supreme Joy (至樂) in Zhuangzi / 莊子至樂篇
 ---
 

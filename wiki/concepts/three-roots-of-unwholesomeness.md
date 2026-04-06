@@ -9,6 +9,7 @@ tags:
 - core concepts
 - unwholesome roots
 - stub
+- category:other
 title: Three Roots of Unwholesomeness / 三不善根
 updated: '2026-04-05T05:32:48.832510+00:00'
 ---

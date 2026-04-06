@@ -9,6 +9,7 @@ tags:
 - self-cultivation
 - consciousness
 - chinese-philosophy
+- category:chinese-philosophy
 title: Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋
 ---
 

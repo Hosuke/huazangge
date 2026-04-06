@@ -13,6 +13,7 @@ tags:
 - utility
 - zhongyong
 - zhuangzi
+- category:daoist-philosophy
 title: Between Being Useful and Useless / 材與不材之間
 ---
 

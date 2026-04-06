@@ -6,6 +6,7 @@ tags:
 - confucian-wisdom
 - ministerial-advice
 - zhou-dynasty
+- category:political-philosophy
 title: Preventing People's Speech is Harder than Damming Rivers / 防民之口甚於防川
 ---
 

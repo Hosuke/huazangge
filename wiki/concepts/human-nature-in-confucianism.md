@@ -10,6 +10,7 @@ tags:
 - philosophy
 - human nature
 - stub
+- category:confucianism
 title: Human Nature in Confucianism / 儒家人性论
 ---
 

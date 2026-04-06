@@ -13,6 +13,7 @@ tags:
 - tian-jun
 - tian-ni
 - zhuangzi
+- category:chinese-philosophy
 title: 'Zhuangzi Chapter 27: Fables / 莊子·寓言'
 ---
 

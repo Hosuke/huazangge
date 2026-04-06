@@ -10,6 +10,7 @@ tags:
 - karmic-retribution
 - past-lives-memory
 - prince-sacrifice
+- category:other
 title: Prince Mupo Sutra / 太子慕魄經
 ---
 

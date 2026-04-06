@@ -10,6 +10,7 @@ tags:
 - Daoist philosophy
 - Chinese philosophy
 - Tian Zifang
+- category:chinese-philosophy
 title: Tian Zifang Chapter / 田子方篇
 ---
 

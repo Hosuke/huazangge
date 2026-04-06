@@ -6,6 +6,7 @@ tags:
 - austerities
 - dhutanga
 - twelve-austerities
+- category:other
 title: 頭陀行 / Dhutanga Practices
 ---
 

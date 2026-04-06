@@ -8,6 +8,7 @@ tags:
 - textual-study
 - baopuzi
 - taoism
+- category:other
 title: On Selecting Daoist Texts in Baopuzi / 抱朴子論道書之選擇
 ---
 

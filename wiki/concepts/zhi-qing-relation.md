@@ -13,6 +13,7 @@ tags:
 - human-nature
 - cultivation
 - philosophy
+- category:mengzi
 title: Will and Passion-Nature / 志與情的關係
 updated: '2026-04-04T17:11:16.903524+00:00'
 ---

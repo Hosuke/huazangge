@@ -12,6 +12,7 @@ tags:
 - Natural Spontaneity
 - Tian Yun
 - Zhuangzi
+- category:chinese-philosophy
 title: The Operations of Heaven (Tian Yun) / 天運第十四
 ---
 

@@ -13,6 +13,7 @@ tags:
 - Gaozi
 - Confucian philosophy
 - classical Chinese thought
+- category:other
 title: The Mencian Debate on Human Nature / 孟子人性论辩
 ---
 
