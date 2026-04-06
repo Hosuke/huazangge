@@ -1,9 +1,11 @@
 ---
 created: '2026-04-04T18:33:08.532517+00:00'
 sources:
-- plugin: wikisource
-  title: 維基文庫
-  url: https://zh.wikisource.org
+- book: 论语
+  chapter: 学而
+  plugin: classical_text
+  title: 论语 · 学而
+  url: https://ctext.org/analects/xue-er/zh
 summary: The opening chapter of the Analects emphasizing the importance of continuous
   learning, review, and friendship in personal cultivation.
 tags:

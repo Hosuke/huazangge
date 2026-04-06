@@ -1,4 +1,10 @@
 ---
+sources:
+- chapter: 喪大記
+  plugin: wikisource
+  title: 禮記 · 喪大記
+  url: https://zh.wikisource.org/wiki/禮記/喪大記
+  work: 禮記
 summary: A chapter from the Liji detailing hierarchical funeral procedures for rulers,
   ministers, and commoners, including encoffinement rites, mourning staff protocols,
   and deathbed rituals.

@@ -1,9 +1,11 @@
 ---
 created: '2026-04-04T18:33:08.534738+00:00'
 sources:
-- plugin: wikisource
-  title: 維基文庫
-  url: https://zh.wikisource.org
+- book: 论语
+  chapter: 为政
+  plugin: classical_text
+  title: 论语 · 为政
+  url: https://ctext.org/analects/wei-zheng/zh
 summary: Confucius's political philosophy emphasizing rule through moral virtue and
   ethical leadership rather than coercion or punishment.
 tags:

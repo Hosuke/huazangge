@@ -121,9 +121,11 @@
     ],
     "sources": [
       {
-        "plugin": "wikisource",
-        "title": "維基文庫",
-        "url": "https://zh.wikisource.org"
+        "book": "论语",
+        "chapter": "学而",
+        "plugin": "classical_text",
+        "title": "论语 · 学而",
+        "url": "https://ctext.org/analects/xue-er/zh"
       }
     ]
   },
@@ -1221,9 +1223,11 @@
     ],
     "sources": [
       {
-        "plugin": "wikisource",
-        "title": "維基文庫",
-        "url": "https://zh.wikisource.org"
+        "book": "论语",
+        "chapter": "乡党",
+        "plugin": "classical_text",
+        "title": "论语 · 乡党",
+        "url": "https://ctext.org/analects/xiang-dang/zh"
       }
     ]
   },
@@ -2798,9 +2802,11 @@
     ],
     "sources": [
       {
-        "plugin": "wikisource",
-        "title": "維基文庫",
-        "url": "https://zh.wikisource.org"
+        "book": "论语",
+        "chapter": "为政",
+        "plugin": "classical_text",
+        "title": "论语 · 为政",
+        "url": "https://ctext.org/analects/wei-zheng/zh"
       }
     ]
   },
@@ -6585,7 +6591,15 @@
       "liji",
       "category:other"
     ],
-    "sources": []
+    "sources": [
+      {
+        "chapter": "喪大記",
+        "plugin": "wikisource",
+        "title": "禮記 · 喪大記",
+        "url": "https://zh.wikisource.org/wiki/禮記/喪大記",
+        "work": "禮記"
+      }
+    ]
   },
   {
     "slug": "sangfu-xiaoji-liji",

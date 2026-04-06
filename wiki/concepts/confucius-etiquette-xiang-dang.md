@@ -1,9 +1,11 @@
 ---
 created: '2026-04-04T17:47:54.725171+00:00'
 sources:
-- plugin: wikisource
-  title: 維基文庫
-  url: https://zh.wikisource.org
+- book: 论语
+  chapter: 乡党
+  plugin: classical_text
+  title: 论语 · 乡党
+  url: https://ctext.org/analects/xiang-dang/zh
 summary: Chapter 10 of the Analects describing Confucius's formal behavior and ritual
   propriety in various social contexts including village, court, ceremonies, and interactions
   with different ranks of people.
