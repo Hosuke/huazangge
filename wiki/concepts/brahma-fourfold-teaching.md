@@ -9,7 +9,6 @@ tags:
 - brahma-worlds
 - celestial-assembly
 - defilements
-- desire-effort-mind-contemplation
 - four-bases-supernatural-power
 - four-conditions
 - liberation

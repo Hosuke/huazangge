@@ -1,23 +1,10 @@
 ---
-sources:
-- canon: 大正藏
-  plugin: buddhist_sutra
-  title: 佛說波斯匿王太后崩塵土坌身經 (1卷)
-  url: https://cbetaonline.dila.edu.tw/zh/T0122
-  work_id: T0122
+sources: []
 summary: The article explores Mozi's arguments for hierarchical uniformity, emphasizing
   how a well-structured governance system with unified moral standards and a clear
   reward-punishment mechanism—spanning from the Son of Heaven down to village leaders—is
   essential for maintaining order and preventing chaos.
 tags:
-- 'the user asks: "list 2-4 relevant tags for this article (comma-separated'
-- "lowercase): # shang-tong-identifying-with-superiors\n\n## english\n\n  ### additional
-  arguments from \"shang tong part 3\" (尚同下)\n\n  the third chapter of shang tong
-  (尚同下) presents further elaborated arguments for the doctrine of hierarchical uniformity"
-- "focusing particularly on the mechanism of reward and punishment as instruments
-  for achieving unified governance.\n\n  **the foundation: understanding the condition
-  of the people**\n\n  master mozi begins with a fundamental principle: a wise ruler
-  must consider what brings order to the state and"
 - category:other
 title: shang-tong-identifying-with-superiors
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-06T13:28:24.287697+00:00
+updated: 2026-04-06T16:47:11.193204+00:00
 ---
 
 # Knowledge Base Index
@@ -11,12 +11,6 @@ updated: 2026-04-06T13:28:24.287697+00:00
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 
 ## "Innate Goodness"
-
-- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
-
-## 2-4 Tags.
-
-We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
 
@@ -529,10 +523,6 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[shang-xian-exalting-worthy|Exalting the Worthy (尚賢) / 尚賢]] — A core Mohist political doctrine emphasizing that rulers should promote individuals of virtue and talent regardless of their social background, making worthy officials the foundation of good governance.
 - [[shang-xian-middle-mozi|Shang Xian Zhong (Exalting the Worthy, Part 2) / 尚賢中]] — The second chapter of Mozi's Exalting the Worthy doctrine, presenting the "Three Foundations" theory and historical exemplars of sage kings who achieved governance through elevating worthy ministers.
 - [[zhuangzi-daozhi-chapter|Robber Zhi Chapter (盜跖) / 盜跖篇]] — Zhuangzi Chapter 29 presents a fictional dialogue between Confucius and Robber Zhi, featuring radical critiques of Confucian morality, civilization, and social order.
-
-## Ancient-Chinese-Political-Thought
-
-- [[mozi-shang-xian-upper|Exalting the Virtuous (尚賢上) / 尚賢上]] — A chapter from the Mozi advocating that rulers should promote virtuous and capable individuals regardless of their social status, emphasizing that the selection of worthy ministers is the foundation of good governance.
 
 ## Ancient-Chinese-Strategy
 
@@ -2772,10 +2762,6 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[evil-section-three-dharmas-sanfang-dunlun|Evil Section (惡品) in the Three Dharmas Treatise / 三法度論惡品]] — The second chapter of the Three Dharmas Treatise examining evil deeds, desire, and delusion as the three unwholesome roots.
 - [[nalai-tathagata-story-shengjing|那賴仙人與方迹王的故事 / 那賴仙人與方迹王的故事 / 那賴仙人伝と方迹王物語]] — The Buddhist parable of King Fangji enslaved by desire and the ascetic Natai who freed him through teachings on the nature of craving.
 
-## Desire-Effort-Mind-Contemplation
-
-- [[brahma-fourfold-teaching|Brahma's Fourfold Teaching on Liberation / 梵天王四法]] — Mahābrahmā's teachings on the four conditions for rebirth in the Brahma realm: non-self practice, one-pointedness of mind, compassionate liberation, and abandoning defilements.
-
 ## Detachment
 
 - [[sun-shuao-equanimity-zhuangzi|Sun Shu'ao's Equanimity / 孫叔敖之無憂]] — The story of Sun Shu'ao who served three times as prime minister without joy and left three times without sorrow, embodying Daoist detachment from official rank.
@@ -3344,14 +3330,6 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[mozi-banner-system-siege-defense|Mozi's Banner System for Siege Defense / 墨子旗幟制度]] — Mozi's systematic color-coded banner system for identifying defenders, materials, and military roles during siege warfare.
 
-## Focusing Particularly On The Mechanism Of Reward And Punishment As Instruments For Achieving Unified Governance.
-
-  **The Foundation: Understanding The Condition Of The People**
-
-  Master Mozi Begins With A Fundamental Principle: A Wise Ruler Must Consider What Brings Order To The State And
-
-- [[shang-tong-identifying-with-superiors|shang-tong-identifying-with-superiors]] — The article explores Mozi's arguments for hierarchical uniformity, emphasizing how a well-structured governance system with unified moral standards and a clear reward-punishment mechanism—spanning from the Son of Heaven down to village leaders—is essential for maintaining order and preventing chaos.
-
 ## Folk-Religion
 
 - [[baopuzi-critique-false-deities-folk-religion|Bao Puzi Chapter 9: Critique of False Deities and Folk Religion / 抱朴子卷九：批判淫祀邪教]] — Ge Hong's philosophical critique of fraudulent religious practices, false deities, and the importance of self-cultivation over external ritual worship.
@@ -3877,12 +3855,6 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[human-nature-in-confucianism|Human Nature in Confucianism / 儒家人性论]] — An overview of the Confucian concept of human nature (xing) and its implications for moral cultivation.
 - [[human-nature-mencius-debate|The Mencian Debate on Human Nature / 孟子人性论辩]] — A philosophical examination of the debate between Mencius and Gaozi regarding the nature of human beings, including key analogies and arguments.
 
-## Human Nature.
-
-Potential Tags: "Mencius"
-
-- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
-
 ## Human-Agency
 
 - [[mozi-fei-ming-against-fatalism|Against Fatalism (非命上) / 墨子非命思想]] — Mozi's philosophical refutation of fatalism and the doctrine of predetermined destiny, arguing for human agency and the Three Standards methodology.
@@ -4398,22 +4370,6 @@ Potential Tags: "Mencius"
 ## Lowercase
 
 - [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
-
-## Lowercase): # Human-Nature-Is-Good". Then Includes The Article About Mencius And His Theory Of Innate Goodness With Examples.
-
-We Need To Output Tags. The Tags Should Be Relevant To The Article
-
-- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
-
-## Lowercase): # Shang-Tong-Identifying-With-Superiors
-
-## English
-
-  ### Additional Arguments From "Shang Tong Part 3" (尚同下)
-
-  The Third Chapter Of Shang Tong (尚同下) Presents Further Elaborated Arguments For The Doctrine Of Hierarchical Uniformity
-
-- [[shang-tong-identifying-with-superiors|shang-tong-identifying-with-superiors]] — The article explores Mozi's arguments for hierarchical uniformity, emphasizing how a well-structured governance system with unified moral standards and a clear reward-punishment mechanism—spanning from the Son of Heaven down to village leaders—is essential for maintaining order and preventing chaos.
 
 ## Machine-Learning
 
@@ -6453,11 +6409,6 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 - [[han-dynasty-mencius-reception|Han Dynasty Reception of Mencius / 汉代孟子接受史]] — Historical process of Mencius's recognition and preservation during the Han dynasty
 
-## The User Asks: "List 2-4 Relevant Tags For This Article (Comma-Separated
-
-- [[human-nature-is-good|human-nature-is-good]] — Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.
-- [[shang-tong-identifying-with-superiors|shang-tong-identifying-with-superiors]] — The article explores Mozi's arguments for hierarchical uniformity, emphasizing how a well-structured governance system with unified moral standards and a clear reward-punishment mechanism—spanning from the Son of Heaven down to village leaders—is essential for maintaining order and preventing chaos.
-
 ## Theravada
 
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
@@ -6659,10 +6610,6 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 - [[human-desire-to-be-born-sutra|Sutra on Human Desire to Be Born / 人本欲生經]] — A Buddhist sutra on the twelve links of dependent origination, attributed to An Shigao's translation from the Later Han dynasty.
 - [[twelve-links-dependent-origination-an-shigao-commentary|Twelve Links of Dependent Origination / 十二因緣 / 十二縁起]] — Analysis of the twelve links of dependent origination as explained in An Shigao's commentary on the Yin Chi Ru Jing.
-
-## Twelve-Links-Dependent-Origination
-
-- [[agama-explanation-twelve-links-dependent-origination|Āgama Explanation of Twelve Links of Dependent Origination / 阿含口解十二因緣經]] — A Han Dynasty Buddhist sutra on the Twelve Links of Dependent Origination, translated by An Shigao with unique inner-outer correlation teachings and karmic analysis.
 
 ## Twelve-Nidanas
 

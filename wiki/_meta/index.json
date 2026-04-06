@@ -13,7 +13,6 @@
       "meditation",
       "philosophy",
       "pratityasamutpada",
-      "twelve-links-dependent-origination",
       "category:other"
     ],
     "sources": []
@@ -568,15 +567,7 @@
       "four-heavenly-kings",
       "category:other"
     ],
-    "sources": [
-      {
-        "canon": "大正藏",
-        "plugin": "buddhist_sutra",
-        "title": "頻婆娑羅王經 (1卷)",
-        "url": "https://cbetaonline.dila.edu.tw/zh/T0041",
-        "work_id": "T0041"
-      }
-    ]
+    "sources": []
   },
   {
     "slug": "bird-nali-voice-shengjing",
@@ -701,7 +692,6 @@
       "brahma-worlds",
       "celestial-assembly",
       "defilements",
-      "desire-effort-mind-contemplation",
       "four-bases-supernatural-power",
       "four-conditions",
       "liberation",
@@ -1468,15 +1458,7 @@
       "wang-bi",
       "category:chinese-philosophy"
     ],
-    "sources": [
-      {
-        "canon": "大正藏",
-        "plugin": "buddhist_sutra",
-        "title": "佛說大愛道般泥洹經 (1卷)",
-        "url": "https://cbetaonline.dila.edu.tw/zh/T0144",
-        "work_id": "T0144"
-      }
-    ]
+    "sources": []
   },
   {
     "slug": "dayi-jing-great-meaning-sutra",
@@ -1624,15 +1606,7 @@
       "wheel-turning-king",
       "category:other"
     ],
-    "sources": [
-      {
-        "canon": "大正藏",
-        "plugin": "buddhist_sutra",
-        "title": "頂生王故事經 (1卷)",
-        "url": "https://cbetaonline.dila.edu.tw/zh/T0039",
-        "work_id": "T0039"
-      }
-    ]
+    "sources": []
   },
   {
     "slug": "ding-sheng-wang-king-mahadyuti-origin-karma",
@@ -2659,15 +2633,7 @@
       "Śrāvakayāna",
       "category:other"
     ],
-    "sources": [
-      {
-        "canon": "大正藏",
-        "plugin": "buddhist_sutra",
-        "title": "四阿鋡暮抄解 (2卷)",
-        "url": "https://cbetaonline.dila.edu.tw/zh/T1505",
-        "work_id": "T1505"
-      }
-    ]
+    "sources": []
   },
   {
     "slug": "fuli-prince-fortune-power-cause-effect-sutra",
@@ -3581,15 +3547,7 @@
       "magadha",
       "category:other"
     ],
-    "sources": [
-      {
-        "canon": "大正藏",
-        "plugin": "buddhist_sutra",
-        "title": "人仙經 (1卷)",
-        "url": "https://cbetaonline.dila.edu.tw/zh/T0009",
-        "work_id": "T0009"
-      }
-    ]
+    "sources": []
   },
   {
     "slug": "human-immortal-sutra-foshuo-renxian-jing",
@@ -3663,11 +3621,8 @@
     "title": "human-nature-is-good",
     "summary": "Mencius argues that human nature is inherently good, using the sincere grief during mourning rituals as evidence that moral cultivation through education can develop this innate goodness.",
     "tags": [
-      "the user asks: \"list 2-4 relevant tags for this article (comma-separated",
-      "lowercase): # human-nature-is-good\". then includes the article about mencius and his theory of innate goodness with examples.\n\nwe need to output tags. the tags should be relevant to the article",
       "comma-separated",
       "lowercase",
-      "2-4 tags.\n\nwe need to interpret the article's content: it's about mencius",
       "innate goodness",
       "moral nature",
       "confucianism",
@@ -3675,20 +3630,11 @@
       "mourning rites",
       "moral cultivation",
       "education",
-      "human nature.\n\npotential tags: \"mencius\"",
       "\"innate goodness\"",
       "\"confucian",
       "category:chinese-philosophy"
     ],
-    "sources": [
-      {
-        "canon": "大正藏",
-        "plugin": "buddhist_sutra",
-        "title": "佛說波斯匿王太后崩塵土坌身經 (1卷)",
-        "url": "https://cbetaonline.dila.edu.tw/zh/T0122",
-        "work_id": "T0122"
-      }
-    ]
+    "sources": []
   },
   {
     "slug": "human-nature-mencius-debate",
@@ -4461,15 +4407,7 @@
       "doctrinal-organization",
       "category:other"
     ],
-    "sources": [
-      {
-        "canon": "大正藏",
-        "plugin": "buddhist_sutra",
-        "title": "大集法門經 (2卷)",
-        "url": "https://cbetaonline.dila.edu.tw/zh/T0012",
-        "work_id": "T0012"
-      }
-    ]
+    "sources": []
   },
   {
     "slug": "mahasanghika",
@@ -5662,7 +5600,6 @@
     "title": "Exalting the Virtuous (尚賢上) / 尚賢上",
     "summary": "A chapter from the Mozi advocating that rulers should promote virtuous and capable individuals regardless of their social status, emphasizing that the selection of worthy ministers is the foundation of good governance.",
     "tags": [
-      "ancient-chinese-political-thought",
       "confucian-wusi-school",
       "meritocracy",
       "mozi",
@@ -6855,20 +6792,9 @@
     "title": "shang-tong-identifying-with-superiors",
     "summary": "The article explores Mozi's arguments for hierarchical uniformity, emphasizing how a well-structured governance system with unified moral standards and a clear reward-punishment mechanism—spanning from the Son of Heaven down to village leaders—is essential for maintaining order and preventing chaos.",
     "tags": [
-      "the user asks: \"list 2-4 relevant tags for this article (comma-separated",
-      "lowercase): # shang-tong-identifying-with-superiors\n\n## english\n\n  ### additional arguments from \"shang tong part 3\" (尚同下)\n\n  the third chapter of shang tong (尚同下) presents further elaborated arguments for the doctrine of hierarchical uniformity",
-      "focusing particularly on the mechanism of reward and punishment as instruments for achieving unified governance.\n\n  **the foundation: understanding the condition of the people**\n\n  master mozi begins with a fundamental principle: a wise ruler must consider what brings order to the state and",
       "category:other"
     ],
-    "sources": [
-      {
-        "canon": "大正藏",
-        "plugin": "buddhist_sutra",
-        "title": "佛說波斯匿王太后崩塵土坌身經 (1卷)",
-        "url": "https://cbetaonline.dila.edu.tw/zh/T0122",
-        "work_id": "T0122"
-      }
-    ]
+    "sources": []
   },
   {
     "slug": "shang-tong-reward-punishment-maf",
@@ -6921,15 +6847,7 @@
       "ruler authority",
       "category:other"
     ],
-    "sources": [
-      {
-        "canon": "大正藏",
-        "plugin": "buddhist_sutra",
-        "title": "佛說波斯匿王太后崩塵土坌身經 (1卷)",
-        "url": "https://cbetaonline.dila.edu.tw/zh/T0122",
-        "work_id": "T0122"
-      }
-    ]
+    "sources": []
   },
   {
     "slug": "shang-tong-upward-uniformity-mozi",
@@ -6940,15 +6858,7 @@
       "hierarchical political order",
       "category:other"
     ],
-    "sources": [
-      {
-        "canon": "大正藏",
-        "plugin": "buddhist_sutra",
-        "title": "佛說波斯匿王太后崩塵土坌身經 (1卷)",
-        "url": "https://cbetaonline.dila.edu.tw/zh/T0122",
-        "work_id": "T0122"
-      }
-    ]
+    "sources": []
   },
   {
     "slug": "shang-xian-esteeming-worthy-part-two",

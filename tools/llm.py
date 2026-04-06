@@ -94,9 +94,11 @@ def extract_json(text: str) -> str:
         except _json.JSONDecodeError:
             pass  # Might be incomplete, try extraction below
 
-    # Search from the end — find the last [ or { and try to parse
-    for start_char, end_char in [("[", "]"), ("{", "}")]:
-        # Find the LAST occurrence of the closing bracket
+    # Search from the end — try whichever closing bracket is rightmost first
+    pairs = [("[", "]"), ("{", "}")]
+    pairs.sort(key=lambda p: text.rfind(p[1]), reverse=True)
+
+    for start_char, end_char in pairs:
         end_pos = text.rfind(end_char)
         if end_pos == -1:
             continue

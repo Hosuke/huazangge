@@ -1,10 +1,5 @@
 ---
-sources:
-- canon: 大正藏
-  plugin: buddhist_sutra
-  title: 頂生王故事經 (1卷)
-  url: https://cbetaonline.dila.edu.tw/zh/T0039
-  work_id: T0039
+sources: []
 summary: King Ding Sheng is a bodhisattva incarnation who was born from his father's
   crown, practiced generous giving, conquered the four continents, and ascended through
   the thirty-three heavens, illustrating Buddhist teachings on merit and the dangers

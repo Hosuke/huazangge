@@ -3,7 +3,6 @@ summary: A chapter from the Mozi advocating that rulers should promote virtuous 
   capable individuals regardless of their social status, emphasizing that the selection
   of worthy ministers is the foundation of good governance.
 tags:
-- ancient-chinese-political-thought
 - confucian-wusi-school
 - meritocracy
 - mozi

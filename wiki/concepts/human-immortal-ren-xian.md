@@ -1,10 +1,5 @@
 ---
-sources:
-- canon: 大正藏
-  plugin: buddhist_sutra
-  title: 人仙經 (1卷)
-  url: https://cbetaonline.dila.edu.tw/zh/T0009
-  work_id: T0009
+sources: []
 summary: A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger
   revealing the karmic fate of King Bimbisara.
 tags:

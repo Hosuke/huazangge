@@ -1,10 +1,5 @@
 ---
-sources:
-- canon: 大正藏
-  plugin: buddhist_sutra
-  title: 四阿鋡暮抄解 (2卷)
-  url: https://cbetaonline.dila.edu.tw/zh/T1505
-  work_id: T1505
+sources: []
 summary: A Buddhist commentary on the Four Āgama text, presenting a systematic analysis
   of the "Three Factors" framework for Buddhist practice and liberation.
 tags:
