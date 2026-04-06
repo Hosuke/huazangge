@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-06T12:12:54.890326+00:00
+updated: 2026-04-06T12:56:17.211862+00:00
 ---
 
 # Knowledge Base Index
@@ -794,6 +794,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Book-Of-Rites
 
+- [[cheng-qing-er-li-wen-ritual-emotion-alignment|Establishing Ritual Based on Emotion / 稱情而立文]] — A Confucian ritual principle that proper ceremonial forms should be established according to genuine human emotions and feelings, serving as external expressions of internal grief.
 - [[clan-lineage-system-daxizhuan|The Clan Lineage System in Daxizhuan / 禮記大傳宗法制度]] — The Daxizhuan outlines the "separate branch" (別子為祖) lineage system that governed kinship organization, ancestral worship, and inheritance in ancient Chinese society.
 - [[confucius-at-leisure-liji|Confucius at Leisure / 孔子閒居]] — A Confucian dialogue between Confucius and Zixia on the qualities of an ideal ruler, exploring the Five Arrivals, Three "Not-Haves," and the Three Selflessnesses.
 - [[five-priorities-governance-daxizhuan|The Five Priorities of Governance in Daxizhuan / 禮記大傳人道五端]] — The Daxizhuan chapter of the Book of Rites outlines five governance priorities:亲近、报功、举贤、使能、存爱, forming the foundation of Confucian political philosophy.
@@ -804,6 +805,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[ruxing-confucian-conduct|The Conduct of the Ru (Ruxing) / 儒行]] — A chapter from the Book of Rites presenting Confucius's dialogue with Duke Ai of Lu on the sixteen distinctive characteristics and virtues that define the Confucian scholar (儒).
 - [[sang-da-ji-funeral-rituals-liji|Sang Da Ji: Major Records of Mourning / 喪大記：喪禮大典]] — A chapter from the Liji detailing hierarchical funeral procedures for rulers, ministers, and commoners, including encoffinement rites, mourning staff protocols, and deathbed rituals.
 - [[six-mourning-principles-daxizhuan|The Six Principles of Mourning in Daxizhuan / 禮記大傳服術六法]] — The Daxizhuan enumerates six principles (服術) governing mourning garments and kinship obligations: 親親, 尊尊, 名, 出入, 長幼, 從服.
+- [[three-day-encoffining-principle-liji-wensang|Three-Day Encoffining Principle / 三日而斂——三日乃斂之禮制]] — The Confucian principle of waiting three days before encoffining, based on the hope for the deceased's possible revival and the need for proper ritual preparation.
 - [[wen-sang-mourning-staff-ji|The Mourning Staff in the Book of Rites / 問喪中的喪杖制度]] — A Confucian analysis of mourning ritual implements, particularly the mourning staff (杖) made from different materials for father and mother mourning, and the mourning cap (免).
 - [[zhongni-yanji-ritual-teaching-liji|Zhongni at Home / 仲尼燕居]] — A chapter from the Book of Rites where Confucius discusses ritual propriety (禮), the principle of moderation (中), and the complementary roles of ritual and music (禮樂) with his disciples.
 
@@ -863,6 +865,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
 - [[da-fangbian-fo-baoen-jing|Great Expedient Sutra on Repaying Buddha's Kindness / 大方便佛報恩經]] — A Mahayana sutra teaching the doctrine of repaying the Four Kindnesses through filial piety and bodhisattva practice.
 - [[eightfold-noble-path-human-immortal-sutra|Eightfold Noble Path (Human Immortal Sutra) / 八正道]] — The Eightfold Noble Path as expounded in the Sutra of the Human Immortal, taught by Mahabrahma Deva as the method for achieving pure contemplation and liberation.
+- [[food-offering-five-bliss-buddhist-practice|Food Offering and the Five Blessings / 食施與五福報]] — Buddhist practice of offering food and the five meritorious rewards of longevity, beauty, strength, peace, and eloquence.
 - [[four-bases-supernatural-power-siddhartha|Four Bases of Supernatural Power / 四神足]] — The Four Bases of Supernatural Power (rddhipāda) taught by Mahabrahma Deva, describing the spiritual faculties of desire, endeavor, mind, and investigation.
 - [[four-castes-origin-buddhist-cosmology|Buddhist Origin of the Four Castes / 四姓起源]] — Buddhist cosmological account of how the four varnas (brahman, kshatriya, vaishya, shudra) arose from primordial beings and the Buddha's teaching on karmic equality.
 - [[four-noble-truths|Four Noble Truths / 四聖諦]] — The core Buddhist doctrine summarizing the nature of suffering, its origin, cessation, and the path to liberation.
@@ -935,6 +938,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[agama-explanation-twelve-links-dependent-origination|Āgama Explanation of Twelve Links of Dependent Origination / 阿含口解十二因緣經]] — A Han Dynasty Buddhist sutra on the Twelve Links of Dependent Origination, translated by An Shigao with unique inner-outer correlation teachings and karmic analysis.
 - [[dacheng-xindi-guanjing-san-shen|如來三身 / Three Bodies of the Tathagata (三身說)]] — The doctrinal classification of the Buddha's three bodies—Dharma-body, Enjoyment-body, and Transformational body—as expounded in the Mahayana Mind-Ground Contemplation Sutra, with detailed elaboration of their characteristics and salvific functions.
 - [[five-aggregates-contemplation-buddhist|Five Aggregates Contemplation / 五陰觀 / 五蘊の観想]] — Systematic contemplation on the five aggregates (form, sensation, perception, formations, consciousness) as a path to understanding non-self and achieving liberation.
+- [[five-bliss-doctrine-buddhist|Five Blessings of Food Offering / 施食五福]] — The Buddhist doctrine of five blessings (五福) derived from food offerings (施食), including giving life, beauty, strength, peace, and eloquence.
 - [[five-thieves-buddhist-doctrine|Five Thieves / 五賊]] — Buddhist doctrine of the five mental thieves that lead beings to evil rebirth
 - [[four-inversions-buddhist|Four Inversions / 四顛倒 / 四颠倒]] — The four inverted or perverted views that afflict sentient beings, mistaking suffering as happiness, impermanence as permanence, non-self as self, and impurity as purity.
 - [[mahasanghika|Mahāsaṃghika / 大眾部 / マハーサングヒカ]] — An early Buddhist school known for its transcendent conception of the Buddha and its influence on Mahāyāna developments.
@@ -1034,6 +1038,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Buddhist-Practice
 
+- [[food-offering-five-bliss-buddhist-practice|Food Offering and the Five Blessings / 食施與五福報]] — Buddhist practice of offering food and the five meritorious rewards of longevity, beauty, strength, peace, and eloquence.
 - [[lan-ruo|蘭若 / Forest Hermitage Practice]] — 蘭若指佛教修行者居住之寂靜處所，遠離喧鬧，修習頭陀行與止觀禪定
 - [[thirty-seven-bodhiparamitas-an-shigao|Thirty-Seven Factors of Enlightenment / 三十七道品]] — A systematic classification of Buddhist practice teachings organized in progressive numerical categories (1-10), as presented in An Shigao's translation of the Long Discourses.
 - [[upaya-expedient-means-buddhism|Expedient Means / 方便 / 方便]] — Buddhist concept of upaya (expedient means) as the practical methods and path structures for achieving spiritual liberation.
@@ -1709,6 +1714,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Ceremony
 
 - [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
+- [[liji-dahen-great-wedding-ritual|The Great Wedding Ritual (Da Hen) / 大昏——婚禮之道]] — Confucius's philosophy on the grand wedding ceremony (大昏) as the supreme form of reverence and the foundation of familial and political order.
 
 ## Cessation
 
@@ -1960,6 +1966,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[li-ji-ben-sang-hurrying-to-mourning|Rushing to Mourning (Ben Sang) / 禮記·奔喪]] — The Book of Rites describes the ritual procedures for a son rushing home upon learning of a parent's death, including immediate response protocols, travel customs, and mourning ceremonies.
 - [[sangfu-xiaoji-liji|Sangfu Xiaoji (Minor Records of Mourning Dress) / 喪服小記]] — A chapter from the Book of Rites detailing mourning dress regulations, mourning periods, and ritual protocols for various kinship relationships.
 
+## Chinese-Ritual-Theory
+
+- [[cheng-qing-er-li-wen-ritual-emotion-alignment|Establishing Ritual Based on Emotion / 稱情而立文]] — A Confucian ritual principle that proper ceremonial forms should be established according to genuine human emotions and feelings, serving as external expressions of internal grief.
+
 ## Chinese-Rituals
 
 - [[sang-da-ji-funeral-rituals-liji|Sang Da Ji: Major Records of Mourning / 喪大記：喪禮大典]] — A chapter from the Liji detailing hierarchical funeral procedures for rulers, ministers, and commoners, including encoffinement rites, mourning staff protocols, and deathbed rituals.
@@ -2196,8 +2206,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Confucian-Philosophy
 
 - [[bu-xiang-ai|Non-Mutual Love / 不相愛]] — Mozi's concept identifying the lack of mutual love as the fundamental cause of all social chaos and disorder.
+- [[cheng-qing-er-li-wen-ritual-emotion-alignment|Establishing Ritual Based on Emotion / 稱情而立文]] — A Confucian ritual principle that proper ceremonial forms should be established according to genuine human emotions and feelings, serving as external expressions of internal grief.
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
 - [[li-ji-guan-yi-meaning-capping-rite|The Meaning of the Capping Rite / 禮記·冠義]] — A classical Confucian text from the Book of Rites explaining the ritual significance of the capping ceremony as the foundation of all ritual propriety and the gateway to adult moral responsibility.
+- [[liji-dahen-great-wedding-ritual|The Great Wedding Ritual (Da Hen) / 大昏——婚禮之道]] — Confucius's philosophy on the grand wedding ceremony (大昏) as the supreme form of reverence and the foundation of familial and political order.
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
 - [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
@@ -2245,11 +2257,14 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Confucian-Ritual
 
+- [[cheng-qing-er-li-wen-ritual-emotion-alignment|Establishing Ritual Based on Emotion / 稱情而立文]] — A Confucian ritual principle that proper ceremonial forms should be established according to genuine human emotions and feelings, serving as external expressions of internal grief.
 - [[clan-lineage-system-daxizhuan|The Clan Lineage System in Daxizhuan / 禮記大傳宗法制度]] — The Daxizhuan outlines the "separate branch" (別子為祖) lineage system that governed kinship organization, ancestral worship, and inheritance in ancient Chinese society.
 - [[li-ji-ben-sang-hurrying-to-mourning|Rushing to Mourning (Ben Sang) / 禮記·奔喪]] — The Book of Rites describes the ritual procedures for a son rushing home upon learning of a parent's death, including immediate response protocols, travel customs, and mourning ceremonies.
 - [[li-ji-guan-yi-meaning-capping-rite|The Meaning of the Capping Rite / 禮記·冠義]] — A classical Confucian text from the Book of Rites explaining the ritual significance of the capping ceremony as the foundation of all ritual propriety and the gateway to adult moral responsibility.
+- [[liji-dahen-great-wedding-ritual|The Great Wedding Ritual (Da Hen) / 大昏——婚禮之道]] — Confucius's philosophy on the grand wedding ceremony (大昏) as the supreme form of reverence and the foundation of familial and political order.
 - [[mozi-yingdi-ci-welcoming-enemy-rituals|Mozi Welcoming Enemy Rituals / 墨子迎敵祠]] — A Mozi chapter describing elaborate ritual protocols for welcoming enemy forces from the four cardinal directions, with corresponding altars, officials, colors, and military preparations.
 - [[six-mourning-principles-daxizhuan|The Six Principles of Mourning in Daxizhuan / 禮記大傳服術六法]] — The Daxizhuan enumerates six principles (服術) governing mourning garments and kinship obligations: 親親, 尊尊, 名, 出入, 長幼, 從服.
+- [[three-day-encoffining-principle-liji-wensang|Three-Day Encoffining Principle / 三日而斂——三日乃斂之禮制]] — The Confucian principle of waiting three days before encoffining, based on the hope for the deceased's possible revival and the need for proper ritual preparation.
 - [[wen-sang-mourning-staff-ji|The Mourning Staff in the Book of Rites / 問喪中的喪杖制度]] — A Confucian analysis of mourning ritual implements, particularly the mourning staff (杖) made from different materials for father and mother mourning, and the mourning cap (免).
 
 ## Confucian-Rituals
@@ -2496,7 +2511,9 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[ding-sheng-wang-king-caitanya-dhrtarastra|King Ding Sheng (Ding Sheng Wang) / 頂生王]] — King Ding Sheng is a bodhisattva incarnation who was born from his father's crown, practiced generous giving, conquered the four continents, and ascended through the thirty-three heavens, illustrating Buddhist teachings on merit and the dangers of greed.
 - [[ding-sheng-wang-yinyuan-jing|The Discourse on King Śuddhodana's Previous Life / 頂生王因緣經]] — A Mahayana sutra describing the Buddha's previous incarnation as King Śuddhodana, a cakravartin who practiced extreme generosity and ruled over the four great continents and the heavenly realms.
+- [[five-bliss-doctrine-buddhist|Five Blessings of Food Offering / 施食五福]] — The Buddhist doctrine of five blessings (五福) derived from food offerings (施食), including giving life, beauty, strength, peace, and eloquence.
 - [[five-bliss-food-offering-sutra|Sutra on Five Blessings from Food Offerings / 佛說食施獲五福報經]] — A Buddhist sutra teaching that providing food to others generates five types of blessings: life, complexion, strength, peace, and eloquence.
+- [[food-offering-five-bliss-buddhist-practice|Food Offering and the Five Blessings / 食施與五福報]] — Buddhist practice of offering food and the five meritorious rewards of longevity, beauty, strength, peace, and eloquence.
 - [[fuli-prince-fortune-power-cause-effect-sutra|Fuli Prince Sutra on Merit and Fortune / 福力太子因緣經]] — A Mahayana sutra teaching that cultivating merit and fortune surpasses all other virtues, featuring Prince Fuli's story of ascent to Cakravartin kingship through supreme generosity.
 - [[jinse-wang-jing-golden-king-sutra|Golden-Colored King Sutra / 金色王經]] — A Buddhist sutra recounting how King Golden-Colored, a past life of the Buddha, attained liberation through the perfection of giving (dāna pāramitā) during a great famine.
 - [[liang-she-fa-two-grabbing-methods|Two Grabbing Methods / 二攝法 / 二攝法]] — The Buddhist methodology combining material giving (財法) with Dharma teaching (法施) to benefit sentient beings through both physical and spiritual means.
@@ -2696,6 +2713,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[dongmen-wu-grieflessness|Dongmen Wu's Grieflessness / 東門吳之無憂]] — The story of Dongmen Wu, who remained unmoved by his son's death because he had previously been without a son and felt no loss.
 - [[heart-death-zhuangzi|Heart Death / 心死]] — The Zhuangzi concept that spiritual death (heart death) is greater than physical death, representing loss of true nature and spontaneity.
+
+## Death-Rituals
+
+- [[three-day-encoffining-principle-liji-wensang|Three-Day Encoffining Principle / 三日而斂——三日乃斂之禮制]] — The Confucian principle of waiting three days before encoffining, based on the hope for the deceased's possible revival and the need for proper ritual preparation.
 
 ## Debate
 
@@ -3337,6 +3358,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Food-Offering
 
+- [[five-bliss-doctrine-buddhist|Five Blessings of Food Offering / 施食五福]] — The Buddhist doctrine of five blessings (五福) derived from food offerings (施食), including giving life, beauty, strength, peace, and eloquence.
 - [[five-bliss-food-offering-sutra|Sutra on Five Blessings from Food Offerings / 佛說食施獲五福報經]] — A Buddhist sutra teaching that providing food to others generates five types of blessings: life, complexion, strength, peace, and eloquence.
 
 ## Food-Offerings
@@ -3569,6 +3591,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[guan-yinzi-chapter-three-sage-way|Guān Yǐnzǐ Chapter Three: The Way of the Sage / 關尹子第三章：聖人之道]] — Chapter 3 of the Daoist classic Guān Yǐnzǐ explores the sage's governance through non-action, the doctrine of non-self, and the inexpressibility of the Dao.
 - [[human-harmony-he-ren|Human Harmony (人和) / 人和]] — A Confucian concept asserting that human unity and social harmony are more consequential than external advantages or natural circumstances.
+- [[liji-dahen-great-wedding-ritual|The Great Wedding Ritual (Da Hen) / 大昏——婚禮之道]] — Confucius's philosophy on the grand wedding ceremony (大昏) as the supreme form of reverence and the foundation of familial and political order.
 - [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
 - [[mengzi-people-heart-minjian|The People's Heart / 民心]] — Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.
 - [[mengzi-unity-through-non-killing-ding-yu-yi|Unity Through Non-Killing / 定於一]] — Mencius' doctrine that unity of the realm is achieved through rulers who do not delight in killing.
@@ -4250,7 +4273,9 @@ Potential Tags: "Mencius"
 ## Li-Ji
 
 - [[li-ji-ben-sang-hurrying-to-mourning|Rushing to Mourning (Ben Sang) / 禮記·奔喪]] — The Book of Rites describes the ritual procedures for a son rushing home upon learning of a parent's death, including immediate response protocols, travel customs, and mourning ceremonies.
+- [[liji-dahen-great-wedding-ritual|The Great Wedding Ritual (Da Hen) / 大昏——婚禮之道]] — Confucius's philosophy on the grand wedding ceremony (大昏) as the supreme form of reverence and the foundation of familial and political order.
 - [[sangfu-xiaoji-liji|Sangfu Xiaoji (Minor Records of Mourning Dress) / 喪服小記]] — A chapter from the Book of Rites detailing mourning dress regulations, mourning periods, and ritual protocols for various kinship relationships.
+- [[three-day-encoffining-principle-liji-wensang|Three-Day Encoffining Principle / 三日而斂——三日乃斂之禮制]] — The Confucian principle of waiting three days before encoffining, based on the hope for the deceased's possible revival and the need for proper ritual preparation.
 - [[wen-sang-mourning-staff-ji|The Mourning Staff in the Book of Rites / 問喪中的喪杖制度]] — A Confucian analysis of mourning ritual implements, particularly the mourning staff (杖) made from different materials for father and mother mourning, and the mourning cap (免).
 
 ## Li-Rites
@@ -4437,6 +4462,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[ding-sheng-wang-yinyuan-jing|The Discourse on King Śuddhodana's Previous Life / 頂生王因緣經]] — A Mahayana sutra describing the Buddha's previous incarnation as King Śuddhodana, a cakravartin who practiced extreme generosity and ruled over the four great continents and the heavenly realms.
 - [[entry-all-knowledge-dharani-gate|入一切種智行陀羅尼門 / Entry into the All-Knowledge Dhāraṇī Gate]] — A profound Mahāyāna dhāraṇī practice for entering complete wisdom, enabling practitioners to obtain countless samādhis,Store dhāraṇīs, and achieve supreme enlightenment.
 - [[fenbie-gongde-lun|分別功德論 (Fenbie Gongde Lun / Analysis of Merits Treatise)]] — A Buddhist treatise explaining the merits of arhats, the Buddha's disciples, and the compilation of the Three Treasuries.
+- [[five-bliss-doctrine-buddhist|Five Blessings of Food Offering / 施食五福]] — The Buddhist doctrine of five blessings (五福) derived from food offerings (施食), including giving life, beauty, strength, peace, and eloquence.
 - [[five-hindrances-ten-fetters-buddhist-doctrine|Five Hindrances and Ten Fetters in Buddhist Doctrine / 五葢十纏]] — A comprehensive explanation of the five hindrances (五葢) that obscure the mind and ten fetters (十纏) that bind beings to samsara, from the Mahāyāna Mind-Ground Sutra commentary.
 - [[four-inversions-buddhist|Four Inversions / 四顛倒 / 四颠倒]] — The four inverted or perverted views that afflict sentient beings, mistaking suffering as happiness, impermanence as permanence, non-self as self, and impurity as purity.
 - [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
@@ -4637,6 +4663,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[three-dharmas-buddhist-philosophy|Three Dharmas / 三法]] — A fundamental Buddhist philosophical framework comprising merit, evil, and liberation through dependent awakening.
 - [[virtue-merit-buddhism-de|Merit and Virtue in Buddhist Practice / 德 / 徳]] — Buddhist concept of merit (德, puṇya) encompassing giving, morality, meditation, and the three roots of wholesome qualities.
 
+## Merit-Doctrine
+
+- [[five-bliss-doctrine-buddhist|Five Blessings of Food Offering / 施食五福]] — The Buddhist doctrine of five blessings (五福) derived from food offerings (施食), including giving life, beauty, strength, peace, and eloquence.
+
 ## Merit-Fortune
 
 - [[fuli-prince-fortune-power-cause-effect-sutra|Fuli Prince Sutra on Merit and Fortune / 福力太子因緣經]] — A Mahayana sutra teaching that cultivating merit and fortune surpasses all other virtues, featuring Prince Fuli's story of ascent to Cakravartin kingship through supreme generosity.
@@ -4652,6 +4682,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[shang-xian-esteeming-worthy-part-two|Shang Xian (Esteeming the Worthy, Part 2) / 尚賢下]] — Mozi's argument that rulers must appoint the worthy and capable to governance, not favor relatives or the handsome, illustrated through historical examples of sage kings selecting ministers.
 - [[shang-xian-exalting-worthy-mozi|Exalting the Worthy (尚賢) in Mozi / 墨子尚賢思想]] — Mozi's doctrine on selecting worthy and capable individuals for government positions, emphasizing merit over kinship as the foundation of good governance.
 - [[shang-xian-exalting-worthy|Exalting the Worthy (尚賢) / 尚賢]] — A core Mohist political doctrine emphasizing that rulers should promote individuals of virtue and talent regardless of their social background, making worthy officials the foundation of good governance.
+
+## Meritorious Deeds
+
+- [[food-offering-five-bliss-buddhist-practice|Food Offering and the Five Blessings / 食施與五福報]] — Buddhist practice of offering food and the five meritorious rewards of longevity, beauty, strength, peace, and eloquence.
 
 ## Metamorphosis
 
@@ -5003,11 +5037,13 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 - [[sang-da-ji-funeral-rituals-liji|Sang Da Ji: Major Records of Mourning / 喪大記：喪禮大典]] — A chapter from the Liji detailing hierarchical funeral procedures for rulers, ministers, and commoners, including encoffinement rites, mourning staff protocols, and deathbed rituals.
 - [[six-mourning-principles-daxizhuan|The Six Principles of Mourning in Daxizhuan / 禮記大傳服術六法]] — The Daxizhuan enumerates six principles (服術) governing mourning garments and kinship obligations: 親親, 尊尊, 名, 出入, 長幼, 從服.
+- [[three-day-encoffining-principle-liji-wensang|Three-Day Encoffining Principle / 三日而斂——三日乃斂之禮制]] — The Confucian principle of waiting three days before encoffining, based on the hope for the deceased's possible revival and the need for proper ritual preparation.
 - [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
 - [[wen-sang-mourning-staff-ji|The Mourning Staff in the Book of Rites / 問喪中的喪杖制度]] — A Confucian analysis of mourning ritual implements, particularly the mourning staff (杖) made from different materials for father and mother mourning, and the mourning cap (免).
 
 ## Mourning-Rites
 
+- [[cheng-qing-er-li-wen-ritual-emotion-alignment|Establishing Ritual Based on Emotion / 稱情而立文]] — A Confucian ritual principle that proper ceremonial forms should be established according to genuine human emotions and feelings, serving as external expressions of internal grief.
 - [[li-ji-ben-sang-hurrying-to-mourning|Rushing to Mourning (Ben Sang) / 禮記·奔喪]] — The Book of Rites describes the ritual procedures for a son rushing home upon learning of a parent's death, including immediate response protocols, travel customs, and mourning ceremonies.
 
 ## Mourning-Rituals
@@ -6289,6 +6325,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 ## Sutra-Study
 
+- [[food-offering-five-bliss-buddhist-practice|Food Offering and the Five Blessings / 食施與五福報]] — Buddhist practice of offering food and the five meritorious rewards of longevity, beauty, strength, peace, and eloquence.
 - [[shi-men-tong-pan|十門通判 / Ten-Fold Framework for Sutra Exposition]] — A systematic ten-category methodology for analyzing and expounding Buddhist sutras, originating with Xianshou Fazang and elaborated by later masters.
 
 ## Sutras
@@ -6827,6 +6864,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 - [[mozi-water-defense-strategies|Mozi's Water Defense Strategies / 墨子備水戰術]] — A chapter from the Mozi detailing defensive preparations and tactical responses against water attacks on fortified cities, including drainage systems, naval organization, and coordinated counterattacks.
 
+## Wedding-Ceremony
+
+- [[liji-dahen-great-wedding-ritual|The Great Wedding Ritual (Da Hen) / 大昏——婚禮之道]] — Confucius's philosophy on the grand wedding ceremony (大昏) as the supreme form of reverence and the foundation of familial and political order.
+
 ## Welfare
 
 - [[providing-people-sustenance-zhi-min-zhi-chan|Providing the People with Sustenance (制民之產) / 民に産業を制する]] — Mencius argued that benevolent government requires establishing the people's material welfare first—providing land, livestock, and education—because only those with stable livelihoods can develop constant virtue, making economic security the foundation of moral governance.
@@ -7255,4 +7296,4 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 
 ---
-*515 articles indexed*
+*520 articles indexed*

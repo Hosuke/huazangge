@@ -879,6 +879,19 @@
     "sources": []
   },
   {
+    "slug": "cheng-qing-er-li-wen-ritual-emotion-alignment",
+    "title": "Establishing Ritual Based on Emotion / 稱情而立文",
+    "summary": "A Confucian ritual principle that proper ceremonial forms should be established according to genuine human emotions and feelings, serving as external expressions of internal grief.",
+    "tags": [
+      "confucian-ritual",
+      "confucian-philosophy",
+      "mourning-rites",
+      "chinese-ritual-theory",
+      "book-of-rites"
+    ],
+    "sources": []
+  },
+  {
     "slug": "chongyan-revered-discourse-zhuangzi",
     "title": "Chongyan (Revered Discourse) in Zhuangzi / 重言（莊子）",
     "summary": "\"Revered Discourse\" (重言) — the second of Zhuangzi's three discourse modes, quoting ancient sages and elders to lend authority to philosophical teachings.",
@@ -2060,6 +2073,19 @@
     "sources": []
   },
   {
+    "slug": "five-bliss-doctrine-buddhist",
+    "title": "Five Blessings of Food Offering / 施食五福",
+    "summary": "The Buddhist doctrine of five blessings (五福) derived from food offerings (施食), including giving life, beauty, strength, peace, and eloquence.",
+    "tags": [
+      "buddhist-doctrine",
+      "dana-paramita",
+      "food-offering",
+      "merit-doctrine",
+      "mahayana"
+    ],
+    "sources": []
+  },
+  {
     "slug": "five-bliss-food-offering-sutra",
     "title": "Sutra on Five Blessings from Food Offerings / 佛說食施獲五福報經",
     "summary": "A Buddhist sutra teaching that providing food to others generates five types of blessings: life, complexion, strength, peace, and eloquence.",
@@ -2267,6 +2293,19 @@
       "social-stability",
       "land-reform",
       "category:other"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "food-offering-five-bliss-buddhist-practice",
+    "title": "Food Offering and the Five Blessings / 食施與五福報",
+    "summary": "Buddhist practice of offering food and the five meritorious rewards of longevity, beauty, strength, peace, and eloquence.",
+    "tags": [
+      "buddhism",
+      "dana-paramita",
+      "meritorious deeds",
+      "sutra-study",
+      "buddhist-practice"
     ],
     "sources": []
   },
@@ -4281,6 +4320,20 @@
         "work": "禮記"
       }
     ]
+  },
+  {
+    "slug": "liji-dahen-great-wedding-ritual",
+    "title": "The Great Wedding Ritual (Da Hen) / 大昏——婚禮之道",
+    "summary": "Confucius's philosophy on the grand wedding ceremony (大昏) as the supreme form of reverence and the foundation of familial and political order.",
+    "tags": [
+      "confucian-ritual",
+      "wedding-ceremony",
+      "li-ji",
+      "confucian-philosophy",
+      "governance",
+      "ceremony"
+    ],
+    "sources": []
   },
   {
     "slug": "lijineize-rites-inner-principles",
@@ -7463,6 +7516,19 @@
       "self-sacrifice",
       "thousand-lamps",
       "category:other"
+    ],
+    "sources": []
+  },
+  {
+    "slug": "three-day-encoffining-principle-liji-wensang",
+    "title": "Three-Day Encoffining Principle / 三日而斂——三日乃斂之禮制",
+    "summary": "The Confucian principle of waiting three days before encoffining, based on the hope for the deceased's possible revival and the need for proper ritual preparation.",
+    "tags": [
+      "confucian-ritual",
+      "mourning-practices",
+      "book-of-rites",
+      "li-ji",
+      "death-rituals"
     ],
     "sources": []
   },

@@ -4,9 +4,11 @@
     "prince-sudana-sutta-bodhisattva-generosity",
     "yue-ming-tongzi-moonlight-youth-bodhisattva-sutra",
     "fuli-prince-fortune-power-cause-effect-sutra",
+    "food-offering-five-bliss-buddhist-practice",
     "liang-she-fa-two-grabbing-methods",
     "si-yuan-four-vows-bodhisattva-practice-yue-ming-jing",
     "qianshi-san-zhuan-jing",
+    "five-bliss-doctrine-buddhist",
     "sarvadhana-prince-yiqiechi",
     "dayi-jing-great-meaning-sutra",
     "virama-bodhisattva-pusajiamo",
@@ -71,10 +73,12 @@
     "da-fangbian-fo-baoen-jing",
     "yue-ming-tongzi-moonlight-youth-bodhisattva-sutra",
     "fuli-prince-fortune-power-cause-effect-sutra",
+    "food-offering-five-bliss-buddhist-practice",
     "liang-she-fa-two-grabbing-methods",
     "compassionate-dragon-king-naga",
     "si-yuan-four-vows-bodhisattva-practice-yue-ming-jing",
     "miaose-wang-yinyuan-jing",
+    "five-bliss-doctrine-buddhist",
     "dayi-jing-great-meaning-sutra",
     "bodhisattva-path",
     "bodhisattva-throw-body-feed-tiger-stupa-fasheng",
@@ -193,6 +197,7 @@
     "li-ji-guan-yi-meaning-capping-rite",
     "儒家",
     "confucian-sincerity-cheng",
+    "cheng-qing-er-li-wen-ritual-emotion-alignment",
     "constellation-fate-determinism-bao-puzi",
     "xuandao-mysterious-way",
     "guanyinzi-chapter-six-self-transformation",
@@ -317,6 +322,7 @@
     "five-hundred-years-sage-king-cycles",
     "shang-tong-identifying-with-superiors",
     "mozi-three-debates-music-governance",
+    "liji-dahen-great-wedding-ritual",
     "doctrine-of-the-mean-(zhongyong)",
     "mengzi-seven-chapters-structural-analysis",
     "human-harmony-he-ren",
@@ -501,6 +507,7 @@
   ],
   "doctrine-of-the-mean-(zhongyong)": [
     "five-hundred-years-sage-king-cycles",
+    "liji-dahen-great-wedding-ritual",
     "doctrine-of-the-mean-(zhongyong)",
     "understanding-heaven-knowing-fate-liezi",
     "confucius-at-leisure-liji",
@@ -566,12 +573,14 @@
   ],
   "three-years-mourning": [
     "mozi-jie-zang-frugal-burial",
+    "liji-dahen-great-wedding-ritual",
     "sangfu-xiaoji-liji",
     "liji-aigong-wen-duke-ai-inquires",
     "xiao-jing-classic-of-filial-piety",
     "li-ji-guan-yi-meaning-capping-rite",
     "li-ji-ben-sang-hurrying-to-mourning",
     "sang-da-ji-funeral-rituals-liji",
+    "cheng-qing-er-li-wen-ritual-emotion-alignment",
     "wen-sang-mourning-staff-ji",
     "four-mourning-principles-liji-sangfu-sizhi",
     "mozi-rejecting-confucians-fei-ru",
@@ -597,6 +606,7 @@
     "human-nature",
     "mengzi-four-beginnings-siduan",
     "confucian-sincerity-cheng",
+    "cheng-qing-er-li-wen-ritual-emotion-alignment",
     "wen-sang-mourning-staff-ji",
     "mengzi-ritual-food-debate",
     "mengzi-righteousness-profit-debate",
@@ -803,6 +813,14 @@
     "xu-fen-buddhist-prologue",
     "san-chong-guan-threefold-contemplation"
   ],
+  "liji-aigong-wen-duke-ai-inquires": [
+    "liji-dahen-great-wedding-ritual",
+    "li-ji-ben-sang-hurrying-to-mourning",
+    "sang-da-ji-funeral-rituals-liji"
+  ],
+  "li-ji-guan-yi-meaning-capping-rite": [
+    "liji-dahen-great-wedding-ritual"
+  ],
   "sheng-jing-birth-sutras": [
     "prince-mupo-sutra-mu-po-tai-zi"
   ],
@@ -908,6 +926,7 @@
   "si-en-four-graces-buddhism": [
     "心地法門",
     "da-fangbian-fo-baoen-jing",
+    "five-bliss-doctrine-buddhist",
     "da-cheng-ben-sheng-xin-di-guan-jing"
   ],
   "大乗本生心地観経": [
@@ -1591,6 +1610,8 @@
   ],
   "shan-e-bao-ying-karmic-retribution": [
     "fuli-prince-fortune-power-cause-effect-sutra",
+    "food-offering-five-bliss-buddhist-practice",
+    "five-bliss-doctrine-buddhist",
     "mozi-heaven-will-tianzhi",
     "shizi-yue-fo-ben-sheng-jing"
   ],
@@ -2036,6 +2057,7 @@
   ],
   "eightfold-noble-path-human-immortal-sutra": [
     "human-immortal-sutra-ren-xian-jing",
+    "five-bliss-doctrine-buddhist",
     "four-inversions-buddhist",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
   ],
@@ -2049,20 +2071,19 @@
   "moz-three-debates-music-governance": [
     "shang-xian-exalting-worthy"
   ],
-  "liji-aigong-wen-duke-ai-inquires": [
-    "li-ji-ben-sang-hurrying-to-mourning",
-    "sang-da-ji-funeral-rituals-liji"
-  ],
   "wen-sang-mourning-staff-ji": [
     "li-ji-ben-sang-hurrying-to-mourning",
     "sang-da-ji-funeral-rituals-liji",
+    "cheng-qing-er-li-wen-ritual-emotion-alignment",
     "four-mourning-principles-liji-sangfu-sizhi"
   ],
   "four-mourning-principles-liji-sangfu-sizhi": [
-    "li-ji-ben-sang-hurrying-to-mourning"
+    "li-ji-ben-sang-hurrying-to-mourning",
+    "cheng-qing-er-li-wen-ritual-emotion-alignment"
   ],
   "lijineize-rites-inner-principles": [
     "li-ji-ben-sang-hurrying-to-mourning",
+    "cheng-qing-er-li-wen-ritual-emotion-alignment",
     "wen-sang-mourning-staff-ji",
     "five-priorities-governance-daxizhuan"
   ],
@@ -2357,10 +2378,16 @@
     "four-foundations-mindfulness-an-shigao-commentary",
     "shan-zi-sutra-filial-bodhisattva"
   ],
+  "confucian-ritual-theory": [
+    "cheng-qing-er-li-wen-ritual-emotion-alignment"
+  ],
   "mozi-gong-meng-dialogue": [
     "mozi-da-qu",
     "qie-ji-theft-covetous-disease",
     "mozi-rejecting-confucians-fei-ru"
+  ],
+  "virtue-merit-buddhism-de": [
+    "five-bliss-doctrine-buddhist"
   ],
   "三種解脫": [
     "five-hindrances-ten-fetters-buddhist-doctrine"
