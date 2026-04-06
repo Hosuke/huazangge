@@ -11,6 +11,33 @@
 
 ---
 
+## 在 Claude Code 中使用（MCP）
+
+一行命令安装，让 Claude 直接查询华藏阁的 520+ 篇经典文章：
+
+```bash
+# 1. 克隆知识库
+git clone https://github.com/Hosuke/huazangge.git
+
+# 2. 安装依赖
+cd huazangge && pip install -e ../llmbase 2>/dev/null || pip install llmbase
+
+# 3. 添加 MCP server
+claude mcp add huazangge -- python -m tools.mcp_server --base-dir $(pwd)
+```
+
+重启 Claude Code 后即可使用：
+
+```
+> 搜索华藏阁里关于"般若"的文章
+> 华藏阁里孟子四端说讲了什么？
+> 比较道德经和庄子的核心思想
+```
+
+完全本地运行，不消耗服务器资源。
+
+---
+
 ## 特性
 
 - **渐进式学习** — 每次运行自动获取下一批经文，日积月累吸收整部大藏经
