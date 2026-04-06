@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A philosophical dialogue exploring how virtue (德) and fate (命) operate independently,
   with East Guo Master's revelation that Beigongzi has厚德薄命 while Ximenzi has厚命薄德.
 tags:

@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Zhuangzi's philosophical exploration of true happiness beyond worldly pleasures,
   arguing that ultimate joy transcends conventional notions of joy itself.
 tags:

@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Chapter 22 of Zhuangzi exploring the nature of knowledge and the omnipresence
   of the Dao through dialogues between Zhi, Wu Wei Wei, Kuang Qu, and Huang Di.
 tags:

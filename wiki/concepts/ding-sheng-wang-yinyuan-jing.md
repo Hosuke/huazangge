@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Mahayana sutra describing the Buddha's previous incarnation as King Śuddhodana,
   a cakravartin who practiced extreme generosity and ruled over the four great continents
   and the heavenly realms.

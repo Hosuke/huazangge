@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A central Zhuangzi parable about the useless tree that survives because it
   has no use to humans, illustrating the Daoist principle that apparent uselessness
   may be the highest utility.

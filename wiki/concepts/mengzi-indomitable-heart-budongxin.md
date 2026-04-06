@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's concept of the steadfast moral heart, cultivated through courage,
   righteosness, and the accumulation of moral energy.
 tags:

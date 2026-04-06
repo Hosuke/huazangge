@@ -137,9 +137,27 @@ Focus on extracting knowledge, not just summarizing. Each language section shoul
 
         response = chat(prompt, system=SYSTEM_PROMPT, max_tokens=cfg["llm"]["max_tokens"])
 
-        # Parse response and write articles
+        # Build source reference from raw doc metadata
+        # Map raw doc type to ref plugin ID
+        type_to_plugin = {
+            "buddhist_sutra": "cbeta", "wikisource": "wikisource",
+            "classical_text": "ctext", "ctext": "ctext",
+        }
+        raw_type = post.metadata.get("type", "unknown")
+        source_ref = {
+            "plugin": type_to_plugin.get(raw_type, raw_type),
+            "url": post.metadata.get("source", ""),
+            "title": title,
+        }
+        # Add plugin-specific fields
+        for key in ("work_id", "canon", "work", "chapter", "book"):
+            if key in post.metadata:
+                source_ref[key] = post.metadata[key]
+
+        # Parse response and write articles (with source ref)
         articles = _parse_compile_response(response)
         for article in articles:
+            article["sources"] = [source_ref]
             article_path = _write_article(article, concepts_dir)
             if article_path:
                 compiled_articles.append(str(article_path))
@@ -215,7 +233,8 @@ def rebuild_index(base_dir: Path | None = None):
 
     # Write JSON index for programmatic access
     index_json_path = meta_dir / "index.json"
-    index_json_path.write_text(json.dumps(index_entries, indent=2, ensure_ascii=False), encoding="utf-8")
+    from .atomic import atomic_write_json
+    atomic_write_json(index_json_path, index_entries)
 
     # Write markdown index for Obsidian
     index_md = "---\ntitle: Wiki Index\nupdated: {}\n---\n\n# Knowledge Base Index\n\n".format(
@@ -391,7 +410,15 @@ def _write_article(article: dict, concepts_dir: Path) -> Path | None:
     from .resolve import build_aliases, resolve_link
 
     slug = article["slug"]
-    article_path = concepts_dir / f"{slug}.md"
+    # Sanitize slug: prevent path traversal and invalid filenames
+    slug = slug.replace("/", "-").replace("\\", "-").replace("..", "").strip(".-_ ")
+    if not slug:
+        return None
+    article["slug"] = slug
+    article_path = (concepts_dir / f"{slug}.md").resolve()
+    # Path traversal guard
+    if not str(article_path).startswith(str(concepts_dir.resolve())):
+        return None
 
     # Layer 1: exact slug match
     if article_path.exists():
@@ -434,6 +461,7 @@ def _write_article(article: dict, concepts_dir: Path) -> Path | None:
     post.metadata["title"] = article.get("title", slug)
     post.metadata["summary"] = article.get("summary", "")
     post.metadata["tags"] = article.get("tags", [])
+    post.metadata["sources"] = article.get("sources", [])
     post.metadata["created"] = datetime.now(timezone.utc).isoformat()
     post.metadata["updated"] = datetime.now(timezone.utc).isoformat()
     article_path.write_text(frontmatter.dumps(post), encoding="utf-8")
@@ -475,6 +503,26 @@ def _merge_into(existing_path: Path, article: dict):
             existing_sections[lang_key] = new_sec
             changed = True
         # Otherwise keep existing (avoid duplication)
+
+    # Merge sources (deduplicate by stable key)
+    new_sources = article.get("sources", [])
+    if new_sources:
+        existing_sources = existing.metadata.get("sources", [])
+
+        def _source_key(s):
+            return (s.get("plugin", ""), s.get("url", ""),
+                    s.get("work_id", ""), s.get("title", ""))
+
+        existing_keys = {_source_key(s) for s in existing_sources}
+        added = False
+        for src in new_sources:
+            if _source_key(src) not in existing_keys:
+                existing_sources.append(src)
+                existing_keys.add(_source_key(src))
+                added = True
+        if added:
+            existing.metadata["sources"] = existing_sources
+            changed = True
 
     if changed:
         # Reassemble content from sections
@@ -557,4 +605,5 @@ def _build_backlinks(concepts_dir: Path, meta_dir: Path):
                 backlinks[target_key].append(slug)
 
     backlinks_path = meta_dir / "backlinks.json"
-    backlinks_path.write_text(json.dumps(backlinks, indent=2, ensure_ascii=False), encoding="utf-8")
+    from .atomic import atomic_write_json
+    atomic_write_json(backlinks_path, backlinks)

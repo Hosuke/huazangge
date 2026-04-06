@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T17:23:07.037746+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius argues that human nature is inherently good, using the sincere grief
   during mourning rituals as evidence that moral cultivation through education can
   develop this innate goodness.

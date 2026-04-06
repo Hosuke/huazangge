@@ -16,10 +16,42 @@ from .lint import lint
 
 def create_web_app(base_dir: Path | None = None):
     """Create the full web application."""
+    import os
+    from functools import wraps
+
     base = Path(base_dir) if base_dir else Path.cwd()
     static_dir = Path(__file__).resolve().parent.parent / "static" / "dist"
 
     app = Flask(__name__, static_folder=None)
+
+    # ─── Auth middleware for write endpoints ───────────────────
+    # Auto-generate a secret if not set and running in production (PORT env = cloud deploy)
+    API_SECRET = os.getenv("LLMBASE_API_SECRET", "")
+    if not API_SECRET and os.getenv("PORT"):
+        import secrets
+        API_SECRET = secrets.token_urlsafe(32)
+        os.environ["LLMBASE_API_SECRET"] = API_SECRET
+        import logging
+        logging.getLogger("llmbase.auth").info(f"Auto-generated API secret: {API_SECRET[:8]}...")
+
+    # Generate a session token derived from the secret (never expose the secret itself)
+    import hashlib, hmac
+    SESSION_TOKEN = hashlib.sha256(f"session:{API_SECRET}".encode()).hexdigest()[:48] if API_SECRET else ""
+
+    def require_auth(f):
+        """Protect write endpoints when LLMBASE_API_SECRET is set."""
+        @wraps(f)
+        def decorated(*args, **kwargs):
+            if not API_SECRET:
+                return f(*args, **kwargs)  # No secret = open (local/dev mode)
+            auth = request.headers.get("Authorization", "").replace("Bearer ", "")
+            cookie = request.cookies.get("llmbase_auth", "")
+            # Constant-time comparison to prevent timing attacks
+            if (hmac.compare_digest(auth, API_SECRET)
+                    or hmac.compare_digest(cookie, SESSION_TOKEN)):
+                return f(*args, **kwargs)
+            return jsonify({"status": "error", "message": "Unauthorized"}), 401
+        return decorated
 
     # ─── API Routes ────────────────────────────────────────────
 
@@ -147,25 +179,61 @@ def create_web_app(base_dir: Path | None = None):
         cfg = load_config(base)
         concepts_dir = Path(cfg["paths"]["concepts"])
         meta_dir = Path(cfg["paths"]["meta"])
-        article_path = concepts_dir / f"{slug}.md"
+        article_path = (concepts_dir / f"{slug}.md").resolve()
+        # Path traversal guard
+        if not str(article_path).startswith(str(concepts_dir.resolve())):
+            return jsonify({"status": "error", "message": "Invalid slug"}), 400
         # If not found by slug, try alias resolution
         if not article_path.exists():
             aliases = load_aliases(meta_dir)
             resolved = resolve_link(slug, aliases)
             if resolved:
-                article_path = concepts_dir / f"{resolved}.md"
+                article_path = (concepts_dir / f"{resolved}.md").resolve()
+                if not str(article_path).startswith(str(concepts_dir.resolve())):
+                    return jsonify({"status": "error", "message": "Invalid slug"}), 400
                 slug = resolved
         if not article_path.exists():
             return jsonify({"status": "error", "message": f"Article not found: {slug}"}), 404
         post = frontmatter.load(str(article_path))
+        # Sanitize source URLs (only allow http/https)
+        sources = post.metadata.get("sources", [])
+        safe_sources = []
+        for src in sources:
+            url = src.get("url", "")
+            if url and not url.startswith(("http://", "https://")):
+                src = {**src, "url": ""}
+            safe_sources.append(src)
+
         return jsonify({
             "status": "ok",
             "slug": slug,
             "title": post.metadata.get("title", slug),
             "summary": post.metadata.get("summary", ""),
             "tags": post.metadata.get("tags", []),
+            "sources": safe_sources,
             "content": post.content,
+            "backlinks": _get_backlinks(cfg, slug),
         })
+
+    def _get_backlinks(cfg, slug):
+        """Get articles that link to this slug, with titles."""
+        meta_dir = Path(cfg["paths"]["meta"])
+        concepts_dir = Path(cfg["paths"]["concepts"])
+        bl_path = meta_dir / "backlinks.json"
+        if not bl_path.exists():
+            return []
+        try:
+            data = json.loads(bl_path.read_text())
+        except (json.JSONDecodeError, OSError):
+            return []
+        slugs = data.get(slug, [])
+        result = []
+        for s in slugs:
+            p = concepts_dir / f"{s}.md"
+            if p.exists():
+                post = frontmatter.load(str(p))
+                result.append({"slug": s, "title": post.metadata.get("title", s)})
+        return result
 
     @app.route("/api/aliases")
     def api_aliases():
@@ -173,6 +241,95 @@ def create_web_app(base_dir: Path | None = None):
         cfg = load_config(base)
         aliases = load_aliases(Path(cfg["paths"]["meta"]))
         return jsonify({"aliases": aliases})
+
+    @app.route("/api/entities")
+    def api_entities():
+        """Return extracted entities (people, events, places)."""
+        from .entities import get_entities
+        return jsonify(get_entities(base))
+
+    @app.route("/api/entities/extract", methods=["POST"])
+    @require_auth
+    def api_extract_entities():
+        """Trigger entity extraction."""
+        from .entities import extract_entities
+        result = extract_entities(base)
+        return jsonify(result)
+
+    @app.route("/api/refs/plugins")
+    def api_ref_plugins():
+        """List available reference source plugins."""
+        from .refs import list_plugins
+        return jsonify({"plugins": list_plugins()})
+
+    # ─── Research Trails ──────────────────────────────────────
+
+    def _load_trails():
+        cfg = load_config(base)
+        path = Path(cfg["paths"]["meta"]) / "trails.json"
+        if path.exists():
+            try:
+                return json.loads(path.read_text())
+            except (json.JSONDecodeError, OSError):
+                pass
+        return {"trails": []}
+
+    def _save_trails(data):
+        from .atomic import atomic_write_json
+        cfg = load_config(base)
+        path = Path(cfg["paths"]["meta"]) / "trails.json"
+        atomic_write_json(path, data)
+
+    @app.route("/api/trails")
+    def api_trails():
+        """List all research trails."""
+        return jsonify(_load_trails())
+
+    @app.route("/api/trails", methods=["POST"])
+    def api_trails_save():
+        """Add a step to a trail (or create a new trail)."""
+        import uuid
+        from datetime import datetime, timezone
+        data = request.json or {}
+        step = data.get("step", {})
+        trail_id = data.get("trail_id")
+        name = data.get("name", "")
+
+        trails_data = _load_trails()
+        trails = trails_data.get("trails", [])
+        now = datetime.now(timezone.utc).isoformat()
+
+        if trail_id:
+            # Add step to existing trail
+            trail = next((t for t in trails if t["id"] == trail_id), None)
+            if trail:
+                step["ts"] = now
+                trail["steps"].append(step)
+                trail["updated"] = now
+            else:
+                return jsonify({"status": "error", "message": "Trail not found"}), 404
+        else:
+            # Create new trail
+            trail = {
+                "id": uuid.uuid4().hex[:12],
+                "name": name or f"Trail {len(trails) + 1}",
+                "created": now,
+                "updated": now,
+                "steps": [{"ts": now, **step}] if step else [],
+            }
+            trails.append(trail)
+
+        trails_data["trails"] = trails
+        _save_trails(trails_data)
+        return jsonify({"trail": trail})
+
+    @app.route("/api/trails/<trail_id>/delete", methods=["POST"])
+    def api_trail_delete(trail_id):
+        """Delete a research trail."""
+        trails_data = _load_trails()
+        trails_data["trails"] = [t for t in trails_data.get("trails", []) if t["id"] != trail_id]
+        _save_trails(trails_data)
+        return jsonify({"status": "ok"})
 
     @app.route("/api/xici")
     def api_xici():
@@ -182,6 +339,7 @@ def create_web_app(base_dir: Path | None = None):
         return jsonify(get_xici(base, lang))
 
     @app.route("/api/xici/generate", methods=["POST"])
+    @require_auth
     def api_xici_generate():
         """Regenerate Xi Ci for a given language."""
         from .xici import generate_xici
@@ -248,6 +406,7 @@ def create_web_app(base_dir: Path | None = None):
         })
 
     @app.route("/api/ingest", methods=["POST"])
+    @require_auth
     def api_ingest():
         data = request.json
         source = data.get("source", "")
@@ -255,6 +414,7 @@ def create_web_app(base_dir: Path | None = None):
         return jsonify({"status": "ok", "path": str(path)})
 
     @app.route("/api/upload", methods=["POST"])
+    @require_auth
     def api_upload():
         """Upload a PDF/markdown file for ingestion."""
         if "file" not in request.files:
@@ -287,6 +447,7 @@ def create_web_app(base_dir: Path | None = None):
             return jsonify({"status": "ok", "path": str(path), "filename": f.filename})
 
     @app.route("/api/articles/<slug>", methods=["DELETE"])
+    @require_auth
     def api_delete_article(slug):
         """Delete a wiki article by slug."""
         cfg = load_config(base)
@@ -298,6 +459,7 @@ def create_web_app(base_dir: Path | None = None):
         return jsonify({"status": "error", "message": "Not found"})
 
     @app.route("/api/wiki/clean", methods=["POST"])
+    @require_auth
     def api_clean_wiki():
         """Remove garbage/empty stub articles and update taxonomy."""
         cfg = load_config(base)
@@ -324,6 +486,7 @@ def create_web_app(base_dir: Path | None = None):
         return jsonify({"status": "ok", "removed": len(removed), "slugs": removed})
 
     @app.route("/api/taxonomy/update", methods=["POST"])
+    @require_auth
     def api_update_taxonomy():
         """Upload a new taxonomy.json. Automatically locked to prevent worker overwrite."""
         data = request.json
@@ -338,6 +501,7 @@ def create_web_app(base_dir: Path | None = None):
         return jsonify({"status": "ok", "categories": len(data["categories"]), "locked": True})
 
     @app.route("/api/compile", methods=["POST"])
+    @require_auth
     def api_compile():
         articles = compile_new(base)
         return jsonify({"status": "ok", "articles_created": len(articles)})
@@ -354,6 +518,7 @@ def create_web_app(base_dir: Path | None = None):
             return jsonify({"results": results})
 
     @app.route("/api/lint/fix", methods=["POST"])
+    @require_auth
     def api_lint_fix():
         """Run the full auto-fix pipeline in background thread."""
         import threading
@@ -361,9 +526,13 @@ def create_web_app(base_dir: Path | None = None):
 
         def run_fix():
             import json, logging
+            from .worker import job_lock
             logger = logging.getLogger("llmbase.lint")
-            logger.info("[lint/fix] Starting auto-fix pipeline...")
+            if not job_lock.acquire(blocking=False):
+                logger.warning("[lint/fix] Another job is running, skipping")
+                return
             try:
+                logger.info("[lint/fix] Starting auto-fix pipeline...")
                 fixes = auto_fix(base)
                 logger.info(f"[lint/fix] Done! {len(fixes)} fixes applied")
                 # Persist result
@@ -376,6 +545,8 @@ def create_web_app(base_dir: Path | None = None):
                 )
             except Exception as e:
                 logger.error(f"[lint/fix] Error: {e}")
+            finally:
+                job_lock.release()
 
         threading.Thread(target=run_fix, daemon=True).start()
         return jsonify({"status": "started", "message": "Auto-fix pipeline running in background. Check /api/health for results."})
@@ -407,6 +578,7 @@ def create_web_app(base_dir: Path | None = None):
         return jsonify({"articles": articles, "count": len(articles)})
 
     @app.route("/api/index/rebuild", methods=["POST"])
+    @require_auth
     def api_rebuild_index():
         entries = rebuild_index(base)
         return jsonify({"status": "ok", "article_count": len(entries)})
@@ -420,6 +592,12 @@ def create_web_app(base_dir: Path | None = None):
         file_path = static_dir / path
         if path and file_path.exists():
             return send_from_directory(str(static_dir), path)
-        return send_from_directory(str(static_dir), "index.html")
+        # Set auth cookie with derived session token (never expose the raw secret)
+        from flask import make_response
+        resp = make_response(send_from_directory(str(static_dir), "index.html"))
+        if SESSION_TOKEN:
+            resp.set_cookie("llmbase_auth", SESSION_TOKEN,
+                            httponly=True, samesite="Strict", secure=False)
+        return resp
 
     return app

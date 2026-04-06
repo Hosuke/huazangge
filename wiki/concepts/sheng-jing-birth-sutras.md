@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Buddhist sutra collection translated by Zhu Fahu during the Western Jin
   dynasty, containing ten narratives illustrating karmic principles and monastic discipline.
 tags:

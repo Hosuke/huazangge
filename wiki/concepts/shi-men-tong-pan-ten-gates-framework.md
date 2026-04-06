@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A methodological framework for sutra interpretation consisting of ten categories,
   originating from the Huayan school and used for systematic Buddhist textual analysis.
 tags:

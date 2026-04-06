@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A philosophical discourse in Zhuangzi where a wheelwright explains to Duke
   Huan why the words of the sages are merely "dregs" and true wisdom cannot be transmitted
   through language.

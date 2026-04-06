@@ -1,5 +1,10 @@
 ---
 created: '2026-04-04T18:02:23.028445+00:00'
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: Confucian philosophy on the moral and social functions of music in maintaining
   ritual order and personal cultivation.
 tags:

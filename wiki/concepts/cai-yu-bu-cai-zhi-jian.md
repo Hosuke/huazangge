@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A Zhuangzi philosophy on navigating between utility and uselessness through
   alignment with the Dao, avoiding the pitfalls of both extremes.
 tags:

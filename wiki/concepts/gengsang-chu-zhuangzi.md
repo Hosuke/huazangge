@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A chapter in Zhuangzi featuring the disciple Gengsang Chu's philosophy of
   preserving life, avoiding fame, and the Daoist concept of the "hygiene classic."
 tags:

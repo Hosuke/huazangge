@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's concept of "great qi" - a cultivated spiritual vital energy that
   fills the universe and empowers moral accomplishment.
 tags:

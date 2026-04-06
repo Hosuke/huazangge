@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius' doctrine that unity of the realm is achieved through rulers who
   do not delight in killing.
 tags:

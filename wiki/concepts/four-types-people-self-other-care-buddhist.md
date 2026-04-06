@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A Buddhist classification from the 七處三觀經 describing four types of people
   based on whether they guard themselves and whether they protect others.
 tags:

@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The systematic practice of moral and spiritual development based on Confucian
   teachings.
 tags:

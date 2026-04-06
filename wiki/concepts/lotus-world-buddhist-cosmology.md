@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A pure land in Buddhist cosmology described in the Mahāyāna sutras, characterized
   by lotus imagery, jeweled trees, and spiritual refinement.
 tags:

@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: Chapter 8 of Guanyinzi discusses the transcendence of the Dao beyond all
   categorical distinctions, the transformations of the five elements, and the relationship
   between mind and things.

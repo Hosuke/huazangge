@@ -1,6 +1,10 @@
 ---
 merged_from:
 - mahayana-buddhism
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: The Bodhisattva path is a central aspect of Mahayana Buddhism, focusing on
   the aspiration to attain enlightenment for oneself and others.
 tags:

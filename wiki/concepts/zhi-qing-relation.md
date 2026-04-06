@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T17:11:16.903506+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's doctrine on the hierarchical yet interactive relationship between
   will (zhi) and passion-nature (qing)
 tags:

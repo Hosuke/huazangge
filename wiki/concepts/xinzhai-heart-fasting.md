@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A Zhuangzi concept of spiritual purification through emptiness of the heart-mind,
   taught by Confucius to Yan Hui as the path to navigate the human world.
 tags:

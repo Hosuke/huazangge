@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A philosophical exploration of the spontaneous operations of Heaven and cosmic
   process in Chapter 14 of Zhuangzi, addressing governance, music, and the nature
   of the Way.

@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: The core Buddhist doctrine summarizing the nature of suffering, its origin,
   cessation, and the path to liberation.
 tags:

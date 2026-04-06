@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: pdf
+  title: 'I ching : the sacred books of China, the book of changes (p.181-210)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/周易-I_Ching-Legge.pdf
 summary: The fifth volume of the Book of Lord Shang contains key chapters on military
   organization, weakening the people, agriculture-war doctrine, and legal administration.
 tags:

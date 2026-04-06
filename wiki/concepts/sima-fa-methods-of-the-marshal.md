@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A classical Chinese military treatise from the Warring States period, emphasizing
   benevolent warfare, ritual propriety in military affairs, and the integration of
   Confucian ethics with military strategy.

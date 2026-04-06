@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Chapter 7 of Guanyinzi explores the philosophy of transformation (化),阐發道化萬物、聖人任化的深層道理.
 tags:
 - Chinese philosophy

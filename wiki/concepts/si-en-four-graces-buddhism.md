@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: 'Buddhist doctrine of repaying four kinds of kindness: parents, sentient
   beings, ruler, and Triple Gem'
 tags:

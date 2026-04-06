@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T22:45:08.595642+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Confucian ideal of the cultivated person who can be entrusted with governance
   and maintains integrity in crisis
 tags:

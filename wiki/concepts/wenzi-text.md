@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: pdf
+  title: 'I ching : the sacred books of China, the book of changes (p.181-210)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/周易-I_Ching-Legge.pdf
 summary: An ancient Daoist text presenting Laozi's philosophy through a dialogue format,
   attributed to a disciple of Laozi, covering the nature of the Dao, non-action governance,
   and the ideal sage.

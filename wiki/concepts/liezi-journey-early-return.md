@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The story of Liezi journeying to Qi but turning back after becoming "startled"
   by receiving special treatment, illustrating the danger of being sought after by
   people.

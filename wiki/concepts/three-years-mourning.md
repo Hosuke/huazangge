@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T17:47:25.082202+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The traditional mourning period of three years emphasizes filial piety and
   respect for deceased parents.
 tags:

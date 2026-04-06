@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The story of Sun Shu'ao who served three times as prime minister without
   joy and left three times without sorrow, embodying Daoist detachment from official
   rank.

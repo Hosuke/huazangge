@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The Mencian principle that a ruler who follows the Way (Dao) will receive
   abundant assistance, while one who abandons it will have few supporters, establishing
   moral legitimacy as the foundation of political power.

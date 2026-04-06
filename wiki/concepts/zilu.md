@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A prominent disciple of Confucius known for his boldness and loyalty.
 tags:
 - confucianism

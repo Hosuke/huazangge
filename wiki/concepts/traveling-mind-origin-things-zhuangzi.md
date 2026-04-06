@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: Laozi's teaching in Zhuangzi on the mind wandering to the primordial origin
   of all things, describing the state of ultimate beauty and joy.
 tags:

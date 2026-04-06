@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The famous anecdote of Zhuangzi refusing official service from the King of
   Chu, choosing instead to drag his tail in the mud—a classic expression of Daoist
   values.

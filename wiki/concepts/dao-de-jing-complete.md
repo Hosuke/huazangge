@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A comprehensive classical Chinese text of Daoist philosophy attributed to
   Laozi, preserved in multiple manuscript traditions and annotated through extensive
   commentary lineages across Chinese dynastic history.

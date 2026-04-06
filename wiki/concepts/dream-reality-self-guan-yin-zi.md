@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: An exploration of the philosophical arguments in Chapter 6 of Guan Yin Zi
   concerning the distinction between self and other, dreams and reality, and the mutable
   nature of form.

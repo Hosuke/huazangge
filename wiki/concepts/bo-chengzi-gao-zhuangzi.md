@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A hermit from the Zhuangzi who refused to serve as a feudal lord, critiquing
   the shift from reward-free governance to punitive systems.
 tags:

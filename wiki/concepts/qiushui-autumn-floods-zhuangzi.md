@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Chapter 17 of Zhuangzi featuring the philosophical dialogue between the River
   God and Sea God on relativism, perspective, and the limits of human understanding.
 tags:

@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: Mozi's philosophical argument against elaborate music, contending that rulers'
   expenditure on music harms the people's welfare and disrupts governance, based on
   the principle of promoting world benefit while eliminating world harm.

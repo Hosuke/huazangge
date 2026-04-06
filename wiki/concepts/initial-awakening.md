@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: An early stage of spiritual realization in Buddhist practice, marking the
   first awakening on the path to liberation.
 tags:

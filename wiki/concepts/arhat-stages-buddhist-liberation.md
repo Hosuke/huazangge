@@ -2,6 +2,10 @@
 merged_from:
 - arhat-stages
 - arhat
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: The systematic classification of Buddhist liberation stages from stream-enterer
   to fully accomplished arhat, as presented in classical Indian Buddhist texts.
 tags:

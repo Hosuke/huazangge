@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Bao Puzi's systematic comparison of the relative difficulty and ease of Confucian
   versus Daoist cultivation practices, arguing Daoism is "difficult to know but easy
   to practice" while Confucianism is "easy to know but difficult to practice."

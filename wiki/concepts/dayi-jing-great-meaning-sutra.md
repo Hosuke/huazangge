@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A Buddhist narrative sutra from the Song Dynasty describing the bodhisattva
   Dayi's vow to aid all beings, his quest for seven treasures, and his encounters
   with four jeweled cities before becoming a Buddha.

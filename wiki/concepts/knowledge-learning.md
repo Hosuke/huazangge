@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T18:21:15.821799+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Explores the significance of knowledge and learning in Confucian thought
   and their implications for personal growth and governance.
 tags:

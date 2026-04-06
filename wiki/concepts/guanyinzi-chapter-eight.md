@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Chapter 8 of the Daoist text Guanyinzi discusses the ineffable nature of
   the Dao, the five-element transformations, the heart-mind as creator of all things,
   and the sage's unity with Heaven.

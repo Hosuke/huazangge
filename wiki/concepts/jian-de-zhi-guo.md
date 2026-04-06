@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The ideal Daoist society described by Shi Nan Yi Liao in the Zhuangzi—simple,
   without artificial desires, where people act freely and live and die with peace.
 tags:

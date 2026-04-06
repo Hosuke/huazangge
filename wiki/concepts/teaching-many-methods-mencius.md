@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's pedagogical philosophy that不屑之教诲 (disdainful teaching) is itself
   a valid and effective method of moral education, representing a sophisticated understanding
   of educational psychology.

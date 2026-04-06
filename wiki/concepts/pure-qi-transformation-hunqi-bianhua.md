@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A Daoist concept from Guanyinzi describing how pure qi (氣) can transform
   all things in the universe, including reversing natural laws and animating inanimate
   objects.

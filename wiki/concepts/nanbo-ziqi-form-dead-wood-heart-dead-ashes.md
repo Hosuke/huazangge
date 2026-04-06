@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A legendary Daoist sage from Zhuangzi described as sitting in meditation
   with "form like withered bones and heart like dead ashes," symbolizing profound
   spiritual realization.

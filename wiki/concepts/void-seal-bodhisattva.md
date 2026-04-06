@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A bodhisattva in Mahāyāna Buddhism who received the teaching of all-knowledge
   dhāraṇī and later became the Lotus-Up Tathāgata in the Lotus World.
 tags:

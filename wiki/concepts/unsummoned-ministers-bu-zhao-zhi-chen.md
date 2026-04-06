@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A Confucian doctrine that great ministers of virtue possess inherent dignity
   that prevents them from being summoned by rulers like ordinary officials.
 tags:

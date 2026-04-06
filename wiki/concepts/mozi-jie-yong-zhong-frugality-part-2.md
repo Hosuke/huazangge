@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A Mohist chapter detailing practical governance principles of the ancient
   sage kings, emphasizing frugal use of resources across food, clothing, shelter,
   transportation, military equipment, and burial practices.

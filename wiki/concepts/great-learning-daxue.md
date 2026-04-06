@@ -1,6 +1,11 @@
 ---
 merged_from:
 - great-learning-da-xue
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A foundational Confucian classic on self-cultivation and the investigation
   of things, forming part of the Four Books of Confucianism.
 tags:

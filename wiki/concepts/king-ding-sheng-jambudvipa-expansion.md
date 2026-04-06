@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: The Buddhist narrative of King Ding Sheng (Dhṛtarāṣṭra) who successively
   conquered Jambudvipa and the three other continents before ascending to the Trayastriṃśa
   heavens.

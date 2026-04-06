@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A profound Mahāyāna dhāraṇī practice for entering complete wisdom, enabling
   practitioners to obtain countless samādhis,Store dhāraṇīs, and achieve supreme enlightenment.
 tags:

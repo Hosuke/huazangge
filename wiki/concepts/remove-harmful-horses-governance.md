@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A governance principle from Zhuangzi where the Yellow Emperor learns from
   a child that ruling the world is like tending horses—simply remove what harms them.
 tags:

@@ -2,6 +2,10 @@
 merged_from:
 - adversity-birth-comfort-death
 - mengzi-universal-sagehood-potential
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius' famous philosophical statement on how hardship builds character
   and virtue, while comfort leads to moral decline.
 tags:

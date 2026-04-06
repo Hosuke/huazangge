@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Chapter 9 of Guanyinzi presents teachings on miscellaneous remedies for spiritual
   and moral ailments, addressing the proper balance between wisdom, speech, and action
   through paradoxes and practical metaphors.

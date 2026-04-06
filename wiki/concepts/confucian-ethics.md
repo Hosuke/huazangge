@@ -4,6 +4,10 @@ merged_from:
 - confucian
 - junzi-cultivation
 - virtue-ethics
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: This article explores the key concepts of Confucian ethics as presented in
   the Analects, focusing on filial piety and social conduct.
 tags:

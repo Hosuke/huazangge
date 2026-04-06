@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T17:47:25.083046+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The role of ministerial advice is crucial in ensuring benevolent governance
   and societal harmony.
 tags:

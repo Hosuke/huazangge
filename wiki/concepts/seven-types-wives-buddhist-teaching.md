@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Buddhist typology of seven wife archetypes from the Sutra on Yù Yě Nǚ,
   ranging from the ideal Mother-wife to the demonic Murderer-wife.
 tags:

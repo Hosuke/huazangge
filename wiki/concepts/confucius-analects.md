@@ -3,6 +3,12 @@ created: '2026-04-04T19:18:54.312908+00:00'
 merged_from:
 - analects-confucius
 - confucius-analects-jishi
+sources:
+- book: 论语
+  chapter: 为政
+  plugin: classical_text
+  title: 论语 · 为政
+  url: https://ctext.org/analects/wei-zheng/zh
 summary: A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 tags:
 - analects

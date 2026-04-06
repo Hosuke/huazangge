@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's doctrine that one should extend one's natural care from self and
   family to all people.
 tags:

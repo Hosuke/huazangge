@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A Zhuangzi parable about how one who empties oneself of ego and self-interest
   becomes invulnerable to external harm.
 tags:

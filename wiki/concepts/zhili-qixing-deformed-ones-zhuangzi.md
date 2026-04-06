@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Zhuangzi's celebration of physically deformed individuals who, excluded from
   worldly usefulness, survive and prosper—the paradox of form versus spirit in Daoist
   philosophy.

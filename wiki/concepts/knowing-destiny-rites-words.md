@@ -1,5 +1,9 @@
 ---
 created: '2026-04-05T05:15:14.499930+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Confucius's three essential knowledges for becoming a true gentleman in the
   Analects
 tags:

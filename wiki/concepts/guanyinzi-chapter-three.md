@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Chapter 3 of the Daoist classic Guanyinzi expounds on the sage's governance
   through non-action, teaching by example, and the ineffable nature of the Way.
 tags:

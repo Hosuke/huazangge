@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T18:02:23.026688+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The ceremonial dance of eight rows of eight performers, a symbol of ritual
   order and social hierarchy in ancient Chinese rites.
 tags:

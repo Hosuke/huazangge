@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius' teaching on cultivating the heart-mind (心) as the center of moral
   life and the recovery of one's lost moral sense
 tags:

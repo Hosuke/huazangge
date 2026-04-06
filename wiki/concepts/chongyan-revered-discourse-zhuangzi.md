@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: '"Revered Discourse" (重言) — the second of Zhuangzi''s three discourse modes,
   quoting ancient sages and elders to lend authority to philosophical teachings.'
 tags:

@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The Confucian principle that officials must resign when they cannot fulfill
   their duties or speak their mind.
 tags:

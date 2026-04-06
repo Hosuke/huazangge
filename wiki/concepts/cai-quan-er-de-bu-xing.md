@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A Zhuangzi philosophical concept about inner perfection transcending external
   form, exemplified by Ai Tai Tuo's effortless virtue.
 tags:

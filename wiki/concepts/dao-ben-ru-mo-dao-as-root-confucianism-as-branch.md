@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A philosophical doctrine from Baopuzi asserting that the Dao is the foundation
   while Confucianism represents its derivative applications.
 tags:

@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: Wu Pu, student of physician Hua Tuo, practiced the Five Animal Play (Wu Qin
   Xi) and achieved longevity over 100 years, demonstrating the health benefits of
   Daoist physical cultivation.

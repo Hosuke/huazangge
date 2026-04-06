@@ -1,6 +1,10 @@
 ---
 merged_from:
 - benevolent-government
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's political philosophy advocating that rulers should govern through
   benevolence and moral virtue rather than coercion and punishment.
 tags:

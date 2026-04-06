@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Buddhist sutra teaching conjugal conduct to Lady Yu Ye, featuring the famous
   doctrine of Seven Types of Wives.
 tags:

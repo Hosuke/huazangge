@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: The ten reasons why Shakyamuni Buddha taught the Mahayana Mind-Ground Contemplation
   Sutra, as enumerated in the commentary.
 tags:

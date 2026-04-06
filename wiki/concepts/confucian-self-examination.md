@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T18:33:08.535848+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The practice of daily self-reflection as a fundamental method of moral cultivation
   in Confucian thought.
 tags:

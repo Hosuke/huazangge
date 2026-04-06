@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A systematic classification of Buddhist practice teachings organized in progressive
   numerical categories (1-10), as presented in An Shigao's translation of the Long
   Discourses.

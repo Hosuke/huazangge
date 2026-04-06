@@ -2,6 +2,12 @@
 created: '2026-04-04T16:14:40.126507+00:00'
 merged_from:
 - mencius
+sources:
+- book: 孟子
+  chapter: 公孫丑上Gong Sun Chou I
+  plugin: classical_text
+  title: 孟子 · 公孫丑上Gong Sun Chou I
+  url: https://ctext.org/mengzi/gong-sun-chou-i/zh
 summary: Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after
   Confucius, known for his doctrine of the innate goodness of human nature.
 tags:

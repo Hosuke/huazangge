@@ -3,6 +3,10 @@ merged_from:
 - mengzi-four-beginnings-sidu
 - four-beginnings-mencius-doctrine
 - four-beginnings-mencius
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: 'Mencius''s doctrine that human nature contains four innate moral sprouts:
   compassion, shame, deference, and judgment.'
 tags:

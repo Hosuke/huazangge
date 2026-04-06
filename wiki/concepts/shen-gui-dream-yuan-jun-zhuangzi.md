@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The parable of the divine turtle that could appear in dreams but could not
   avoid the net, illustrating the limits of wisdom and foreknowledge.
 tags:

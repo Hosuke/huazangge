@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: 'Mencius''s doctrine that there are three things universally honored in the
   world: rank (position), age (seniority), and virtue (moral character), with implications
   for the hierarchy of honor in governance and society.'

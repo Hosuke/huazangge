@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A Mohist analysis of the seven types of calamities that threaten state survival,
   emphasizing preparedness, agricultural foundation, and virtuous governance.
 tags:

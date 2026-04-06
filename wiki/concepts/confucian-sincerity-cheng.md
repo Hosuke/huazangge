@@ -1,6 +1,10 @@
 ---
 merged_from:
 - central-harmony-zhonghe
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A core Confucian virtue representing authenticity, the metaphysical foundation
   of human nature, and the highest achievement of moral cultivation.
 tags:

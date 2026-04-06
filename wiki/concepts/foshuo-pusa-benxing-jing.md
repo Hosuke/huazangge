@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Buddhist sutra (3 volumes) depicting Jataka tales of past Buddha lives,
   emphasizing the bodhisattva path through charity, sacrifice, and perseverance.
 tags:

@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Chapter 21 of Zhuangzi featuring philosophical dialogues on true virtue,
   spontaneous transformation, and the unity with the Way.
 tags:

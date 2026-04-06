@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The 27th chapter of Zhuangzi introducing three types of discourse—fables,
   elders' sayings, and spontaneous speech—to convey Daoist teachings through external
   examples and natural patterns.

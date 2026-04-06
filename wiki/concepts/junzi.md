@@ -1,5 +1,10 @@
 ---
 created: '2026-04-04T18:21:15.819621+00:00'
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: Examines the characteristics and responsibilities of the Junzi in Confucian
   philosophy.
 tags:

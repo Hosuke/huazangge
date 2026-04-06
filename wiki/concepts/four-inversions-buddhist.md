@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: The four inverted or perverted views that afflict sentient beings, mistaking
   suffering as happiness, impermanence as permanence, non-self as self, and impurity
   as purity.

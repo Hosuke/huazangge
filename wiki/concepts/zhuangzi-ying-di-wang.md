@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Chapter 7 of Zhuangzi discusses the qualities of the ideal ruler and the
   principle of non-action in governance, featuring the famous allegory of Chaos (渾沌).
 tags:

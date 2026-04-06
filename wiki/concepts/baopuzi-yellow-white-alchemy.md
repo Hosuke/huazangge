@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Volume 16 of Ge Hong's Baopuzi presents a systematic exposition of 黄白术 (transmutation
   alchemy), defending its legitimacy and providing detailed alchemical formulas for
   creating gold and silver.

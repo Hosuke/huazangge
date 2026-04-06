@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A chapter from the Mozi examining how ancient sage-kings established proper
   standards for five essential domains of life—dwelling, clothing, food, transportation,
   and marriage—contrasting their frugal governance with the excesses of contemporary

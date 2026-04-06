@@ -1,6 +1,10 @@
 ---
 merged_from:
 - benevolent-invincible-renzhe-wudi
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius' doctrine that legitimate governance depends on winning the hearts
   of the people through benevolent rule.
 tags:

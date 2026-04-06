@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The Zhuangzi story of a painter who achieved perfect spontaneity by removing
   all conscious thought, embodying Daoist non-action in artistic creation.
 tags:

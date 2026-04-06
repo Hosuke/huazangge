@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's concept of moral cultivated vital energy that fills the universe
   when properly nurtured through accumulated righteousness.
 tags:

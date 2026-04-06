@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T17:35:33.318447+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Exploration of the concept of human nature as viewed by Mencius within Confucian
   philosophy.
 tags:

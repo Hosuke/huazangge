@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A concept in Chinese political philosophy concerning the duties and obligations
   of ministers toward their rulers.
 tags:

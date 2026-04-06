@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The account of Yan Chengzi You's nine-year spiritual transformation from
   worldly refinement to ultimate enlightenment, as recorded in Zhuangzi.
 tags:

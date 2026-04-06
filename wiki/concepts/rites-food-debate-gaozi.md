@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The philosophical debate in Mencius about whether ceremonial rites (li) should
   take precedence over practical necessities like food and marriage, exploring the
   tension between moral principles and human needs.

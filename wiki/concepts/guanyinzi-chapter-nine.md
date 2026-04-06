@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Chapter 9 of Guanyinzi presents the "medicine" metaphor for spiritual practice,
   discussing how the sage applies various remedies to correct imbalances between extremes.
 tags:

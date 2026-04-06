@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The famous philosophical exchange between Zhuangzi and Hui Zi about whether
   one can know a fish's happiness, exploring questions of consciousness and knowledge.
 tags:

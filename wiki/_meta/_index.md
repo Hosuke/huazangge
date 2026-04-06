@@ -1,6 +1,6 @@
 ---
 title: Wiki Index
-updated: 2026-04-06T09:30:52.209161+00:00
+updated: 2026-04-06T11:47:35.703230+00:00
 ---
 
 # Knowledge Base Index
@@ -476,6 +476,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[zhuangzi-thieving-box-qu-qie|Zhuangzi's "Thieving the Box" / 莊子·胠篋]] — A Zhuangzi chapter arguing that preventive measures against petty theft enable great thieves, and that sage teachings are exploited by those who steal states.
 
+## Ancestral-Worship
+
+- [[clan-lineage-system-daxizhuan|The Clan Lineage System in Daxizhuan / 禮記大傳宗法制度]] — The Daxizhuan outlines the "separate branch" (別子為祖) lineage system that governed kinship organization, ancestral worship, and inheritance in ancient Chinese society.
+
 ## Ancient China
 
 - [[杞人忧天-qiren-youtian|The Man Who Worried About Heaven Falling (杞人憂天) / 杞人憂天]] — The famous anecdote about unnecessary worry over things beyond one's control, illustrating the Liezi philosophical approach to existential anxiety.
@@ -499,6 +503,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[shang-xian-esteeming-worthy-part-two|Shang Xian (Esteeming the Worthy, Part 2) / 尚賢下]] — Mozi's argument that rulers must appoint the worthy and capable to governance, not favor relatives or the handsome, illustrated through historical examples of sage kings selecting ministers.
 - [[three-dukes-gong-sann-gong|Three Dukes (Sān Gōng) / 三公]] — The three highest-ranking officials in ancient Chinese imperial governance, serving as advisors to the Son of Heaven, as described in Mozi's Shang Tong.
+
+## Ancient-Chinese-Law
+
+- [[sangfu-xiaoji-liji|Sangfu Xiaoji (Minor Records of Mourning Dress) / 喪服小記]] — A chapter from the Book of Rites detailing mourning dress regulations, mourning periods, and ritual protocols for various kinship relationships.
 
 ## Ancient-Chinese-Military
 
@@ -776,9 +784,28 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[xing-hai-nei-wai|Inside and Outside the Physical Form / 形骸內外]] — A philosophical distinction in Zhuangzi between the physical body (form) and inner virtue, exemplified by deformed sages whose outer appearance differs from their inner perfection.
 
+## Book-Of-Liji
+
+- [[four-mourning-principles-liji-sangfu-sizhi|Four Mourning Principles (Sangfu Sizhi) / 喪服四制]] — A Confucian framework from the Book of Rites categorizing mourning rituals into four principles—grace, righteousness, propriety, and adaptability—based on benevolence, duty, ceremony, and wisdom.
+
 ## Book-Of-Lord-Shang
 
 - [[nong-zhan-agricultural-war|Agricultural War Doctrine / 農戰]] — A Legalist doctrine from the Book of Lord Shang emphasizing the unification of agricultural production and military service as the twin pillars of state power.
+
+## Book-Of-Rites
+
+- [[clan-lineage-system-daxizhuan|The Clan Lineage System in Daxizhuan / 禮記大傳宗法制度]] — The Daxizhuan outlines the "separate branch" (別子為祖) lineage system that governed kinship organization, ancestral worship, and inheritance in ancient Chinese society.
+- [[confucius-at-leisure-liji|Confucius at Leisure / 孔子閒居]] — A Confucian dialogue between Confucius and Zixia on the qualities of an ideal ruler, exploring the Five Arrivals, Three "Not-Haves," and the Three Selflessnesses.
+- [[five-priorities-governance-daxizhuan|The Five Priorities of Governance in Daxizhuan / 禮記大傳人道五端]] — The Daxizhuan chapter of the Book of Rites outlines five governance priorities:亲近、报功、举贤、使能、存爱, forming the foundation of Confucian political philosophy.
+- [[li-ji-ben-sang-hurrying-to-mourning|Rushing to Mourning (Ben Sang) / 禮記·奔喪]] — The Book of Rites describes the ritual procedures for a son rushing home upon learning of a parent's death, including immediate response protocols, travel customs, and mourning ceremonies.
+- [[li-ji-guan-yi-meaning-capping-rite|The Meaning of the Capping Rite / 禮記·冠義]] — A classical Confucian text from the Book of Rites explaining the ritual significance of the capping ceremony as the foundation of all ritual propriety and the gateway to adult moral responsibility.
+- [[liji-aigong-wen-duke-ai-inquires|Duke Ai Inquires (Liji Chapter) / 禮記·哀公問]] — A Confucian dialogue between Duke Ai of Lu and Confucius on ritual propriety, governance, and the cultivation of the self through filial conduct.
+- [[lijji-fang-ji-ritual-prevention|Fang Ji - Prevention Through Ritual in the Book of Rites / 禮記·坊記——以禮坊民]] — A classical Confucian chapter explaining how ritual propriety (禮) serves as a "dyke" (坊) to prevent moral corruption, social disorder, and improper conduct in human relations.
+- [[ruxing-confucian-conduct|The Conduct of the Ru (Ruxing) / 儒行]] — A chapter from the Book of Rites presenting Confucius's dialogue with Duke Ai of Lu on the sixteen distinctive characteristics and virtues that define the Confucian scholar (儒).
+- [[sang-da-ji-funeral-rituals-liji|Sang Da Ji: Major Records of Mourning / 喪大記：喪禮大典]] — A chapter from the Liji detailing hierarchical funeral procedures for rulers, ministers, and commoners, including encoffinement rites, mourning staff protocols, and deathbed rituals.
+- [[six-mourning-principles-daxizhuan|The Six Principles of Mourning in Daxizhuan / 禮記大傳服術六法]] — The Daxizhuan enumerates six principles (服術) governing mourning garments and kinship obligations: 親親, 尊尊, 名, 出入, 長幼, 從服.
+- [[wen-sang-mourning-staff-ji|The Mourning Staff in the Book of Rites / 問喪中的喪杖制度]] — A Confucian analysis of mourning ritual implements, particularly the mourning staff (杖) made from different materials for father and mother mourning, and the mourning cap (免).
+- [[zhongni-yanji-ritual-teaching-liji|Zhongni at Home / 仲尼燕居]] — A chapter from the Book of Rites where Confucius discusses ritual propriety (禮), the principle of moderation (中), and the complementary roles of ritual and music (禮樂) with his disciples.
 
 ## Boshu-Version
 
@@ -975,6 +1002,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[sakra-tests-king-subhuti-yaksha|Śakra's Test of King Subhūti / 帝釋試験妙色王]] — The narrative episode where Śakra (Indra), disguised as a yakṣa, tests King Subhūti's devotion to the Dharma by demanding his son, wife, and body as offerings.
 - [[shan-zi-sutra-filial-bodhisattva|The Śhanzi Sutra / 佛說睒子經]] — A Buddhist Jataka tale about a bodhisattva named Shan Zi who demonstrates supreme filial piety by being born as the son of blind parents, and whose accidental death by a king's arrow leads to a miraculous resurrection.
 - [[shizi-yue-fo-ben-sheng-jing|The Lion-Moon Buddha Jataka Sutra / 師子月佛本生經]] — A Buddhist Jataka sutra describing how a monkey who received the Five Precepts from an arhat was reborn over multiple lives and eventually became the Buddha Shi Zi Yue (Lion-Moon), with 84,000 golden monkeys receiving bodhisattva predictions.
+- [[sumati-woman-buddhist-narrative|Sumati (Xumoti) — Buddhist Laywoman Narrative / 須摩提女——佛教在家女性敘事]] — The story of Sumati, a Buddhist laywoman whose past-life vow during Kashapa Buddha's time leads to mass conversion and spiritual liberation in the present.
 - [[you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong|From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖]] — A canonical Buddhist gatha stating that attachment is the origin of suffering and fear, and liberation comes from detachment.
 
 ## Buddhist-Narratives
@@ -1181,6 +1209,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[mozi-fayi-standard-law|Mozi's Standard of Law (法儀) / 墨子法儀]] — Mozi argues that all governance requires a standard or model, and that Heaven (天) rather than parents, teachers, or rulers should serve as the ultimate ethical benchmark.
 - [[mozi-jie-zang-frugal-burial|Mozi on Frugal Burial (節葬) / 墨子節葬]] — Mozi's critique of excessive burial practices and prolonged mourning, arguing for simple burials based on the examples of ancient sage kings.
 - [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
+- [[關尹子|關尹子 / Guanyinzi]] — A Daoist text attributed to Yin Xi, presenting teachings on sage governance and cosmic transformation
 
 ## Chinese-Alchemy
 
@@ -1197,6 +1226,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Chinese-Buddhism
 
 - [[agama-explanation-twelve-links-dependent-origination|Āgama Explanation of Twelve Links of Dependent Origination / 阿含口解十二因緣經]] — A Han Dynasty Buddhist sutra on the Twelve Links of Dependent Origination, translated by An Shigao with unique inner-outer correlation teachings and karmic analysis.
+- [[ba-en-pin|Ba-en-pin / 报答父母恩品]] — A genre of Chinese Buddhist literature focusing on repaying parental kindness through spiritual practice.
 - [[changahan-jing|Chang Ahan Jing (Long Discourses of the Buddha) / 長阿含經]] — The Dīrgha-āgama, the longest collection of the Buddha's long discourses in early Buddhist scripture, compiled in four sections and five recitations.
 - [[da-cheng-ben-sheng-xin-di-guan-jing|大乘本生心地觀經 / Mahāyāna Sūtra on the Cultivation of the Mind-Ground]] — A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty, teaching the cultivation of the mind-ground and repaying the four kinds of kindness.
 - [[fa-ju-monk|Fajü (法炬) — Western Jin Buddhist Translator / 法炬]] — Fajü was a Buddhist monk from the Western Jin dynasty who translated multiple sutras including the Sutra of the Three Cycles of Past Lives.
@@ -1234,6 +1264,8 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
 - [[erya-classic-chinese-glossary|Erya (Classic of Correct Rhymes) / 爾雅]] — The Erya is China's oldest comprehensive glossary, compiled during the Warring States-Han period, providing definitions of classical terms across categories with phonetic annotations.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
+- [[li-ji-guan-yi-meaning-capping-rite|The Meaning of the Capping Rite / 禮記·冠義]] — A classical Confucian text from the Book of Rites explaining the ritual significance of the capping ceremony as the foundation of all ritual propriety and the gateway to adult moral responsibility.
+- [[lijineize-rites-inner-principles|Inner Regulations (Neize) from the Book of Rites / 禮記內則]] — A Confucian chapter detailing domestic rituals, family conduct, gender-specific education, elderly care, and cooking methods for proper household governance.
 - [[sun-tzu-art-of-war|Sun Tzu's Art of War / 孫子兵法 / 孫氏兵法]] — An ancient Chinese military treatise by Sun Tzu consisting of thirteen chapters covering strategic principles, tactics, intelligence gathering, and the philosophy of warfare.
 - [[tai-shang-gan-ying-pian|Tai Shang Gan Ying Pian / 太上感應篇]] — A foundational Daoist moral treatise on karmic retribution, emphasizing that fortune and misfortune are not arbitrary but arise from one's own actions.
 
@@ -1300,6 +1332,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[jian-ai|Universal Love (兼愛) / 兼愛]] — The Mohist principle advocating equal care for all people without distinction, considered the foundation of Mozi's ethical philosophy.
 - [[jing-shen-hun-po-essence-spirit-soul|Essence, Spirit, Soul, and Corporeal Soul (精神魂魄) / 精神魂魄說]] — A Taoist doctrine from Guanyinzi Chapter 4 explaining the four fundamental spiritual faculties: essence (精), spirit (神), soul (魂), and corporeal soul (魄), their cosmic origins, and their relationship to the Five Elements.
 - [[jiu-fang-gao-horse-divination-liezi|Jiu Fang Gao's Horse Divination / 九方皋相馬]] — A parable about seeing essential nature beyond superficial appearance, exemplified through horse divination that prioritizes inner truth over external signs.
+- [[liji-aigong-wen-duke-ai-inquires|Duke Ai Inquires (Liji Chapter) / 禮記·哀公問]] — A Confucian dialogue between Duke Ai of Lu and Confucius on ritual propriety, governance, and the cultivation of the self through filial conduct.
 - [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
@@ -1329,6 +1362,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[mozi-xiaoqu-logical-methods|Xiaoqu (Minor Selections) - Mozi's Logical Methods / 墨子小取——論理方法]] — A chapter from the Mozi presenting a systematic analysis of dialectical reasoning methods including analogy, parallelism, citing, deduction, and their proper applications.
 - [[mozi-xiaoqu-mohist-logic|Mozi Xiaoqu: On Logical Reasoning / 墨子小取：論辯說之法]] — The Xiaoqu chapter of Mozi presents a systematic exposition of Mohist logic, including seven types of reasoning and epistemological principles for philosophical debate.
 - [[mozi-xiu-shen-self-cultivation|Mozi's Self-Cultivation / 墨子修身]] — A chapter from the Mozi discussing the fundamentals of self-cultivation, emphasizing courage, action, and integrity as the essential roots of moral cultivation.
+- [[mozijing|Mozijing / 墨經]] — The "Classic of Mozi" - core philosophical text of Mohism containing the school's major doctrines and logical treatises.
 - [[prince-ming-zhangshan-gongsun-long-liezi|Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟]] — A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.
 - [[pure-qi-transformation-hunqi-bianhua|Pure Qi Transformation / 純氣變化]] — A Daoist concept from Guanyinzi describing how pure qi (氣) can transform all things in the universe, including reversing natural laws and animating inanimate objects.
 - [[qiushui-autumn-floods-zhuangzi|Autumn Floods / 秋水]] — Chapter 17 of Zhuangzi featuring the philosophical dialogue between the River God and Sea God on relativism, perspective, and the limits of human understanding.
@@ -1373,6 +1407,15 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[five-peaks-true-form-map-wuyue-zhenxing-tu|Five Peaks True Form Map / 五嶽真形圖]] — A most sacred Taoist talisman text described in Baopuzi as requiring blood oaths, forty-year transmission cycles, and possessing powers to ward off evil, heal diseases, cross waters, and reveal hidden knowledge.
 - [[shan-e-bao-ying-karmic-retribution|Shan E Bao Ying / 善惡報應 (善悪因果応報)]] — The doctrine of karmic retribution in Chinese religious traditions, holding that good and evil deeds generate corresponding rewards and punishments from celestial forces.
 
+## Chinese-Ritual
+
+- [[li-ji-ben-sang-hurrying-to-mourning|Rushing to Mourning (Ben Sang) / 禮記·奔喪]] — The Book of Rites describes the ritual procedures for a son rushing home upon learning of a parent's death, including immediate response protocols, travel customs, and mourning ceremonies.
+- [[sangfu-xiaoji-liji|Sangfu Xiaoji (Minor Records of Mourning Dress) / 喪服小記]] — A chapter from the Book of Rites detailing mourning dress regulations, mourning periods, and ritual protocols for various kinship relationships.
+
+## Chinese-Rituals
+
+- [[sang-da-ji-funeral-rituals-liji|Sang Da Ji: Major Records of Mourning / 喪大記：喪禮大典]] — A chapter from the Liji detailing hierarchical funeral procedures for rulers, ministers, and commoners, including encoffinement rites, mourning staff protocols, and deathbed rituals.
+
 ## Chinese-Texts
 
 - [[mozi-ciguo-refraining-from-excesses|Mozi - Refraining from Excesses (辭過) / 墨子·辭過]] — A chapter from the Mozi examining how ancient sage-kings established proper standards for five essential domains of life—dwelling, clothing, food, transportation, and marriage—contrasting their frugal governance with the excesses of contemporary rulers.
@@ -1406,6 +1449,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Classical Chinese Literature
 
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
+
+## Classical Text
+
+- [[關尹子|關尹子 / Guanyinzi]] — A Daoist text attributed to Yin Xi, presenting teachings on sage governance and cosmic transformation
 
 ## Classical Texts
 
@@ -1441,6 +1488,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Classical-Chinese-Text
 
+- [[lijji-fang-ji-ritual-prevention|Fang Ji - Prevention Through Ritual in the Book of Rites / 禮記·坊記——以禮坊民]] — A classical Confucian chapter explaining how ritual propriety (禮) serves as a "dyke" (坊) to prevent moral corruption, social disorder, and improper conduct in human relations.
 - [[san-lue-three-strategies|Three Strategies / 三略]] — A classical Chinese military treatise divided into three volumes (Upper, Middle, Lower) addressing military command, statecraft, and governance principles.
 
 ## Classical-Chinese-Texts
@@ -1469,10 +1517,15 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 - [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
+- [[mozijing|Mozijing / 墨經]] — The "Classic of Mozi" - core philosophical text of Mohism containing the school's major doctrines and logical treatises.
 
 ## Classification
 
 - [[three-dharmas-framework-buddhism|Three Dharmas / 三法 / 三法]] — A Buddhist doctrinal framework classifying all phenomena into three categories: virtue (德), evil (惡), and basis (依), each containing three subcategories.
+
+## Coming-Of-Age
+
+- [[li-ji-guan-yi-meaning-capping-rite|The Meaning of the Capping Rite / 禮記·冠義]] — A classical Confucian text from the Book of Rites explaining the ritual significance of the capping ceremony as the foundation of all ritual propriety and the gateway to adult moral responsibility.
 
 ## Comma-Separated
 
@@ -1518,7 +1571,11 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Confucian-Classics
 
+- [[confucian-gender-roles-neize-education|Gender-Specific Education in the Rites / 男女之教]] — Confucian gender-differentiated education practices, with boys learning the Six Arts and girls learning women's affairs for their designated domestic and social roles.
+- [[elderly-care-ran-yang-rites-records|Elderly Care (Yang Lao) in the Rites / 養老禮]] — Confucian rites and practices for caring for the elderly, detailing progressive support based on age, from dietary provisions to royal visits.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
+- [[lijineize-rites-inner-principles|Inner Regulations (Neize) from the Book of Rites / 禮記內則]] — A Confucian chapter detailing domestic rituals, family conduct, gender-specific education, elderly care, and cooking methods for proper household governance.
+- [[sangfu-xiaoji-liji|Sangfu Xiaoji (Minor Records of Mourning Dress) / 喪服小記]] — A chapter from the Book of Rites detailing mourning dress regulations, mourning periods, and ritual protocols for various kinship relationships.
 - [[xiao-jing-classic-of-filial-piety|Classic of Filial Piety / 孝經]] — The Classic of Filial Piety (Xiaojing) is a Confucian text outlining the principles and practices of filial piety, existing in two main textual traditions.
 - [[儒家|儒家 / 儒家]] — Confucianism - a foundational Chinese philosophical tradition centered on ethics, virtue, and social harmony.
 
@@ -1557,6 +1614,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Confucian-Education
 
+- [[confucian-gender-roles-neize-education|Gender-Specific Education in the Rites / 男女之教]] — Confucian gender-differentiated education practices, with boys learning the Six Arts and girls learning women's affairs for their designated domestic and social roles.
 - [[teaching-many-methods-mencius|Teaching Has Many Methods / 教亦多术]] — Mencius's pedagogical philosophy that不屑之教诲 (disdainful teaching) is itself a valid and effective method of moral education, representing a sophisticated understanding of educational psychology.
 
 ## Confucian-Ethics
@@ -1564,6 +1622,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[born-in-adversity-die-in-comfort|Born in Adversity, Die in Comfort / 生于忧患，死于安乐]] — Mencius' famous philosophical statement on how hardship builds character and virtue, while comfort leads to moral decline.
 - [[extending-kindness-pushing-grace-tui-en|Extending Kindness (推恩) / 推恩]] — Mencius's doctrine that one should extend one's natural care from self and family to all people.
+- [[four-mourning-principles-liji-sangfu-sizhi|Four Mourning Principles (Sangfu Sizhi) / 喪服四制]] — A Confucian framework from the Book of Rites categorizing mourning rituals into four principles—grace, righteousness, propriety, and adaptability—based on benevolence, duty, ceremony, and wisdom.
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-gift-accepting-principles|Mengzi's Principles for Accepting or Refusing Gifts / 孟子不受无功之祿]] — Mencius's ethical framework distinguishing between acceptable gifts (travel provisions and security assistance) and unacceptable ones (gratuitous wealth that implies corruption), reflecting Confucian values on integrity and self-sufficiency.
 - [[mengzi-people-heart-minjian|The People's Heart / 民心]] — Mencius' doctrine that legitimate governance depends on winning the hearts of the people through benevolent rule.
@@ -1590,6 +1649,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[bu-xiang-ai|Non-Mutual Love / 不相愛]] — Mozi's concept identifying the lack of mutual love as the fundamental cause of all social chaos and disorder.
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
+- [[li-ji-guan-yi-meaning-capping-rite|The Meaning of the Capping Rite / 禮記·冠義]] — A classical Confucian text from the Book of Rites explaining the ritual significance of the capping ceremony as the foundation of all ritual propriety and the gateway to adult moral responsibility.
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-gaozi-debate|The Mencius-Gao Zi Debate on Human Nature / 孟子與告子之人性辯論]] — A philosophical exchange between Mencius and Gao Zi exploring whether human nature is morally neutral or inherently good.
 - [[mengzi-losing-original-heart|Losing and Seeking the Original Heart / 放心]] — Mencius's concept of "fang xin" - the loss of one's innate moral consciousness and the imperative to recover it through learning.
@@ -1597,11 +1657,15 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[mind-as-organ-of-thought|The Mind as the Organ of Thought / 心之官則思]] — Mencius's doctrine that the mind is the exclusive organ capable of moral reasoning, establishing the foundation for Confucian mental cultivation.
 - [[mozi-suoran-on-influence|Mozi On Dyeing / 墨子·所染]] — A Mozi chapter using the silk-dyeing metaphor to illustrate how one's associates determine moral character and political fortune.
 - [[willow-cup-metaphor-gaozi|Willow-Cup Metaphor / 杞柳桮棬]] — Gaozi's philosophical metaphor comparing human nature to willow wood that must be coerced into artificial forms, critiqued by Mencius.
+- [[zhongni-yanji-ritual-teaching-liji|Zhongni at Home / 仲尼燕居]] — A chapter from the Book of Rites where Confucius discusses ritual propriety (禮), the principle of moderation (中), and the complementary roles of ritual and music (禮樂) with his disciples.
 
 ## Confucian-Political-Philosophy
 
 - [[benevolent-government-ren-zheng|Benevolent Government / 仁政 / 仁政]] — Mencius's political philosophy advocating that rulers should govern through benevolence and moral virtue rather than coercion and punishment.
 - [[de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu|De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助]] — The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.
+- [[five-priorities-governance-daxizhuan|The Five Priorities of Governance in Daxizhuan / 禮記大傳人道五端]] — The Daxizhuan chapter of the Book of Rites outlines five governance priorities:亲近、报功、举贤、使能、存爱, forming the foundation of Confucian political philosophy.
+- [[liji-aigong-wen-duke-ai-inquires|Duke Ai Inquires (Liji Chapter) / 禮記·哀公問]] — A Confucian dialogue between Duke Ai of Lu and Confucius on ritual propriety, governance, and the cultivation of the self through filial conduct.
+- [[lijji-fang-ji-ritual-prevention|Fang Ji - Prevention Through Ritual in the Book of Rites / 禮記·坊記——以禮坊民]] — A classical Confucian chapter explaining how ritual propriety (禮) serves as a "dyke" (坊) to prevent moral corruption, social disorder, and improper conduct in human relations.
 - [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
 - [[mengzi-righteousness-profit-debate|Mencius on Righteousness vs. Profit / 孟子论义利]] — Mencius' argument that rulers should be persuaded through benevolence and righteousness rather than profit, with profound implications for political philosophy.
 - [[mengzi-ritual-food-debate|Mencius on Ritual Propriety vs. Necessity / 孟子论礼与食]] — The debate about whether ritual propriety or practical necessities like food and marriage take precedence, illustrating Confucian value hierarchies.
@@ -1617,10 +1681,15 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[tian-shi-di-li-ren-he|Tian Shi Bu Ru Di Li, Di Li Bu Ru Ren He / 天時不如地利，地利不如人和]] — The Mencian doctrine that favorable timing is less important than geographical advantage, which is less important than human harmony.
 - [[tian-xia-you-da-zun-san|Three Universally Honored Things / 天下有三尊]] — Mencius's doctrine that there are three things universally honored in the world: rank (position), age (seniority), and virtue (moral character), with implications for the hierarchy of honor in governance and society.
 - [[wang-dao-true-king-hegemon|The Way of the True King vs. Hegemony (王道與霸道) / 王道と霸道]] — Mencius's distinction between righteous rule through virtue and coercive rule through force.
+- [[zhongni-yanji-ritual-teaching-liji|Zhongni at Home / 仲尼燕居]] — A chapter from the Book of Rites where Confucius discusses ritual propriety (禮), the principle of moderation (中), and the complementary roles of ritual and music (禮樂) with his disciples.
 
 ## Confucian-Political-Theory
 
 - [[shang-xian-middle-mozi|Shang Xian Zhong (Exalting the Worthy, Part 2) / 尚賢中]] — The second chapter of Mozi's Exalting the Worthy doctrine, presenting the "Three Foundations" theory and historical exemplars of sage kings who achieved governance through elevating worthy ministers.
+
+## Confucian-Politics
+
+- [[confucius-at-leisure-liji|Confucius at Leisure / 孔子閒居]] — A Confucian dialogue between Confucius and Zixia on the qualities of an ideal ruler, exploring the Five Arrivals, Three "Not-Haves," and the Three Selflessnesses.
 
 ## Confucian-Practice
 
@@ -1628,11 +1697,22 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Confucian-Ritual
 
+- [[clan-lineage-system-daxizhuan|The Clan Lineage System in Daxizhuan / 禮記大傳宗法制度]] — The Daxizhuan outlines the "separate branch" (別子為祖) lineage system that governed kinship organization, ancestral worship, and inheritance in ancient Chinese society.
+- [[li-ji-ben-sang-hurrying-to-mourning|Rushing to Mourning (Ben Sang) / 禮記·奔喪]] — The Book of Rites describes the ritual procedures for a son rushing home upon learning of a parent's death, including immediate response protocols, travel customs, and mourning ceremonies.
+- [[li-ji-guan-yi-meaning-capping-rite|The Meaning of the Capping Rite / 禮記·冠義]] — A classical Confucian text from the Book of Rites explaining the ritual significance of the capping ceremony as the foundation of all ritual propriety and the gateway to adult moral responsibility.
 - [[mozi-yingdi-ci-welcoming-enemy-rituals|Mozi Welcoming Enemy Rituals / 墨子迎敵祠]] — A Mozi chapter describing elaborate ritual protocols for welcoming enemy forces from the four cardinal directions, with corresponding altars, officials, colors, and military preparations.
+- [[six-mourning-principles-daxizhuan|The Six Principles of Mourning in Daxizhuan / 禮記大傳服術六法]] — The Daxizhuan enumerates six principles (服術) governing mourning garments and kinship obligations: 親親, 尊尊, 名, 出入, 長幼, 從服.
+- [[wen-sang-mourning-staff-ji|The Mourning Staff in the Book of Rites / 問喪中的喪杖制度]] — A Confucian analysis of mourning ritual implements, particularly the mourning staff (杖) made from different materials for father and mother mourning, and the mourning cap (免).
 
 ## Confucian-Rituals
 
 - [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
+- [[elderly-care-ran-yang-rites-records|Elderly Care (Yang Lao) in the Rites / 養老禮]] — Confucian rites and practices for caring for the elderly, detailing progressive support based on age, from dietary provisions to royal visits.
+- [[sang-da-ji-funeral-rituals-liji|Sang Da Ji: Major Records of Mourning / 喪大記：喪禮大典]] — A chapter from the Liji detailing hierarchical funeral procedures for rulers, ministers, and commoners, including encoffinement rites, mourning staff protocols, and deathbed rituals.
+
+## Confucian-Self-Cultivation
+
+- [[wen-sang-mourning-staff-ji|The Mourning Staff in the Book of Rites / 問喪中的喪杖制度]] — A Confucian analysis of mourning ritual implements, particularly the mourning staff (杖) made from different materials for father and mother mourning, and the mourning cap (免).
 
 ## Confucian-Self-Examination
 
@@ -1681,6 +1761,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 - [[confucian-trust-verification|Confucian Trust Verification / 儒家信任验证]] — Examination of trust-building mechanisms in Confucian digital humanities platforms
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
+- [[confucius-at-leisure-liji|Confucius at Leisure / 孔子閒居]] — A Confucian dialogue between Confucius and Zixia on the qualities of an ideal ruler, exploring the Five Arrivals, Three "Not-Haves," and the Three Selflessnesses.
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
 - [[dao-ben-ru-mo-dao-as-root-confucianism-as-branch|Dao as Root, Confucianism as Branch / 道本儒末]] — A philosophical doctrine from Baopuzi asserting that the Dao is the foundation while Confucianism represents its derivative applications.
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
@@ -1688,6 +1769,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[doctrine-of-the-mean-zhongyong|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic teaching the principle of balanced moderation and harmonious equilibrium as the foundation of virtue and sagehood.
 - [[five-hundred-years-sage-king-cycles|Five Hundred Years Theory of Sage Kings / 五百年必有王者興]] — Mencius's cyclical theory of history proposing that approximately every five hundred years a transformative sage king will emerge to restore proper governance.
 - [[four-beginnings-si-duan|Four Beginnings / 四端 / 四端説]] — Mencius's theory that human nature contains four sprouts of virtue that can develop into benevolence, rightness, propriety, and wisdom.
+- [[four-mourning-principles-liji-sangfu-sizhi|Four Mourning Principles (Sangfu Sizhi) / 喪服四制]] — A Confucian framework from the Book of Rites categorizing mourning rituals into four principles—grace, righteousness, propriety, and adaptability—based on benevolence, duty, ceremony, and wisdom.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
 - [[great-qi-haoran-zhi-qi|Great Qi / 浩然之氣 / 浩然之気]] — Mencius's concept of "great qi" - a cultivated spiritual vital energy that fills the universe and empowers moral accomplishment.
@@ -1700,6 +1782,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
 - [[knowledge-learning|Knowledge and Learning / 知识与学习]] — Explores the significance of knowledge and learning in Confucian thought and their implications for personal growth and governance.
 - [[learning-attitude-analects|Learning Attitude in Analects / 论语学习态度]] — Confucian perspective on learning as urgent pursuit and lifelong commitment
+- [[liji-aigong-wen-duke-ai-inquires|Duke Ai Inquires (Liji Chapter) / 禮記·哀公問]] — A Confucian dialogue between Duke Ai of Lu and Confucius on ritual propriety, governance, and the cultivation of the self through filial conduct.
 - [[mengzi-four-beginnings-siduan|Four Beginnings (四端) / 四端說]] — Mencius's doctrine that human nature contains four innate moral sprouts: compassion, shame, deference, and judgment.
 - [[mengzi-political-philosophy-benevolent-rule|Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想]] — Analysis of Mencius's theory of benevolent government (wangdao) as moral governance
 - [[mengzi-seven-chapters-gongsun-chou-part-two|Mencius: Gongsun Chou Part Two / 孟子·公孫丑下]] — A comprehensive wiki article covering the second chapter of Mencius, including analysis of its fourteen sections on political philosophy, governance principles, and historical events.
@@ -1716,6 +1799,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[mozi-suo-ran-dyeing-influence|Mozi Suo Ran: On Dyeing and Environmental Influence / 墨子所染——染絲之喻與環境熏習]] — Mozi's chapter on the dyeing metaphor illustrating how environmental influence shapes character, applied to state governance and personal cultivation.
 - [[political-philosophy-analects|Political Philosophy in Analects / 论语政治哲学]] — Confucian governance principles including meritocracy, moral leadership, and social stability
 - [[righteousness-internal-versus-external|Internal and External Righteousness / 仁內義外 / 仁内義外]] — The classical Confucian debate about whether righteousness (義) originates from within or is determined by external circumstances
+- [[ruxing-confucian-conduct|The Conduct of the Ru (Ruxing) / 儒行]] — A chapter from the Book of Rites presenting Confucius's dialogue with Duke Ai of Lu on the sixteen distinctive characteristics and virtues that define the Confucian scholar (儒).
 - [[shang-tong-upper-unity-mozi|Shang Tong (Upper Unity) / 尚同]] — Shang Tong is Mozi's political doctrine advocating hierarchical unity of thought under proper authority to achieve social order.
 - [[shang-xian-exalting-worthy|Exalting the Worthy (尚賢) / 尚賢]] — A core Mohist political doctrine emphasizing that rulers should promote individuals of virtue and talent regardless of their social background, making worthy officials the foundation of good governance.
 - [[tang-wan-kung|Tang Wan Kung / 唐宓公]] — Overview of the historical and philosophical significance of Tang Wan Kung in Confucianism.
@@ -1724,6 +1808,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[unsummoned-ministers-bu-zhao-zhi-chen|Unsummoned Ministers / 不召之臣]] — A Confucian doctrine that great ministers of virtue possess inherent dignity that prevents them from being summoned by rulers like ordinary officials.
 - [[xiao-jing-classic-of-filial-piety|Classic of Filial Piety / 孝經]] — The Classic of Filial Piety (Xiaojing) is a Confucian text outlining the principles and practices of filial piety, existing in two main textual traditions.
 - [[yan-hui|Yan Hui / 颜回 / 顔回]] — Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment in poverty
+- [[zhongni-yanji-ritual-teaching-liji|Zhongni at Home / 仲尼燕居]] — A chapter from the Book of Rites where Confucius discusses ritual propriety (禮), the principle of moderation (中), and the complementary roles of ritual and music (禮樂) with his disciples.
 - [[zilu|Zilu / 子路]] — A prominent disciple of Confucius known for his boldness and loyalty.
 - [[义|Righteousness / 义]] — A fundamental Confucian virtue representing moral righteousness, appropriate conduct, and the principle of doing what is right.
 - [[仁愛|仁愛 / Benevolent Love]] — A Confucian virtue of genuine, substantive love for all people, foundational to moral cultivation and interpersonal harmony.
@@ -1748,6 +1833,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[confucius-western-saint-liezi|Confucius and the Western Saint (西方聖者) / 西方聖者]] — A Liezi account of Confucius making an enigmatic reference to "a saint in the west" who rules without governing, speaks without persuasion, and transforms without coercion.
 - [[liang-xiao-er-bian-ri-two-children-sun-debate|Two Children Debating About the Sun / 兩小兒辯日]] — A famous anecdote from Liezi about two children debating whether the sun is closer in the morning or at noon, illustrating the limits of human knowledge.
 - [[mozi-rejecting-confucians-fei-ru|Mozi's Rejection of Confucians (非儒下) / 墨子·非儒下]] — A Mohist critique of Confucian ethics, mourning rituals, fatalism, and Confucius's political conduct through detailed arguments and historical anecdotes.
+- [[ruxing-confucian-conduct|The Conduct of the Ru (Ruxing) / 儒行]] — A chapter from the Book of Rites presenting Confucius's dialogue with Duke Ai of Lu on the sixteen distinctive characteristics and virtues that define the Confucian scholar (儒).
 - [[zilu|Zilu / 子路]] — A prominent disciple of Confucius known for his boldness and loyalty.
 
 ## Confusion
@@ -1778,6 +1864,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Contemplative-Practice
 
 - [[four-contemplations-buddhist-practice-ahang|Four Contemplations / 四事 / 四つの観法]] — Buddhist contemplative practice of observing body, sensations, mind, and dharma in oneself and others, as taught in the Ahang正行經.
+
+## Conversion-Narrative
+
+- [[sumati-woman-buddhist-narrative|Sumati (Xumoti) — Buddhist Laywoman Narrative / 須摩提女——佛教在家女性敘事]] — The story of Sumati, a Buddhist laywoman whose past-life vow during Kashapa Buddha's time leads to mass conversion and spiritual liberation in the present.
 
 ## Copyright
 
@@ -1912,6 +2002,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[zhuangzi-thieving-box-qu-qie|Zhuangzi's "Thieving the Box" / 莊子·胠篋]] — A Zhuangzi chapter arguing that preventive measures against petty theft enable great thieves, and that sage teachings are exploited by those who steal states.
 - [[zhuangzi-ying-di-wang|Zhuangzi Chapter 7: Responses of Kings / 莊子·應帝王]] — Chapter 7 of Zhuangzi discusses the qualities of the ideal ruler and the principle of non-action in governance, featuring the famous allegory of Chaos (渾沌).
 - [[zhuangzi-zhi-bei-you-chapter|Zhi Bei You (Northern Journey of Knowledge) / 知北遊]] — Chapter 22 of Zhuangzi exploring the nature of knowledge and the omnipresence of the Dao through dialogues between Zhi, Wu Wei Wei, Kuang Qu, and Huang Di.
+- [[關尹子|關尹子 / Guanyinzi]] — A Daoist text attributed to Yin Xi, presenting teachings on sage governance and cosmic transformation
 
 ## Daoist-Alchemy
 
@@ -2241,6 +2332,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
 
+## Domestic-Rituals
+
+- [[lijineize-rites-inner-principles|Inner Regulations (Neize) from the Book of Rites / 禮記內則]] — A Confucian chapter detailing domestic rituals, family conduct, gender-specific education, elderly care, and cooking methods for proper household governance.
+
 ## Dragon-Naga
 
 - [[compassionate-dragon-king-naga|Compassionate Dragon King (慈心龍王) — Buddhist Narrative of Non-Retaliation / 慈心龍王消伏怨害緣起]] — A Jataka tale depicting a dragon king who conquers the golden-winged garuda through loving-kindness and non-retaliation, exemplifying the power of compassion over violence.
@@ -2397,6 +2492,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[eightfold-noble-path-human-immortal-sutra|Eightfold Noble Path (Human Immortal Sutra) / 八正道]] — The Eightfold Noble Path as expounded in the Sutra of the Human Immortal, taught by Mahabrahma Deva as the method for achieving pure contemplation and liberation.
 - [[upaya-skillful-means-three-dharmas|Skillful Means (方便) in the Three Dharmas Treatise / 三法度論方便]] — The concept of skillful means (upāya) as the path leading to liberation, comprising precepts, concentration, and wisdom.
 
+## Elderly-Care
+
+- [[elderly-care-ran-yang-rites-records|Elderly Care (Yang Lao) in the Rites / 養老禮]] — Confucian rites and practices for caring for the elderly, detailing progressive support based on age, from dietary provisions to royal visits.
+
 ## Emotional-Regulation
 
 - [[confucian-sincerity-cheng|Sincerity (Cheng) in Confucianism / 誠]] — A core Confucian virtue representing authenticity, the metaphysical foundation of human nature, and the highest achievement of moral cultivation.
@@ -2546,6 +2645,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 - [[xiao-jing-classic-of-filial-piety|Classic of Filial Piety / 孝經]] — The Classic of Filial Piety (Xiaojing) is a Confucian text outlining the principles and practices of filial piety, existing in two main textual traditions.
 
+## Family-Values
+
+- [[lijineize-rites-inner-principles|Inner Regulations (Neize) from the Book of Rites / 禮記內則]] — A Confucian chapter detailing domestic rituals, family conduct, gender-specific education, elderly care, and cooking methods for proper household governance.
+
 ## Famine
 
 - [[rabbit-king-self-sacrifice-hermit|Rabbit King Offering to the Hermit (兔王捨身供奉梵志) - The Self-Sacrifice of a Righteous Rabbit]] — The Jataka story of a rabbit king who, having learned the Dharma from a brahmana, offered his own body as fuel for a fire to feed the ascetic during a time of famine.
@@ -2576,7 +2679,9 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 
 ## Filial-Piety
 
+- [[ba-en-pin|Ba-en-pin / 报答父母恩品]] — A genre of Chinese Buddhist literature focusing on repaying parental kindness through spiritual practice.
 - [[da-fangbian-fo-baoen-jing|Great Expedient Sutra on Repaying Buddha's Kindness / 大方便佛報恩經]] — A Mahayana sutra teaching the doctrine of repaying the Four Kindnesses through filial piety and bodhisattva practice.
+- [[elderly-care-ran-yang-rites-records|Elderly Care (Yang Lao) in the Rites / 養老禮]] — Confucian rites and practices for caring for the elderly, detailing progressive support based on age, from dietary provisions to royal visits.
 - [[prince-sujata-story-bodhisattva-sacrifice|The Story of Prince Sūjāta (須闍提太子) - Buddhist Narrative of Self-Sacrifice]] — The narrative of Prince Sūjāta who offered his own flesh to feed his starving parents, serving as the central exemplum of filial piety and compassionate self-sacrifice in Mahayana Buddhism.
 - [[shan-zi-sutra-filial-bodhisattva|The Śhanzi Sutra / 佛說睒子經]] — A Buddhist Jataka tale about a bodhisattva named Shan Zi who demonstrates supreme filial piety by being born as the son of blind parents, and whose accidental death by a king's arrow leads to a miraculous resurrection.
 - [[si-en|四恩 / Four Kindnesses / 四恩（しおりん）]] — The Buddhist teaching on four debts of gratitude—to parents, teachers, sovereign, and sentient beings—that form the foundation of Buddhist ethical practice.
@@ -2820,6 +2925,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Funeral-Rites
 
 - [[mozi-jie-zang-funeral-simplicity|Mozi's Funeral Simplicity / 墨子節葬思想]] — Mozi's philosophical argument against elaborate funerals and prolonged mourning, advocating simple burial practices based on utilitarian principles.
+- [[sang-da-ji-funeral-rituals-liji|Sang Da Ji: Major Records of Mourning / 喪大記：喪禮大典]] — A chapter from the Liji detailing hierarchical funeral procedures for rulers, ministers, and commoners, including encoffinement rites, mourning staff protocols, and deathbed rituals.
 
 ## Gaozi
 
@@ -2847,6 +2953,10 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 ## Gemma-Family
 
 - [[gemma-ai-model|Gemma AI Model / Gemma AI 模型 / Gemma AIモデル]] — Google's open-source family of lightweight, state-of-the-art AI models designed for responsible AI development and efficient deployment.
+
+## Gender-Roles
+
+- [[confucian-gender-roles-neize-education|Gender-Specific Education in the Rites / 男女之教]] — Confucian gender-differentiated education practices, with boys learning the Six Arts and girls learning women's affairs for their designated domestic and social roles.
 
 ## Gengsang-Chu
 
@@ -2905,6 +3015,7 @@ We Need To Interpret The Article'S Content: It'S About Mencius
 - [[confucius-analects|Analects of Confucius / 论语]] — A collection of sayings and ideas attributed to the Chinese philosopher Confucius.
 - [[de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu|De Dao Zhe Duo Zhu, Shi Dao Zhe Gua Zhu / 得道者多助，失道者寡助]] — The Mencian principle that a ruler who follows the Way (Dao) will receive abundant assistance, while one who abandons it will have few supporters, establishing moral legitimacy as the foundation of political power.
 - [[deben-cai-mo|Virtue as Root, Wealth as Branch / 德本財末]] — A Confucian economic ethics principle stating that virtue is the foundation of prosperity and that material wealth should never be prioritized over moral rectitude.
+- [[five-priorities-governance-daxizhuan|The Five Priorities of Governance in Daxizhuan / 禮記大傳人道五端]] — The Daxizhuan chapter of the Book of Rites outlines five governance priorities:亲近、报功、举贤、使能、存爱, forming the foundation of Confucian political philosophy.
 - [[governance-leadership|Governance and Leadership / 治理与领导]] — Analyzes the principles of governance and leadership in the context of Confucian ethics, focusing on the responsibilities and virtues of leaders.
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
 - [[great-learning-daxue|The Great Learning / 大學]] — A foundational Confucian classic on self-cultivation and the investigation of things, forming part of the Four Books of Confucianism.
@@ -3237,6 +3348,10 @@ Potential Tags: "Mencius"
 
 - [[君子|Junzi / 君子]] — The Confucian ideal of a morally cultivated person who embodies virtue and proper conduct.
 
+## Ideal-Ruler
+
+- [[confucius-at-leisure-liji|Confucius at Leisure / 孔子閒居]] — A Confucian dialogue between Confucius and Zixia on the qualities of an ideal ruler, exploring the Five Arrivals, Three "Not-Haves," and the Three Selflessnesses.
+
 ## Ideal-Society
 
 - [[jian-de-zhi-guo|Nation of Established Virtue / 建德之國]] — The ideal Daoist society described by Shi Nan Yi Liao in the Zhuangzi—simple, without artificial desires, where people act freely and live and die with peace.
@@ -3422,6 +3537,10 @@ Potential Tags: "Mencius"
 
 - [[shizi-sutuo-suowa-wang-duanrou-jing|Sutra of King Siṃha-Sūdaśa on Abstaining from Meat / 師子素馱娑王斷肉經]] — A Buddhist sutra recounting how King Siṃha-Sūdaśa, born with a lion's head due to past meat-eating karma, is converted to vegetarianism and non-killing by King Wen Yue through teachings on impermanence and compassion.
 
+## Kashapa-Buddha
+
+- [[sumati-woman-buddhist-narrative|Sumati (Xumoti) — Buddhist Laywoman Narrative / 須摩提女——佛教在家女性敘事]] — The story of Sumati, a Buddhist laywoman whose past-life vow during Kashapa Buddha's time leads to mass conversion and spiritual liberation in the present.
+
 ## King
 
 - [[sarvadana-king-yiqieshi|King Sarvadāna (一切施王) — The Sovereign Who Gave Everything]] — A legendary king who renounced his throne, kingdom, and ultimately his own body for the sake of a single supplicant, exemplifying the ultimate perfection of giving.
@@ -3463,6 +3582,14 @@ Potential Tags: "Mencius"
 ## King-Wen
 
 - [[shared-joy-with-the-people-yu-min-xie-le|Shared Joy with the People (與民偕樂) / 民と偕に楽む]] — Mencius's principle that rulers should share enjoyment with the people, not hoard pleasures for themselves.
+
+## Kinship-Obligations
+
+- [[six-mourning-principles-daxizhuan|The Six Principles of Mourning in Daxizhuan / 禮記大傳服術六法]] — The Daxizhuan enumerates six principles (服術) governing mourning garments and kinship obligations: 親親, 尊尊, 名, 出入, 長幼, 從服.
+
+## Kinship-System
+
+- [[clan-lineage-system-daxizhuan|The Clan Lineage System in Daxizhuan / 禮記大傳宗法制度]] — The Daxizhuan outlines the "separate branch" (別子為祖) lineage system that governed kinship organization, ancestral worship, and inheritance in ancient Chinese society.
 
 ## Klesha
 
@@ -3512,6 +3639,10 @@ Potential Tags: "Mencius"
 ## Lay-Buddhism
 
 - [[human-immortal-sutra-foshuo-renxian-jing|Human Immortal Sutra (Buddha's Discourse) / 佛說人仙經]] — A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal," son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural Power.
+
+## Laywoman
+
+- [[sumati-woman-buddhist-narrative|Sumati (Xumoti) — Buddhist Laywoman Narrative / 須摩提女——佛教在家女性敘事]] — The story of Sumati, a Buddhist laywoman whose past-life vow during Kashapa Buddha's time leads to mass conversion and spiritual liberation in the present.
 
 ## Leadership
 
@@ -3567,6 +3698,12 @@ Potential Tags: "Mencius"
 ## Lexicography
 
 - [[erya-classic-chinese-glossary|Erya (Classic of Correct Rhymes) / 爾雅]] — The Erya is China's oldest comprehensive glossary, compiled during the Warring States-Han period, providing definitions of classical terms across categories with phonetic annotations.
+
+## Li-Ji
+
+- [[li-ji-ben-sang-hurrying-to-mourning|Rushing to Mourning (Ben Sang) / 禮記·奔喪]] — The Book of Rites describes the ritual procedures for a son rushing home upon learning of a parent's death, including immediate response protocols, travel customs, and mourning ceremonies.
+- [[sangfu-xiaoji-liji|Sangfu Xiaoji (Minor Records of Mourning Dress) / 喪服小記]] — A chapter from the Book of Rites detailing mourning dress regulations, mourning periods, and ritual protocols for various kinship relationships.
+- [[wen-sang-mourning-staff-ji|The Mourning Staff in the Book of Rites / 問喪中的喪杖制度]] — A Confucian analysis of mourning ritual implements, particularly the mourning staff (杖) made from different materials for father and mother mourning, and the mourning cap (免).
 
 ## Li-Rites
 
@@ -3637,6 +3774,10 @@ Potential Tags: "Mencius"
 ## Light-Sound-Heaven
 
 - [[light-sound-heaven-buddhist-cosmology|Light-Sound Heaven / 光音天]] — The second dhyana heaven in Buddhist cosmology from which beings descended to earth according to the White Cloth Golden Banner Sutra.
+
+## Liji
+
+- [[sang-da-ji-funeral-rituals-liji|Sang Da Ji: Major Records of Mourning / 喪大記：喪禮大典]] — A chapter from the Liji detailing hierarchical funeral procedures for rulers, ministers, and commoners, including encoffinement rites, mourning staff protocols, and deathbed rituals.
 
 ## Literary-Device
 
@@ -3743,6 +3884,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 ## Mahayana
 
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
+- [[ba-en-pin|Ba-en-pin / 报答父母恩品]] — A genre of Chinese Buddhist literature focusing on repaying parental kindness through spiritual practice.
 - [[ding-sheng-wang-king-caitanya-dhrtarastra|King Ding Sheng (Ding Sheng Wang) / 頂生王]] — King Ding Sheng is a bodhisattva incarnation who was born from his father's crown, practiced generous giving, conquered the four continents, and ascended through the thirty-three heavens, illustrating Buddhist teachings on merit and the dangers of greed.
 - [[ding-sheng-wang-yinyuan-jing|The Discourse on King Śuddhodana's Previous Life / 頂生王因緣經]] — A Mahayana sutra describing the Buddha's previous incarnation as King Śuddhodana, a cakravartin who practiced extreme generosity and ruled over the four great continents and the heavenly realms.
 - [[entry-all-knowledge-dharani-gate|入一切種智行陀羅尼門 / Entry into the All-Knowledge Dhāraṇī Gate]] — A profound Mahāyāna dhāraṇī practice for entering complete wisdom, enabling practitioners to obtain countless samādhis,Store dhāraṇīs, and achieve supreme enlightenment.
@@ -4137,6 +4279,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[mozi-xiaoqu-logical-methods|Xiaoqu (Minor Selections) - Mozi's Logical Methods / 墨子小取——論理方法]] — A chapter from the Mozi presenting a systematic analysis of dialectical reasoning methods including analogy, parallelism, citing, deduction, and their proper applications.
 - [[mozi-xiaoqu-mohist-logic|Mozi Xiaoqu: On Logical Reasoning / 墨子小取：論辯說之法]] — The Xiaoqu chapter of Mozi presents a systematic exposition of Mohist logic, including seven types of reasoning and epistemological principles for philosophical debate.
 - [[mozi-xiu-shen-self-cultivation|Mozi's Self-Cultivation / 墨子修身]] — A chapter from the Mozi discussing the fundamentals of self-cultivation, emphasizing courage, action, and integrity as the essential roots of moral cultivation.
+- [[mozijing|Mozijing / 墨經]] — The "Classic of Mozi" - core philosophical text of Mohism containing the school's major doctrines and logical treatises.
 - [[prince-ming-zhangshan-gongsun-long-liezi|Prince Ming of Zhongshan and Gongsun Long (中山公子牟) / 中山公子牟]] — A Liezi account of a philosophical debate between the nobleman Prince Ming and his associates regarding the dialectician Gongsun Long and his logical paradoxes.
 - [[qie-ji-theft-covetous-disease|The Theory of Theft Disease (竊疾) / 竊疾論]] — Mozi's critique of the "theft disease" - a psychological condition of covetousness that afflicts both individuals and states, demonstrated through the analogy of stealing food while having plenty.
 - [[shang-xian-exalting-worthy|Exalting the Worthy (尚賢) / 尚賢]] — A core Mohist political doctrine emphasizing that rulers should promote individuals of virtue and talent regardless of their social background, making worthy officials the foundation of good governance.
@@ -4310,7 +4453,19 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 ## Mourning-Practices
 
+- [[sang-da-ji-funeral-rituals-liji|Sang Da Ji: Major Records of Mourning / 喪大記：喪禮大典]] — A chapter from the Liji detailing hierarchical funeral procedures for rulers, ministers, and commoners, including encoffinement rites, mourning staff protocols, and deathbed rituals.
+- [[six-mourning-principles-daxizhuan|The Six Principles of Mourning in Daxizhuan / 禮記大傳服術六法]] — The Daxizhuan enumerates six principles (服術) governing mourning garments and kinship obligations: 親親, 尊尊, 名, 出入, 長幼, 從服.
 - [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
+- [[wen-sang-mourning-staff-ji|The Mourning Staff in the Book of Rites / 問喪中的喪杖制度]] — A Confucian analysis of mourning ritual implements, particularly the mourning staff (杖) made from different materials for father and mother mourning, and the mourning cap (免).
+
+## Mourning-Rites
+
+- [[li-ji-ben-sang-hurrying-to-mourning|Rushing to Mourning (Ben Sang) / 禮記·奔喪]] — The Book of Rites describes the ritual procedures for a son rushing home upon learning of a parent's death, including immediate response protocols, travel customs, and mourning ceremonies.
+
+## Mourning-Rituals
+
+- [[four-mourning-principles-liji-sangfu-sizhi|Four Mourning Principles (Sangfu Sizhi) / 喪服四制]] — A Confucian framework from the Book of Rites categorizing mourning rituals into four principles—grace, righteousness, propriety, and adaptability—based on benevolence, duty, ceremony, and wisdom.
+- [[sangfu-xiaoji-liji|Sangfu Xiaoji (Minor Records of Mourning Dress) / 喪服小記]] — A chapter from the Book of Rites detailing mourning dress regulations, mourning periods, and ritual protocols for various kinship relationships.
 
 ## Mozi
 
@@ -4363,6 +4518,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[mozi-xiu-shen-self-cultivation|Mozi's Self-Cultivation / 墨子修身]] — A chapter from the Mozi discussing the fundamentals of self-cultivation, emphasizing courage, action, and integrity as the essential roots of moral cultivation.
 - [[mozi-yingdi-ci-qi-observation-military-divination|Qi Observation in Military Divination / 望氣與軍事占卜]] — A Mozi passage describing techniques of observing vital energy (qi) to predict military outcomes, identifying five types of qi that reveal成败吉凶 on the battlefield.
 - [[mozi-yingdi-ci-welcoming-enemy-rituals|Mozi Welcoming Enemy Rituals / 墨子迎敵祠]] — A Mozi chapter describing elaborate ritual protocols for welcoming enemy forces from the four cardinal directions, with corresponding altars, officials, colors, and military preparations.
+- [[mozijing|Mozijing / 墨經]] — The "Classic of Mozi" - core philosophical text of Mohism containing the school's major doctrines and logical treatises.
 - [[qie-ji-theft-covetous-disease|The Theory of Theft Disease (竊疾) / 竊疾論]] — Mozi's critique of the "theft disease" - a psychological condition of covetousness that afflicts both individuals and states, demonstrated through the analogy of stealing food while having plenty.
 - [[qin-guli|Qin Guli / 禽滑釐]] — A devoted disciple of Mozi who served him for three years, later becoming a key figure in Mohist defensive military thought.
 - [[shang-tong-reward-punishment-maf|Reward and Punishment in Shang Tong Theory / 尚同賞罰論]] — Mozi's theory of reward and punishment as the mechanism for achieving social order through unified standards of the superior.
@@ -4606,6 +4762,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 ## Past-Life-Stories
 
 - [[bodhisattva-sacrifice-king-changshou|King Changshou's Sacrifice / 長壽王的犧牲 / 長寿王の犠牲]] — The narrative archetype of King Changshou, a bodhisattva who sacrifices his kingdom and life rather than wage war, embodying Buddhist non-retaliation ideals.
+
+## Past-Life-Vow
+
+- [[sumati-woman-buddhist-narrative|Sumati (Xumoti) — Buddhist Laywoman Narrative / 須摩提女——佛教在家女性敘事]] — The story of Sumati, a Buddhist laywoman whose past-life vow during Kashapa Buddha's time leads to mass conversion and spiritual liberation in the present.
 
 ## Past-Lives
 
@@ -4994,6 +5154,15 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[benevolence|Benevolence / 仁]] — Discusses the foundational role of benevolence in Confucian ethics and its implications for interpersonal relationships and governance.
 - [[mozi-gui-yi-valuing-righteousness|Mozi Chapter on Valuing Righteousness / 墨子·貴義]] — A chapter from the Mozi emphasizing righteousness as the highest value, contrasting with the utility of name-based versus actual selection, and demonstrating Mozi's political teachings through various encounters.
 
+## Rites
+
+- [[lijineize-rites-inner-principles|Inner Regulations (Neize) from the Book of Rites / 禮記內則]] — A Confucian chapter detailing domestic rituals, family conduct, gender-specific education, elderly care, and cooking methods for proper household governance.
+
+## Rites-Of-Passage
+
+- [[four-mourning-principles-liji-sangfu-sizhi|Four Mourning Principles (Sangfu Sizhi) / 喪服四制]] — A Confucian framework from the Book of Rites categorizing mourning rituals into four principles—grace, righteousness, propriety, and adaptability—based on benevolence, duty, ceremony, and wisdom.
+- [[li-ji-guan-yi-meaning-capping-rite|The Meaning of the Capping Rite / 禮記·冠義]] — A classical Confucian text from the Book of Rites explaining the ritual significance of the capping ceremony as the foundation of all ritual propriety and the gateway to adult moral responsibility.
+
 ## Ritual
 
 - [[confucian-music-yue|Confucian View of Music (Yue) / 儒家的音乐观（乐）]] — Confucian philosophy on the moral and social functions of music in maintaining ritual order and personal cultivation.
@@ -5003,6 +5172,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 - [[mengzi-ritual-food-debate|Mencius on Ritual Propriety vs. Necessity / 孟子论礼与食]] — The debate about whether ritual propriety or practical necessities like food and marriage take precedence, illustrating Confucian value hierarchies.
 
+## Ritual-Ethics
+
+- [[five-priorities-governance-daxizhuan|The Five Priorities of Governance in Daxizhuan / 禮記大傳人道五端]] — The Daxizhuan chapter of the Book of Rites outlines five governance priorities:亲近、报功、举贤、使能、存爱, forming the foundation of Confucian political philosophy.
+
 ## Ritual-Practice
 
 - [[three-years-mourning|Three Years Mourning / 三年之丧]] — The traditional mourning period of three years emphasizes filial piety and respect for deceased parents.
@@ -5010,6 +5183,14 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 ## Ritual-Propriety
 
 - [[confucius-etiquette-xiang-dang|Confucius's Etiquette in Public Life / 孔子乡党礼仪]] — Chapter 10 of the Analects describing Confucius's formal behavior and ritual propriety in various social contexts including village, court, ceremonies, and interactions with different ranks of people.
+
+## Ritual-Theory
+
+- [[lijji-fang-ji-ritual-prevention|Fang Ji - Prevention Through Ritual in the Book of Rites / 禮記·坊記——以禮坊民]] — A classical Confucian chapter explaining how ritual propriety (禮) serves as a "dyke" (坊) to prevent moral corruption, social disorder, and improper conduct in human relations.
+
+## Ritualpropriety
+
+- [[zhongni-yanji-ritual-teaching-liji|Zhongni at Home / 仲尼燕居]] — A chapter from the Book of Rites where Confucius discusses ritual propriety (禮), the principle of moderation (中), and the complementary roles of ritual and music (禮樂) with his disciples.
 
 ## Robber-Zhi
 
@@ -5105,6 +5286,8 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[investigating-things-extending-knowledge-gewu-zhizhi|Investigating Things and Extending Knowledge / 格物致知]] — The foundational step in Confucian self-cultivation involving the investigation of things and extension of knowledge, a concept central to both Neo-Confucian and Ming-era philosophical debates.
 - [[knowing-destiny-rites-words|Knowing Destiny, Rites, and Words / 知命知礼知言]] — Confucius's three essential knowledges for becoming a true gentleman in the Analects
 - [[learning-attitude-analects|Learning Attitude in Analects / 论语学习态度]] — Confucian perspective on learning as urgent pursuit and lifelong commitment
+- [[li-ji-guan-yi-meaning-capping-rite|The Meaning of the Capping Rite / 禮記·冠義]] — A classical Confucian text from the Book of Rites explaining the ritual significance of the capping ceremony as the foundation of all ritual propriety and the gateway to adult moral responsibility.
+- [[liji-aigong-wen-duke-ai-inquires|Duke Ai Inquires (Liji Chapter) / 禮記·哀公問]] — A Confucian dialogue between Duke Ai of Lu and Confucius on ritual propriety, governance, and the cultivation of the self through filial conduct.
 - [[mengzi-haoran-qi-vast-flowing-vital-energy|Vast Flowing Qi (浩然之氣) / 浩然之氣]] — Mencius's concept of moral cultivated vital energy that fills the universe when properly nurtured through accumulated righteousness.
 - [[mengzi-indomitable-heart-budongxin|Indefatigable Heart (不動心) / 不動心]] — Mencius's concept of the steadfast moral heart, cultivated through courage, righteosness, and the accumulation of moral energy.
 - [[mind-solidified-form-dissolved-liezi|Mind Solidified and Form Dissolved (心凝形釋) / 心凝形釋]] — A Liezi description of advanced spiritual attainment where the mind becomes solidified while the physical body dissolves, representing ultimate unity of consciousness and form.
@@ -5113,6 +5296,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[mozi-suoran-on-influence|Mozi On Dyeing / 墨子·所染]] — A Mozi chapter using the silk-dyeing metaphor to illustrate how one's associates determine moral character and political fortune.
 - [[mozi-xiu-shen-self-cultivation|Mozi's Self-Cultivation / 墨子修身]] — A chapter from the Mozi discussing the fundamentals of self-cultivation, emphasizing courage, action, and integrity as the essential roots of moral cultivation.
 - [[non-attachment-guanyinzi|Non-Attachment (無物) in Guanyinzi / 關尹子之無物論]] — The Guanyinzi's doctrine of non-attachment to things (無物), emphasizing that the sage responds to the world without grasping and nurtures the self without ego.
+- [[ruxing-confucian-conduct|The Conduct of the Ru (Ruxing) / 儒行]] — A chapter from the Book of Rites presenting Confucius's dialogue with Duke Ai of Lu on the sixteen distinctive characteristics and virtues that define the Confucian scholar (儒).
 - [[ultimate-wandering-observation-liezi|Ultimate Wandering and Observation (至游至觀) / 至游至觀]] — A Liezi philosophical concept about the highest form of spiritual wandering and observation, transcending attachment to external objects.
 - [[understanding-heaven-knowing-fate-liezi|Understanding Heaven and Knowing Fate (樂天知命) / 樂天知命]] — A Liezi philosophical concept about rejoicing in Heaven's will and knowing one's fate, evolving from conventional wisdom to transcendent understanding.
 - [[xing-hai-nei-wai|Inside and Outside the Physical Form / 形骸內外]] — A philosophical distinction in Zhuangzi between the physical body (form) and inner virtue, exemplified by deformed sages whose outer appearance differs from their inner perfection.
@@ -5282,6 +5466,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[mengzi-political-philosophy-benevolent-rule|Mencius's Political Philosophy of Benevolent Rule / 孟子王道政治思想]] — Analysis of Mencius's theory of benevolent government (wangdao) as moral governance
 - [[mengzi-seven-chapters-structural-analysis|Mencius Seven Chapters / 孟子七篇結構]] — Systematic analysis of the seven-chapter structure of Mencius and its philosophical significance
 
+## Six-Arts
+
+- [[confucian-gender-roles-neize-education|Gender-Specific Education in the Rites / 男女之教]] — Confucian gender-differentiated education practices, with boys learning the Six Arts and girls learning women's affairs for their designated domestic and social roles.
+
 ## Six-Perfections
 
 - [[dana-paramita-bodhisattva-giving|Dāna Pāramitā / 檀波羅蜜 / 檀波羅蜜]] — The perfection of giving in Mahayana Buddhism, exemplified by bodhisattvas who sacrifice everything for the welfare of beings.
@@ -5328,11 +5516,16 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 - [[ba-yi-ceremonial-dance|Ba Yi (Eight Rows) / 八佾]] — The ceremonial dance of eight rows of eight performers, a symbol of ritual order and social hierarchy in ancient Chinese rites.
 - [[ding-fen-determining-names-positions|Determining Names and Positions (定分) / 定分]] — The Shang Yang doctrine establishing clear legal definitions of social roles and property rights as the foundation for orderly governance and the prevention of social chaos.
+- [[lijji-fang-ji-ritual-prevention|Fang Ji - Prevention Through Ritual in the Book of Rites / 禮記·坊記——以禮坊民]] — A classical Confucian chapter explaining how ritual propriety (禮) serves as a "dyke" (坊) to prevent moral corruption, social disorder, and improper conduct in human relations.
 - [[shang-tong-upper-unity-mozi|Shang Tong (Upper Unity) / 尚同]] — Shang Tong is Mozi's political doctrine advocating hierarchical unity of thought under proper authority to achieve social order.
 
 ## Social-Stability
 
 - [[fixed-livelihood|Fixed Livelihood / 恒产论]] — Mencius's economic theory that stable property ownership is essential for moral stability
+
+## Social-Welfare
+
+- [[elderly-care-ran-yang-rites-records|Elderly Care (Yang Lao) in the Rites / 養老禮]] — Confucian rites and practices for caring for the elderly, detailing progressive support based on age, from dietary provisions to royal visits.
 
 ## Song-Dynasty
 
@@ -5455,6 +5648,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 ## Stub
 
 - [[arhat-stages-buddhist-liberation|阿羅漢位 / Stages of Arhat Liberation]] — The systematic classification of Buddhist liberation stages from stream-enterer to fully accomplished arhat, as presented in classical Indian Buddhist texts.
+- [[ba-en-pin|Ba-en-pin / 报答父母恩品]] — A genre of Chinese Buddhist literature focusing on repaying parental kindness through spiritual practice.
 - [[confucian-ethics|Confucian Ethics / 儒家伦理]] — This article explores the key concepts of Confucian ethics as presented in the Analects, focusing on filial piety and social conduct.
 - [[confucian-self-cultivation|Confucian Self-Cultivation / 儒家自我修养]] — The systematic practice of moral and spiritual development based on Confucian teachings.
 - [[doctrine-of-the-mean-(zhongyong)|Doctrine of the Mean (Zhongyong) / 中庸]] — A Confucian classic articulating the principle of equilibrium and moral self-cultivation through inner sincerity.
@@ -5467,6 +5661,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[mahasanghika|Mahāsaṃghika / 大眾部 / マハーサングヒカ]] — An early Buddhist school known for its transcendent conception of the Buddha and its influence on Mahāyāna developments.
 - [[mengzi|Mencius / 孟子]] — Mencius (c. 372–289 BCE) was the most prominent Confucian philosopher after Confucius, known for his doctrine of the innate goodness of human nature.
 - [[ministerial-responsibility|Ministerial Responsibility / 臣責]] — A concept in Chinese political philosophy concerning the duties and obligations of ministers toward their rulers.
+- [[mozijing|Mozijing / 墨經]] — The "Classic of Mozi" - core philosophical text of Mohism containing the school's major doctrines and logical treatises.
 - [[three-roots-of-unwholesomeness|Three Roots of Unwholesomeness / 三不善根]] — The three fundamental unwholesome mental roots—greed, hatred, and delusion—that underlie all negative karmic actions in Buddhism.
 - [[three-treasures|Three Treasures / 三宝]] — The three foundational refuges of Buddhism—Buddha, Dharma, and Sangha—considered precious objects of veneration and sources of spiritual refuge.
 - [[xiao-jing-classic-of-filial-piety|Classic of Filial Piety / 孝經]] — The Classic of Filial Piety (Xiaojing) is a Confucian text outlining the principles and practices of filial piety, existing in two main textual traditions.
@@ -5487,6 +5682,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[孟子の政治哲学|Mencius's Political Philosophy / 孟子的政治哲学]] — ... (one line)
 - [[心地法門|Mind-Ground Dharma Gate / 心地法門]] — A central Buddhist practice of cultivating and contemplating the mind-ground as the basis of spiritual awakening.
 - [[生子憂患死於安樂|Birth through Suffering, Death through Comfort / 生子憂患死於安樂]] — A philosophical concept from Liezi expressing that hardship produces growth while comfort leads to decline.
+- [[關尹子|關尹子 / Guanyinzi]] — A Daoist text attributed to Yin Xi, presenting teachings on sage governance and cosmic transformation
 
 ## Stupa
 
@@ -5538,6 +5734,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 ## Sutra-Compilation
 
 - [[ananda-compiled-scriptures|阿難集經 Ānanda's Compilation of the Buddhist Canon]] — The Buddha's attendant who compiled the sutras after the Buddha's parinirvana, organizing them into the three treasures and four collections.
+
+## Sutra-Literature
+
+- [[ba-en-pin|Ba-en-pin / 报答父母恩品]] — A genre of Chinese Buddhist literature focusing on repaying parental kindness through spiritual practice.
 
 ## Sutra-Study
 
@@ -5983,6 +6183,7 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 - [[governance-virtue-de|Governance through Virtue / 为政以德]] — Confucius's political philosophy emphasizing rule through moral virtue and ethical leadership rather than coercion or punishment.
 - [[junzi|The Role of the Junzi / 君子的角色]] — Examines the characteristics and responsibilities of the Junzi in Confucian philosophy.
 - [[mengzi-hegemon-true-king-ba-wang-distinction|Hegemon versus True King (霸道與王道) / 霸道與王道]] — Mencius's distinction between rulers who govern through force (hegemon) and those who rule through virtue (true king).
+- [[ruxing-confucian-conduct|The Conduct of the Ru (Ruxing) / 儒行]] — A chapter from the Book of Rites presenting Confucius's dialogue with Duke Ai of Lu on the sixteen distinctive characteristics and virtues that define the Confucian scholar (儒).
 - [[xiao-jing-classic-of-filial-piety|Classic of Filial Piety / 孝經]] — The Classic of Filial Piety (Xiaojing) is a Confucian text outlining the principles and practices of filial piety, existing in two main textual traditions.
 - [[xing-hai-nei-wai|Inside and Outside the Physical Form / 形骸內外]] — A philosophical distinction in Zhuangzi between the physical body (form) and inner virtue, exemplified by deformed sages whose outer appearance differs from their inner perfection.
 - [[仁爱|Ren'ai / 仁爱]] — The supreme virtue of humaneness and compassion in Confucian philosophy, representing the foundation of ethical behavior and ideal human relationships.
@@ -6126,6 +6327,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 - [[seven-types-wives-buddhist-teaching|Seven Types of Wives in Buddhist Teaching / 七輩婦]] — A Buddhist typology of seven wife archetypes from the Sutra on Yù Yě Nǚ, ranging from the ideal Mother-wife to the demonic Murderer-wife.
 
+## Womens-Education
+
+- [[confucian-gender-roles-neize-education|Gender-Specific Education in the Rites / 男女之教]] — Confucian gender-differentiated education practices, with boys learning the Six Arts and girls learning women's affairs for their designated domestic and social roles.
+
 ## Womens-Studies
 
 - [[seven-types-wives-buddhist-teaching|Seven Types of Wives in Buddhist Teaching / 七輩婦]] — A Buddhist typology of seven wife archetypes from the Sutra on Yù Yě Nǚ, ranging from the ideal Mother-wife to the demonic Murderer-wife.
@@ -6207,6 +6412,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 ## Yijing-Translation
 
 - [[you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong|From Love Arises Sorrow; From Love Arises Fear / 由愛故生憂 由愛故生怖]] — A canonical Buddhist gatha stating that attachment is the origin of suffering and fear, and liberation comes from detachment.
+
+## Yin Xi
+
+- [[關尹子|關尹子 / Guanyinzi]] — A Daoist text attributed to Yin Xi, presenting teachings on sage governance and cosmic transformation
 
 ## Yinwen
 
@@ -6311,6 +6520,10 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 ## Ziran
 
 - [[ji-shengzi-fighting-roosters-liezi|Ji Shengzi's Fighting Roosters: Spiritual Mastery / 紀渻子養鬭雞 — 精神修養之道]] — The story of Ji Shengzi cultivating fighting roosters illustrates the Daoist path to spiritual mastery through the progression from false confidence to true tranquility.
+
+## Zixia
+
+- [[confucius-at-leisure-liji|Confucius at Leisure / 孔子閒居]] — A Confucian dialogue between Confucius and Zixia on the qualities of an ideal ruler, exploring the Five Arrivals, Three "Not-Haves," and the Three Selflessnesses.
 
 ## Āgama Literature
 
@@ -6494,4 +6707,4 @@ We Need To Output Tags. The Tags Should Be Relevant To The Article
 
 
 ---
-*494 articles indexed*
+*515 articles indexed*

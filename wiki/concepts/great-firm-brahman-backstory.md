@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A Buddhist sūtra recounting how King Linu's minister Mahākakuda meets the
   Buddha, attains stream-entry, renounces worldly life, and becomes an arhat, inspiring
   seven kings, seven thousand brāhmaṇas, and countless laypeople to follow the Dharma.

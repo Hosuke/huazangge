@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: The Four Vows are the fundamental commitments bodhisattvas make for spiritual
   practice, encompassing skillful means, spiritual friendship, giving, and dharma
   practice.

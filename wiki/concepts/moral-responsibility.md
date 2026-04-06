@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T17:47:25.082756+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Moral responsibility emphasizes the ethical obligations individuals hold
   towards society and each other.
 tags:

@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T17:35:33.316442+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Overview of the historical and philosophical significance of Tang Wan Kung
   in Confucianism.
 tags:

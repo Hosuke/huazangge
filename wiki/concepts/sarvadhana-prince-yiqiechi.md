@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A crown prince who gave away royal treasures, elephants, and ultimately his
   own children to fulfill his vow of universal giving, exemplifying the bodhisattva's
   renunciation of attachment.

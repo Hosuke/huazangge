@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's theory that human nature contains four sprouts of virtue that can
   develop into benevolence, rightness, propriety, and wisdom.
 tags:

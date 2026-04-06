@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Buddhist sutra recounting how King Siṃha-Sūdaśa, born with a lion's head
   due to past meat-eating karma, is converted to vegetarianism and non-killing by
   King Wen Yue through teachings on impermanence and compassion.

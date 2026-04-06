@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Mahayana sutra recounting how King Bimbisara was reborn as the "Human Immortal,"
   son of Vaisravana, featuring Mahabrahma's teachings on the Four Bases of Supernatural
   Power.

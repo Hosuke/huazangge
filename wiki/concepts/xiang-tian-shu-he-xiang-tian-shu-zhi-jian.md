@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A philosophical contrast in Zhuangzi between relationships formed through
   natural bonds versus those formed through mutual benefit.
 tags:

@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The Mencian doctrine that favorable timing is less important than geographical
   advantage, which is less important than human harmony.
 tags:

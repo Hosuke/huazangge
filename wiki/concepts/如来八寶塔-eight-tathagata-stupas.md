@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: The eight sacred stupas representing key events in the Buddha's life, described
   in the Mahāyāna Mind-Ground Contemplation Sūtra
 tags:

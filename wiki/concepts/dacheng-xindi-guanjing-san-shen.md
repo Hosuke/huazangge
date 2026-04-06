@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: The doctrinal classification of the Buddha's three bodies—Dharma-body, Enjoyment-body,
   and Transformational body—as expounded in the Mahayana Mind-Ground Contemplation
   Sutra, with detailed elaboration of their characteristics and salvific functions.

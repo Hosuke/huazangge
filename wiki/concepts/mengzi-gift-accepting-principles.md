@@ -1,4 +1,10 @@
 ---
+sources:
+- book: 孟子
+  chapter: 公孫丑上Gong Sun Chou I
+  plugin: classical_text
+  title: 孟子 · 公孫丑上Gong Sun Chou I
+  url: https://ctext.org/mengzi/gong-sun-chou-i/zh
 summary: Mencius's ethical framework distinguishing between acceptable gifts (travel
   provisions and security assistance) and unacceptable ones (gratuitous wealth that
   implies corruption), reflecting Confucian values on integrity and self-sufficiency.

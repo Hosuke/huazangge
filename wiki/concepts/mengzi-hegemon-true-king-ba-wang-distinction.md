@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's distinction between rulers who govern through force (hegemon) and
   those who rule through virtue (true king).
 tags:

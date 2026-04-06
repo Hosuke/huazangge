@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A philosophical distinction in Zhuangzi between the physical body (form)
   and inner virtue, exemplified by deformed sages whose outer appearance differs from
   their inner perfection.

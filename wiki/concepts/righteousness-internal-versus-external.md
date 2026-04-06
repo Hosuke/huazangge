@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The classical Confucian debate about whether righteousness (義) originates
   from within or is determined by external circumstances
 tags:

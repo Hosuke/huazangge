@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A Buddhist sutra translated by Faju during the Western Jin dynasty, narrating
   the Buddha's past life stories of self-sacrifice and the merit of giving, including
   the breast-milk offering and tiger-feeding incidents.

@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's cyclical theory of history proposing that approximately every five
   hundred years a transformative sage king will emerge to restore proper governance.
 tags:

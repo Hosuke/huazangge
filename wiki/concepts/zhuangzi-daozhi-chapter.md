@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Zhuangzi Chapter 29 presents a fictional dialogue between Confucius and Robber
   Zhi, featuring radical critiques of Confucian morality, civilization, and social
   order.

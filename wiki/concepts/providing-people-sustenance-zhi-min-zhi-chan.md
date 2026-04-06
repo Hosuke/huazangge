@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius argued that benevolent government requires establishing the people's
   material welfare first—providing land, livestock, and education—because only those
   with stable livelihoods can develop constant virtue, making economic security the

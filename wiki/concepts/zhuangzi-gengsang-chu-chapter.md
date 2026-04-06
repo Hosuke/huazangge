@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Chapter 23 of Zhuangzi featuring the disciple Gengsang Chu's philosophy of
   self-preservation, his dialogue with Laozi on the "hygiene of life," and profound
   discussions of being and non-being.

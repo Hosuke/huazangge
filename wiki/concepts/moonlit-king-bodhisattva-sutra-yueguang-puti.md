@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A Mahayana sutra describing the past life of the Buddha as Moonlight King,
   who attained bodhisattva awakening through the perfection of giving by donating
   his head to a brahmin.

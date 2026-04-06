@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Qing Dynasty monk who authored a major commentary on the Mahayana Mind-Ground
   Contemplation Sutra, synthesizing Huayan and Tiantai classification systems.
 tags:

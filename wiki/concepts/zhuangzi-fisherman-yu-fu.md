@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A Zhuangzi chapter featuring a Daoist fisherman who teaches Confucius about
   authenticity (真), criticizing artificial ritual and social conventions while advocating
   naturalness and genuine sincerity.

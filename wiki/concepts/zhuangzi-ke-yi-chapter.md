@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Zhuangzi Chapter 15 explores five types of self-cultivation and advocates
   for the sage's path of tranquility, simplicity, and non-deliberate action.
 tags:

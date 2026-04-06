@@ -50,6 +50,7 @@
     "confucian-trust-verification",
     "仁愛",
     "benevolence",
+    "liji-aigong-wen-duke-ai-inquires",
     "bodhisattva-sacrifice-king-changshou",
     "confucian-political-philosophy",
     "confucian-ethics",
@@ -65,6 +66,7 @@
   "bodhisattva-path": [
     "miaose-wang-bodhisattva-sacrifice",
     "prince-mupo-sutra-mu-po-tai-zi",
+    "sumati-woman-buddhist-narrative",
     "prince-sudana-sutta-bodhisattva-generosity",
     "da-fangbian-fo-baoen-jing",
     "yue-ming-tongzi-moonlight-youth-bodhisattva-sutra",
@@ -84,15 +86,21 @@
     "miaose-wang-bodhisattva-sacrifice",
     "kangcangzi-ear-vision-eye-hearing",
     "understanding-heaven-knowing-fate-liezi",
+    "ruxing-confucian-conduct",
     "guanyinzi-chapter-nine",
+    "liji-aigong-wen-duke-ai-inquires",
     "guan-yinzi-chapter-three-sage-way",
     "mozi-suo-ran-being-infected",
+    "li-ji-guan-yi-meaning-capping-rite",
     "confucian-sincerity-cheng",
+    "wen-sang-mourning-staff-ji",
+    "lijineize-rites-inner-principles",
     "ultimate-wandering-observation-liezi",
     "mind-solidified-form-dissolved-liezi",
     "confucian-daoist-ease-difficulty-comparison-bao-puzi",
     "mozi-rejecting-confucians-fei-ru",
     "mozi-xiu-shen-self-cultivation",
+    "elderly-care-ran-yang-rites-records",
     "shang-tong-upper-unity-mozi",
     "cai-quan-er-de-bu-xing",
     "mozi-suo-ran-dyeing-influence",
@@ -182,6 +190,7 @@
     "guan-yinzi-chapter-three-sage-way",
     "ruo-min-weakening-the-people",
     "mozi-suo-ran-being-infected",
+    "li-ji-guan-yi-meaning-capping-rite",
     "儒家",
     "confucian-sincerity-cheng",
     "constellation-fate-determinism-bao-puzi",
@@ -257,6 +266,7 @@
     "benevolent-government-ren-zheng",
     "junzi",
     "confucius-analects",
+    "confucius-at-leisure-liji",
     "confucian-trust-verification",
     "zigong",
     "mengzi-haoran-qi-vast-flowing-vital-energy",
@@ -311,9 +321,12 @@
     "mengzi-seven-chapters-structural-analysis",
     "human-harmony-he-ren",
     "hao-bridge-debate-fish-happiness",
+    "ruxing-confucian-conduct",
+    "confucius-at-leisure-liji",
     "great-learning-daxue",
     "zhuangzi-ying-di-wang",
     "mengzi-seven-chapters-gongsun-chou-part-two",
+    "liji-aigong-wen-duke-ai-inquires",
     "tian-shi-di-li-ren-he",
     "xiao-jing-classic-of-filial-piety",
     "ruo-min-weakening-the-people",
@@ -423,6 +436,7 @@
     "mozi-jie-zang-frugal-burial",
     "shang-tong-identifying-with-superiors",
     "mozi-three-debates-music-governance",
+    "mozijing",
     "bu-xiang-ai",
     "shang-tong-reward-punishment-maf",
     "mozi-fei-ming-against-fatalism",
@@ -458,7 +472,9 @@
     "preventing-speech-damming-rivers",
     "mozi-three-debates-music-governance",
     "jian-de-zhi-guo",
+    "confucius-at-leisure-liji",
     "zhuangzi-ying-di-wang",
+    "liji-aigong-wen-duke-ai-inquires",
     "ruo-min-weakening-the-people",
     "born-in-adversity-die-in-comfort",
     "tian-xia-zhi-yi-righteousness-under-heaven",
@@ -487,8 +503,11 @@
     "five-hundred-years-sage-king-cycles",
     "doctrine-of-the-mean-(zhongyong)",
     "understanding-heaven-knowing-fate-liezi",
+    "confucius-at-leisure-liji",
     "great-learning-daxue",
     "guanyinzi-chapter-nine",
+    "liji-aigong-wen-duke-ai-inquires",
+    "li-ji-guan-yi-meaning-capping-rite",
     "confucius-western-saint-liezi",
     "confucian-sincerity-cheng",
     "doctrine-of-the-mean",
@@ -547,7 +566,14 @@
   ],
   "three-years-mourning": [
     "mozi-jie-zang-frugal-burial",
+    "sangfu-xiaoji-liji",
+    "liji-aigong-wen-duke-ai-inquires",
     "xiao-jing-classic-of-filial-piety",
+    "li-ji-guan-yi-meaning-capping-rite",
+    "li-ji-ben-sang-hurrying-to-mourning",
+    "sang-da-ji-funeral-rituals-liji",
+    "wen-sang-mourning-staff-ji",
+    "four-mourning-principles-liji-sangfu-sizhi",
     "mozi-rejecting-confucians-fei-ru",
     "mozi-jie-zang-funeral-simplicity"
   ],
@@ -560,6 +586,8 @@
   "confucian-ethics": [
     "mozi-jie-zang-frugal-burial",
     "junzi",
+    "mozijing",
+    "ruxing-confucian-conduct",
     "confucian-trust-verification",
     "seven-types-wives-buddhist-teaching",
     "benevolence",
@@ -569,11 +597,14 @@
     "human-nature",
     "mengzi-four-beginnings-siduan",
     "confucian-sincerity-cheng",
+    "wen-sang-mourning-staff-ji",
     "mengzi-ritual-food-debate",
     "mengzi-righteousness-profit-debate",
     "guan-yinzi-chapter-four-essence-spirit",
     "mozi-jie-yong-zhong-frugality-part-2",
+    "lijineize-rites-inner-principles",
     "yan-hui",
+    "four-mourning-principles-liji-sangfu-sizhi",
     "confucian-self-examination",
     "confucian-political-philosophy",
     "confucian-ethics",
@@ -585,6 +616,7 @@
   ],
   "mozi-jie-zang-frugal-burial": [
     "mozi-jie-zang-frugal-burial",
+    "mozijing",
     "mozi-sage-kings-burial-model",
     "mozi-rejecting-confucians-fei-ru"
   ],
@@ -842,6 +874,34 @@
   "nine-unnatural-deaths-buddhist": [
     "prince-mupo-sutra-mu-po-tai-zi"
   ],
+  "past-life-vow-buddhist-doctrine": [
+    "sumati-woman-buddhist-narrative"
+  ],
+  "four-noble-truths": [
+    "sumati-woman-buddhist-narrative",
+    "seven-types-wives-buddhist-teaching",
+    "human-immortal-sutra-ren-xian-jing",
+    "great-collection-dharma-gate-sutra",
+    "shang-tong-upper-unity-mozi",
+    "changahan-jing",
+    "shan-zi-sutra-filial-bodhisattva",
+    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
+  ],
+  "buddhist-karmic-continuity": [
+    "sumati-woman-buddhist-narrative"
+  ],
+  "宿世誓願": [
+    "sumati-woman-buddhist-narrative"
+  ],
+  "佛教因果報應": [
+    "sumati-woman-buddhist-narrative"
+  ],
+  "過去世の誓願": [
+    "sumati-woman-buddhist-narrative"
+  ],
+  "仏教的因果応報": [
+    "sumati-woman-buddhist-narrative"
+  ],
   "心地觀": [
     "心地法門"
   ],
@@ -946,7 +1006,9 @@
     "prince-sudana-sutta-bodhisattva-generosity",
     "confucian-trust-verification",
     "zigong",
+    "liji-aigong-wen-duke-ai-inquires",
     "xiao-jing-classic-of-filial-piety",
+    "li-ji-guan-yi-meaning-capping-rite",
     "erya-classic-chinese-glossary"
   ],
   "prince-sujata-story-bodhisattva-sacrifice": [
@@ -974,6 +1036,7 @@
     "great-learning-daxue",
     "mengzi-haoran-qi-vast-flowing-vital-energy",
     "benevolence",
+    "liji-aigong-wen-duke-ai-inquires",
     "mengzi-indomitable-heart-budongxin",
     "mengzi-four-beginnings-siduan",
     "great-qi-haoran-zhi-qi",
@@ -1051,8 +1114,10 @@
   "junzi": [
     "junzi",
     "confucius-analects",
+    "ruxing-confucian-conduct",
     "confucian-trust-verification",
     "seven-types-wives-buddhist-teaching",
+    "confucian-gender-roles-neize-education",
     "benevolence",
     "mozi-suo-ran-being-infected",
     "born-in-adversity-die-in-comfort",
@@ -1080,6 +1145,7 @@
     "junzi",
     "confucius-analects",
     "仁爱",
+    "ruxing-confucian-conduct",
     "仁者",
     "confucian-trust-verification",
     "仁愛",
@@ -1189,6 +1255,7 @@
   ],
   "doctrine-of-the-mean-zhongyong": [
     "xinzhai-heart-fasting",
+    "lijineize-rites-inner-principles",
     "ding-fen-determining-names-positions"
   ],
   "mind-as-organ-of-thought": [
@@ -1238,6 +1305,12 @@
     "human-immortal-sutra-ren-xian-jing",
     "seven-factors-awakening-an-shigao-commentary",
     "four-agamas-commentary-commentary-on-four-collections"
+  ],
+  "sheng-ren-zhi-dao-sages-way": [
+    "ruxing-confucian-conduct",
+    "guarding-practices-wenzi-guardianship",
+    "guanyinzi-chapter-seven-transformation",
+    "cautious-speech-conduct-liezi-shuofu"
   ],
   "jiao-xiang-e": [
     "bu-xiang-ai"
@@ -1319,6 +1392,15 @@
   "karma": [
     "bao-en-pin"
   ],
+  "great-learning-daxue": [
+    "confucius-at-leisure-liji",
+    "guanyinzi-chapter-nine",
+    "liji-aigong-wen-duke-ai-inquires",
+    "xiao-jing-classic-of-filial-piety",
+    "li-ji-guan-yi-meaning-capping-rite",
+    "great-qi-haoran-zhi-qi",
+    "non-attachment-guanyinzi"
+  ],
   "cai-yu-bu-cai-zhi-jian": [
     "wuyong-zhi-yong-usefulness-of-uselessness"
   ],
@@ -1343,6 +1425,7 @@
     "guanyinzi-chapter-nine",
     "born-in-adversity-die-in-comfort",
     "mozi-da-qu",
+    "wen-sang-mourning-staff-ji",
     "confucian-self-examination",
     "confucian-political-philosophy",
     "confucian-ethics",
@@ -1397,6 +1480,13 @@
     "the-lost-sheep-at-the-crossroads",
     "zhuangzi-heaven-earth-chapter"
   ],
+  "liji-book-of-rites": [
+    "sangfu-xiaoji-liji",
+    "li-ji-guan-yi-meaning-capping-rite"
+  ],
+  "ancestral-worship": [
+    "sangfu-xiaoji-liji"
+  ],
   "mozijing-sage-kings": [
     "mozi-sage-kings-burial-model"
   ],
@@ -1406,6 +1496,8 @@
   "xiao-jing-classic-of-filial-piety": [
     "da-fangbian-fo-baoen-jing",
     "xiao-jing-classic-of-filial-piety",
+    "li-ji-guan-yi-meaning-capping-rite",
+    "wen-sang-mourning-staff-ji",
     "erya-classic-chinese-glossary",
     "shan-zi-sutra-filial-bodhisattva"
   ],
@@ -1440,6 +1532,9 @@
     "confucian-ethics",
     "five-virtues-four-vices",
     "knowing-destiny-rites-words"
+  ],
+  "da-fangbian-fo-baoen-jing": [
+    "ba-en-pin"
   ],
   "道徳責任": [
     "仁愛"
@@ -1524,15 +1619,6 @@
     "seven-types-wives-buddhist-teaching",
     "thirty-seven-bodhiparamitas-an-shigao-commentary"
   ],
-  "four-noble-truths": [
-    "seven-types-wives-buddhist-teaching",
-    "human-immortal-sutra-ren-xian-jing",
-    "great-collection-dharma-gate-sutra",
-    "shang-tong-upper-unity-mozi",
-    "changahan-jing",
-    "shan-zi-sutra-filial-bodhisattva",
-    "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
-  ],
   "upāya-expedient-means-buddhism": [
     "seven-types-wives-buddhist-teaching",
     "you-ai-gu-sheng-you-you-yin-ai-gu-sheng-kong"
@@ -1547,6 +1633,7 @@
   ],
   "mengzi-political-philosophy-benevolent-rule": [
     "zhuangzi-ying-di-wang",
+    "liji-aigong-wen-duke-ai-inquires",
     "ruo-min-weakening-the-people",
     "shang-xian-exalting-worthy",
     "bo-chengzi-gao-zhuangzi",
@@ -1690,12 +1777,6 @@
   "confucian-trust-verification": [
     "guanyinzi-chapter-nine",
     "confucian-ethics"
-  ],
-  "great-learning-daxue": [
-    "guanyinzi-chapter-nine",
-    "xiao-jing-classic-of-filial-piety",
-    "great-qi-haoran-zhi-qi",
-    "non-attachment-guanyinzi"
   ],
   "dao-the-way-taois": [
     "guanyinzi-chapter-nine"
@@ -1879,6 +1960,9 @@
   "墨子天志": [
     "mozi-suo-ran-being-infected"
   ],
+  "li-ji-book-of-rites": [
+    "li-ji-guan-yi-meaning-capping-rite"
+  ],
   "bodhisattva-sacrifice": [
     "miaose-wang-yinyuan-jing"
   ],
@@ -1938,11 +2022,6 @@
     "guan-yinzi-chapter-nine-medicinal-treatment",
     "cautious-speech-conduct-liezi-shuofu"
   ],
-  "sheng-ren-zhi-dao-sages-way": [
-    "guarding-practices-wenzi-guardianship",
-    "guanyinzi-chapter-seven-transformation",
-    "cautious-speech-conduct-liezi-shuofu"
-  ],
   "pratyekabuddha": [
     "nirodha-samapatti",
     "mahakasyapa-buddhist-disciple-collected-sutras"
@@ -1970,8 +2049,32 @@
   "moz-three-debates-music-governance": [
     "shang-xian-exalting-worthy"
   ],
+  "liji-aigong-wen-duke-ai-inquires": [
+    "li-ji-ben-sang-hurrying-to-mourning",
+    "sang-da-ji-funeral-rituals-liji"
+  ],
+  "wen-sang-mourning-staff-ji": [
+    "li-ji-ben-sang-hurrying-to-mourning",
+    "sang-da-ji-funeral-rituals-liji",
+    "four-mourning-principles-liji-sangfu-sizhi"
+  ],
+  "four-mourning-principles-liji-sangfu-sizhi": [
+    "li-ji-ben-sang-hurrying-to-mourning"
+  ],
+  "lijineize-rites-inner-principles": [
+    "li-ji-ben-sang-hurrying-to-mourning",
+    "wen-sang-mourning-staff-ji",
+    "five-priorities-governance-daxizhuan"
+  ],
+  "儒家的音乐观": [
+    "li-ji-ben-sang-hurrying-to-mourning"
+  ],
+  "儒家の音乐观": [
+    "li-ji-ben-sang-hurrying-to-mourning"
+  ],
   "xinzhai-heart-fasting": [
-    "xu-ji-yi-you-shi"
+    "xu-ji-yi-you-shi",
+    "關尹子"
   ],
   "righteousness-internal-versus-external": [
     "xu-ji-yi-you-shi"
@@ -2138,6 +2241,15 @@
   ],
   "san-shi-shen-three-corpses": [
     "shou-yi-zhi-dao-guarding-the-one"
+  ],
+  "confucian-rituals": [
+    "sang-da-ji-funeral-rituals-liji"
+  ],
+  "儒家礼仪": [
+    "sang-da-ji-funeral-rituals-liji"
+  ],
+  "問喪": [
+    "sang-da-ji-funeral-rituals-liji"
   ],
   "brahma-realm": [
     "brahma-fourfold-teaching"
@@ -2327,7 +2439,8 @@
   "無為": [
     "dao-the-way-taoism",
     "sheng-ren-zhi-dao-sages-way",
-    "ji-shengzi-fighting-roosters-liezi"
+    "ji-shengzi-fighting-roosters-liezi",
+    "關尹子"
   ],
   "philology-xunxue": [
     "erya-classic-chinese-glossary"
@@ -2401,14 +2514,13 @@
   "mozi-defending-city-walls-beichengmen": [
     "mozi-defending-city-walls-beichengmen"
   ],
-  "guan-yin-zi": [
-    "sheng-ren-zhi-dao-sages-way"
-  ],
   "無為而治": [
-    "sheng-ren-zhi-dao-sages-way"
+    "sheng-ren-zhi-dao-sages-way",
+    "關尹子"
   ],
   "自然": [
-    "sheng-ren-zhi-dao-sages-way"
+    "sheng-ren-zhi-dao-sages-way",
+    "關尹子"
   ],
   "four-foundations-mindfulness-an-shigao-commentary": [
     "four-right-exertions-an-shigao-commentary",
@@ -2457,6 +2569,9 @@
   ],
   "ruo-min-weak-people-doctrine": [
     "lai-min-attracting-people"
+  ],
+  "sang-da-ji-funeral-rituals-liji": [
+    "four-mourning-principles-liji-sangfu-sizhi"
   ],
   "seven-factors-of-enlightenment": [
     "great-collection-dharma-gate-sutra"
@@ -2835,6 +2950,9 @@
   ],
   "墨子政治哲学": [
     "mozi-xiu-shen-self-cultivation"
+  ],
+  "heart-mind-moral-cultivation-mengzi": [
+    "elderly-care-ran-yang-rites-records"
   ],
   "jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra": [
     "shang-tong-upper-unity-mozi"

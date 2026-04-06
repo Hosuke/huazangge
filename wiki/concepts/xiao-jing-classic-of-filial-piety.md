@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The Classic of Filial Piety (Xiaojing) is a Confucian text outlining the
   principles and practices of filial piety, existing in two main textual traditions.
 tags:

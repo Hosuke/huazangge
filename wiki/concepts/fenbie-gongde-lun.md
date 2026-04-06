@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Buddhist treatise explaining the merits of arhats, the Buddha's disciples,
   and the compilation of the Three Treasuries.
 tags:

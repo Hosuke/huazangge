@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A key chapter from Zhuangzi exploring the nature of the Way, governance through
   non-action, and the corruption of innate nature through artificiality.
 tags:

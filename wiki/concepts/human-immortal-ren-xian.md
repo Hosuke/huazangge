@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A celestial being who is the son of Vaisravana (毘沙門天王) and serves as a messenger
   revealing the karmic fate of King Bimbisara.
 tags:

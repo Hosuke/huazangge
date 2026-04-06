@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The Dao De Jing Silk Manuscript presents the earliest complete version of
   Laozi's text, with its distinctive chapter ordering placing virtue before the Way.
 tags:

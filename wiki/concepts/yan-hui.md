@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Confucius's most beloved disciple, renowned for his wisdom, virtue, and contentment
   in poverty
 tags:

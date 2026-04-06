@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: The parable in Zhuangzi where well-intentioned intervention by 儵 and 忽 destroys
   the natural simplicity of 渾沌, illustrating the dangers of artificial interference
   with natural states.

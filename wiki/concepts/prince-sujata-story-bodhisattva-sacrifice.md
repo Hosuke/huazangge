@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: The narrative of Prince Sūjāta who offered his own flesh to feed his starving
   parents, serving as the central exemplum of filial piety and compassionate self-sacrifice
   in Mahayana Buddhism.

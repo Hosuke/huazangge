@@ -1,4 +1,10 @@
 ---
+sources:
+- book: 孟子
+  chapter: 公孫丑上Gong Sun Chou I
+  plugin: classical_text
+  title: 孟子 · 公孫丑上Gong Sun Chou I
+  url: https://ctext.org/mengzi/gong-sun-chou-i/zh
 summary: Mencius' argument that rulers should be persuaded through benevolence and
   righteousness rather than profit, with profound implications for political philosophy.
 tags:

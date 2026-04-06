@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: Ancient China. The Shoo king, or the historical classic; being the most ancient
+    authentic record of the annals of the Chinese Empire (p.241-270)
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/尚书-Shoo_King-Ancient_China.pdf
 summary: The Liezi doctrine of cyclical transformation through which all species interconvert
   across an intricate chain of metamorphoses.
 tags:

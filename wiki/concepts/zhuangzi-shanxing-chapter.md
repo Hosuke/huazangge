@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A chapter discussing the rectification of nature through stillness and naturalness,
   contrasting worldly learning with returning to original spontaneity, and analyzing
   the historical decline of the Dao.

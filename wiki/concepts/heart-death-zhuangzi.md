@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The Zhuangzi concept that spiritual death (heart death) is greater than physical
   death, representing loss of true nature and spontaneity.
 tags:

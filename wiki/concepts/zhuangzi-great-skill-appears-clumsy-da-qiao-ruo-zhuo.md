@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A famous Zhuangzi paradox stating that true mastery looks awkward or clumsy,
   while apparent skill invites theft and competition.
 tags:

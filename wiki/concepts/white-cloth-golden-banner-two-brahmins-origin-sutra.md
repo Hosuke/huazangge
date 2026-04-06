@@ -1,6 +1,10 @@
 ---
 merged_from:
 - baiyi-jinzhuang-brahmin-origin-sutra
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Buddhist sutra recounting the renunciation of two Brahmins and presenting
   a Buddhist cosmology of human social origins.
 tags:

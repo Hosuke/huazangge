@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mozi's chapter on the dyeing metaphor illustrating how environmental influence
   shapes character, applied to state governance and personal cultivation.
 tags:

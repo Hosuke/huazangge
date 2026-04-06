@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T18:33:08.532517+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The opening chapter of the Analects emphasizing the importance of continuous
   learning, review, and friendship in personal cultivation.
 tags:

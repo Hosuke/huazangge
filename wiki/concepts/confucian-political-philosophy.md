@@ -1,5 +1,9 @@
 ---
 created: '2026-04-04T19:18:19.466693+00:00'
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Confucius' teachings on governance, social order, and the proper exercise
   of power
 tags:

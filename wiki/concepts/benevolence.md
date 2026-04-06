@@ -3,6 +3,10 @@ created: '2026-04-04T18:21:15.823218+00:00'
 merged_from:
 - internal-benevolence-external-righteousness-debate
 - ren
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Discusses the foundational role of benevolence in Confucian ethics and its
   implications for interpersonal relationships and governance.
 tags:

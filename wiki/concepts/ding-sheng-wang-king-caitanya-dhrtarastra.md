@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: King Ding Sheng is a bodhisattva incarnation who was born from his father's
   crown, practiced generous giving, conquered the four continents, and ascended through
   the thirty-three heavens, illustrating Buddhist teachings on merit and the dangers

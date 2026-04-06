@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: Chapter 3 of the Daoist classic Guān Yǐnzǐ explores the sage's governance
   through non-action, the doctrine of non-self, and the inexpressibility of the Dao.
 tags:

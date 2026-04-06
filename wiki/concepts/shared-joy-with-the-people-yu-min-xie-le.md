@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Mencius's principle that rulers should share enjoyment with the people, not
   hoard pleasures for themselves.
 tags:

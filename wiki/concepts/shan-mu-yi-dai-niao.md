@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The story of the humble, non-competitive Yi Dai bird in Zhuangzi's Mountain
   Trees chapter, illustrating the Daoist path of safety through humility and non-distinction.
 tags:

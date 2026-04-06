@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: 'A Buddhist sutra teaching that providing food to others generates five types
   of blessings: life, complexion, strength, peace, and eloquence.'
 tags:

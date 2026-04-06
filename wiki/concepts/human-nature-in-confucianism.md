@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: An overview of the Confucian concept of human nature (xing) and its implications
   for moral cultivation.
 tags:

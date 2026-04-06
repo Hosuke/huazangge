@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: cbeta
+  title: CBETA 大藏經
+  url: https://cbetaonline.dila.edu.tw
 summary: A Mahayana sutra teaching the doctrine of repaying the Four Kindnesses through
   filial piety and bodhisattva practice.
 tags:

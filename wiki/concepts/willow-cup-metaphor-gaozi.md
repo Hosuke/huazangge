@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Gaozi's philosophical metaphor comparing human nature to willow wood that
   must be coerced into artificial forms, critiqued by Mencius.
 tags:

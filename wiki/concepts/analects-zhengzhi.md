@@ -1,5 +1,11 @@
 ---
 created: '2026-04-05T04:36:22.910040+00:00'
+sources:
+- book: 论语
+  chapter: 为政
+  plugin: classical_text
+  title: 论语 · 为政
+  url: https://ctext.org/analects/wei-zheng/zh
 summary: Examination of Confucius' principles of governance as outlined in the Analects.
 tags:
 - confucius

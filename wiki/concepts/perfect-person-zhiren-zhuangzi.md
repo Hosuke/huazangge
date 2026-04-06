@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The highest ideal in Daoist cultivation - one who attains utmost beauty and
   joy by wandering freely beyond all transformations and attachments.
 tags:

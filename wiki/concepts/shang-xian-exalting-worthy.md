@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A core Mohist political doctrine emphasizing that rulers should promote individuals
   of virtue and talent regardless of their social background, making worthy officials
   the foundation of good governance.

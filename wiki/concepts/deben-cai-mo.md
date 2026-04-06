@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: A Confucian economic ethics principle stating that virtue is the foundation
   of prosperity and that material wealth should never be prioritized over moral rectitude.
 tags:

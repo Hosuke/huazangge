@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: Shang Tong is Mozi's political doctrine advocating hierarchical unity of
   thought under proper authority to achieve social order.
 tags:

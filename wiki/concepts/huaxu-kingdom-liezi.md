@@ -1,4 +1,8 @@
 ---
+sources:
+- plugin: wikisource
+  title: 維基文庫
+  url: https://zh.wikisource.org
 summary: The Yellow Emperor's dream of the utopian Huaxu Kingdom and his subsequent
   enlightened reign, illustrating the Daoist ideal of natural governance through non-action.
 tags:

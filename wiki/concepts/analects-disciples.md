@@ -1,5 +1,11 @@
 ---
 created: '2026-04-04T19:24:43.996645+00:00'
+sources:
+- book: 论语
+  chapter: 为政
+  plugin: classical_text
+  title: 论语 · 为政
+  url: https://ctext.org/analects/wei-zheng/zh
 summary: Notable disciples appearing in Confucius's Analects
 tags:
 - analects

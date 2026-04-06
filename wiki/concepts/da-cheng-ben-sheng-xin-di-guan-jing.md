@@ -1,6 +1,11 @@
 ---
 merged_from:
 - mahayana-mind-ground-contemplation-sutra-dacheng-bensheng-xindi-guan-jing
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: A major Mahāyāna Buddhist sutra translated into Chinese during the Tang dynasty,
   teaching the cultivation of the mind-ground and repaying the four kinds of kindness.
 tags:

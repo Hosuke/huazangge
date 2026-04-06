@@ -1,4 +1,9 @@
 ---
+sources:
+- plugin: pdf
+  title: 'The four books : Confucian analects, the great learning, the doctrine of
+    the mean, and the works of Mencius (p.481-510)'
+  url: /Users/hosuke/Connector/Agentic_Expt/huazangge/raw/四书-Four_Books-Legge.pdf
 summary: Chapter Six of Guanyinzi explores the nature of self through dream analysis,
   form transformation, and the dissolution of subject-object distinctions, presenting
   core Daoist concepts of self-cultivation.
