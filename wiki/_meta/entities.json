@@ -3,176 +3,14 @@
     {
       "name": "Confucius",
       "name_local": "孔子",
-      "dates": null,
-      "role": "Philosopher",
+      "dates": "c.551-479 BCE",
+      "role": "Philosopher, Teacher",
       "articles": [
         "analects-disciples",
         "analects-xue-er",
-        "analects-zhengzhi"
-      ]
-    },
-    {
-      "name": "Mencius",
-      "name_local": "孟子",
-      "dates": null,
-      "role": "Philosopher",
-      "articles": [
-        "agricultural-foundation",
-        "benevolent-government-ren-zheng",
-        "born-in-adversity-die-in-comfort"
-      ]
-    },
-    {
-      "name": "An Shigao",
-      "name_local": "安世高",
-      "dates": null,
-      "role": "Buddhist Translator",
-      "articles": [
-        "an-shigao-seven-places-three-contemplations",
-        "an-shigao-translated-agama-zhengxing-sutra",
-        "an-shigao-translation-methodology"
-      ]
-    },
-    {
-      "name": "Ananda",
-      "name_local": "阿難",
-      "dates": null,
-      "role": "Buddha's Attendant",
-      "articles": [
-        "ananda-compiled-scriptures"
-      ]
-    },
-    {
-      "name": "Ge Hong",
-      "name_local": "葛洪",
-      "dates": null,
-      "role": "Daoist Alchemist",
-      "articles": [
-        "baopuzi-chapter-14-golden-elixir-only-path",
-        "baopuzi-chapter-14-importance-of-seeking-master",
-        "baopuzi-chapter-14-life-brevity-calculation",
-        "baopuzi-critique-false-deities-folk-religion",
-        "baopuzi-immortality-debate",
-        "baopuzi-jiu-dan-nine-elixirs",
-        "baopuzi-selecting-daoist-texts",
-        "baopuzi-volume-15-grain-fasting",
-        "baopuzi-volume-17-mountain-entry",
-        "baopuzi-volume-19-daoist-scriptures-catalog",
-        "baopuzi-yellow-white-alchemy"
-      ]
-    },
-    {
-      "name": "Zhuangzi",
-      "name_local": "莊子",
-      "dates": null,
-      "role": "Philosopher",
-      "articles": [
-        "beigongzi-ximenzi-virtue-fate-liezi",
-        "cai-quan-er-de-bu-xing",
-        "cai-yu-bu-cai-zhi-jian",
-        "chongyan-revered-discourse-zhuangzi",
-        "bo-chengzi-gao-zhuangzi"
-      ]
-    },
-    {
-      "name": "Liezi",
-      "name_local": "列子",
-      "dates": null,
-      "role": "Philosopher",
-      "articles": [
-        "beigongzi-ximenzi-virtue-fate-liezi",
-        "cautious-speech-conduct-liezi-shuofu",
-        "cicada-catcher-concentration-liezi"
-      ]
-    },
-    {
-      "name": "Mozi",
-      "name_local": "墨子",
-      "dates": null,
-      "role": "Philosopher",
-      "articles": [
-        "bu-xiang-ai"
-      ]
-    },
-    {
-      "name": "King Bimbisara",
-      "name_local": "頻婆娑羅王",
-      "dates": null,
-      "role": "King of Magadha",
-      "articles": [
-        "bimbisara-king-magadha-ren-xian"
-      ]
-    },
-    {
-      "name": "King Changshou",
-      "name_local": "長壽王",
-      "dates": null,
-      "role": "Bodhisattva King",
-      "articles": [
-        "bodhisattva-sacrifice-king-changshou"
-      ]
-    },
-    {
-      "name": "Prince Chandana",
-      "name_local": "栴檀",
-      "dates": null,
-      "role": "Bodhisattva Prince",
-      "articles": [
-        "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
-      ]
-    },
-    {
-      "name": "Beigongzi",
-      "name_local": "北宮子",
-      "dates": null,
-      "role": "Hermit",
-      "articles": [
-        "beigongzi-ximenzi-virtue-fate-liezi"
-      ]
-    },
-    {
-      "name": "Ximenzi",
-      "name_local": "西門子",
-      "dates": null,
-      "role": "Figure in Liezi",
-      "articles": [
-        "beigongzi-ximenzi-virtue-fate-liezi"
-      ]
-    },
-    {
-      "name": "Bo Chengzi Gao",
-      "name_local": "伯成子高",
-      "dates": null,
-      "role": "Hermit",
-      "articles": [
-        "bo-chengzi-gao-zhuangzi"
-      ]
-    },
-    {
-      "name": "Chaou K'e",
-      "name_local": "趙岐",
-      "dates": null,
-      "role": "Han Dynasty Scholar",
-      "articles": [
-        "chaou-ke"
-      ]
-    },
-    {
-      "name": "Mahabrahma",
-      "name_local": "梵天王",
-      "dates": null,
-      "role": "Brahma Deity",
-      "articles": [
-        "brahma-fourfold-teaching"
-      ]
-    },
-    {
-      "name": "Confucius",
-      "name_local": "孔子",
-      "dates": "c.551-479 BCE",
-      "role": "Philosopher",
-      "articles": [
+        "analects-zhengzhi",
         "confucian-ethics",
+        "confucian-gender-roles-neize-education",
         "confucian-music-yue",
         "confucian-political-philosophy",
         "confucian-self-cultivation",
@@ -180,13 +18,28 @@
         "confucian-sincerity-cheng",
         "confucian-trust-verification",
         "confucius-analects",
+        "confucius-at-leisure-liji",
         "confucius-etiquette-xiang-dang",
         "confucius-western-saint-liezi",
+        "doctrine-of-the-mean",
         "doctrine-of-the-mean-(zhongyong)",
         "doctrine-of-the-mean-zhongyong",
-        "doctrine-of-the-mean",
-        "elderly-care-ran-yang-rites-records",
-        "extending-kindness-pushing-grace-tui-en"
+        "five-virtues-four-vices",
+        "four-mourning-principles-liji-sangfu-sizhi",
+        "governance-virtue-de",
+        "great-learning-daxue",
+        "human-harmony-he-ren",
+        "junzi",
+        "knowing-destiny-rites-words",
+        "learning-attitude-analects",
+        "liji-aigong-wen-duke-ai-inquires",
+        "liji-dahen-great-wedding-ritual",
+        "yan-hui",
+        "zhongni-yanji-ritual-teaching-liji",
+        "zigong",
+        "zilu",
+        "儒家",
+        "子貢"
       ]
     },
     {
@@ -195,609 +48,22 @@
       "dates": "c.372-289 BCE",
       "role": "Philosopher",
       "articles": [
+        "agricultural-foundation",
+        "benevolent-government-ren-zheng",
+        "born-in-adversity-die-in-comfort",
         "confucian-ethics",
-        "confucian-political-philosophy",
         "de-dao-zhe-duo-zhu-shi-dao-zhe-gua-zhu",
-        "extending-kindness-pushing-grace-tui-en"
-      ]
-    },
-    {
-      "name": "Zhuangzi",
-      "name_local": "莊子",
-      "dates": "c.369-286 BCE",
-      "role": "Philosopher",
-      "articles": [
-        "de-yi-wang-yan-zhuangzi",
-        "dream-reality-confusion-liezi",
-        "dao-the-way-taoism"
-      ]
-    },
-    {
-      "name": "Liezi",
-      "name_local": "列子",
-      "dates": "c.4th century BCE",
-      "role": "Philosopher",
-      "articles": [
-        "confucius-western-saint-liezi",
-        "dream-reality-confusion-liezi",
-        "eight-testings-six-omens-liezi"
-      ]
-    },
-    {
-      "name": "Laozi",
-      "name_local": "老子",
-      "dates": "c.6th century BCE",
-      "role": "Philosopher",
-      "articles": [
-        "dao-de-jing-complete",
-        "dao-de-jing-silk-manuscript",
-        "dao-the-way-taoism"
-      ]
-    },
-    {
-      "name": "Bao Puzi",
-      "name_local": "抱朴子",
-      "dates": "c.283-343 CE",
-      "role": "Philosopher",
-      "articles": [
-        "confucian-daoist-ease-difficulty-comparison-bao-puzi",
-        "constellation-fate-determinism-bao-puzi",
-        "dao-ben-ru-mo-dao-as-root-confucianism-as-branch"
-      ]
-    },
-    {
-      "name": "Fajü",
-      "name_local": "法炬",
-      "dates": "3rd century CE",
-      "role": "Buddhist Monk and Translator",
-      "articles": [
-        "fa-ju-monk"
-      ]
-    },
-    {
-      "name": "Divākara",
-      "name_local": "地婆诃羅",
-      "dates": "7th century CE",
-      "role": "Buddhist Monk and Translator",
-      "articles": [
-        "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
-      ]
-    },
-    {
-      "name": "Guanyinzi",
-      "name_local": "關尹子",
-      "dates": "c.4th century BCE",
-      "role": "Philosophical Author",
-      "articles": [
-        "consciousness-recognition-guan-yin-zi",
-        "dream-reality-self-guan-yin-zi"
-      ]
-    },
-    {
-      "name": "Dragon King (Naga)",
-      "name_local": "慈心龍王",
-      "dates": null,
-      "role": "Mythological Figure",
-      "articles": [
-        "compassionate-dragon-king-naga"
-      ]
-    },
-    {
-      "name": "Dongmen Wu",
-      "name_local": "東門吳",
-      "dates": "Warring States period",
-      "role": "Figure in Confucian Narrative",
-      "articles": [
-        "dongmen-wu-grieflessness"
-      ]
-    },
-    {
-      "name": "Prince Deguang",
-      "name_local": "德光太子",
-      "dates": null,
-      "role": "Buddhist Figure",
-      "articles": [
-        "deguang-taizi-jing-sutra"
-      ]
-    },
-    {
-      "name": "King Ding Sheng",
-      "name_local": "頂生王",
-      "dates": null,
-      "role": "Bodhisattva",
-      "articles": [
-        "ding-sheng-wang-king-caitanya-dhrtarastra",
-        "ding-sheng-wang-king-mahadyuti-origin-karma",
-        "ding-sheng-wang-yinyuan-jing"
-      ]
-    },
-    {
-      "name": "Mozi",
-      "name_local": "墨子",
-      "dates": "c.470-391 BCE",
-      "role": "Philosopher",
-      "articles": [
-        "fei-gong-against-attack-mozi"
-      ]
-    },
-    {
-      "name": "Lord Shang",
-      "name_local": "商鞅",
-      "dates": "c.390-338 BCE",
-      "role": "Legalist Reformer",
-      "articles": [
-        "first-principle-shangjun-shu",
-        "five-categories-people-wumin-shangjunshu",
-        "four-battle-states-shangjun-shu"
-      ]
-    },
-    {
-      "name": "An Shigao",
-      "name_local": "安世高",
-      "dates": "fl. 2nd century CE",
-      "role": "Buddhist Translator",
-      "articles": [
-        "five-aggregates-seven-aspects-an-shigao",
-        "five-roots-five-powers-an-shigao-commentary",
-        "four-foundations-mindfulness-an-shigao-commentary",
-        "four-right-exertions-an-shigao-commentary"
-      ]
-    },
-    {
-      "name": "Mencius",
-      "name_local": "孟子",
-      "dates": "c.372-289 BCE",
-      "role": "Confucian Philosopher",
-      "articles": [
+        "extending-kindness-pushing-grace-tui-en",
         "five-hundred-years-sage-king-cycles",
         "fixed-livelihood",
         "four-beginnings-si-duan",
-        "great-body-small-body-mencius"
-      ]
-    },
-    {
-      "name": "Confucius",
-      "name_local": "孔子",
-      "dates": "551-479 BCE",
-      "role": "Confucian Philosopher",
-      "articles": [
-        "five-virtues-four-vices",
-        "governance-virtue-de"
-      ]
-    },
-    {
-      "name": "Liezi",
-      "name_local": "列子",
-      "dates": "c.5th century BCE",
-      "role": "Taoist Philosopher",
-      "articles": [
-        "fengshi-son-perceptual-inversion-liezi",
-        "force-fate-debate-liezi",
-        "four-kingdoms-sleep-dream-liezi",
-        "four-permutations-fate-liezi",
-        "four-stages-life-liezi-tianrui",
-        "gong-yibo-strength-liezi"
-      ]
-    },
-    {
-      "name": "Siddhartha Gautama",
-      "name_local": "悉達多",
-      "dates": "c.563-483 BCE",
-      "role": "Historical Buddha",
-      "articles": [
-        "four-bases-supernatural-power-siddhartha"
-      ]
-    },
-    {
-      "name": "Ge Hong",
-      "name_local": "葛洪",
-      "dates": "283-343 CE",
-      "role": "Taoist Alchemist",
-      "articles": [
-        "fuyao-shijie-medicine-timing-baopuzi"
-      ]
-    },
-    {
-      "name": "Gengsang Chu",
-      "name_local": "庚桑楚",
-      "dates": "c.4th century BCE",
-      "role": "Zhuangzi Disciple",
-      "articles": [
-        "gengsang-chu-zhuangzi"
-      ]
-    },
-    {
-      "name": "Gong Yibo",
-      "name_local": "公儀伯",
-      "dates": "c.5th century BCE",
-      "role": "Official",
-      "articles": [
-        "gong-yibo-strength-liezi"
-      ]
-    },
-    {
-      "name": "Guanyinzi",
-      "name_local": "關尹子",
-      "dates": "c.5th century BCE",
-      "role": "Taoist Master",
-      "articles": [
-        "five-elements-transformation-mind-guanyinzi"
-      ]
-    },
-    {
-      "name": "Five Ascetics",
-      "name_local": "五仙人",
-      "dates": "unknown",
-      "role": "Buddhist Ascetics",
-      "articles": [
-        "five-ascetics-seven-śrāvaka-buddhist-narrative"
-      ]
-    },
-    {
-      "name": "Georgi Gerganov",
-      "name_local": null,
-      "dates": "21st century",
-      "role": "Software Developer",
-      "articles": [
-        "gguf-model-format"
-      ]
-    },
-    {
-      "name": "Mencius",
-      "name_local": "孟子",
-      "dates": "c.372-289 BCE",
-      "role": "Confucian Philosopher",
-      "articles": [
+        "great-body-small-body-mencius",
         "great-qi-haoran-zhi-qi",
-        "guan-bao-friendship-liezi",
         "han-dynasty-mencius-reception",
         "heart-mind-moral-cultivation-mengzi",
-        "human-nature-in-confucianism",
         "human-nature-is-good",
-        "human-nature-mencius-debate"
-      ]
-    },
-    {
-      "name": "Zhuangzi",
-      "name_local": "莊子",
-      "dates": "c.369-286 BCE",
-      "role": "Daoist Philosopher",
-      "articles": [
-        "hao-bridge-debate-fish-happiness",
-        "heart-death-zhuangzi",
-        "hu-zi-huzi-zhuangzi",
-        "hubin-wheelmaking-discourse-zhuangzi",
-        "hun-tun-chaos-death-zhuangzi"
-      ]
-    },
-    {
-      "name": "Confucius",
-      "name_local": "孔子",
-      "dates": "c.551-479 BCE",
-      "role": "Confucian Philosopher",
-      "articles": [
-        "great-learning-daxue",
-        "guan-bao-friendship-liezi",
-        "heart-mind-moral-cultivation-mengzi",
-        "human-nature-in-confucianism",
-        "human-nature-is-good",
-        "investigating-things-extending-knowledge-gewu-zhizhi"
-      ]
-    },
-    {
-      "name": "Yellow Emperor",
-      "name_local": "黃帝",
-      "dates": "c.2697-2597 BCE",
-      "role": "Legendary Ruler",
-      "articles": [
-        "huaxu-dream-liezi",
-        "huaxu-kingdom-liezi"
-      ]
-    },
-    {
-      "name": "Guan Zhong",
-      "name_local": "管仲",
-      "dates": "c.720-645 BCE",
-      "role": "Statesman of Qi",
-      "articles": [
-        "guan-bao-friendship-liezi"
-      ]
-    },
-    {
-      "name": "Bao Shuya",
-      "name_local": "鮑叔牙",
-      "dates": "c.700-644 BCE",
-      "role": "Noble of Qi",
-      "articles": [
-        "guan-bao-friendship-liezi"
-      ]
-    },
-    {
-      "name": "Hui Shi",
-      "name_local": "惠施",
-      "dates": "c.370-310 BCE",
-      "role": "Philosopher and Logician",
-      "articles": [
-        "hao-bridge-debate-fish-happiness"
-      ]
-    },
-    {
-      "name": "Guanyinzi",
-      "name_local": "關尹子",
-      "dates": "c.5th-4th century BCE",
-      "role": "Daoist Master",
-      "articles": [
-        "guan-yinzi-chapter-eight-transcendence",
-        "guan-yinzi-chapter-five-mind-intention-nature",
-        "guan-yinzi-chapter-four-essence-spirit",
-        "guan-yinzi-chapter-four-spirit-five-elements",
-        "guan-yinzi-chapter-nine-medicinal-treatment",
-        "guan-yinzi-chapter-six-self-cultivation",
-        "guan-yinzi-chapter-three-sage-way",
-        "guany-yinzi-second-chapter-cosmic-principles",
-        "guanyinzi-chapter-eight",
-        "guanyinzi-chapter-five-mind-transformation",
-        "guanyinzi-chapter-nine",
-        "guanyinzi-chapter-seven-transformation",
-        "guanyinzi-chapter-six-self-transformation",
-        "guanyinzi-chapter-three",
-        "guanyinzi-chapter-two"
-      ]
-    },
-    {
-      "name": "Wenzi",
-      "name_local": "文子",
-      "dates": "c.4th-3rd century BCE",
-      "role": "Daoist Philosopher",
-      "articles": [
-        "guarding-emptiness-void-wenzi-xu",
-        "guarding-practices-wenzi-guardianship",
-        "guarding-stillness-wenzi-jing"
-      ]
-    },
-    {
-      "name": "Huzi",
-      "name_local": "壺子",
-      "dates": "c.4th century BCE",
-      "role": "Daoist Master",
-      "articles": [
-        "hu-zi-huzi-zhuangzi"
-      ]
-    },
-    {
-      "name": "Shang Yang",
-      "name_local": "商鞅",
-      "dates": "c.390-338 BCE",
-      "role": "Legalist Reformer",
-      "articles": [
-        "hua-ce-strategic-planning"
-      ]
-    },
-    {
-      "name": "Ji Shengzi",
-      "name_local": "紀渻子",
-      "dates": "c.4th century BCE",
-      "role": "Spiritual Master of Cockfighting",
-      "articles": [
-        "ji-shengzi-fighting-roosters-liezi"
-      ]
-    },
-    {
-      "name": "Shakyamuni Buddha",
-      "name_local": "釋迦牟尼佛",
-      "dates": "c.563-483 BCE",
-      "role": "Founder of Buddhism",
-      "articles": [
-        "great-firm-brahman-backstory",
-        "great-firm-brahman",
-        "great-firm-brahmin-origin-sutra",
-        "human-immortal-sutra-foshuo-renxian-jing",
-        "human-immortal-sutra-ren-xian-jing",
-        "jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra"
-      ]
-    },
-    {
-      "name": "King Linu",
-      "name_local": "琉璃王",
-      "dates": "c.5th-4th century BCE",
-      "role": "Buddhist King",
-      "articles": [
-        "great-firm-brahman-backstory"
-      ]
-    },
-    {
-      "name": "Minister Hum",
-      "name_local": "大臣名含",
-      "dates": "c.5th-4th century BCE",
-      "role": "Minister in Buddhist Narrative",
-      "articles": [
-        "great-firm-brahman"
-      ]
-    },
-    {
-      "name": "King Bimbisara",
-      "name_local": "頻婆娑羅王",
-      "dates": "c.558-491 BCE",
-      "role": "King of Magadha",
-      "articles": [
-        "human-immortal-sutra-foshuo-renxian-jing",
-        "human-immortal-sutra-ren-xian-jing"
-      ]
-    },
-    {
-      "name": "Human Immortal",
-      "name_local": "人仙",
-      "dates": null,
-      "role": "Celestial Being",
-      "articles": [
-        "human-immortal-ren-xian",
-        "human-immortal-sutra-foshuo-renxian-jing",
-        "human-immortal-sutra-ren-xian-jing"
-      ]
-    },
-    {
-      "name": "Shi Nan Yi Lu",
-      "name_local": "市南宜僚",
-      "dates": "c.4th century BCE",
-      "role": "Daoist Sage",
-      "articles": [
-        "jian-de-zhi-guo"
-      ]
-    },
-    {
-      "name": "Guanyinzi",
-      "name_local": "關尹子",
-      "dates": "c.4th century BCE",
-      "role": "Daoist philosopher",
-      "articles": [
-        "jing-shen-hun-po-essence-spirit-soul"
-      ]
-    },
-    {
-      "name": "King Golden-Colored",
-      "name_local": "金色王",
-      "dates": null,
-      "role": "Buddhist king figure",
-      "articles": [
-        "jinse-wang-jing-golden-king-sutra"
-      ]
-    },
-    {
-      "name": "Jiu Fang Gao",
-      "name_local": "九方皋",
-      "dates": null,
-      "role": "Horse divination master",
-      "articles": [
-        "jiu-fang-gao-horse-divination-liezi"
-      ]
-    },
-    {
-      "name": "Confucius",
-      "name_local": "孔子",
-      "dates": "551-479 BCE",
-      "role": "Philosopher",
-      "articles": [
-        "knowing-destiny-rites-words",
-        "junzi-characteristics",
-        "junzi",
-        "learning-attitude-analects",
-        "li-ji-guan-yi-meaning-capping-rite",
-        "lijineize-rites-inner-principles",
-        "lijji-fang-ji-ritual-prevention",
-        "liji-aigong-wen-duke-ai-inquires",
-        "mengzi-righteousness-profit-debate"
-      ]
-    },
-    {
-      "name": "Kangcangzi",
-      "name_local": "亢倉子",
-      "dates": null,
-      "role": "Daoist sage",
-      "articles": [
-        "kangcangzi-ear-vision-eye-hearing"
-      ]
-    },
-    {
-      "name": "King Ding Sheng",
-      "name_local": "頂生王",
-      "dates": null,
-      "role": "Buddhist king figure",
-      "articles": [
-        "king-ding-sheng-jambudvipa-expansion"
-      ]
-    },
-    {
-      "name": "Dhṛtarāṣṭra",
-      "name_local": "持雙",
-      "dates": null,
-      "role": "King of the North",
-      "articles": [
-        "king-ding-sheng-jambudvipa-expansion"
-      ]
-    },
-    {
-      "name": "King Mu of Zhou",
-      "name_local": "周穆王",
-      "dates": "c.10th century BCE",
-      "role": "Zhou dynasty king",
-      "articles": [
-        "king-mu-spiritual-flight-liezi"
-      ]
-    },
-    {
-      "name": "King Śibi",
-      "name_local": "尸毘王",
-      "dates": null,
-      "role": "Jataka tale figure",
-      "articles": [
-        "king-sibi-pigeon-sacrifice"
-      ]
-    },
-    {
-      "name": "Kumārajīva",
-      "name_local": "鳩摩羅什",
-      "dates": "344-413 CE",
-      "role": "Buddhist translator",
-      "articles": [
-        "kumarrow-translation-commentary"
-      ]
-    },
-    {
-      "name": "Lao Chengzi",
-      "name_local": "老成子",
-      "dates": null,
-      "role": "Daoist philosopher",
-      "articles": [
-        "laochengzi-illusion-transformation-liezi"
-      ]
-    },
-    {
-      "name": "Duke Ai of Lu",
-      "name_local": "魯哀公",
-      "dates": "c.494-468 BCE",
-      "role": "Duke of Lu state",
-      "articles": [
-        "liji-aigong-wen-duke-ai-inquires"
-      ]
-    },
-    {
-      "name": "Lai Zhou",
-      "name_local": "來舟法師",
-      "dates": "Qing Dynasty",
-      "role": "Buddhist monk",
-      "articles": [
-        "lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing"
-      ]
-    },
-    {
-      "name": "Zhang Cang",
-      "name_local": "張蒼",
-      "dates": "c.250-152 BCE",
-      "role": "Han Dynasty Chancellor",
-      "articles": [
-        "liang-zhang-min-zhang-cang-lactotherapy"
-      ]
-    },
-    {
-      "name": "Liezi",
-      "name_local": "列禦寇",
-      "dates": "c.5th century BCE",
-      "role": "Daoist philosopher",
-      "articles": [
-        "liezi-journey-early-return",
-        "jiu-fang-gao-horse-divination-liezi",
-        "king-mu-spiritual-flight-liezi",
-        "kun-peng-giant-fish-bird-liezi",
-        "laochengzi-illusion-transformation-liezi",
-        "liang-xiao-er-bian-ri-two-children-sun-debate"
-      ]
-    },
-    {
-      "name": "Mencius",
-      "name_local": "孟子",
-      "dates": "c.372-289 BCE",
-      "role": "Philosopher",
-      "articles": [
+        "human-nature-mencius-debate",
+        "mengzi",
         "mengzi-four-beginnings-siduan",
         "mengzi-gaozi-debate",
         "mengzi-gift-accepting-principles",
@@ -812,123 +78,160 @@
         "mengzi-ritual-food-debate",
         "mengzi-seven-chapters-gongsun-chou-part-two",
         "mengzi-seven-chapters-structural-analysis",
-        "mengzi-unity-through-non-killing-ding-yu-yi"
+        "mengzi-unity-through-non-killing-ding-yu-yi",
+        "mind-as-organ-of-thought",
+        "moral-cultivation-methods",
+        "providing-people-sustenance-zhi-min-zhi-chan",
+        "rites-food-debate-gaozi",
+        "shared-joy-with-the-people-yu-min-xie-le",
+        "tang-wan-kung",
+        "teaching-many-methods-mencius",
+        "tian-shi-di-li-ren-he",
+        "tian-xia-you-da-zun-san",
+        "wang-dao-true-king-hegemon",
+        "zhi-qing-relation",
+        "孟子的政治哲学"
       ]
     },
     {
-      "name": "Gao Zi",
-      "name_local": "告子",
-      "dates": "c.420-370 BCE",
+      "name": "Zhuangzi",
+      "name_local": "莊子",
+      "dates": "c.369-286 BCE",
       "role": "Philosopher",
       "articles": [
-        "mengzi-gaozi-debate"
+        "bo-chengzi-gao-zhuangzi",
+        "cai-quan-er-de-bu-xing",
+        "cai-yu-bu-cai-zhi-jian",
+        "chongyan-revered-discourse-zhuangzi",
+        "de-yi-wang-yan-zhuangzi",
+        "hao-bridge-debate-fish-happiness",
+        "heart-death-zhuangzi",
+        "hu-zi-huzi-zhuangzi",
+        "hubin-wheelmaking-discourse-zhuangzi",
+        "hun-tun-chaos-death-zhuangzi",
+        "sun-shuao-equanimity-zhuangzi",
+        "the-lost-sheep-at-the-crossroads",
+        "tian-yun-zhuangzi",
+        "tian-zifang-chapter-zhuangzi",
+        "traveling-mind-origin-things-zhuangzi",
+        "wuyong-zhi-yong-usefulness-of-uselessness",
+        "xiang-tian-shu-he-xiang-tian-shu-zhi-jian",
+        "xing-hai-nei-wai",
+        "xinzhai-heart-fasting",
+        "xu-ji-yi-you-shi",
+        "yu-dwelling-abode-daoist-concept",
+        "zhihou-yan-chengzi-spiritual-progression-zhuangzi",
+        "zhili-qixing-deformed-ones-zhuangzi",
+        "zhuangzi-daozhi-chapter",
+        "zhuangzi-fables-parables-yuyan",
+        "zhuangzi-fisherman-yu-fu",
+        "zhuangzi-gengsang-chu-chapter",
+        "zhuangzi-great-skill-appears-clumsy-da-qiao-ruo-zhuo",
+        "zhuangzi-heaven-earth-chapter",
+        "zhuangzi-ke-yi-chapter",
+        "zhuangzi-shanxing-chapter",
+        "zhuangzi-supreme-joy-zhi-le",
+        "zhuangzi-thieving-box-qu-qie",
+        "zhuangzi-tianyun-chapter",
+        "zhuangzi-true-painter-anti-art",
+        "zhuangzi-turtle-story-rejection",
+        "zhuangzi-ying-di-wang"
       ]
     },
     {
-      "name": "Gongsun Chou",
-      "name_local": "公孫丑",
-      "dates": null,
-      "role": "Mencius's disciple",
+      "name": "Ge Hong",
+      "name_local": "葛洪",
+      "dates": "283-343 CE",
+      "role": "Daoist Alchemist, Scholar",
       "articles": [
-        "mengzi-seven-chapters-gongsun-chou-part-two"
+        "baopuzi-chapter-14-golden-elixir-only-path",
+        "baopuzi-chapter-14-importance-of-seeking-master",
+        "baopuzi-chapter-14-life-brevity-calculation",
+        "baopuzi-critique-false-deities-folk-religion",
+        "baopuzi-immortality-debate",
+        "baopuzi-jiu-dan-nine-elixirs",
+        "baopuzi-selecting-daoist-texts",
+        "baopuzi-volume-15-grain-fasting",
+        "baopuzi-volume-17-mountain-entry",
+        "baopuzi-volume-19-daoist-scriptures-catalog",
+        "baopuzi-yellow-white-alchemy",
+        "fuyao-shijie-medicine-timing-baopuzi",
+        "tai-xi-embryo-breathing-baopuzi"
       ]
     },
     {
-      "name": "Shang Yang",
-      "name_local": "商鞅",
-      "dates": "c.390-338 BCE",
-      "role": "Legalist statesman",
+      "name": "An Shigao",
+      "name_local": "安世高",
+      "dates": "2nd century CE",
+      "role": "Buddhist Translator",
       "articles": [
-        "lai-min-attracting-people"
+        "an-shigao-seven-places-three-contemplations",
+        "an-shigao-translated-agama-zhengxing-sutra",
+        "an-shigao-translation-methodology",
+        "five-aggregates-seven-aspects-an-shigao",
+        "five-roots-five-powers-an-shigao-commentary",
+        "four-foundations-mindfulness-an-shigao-commentary",
+        "four-right-exertions-an-shigao-commentary",
+        "seven-factors-awakening-an-shigao-commentary",
+        "thirty-seven-bodhiparamitas-an-shigao",
+        "thirty-seven-bodhiparamitas-an-shigao-commentary",
+        "twelve-links-dependent-origination-an-shigao-commentary",
+        "七覺意注-(安世高)",
+        "五根五力注-(安世高)"
       ]
     },
     {
-      "name": "Mahākāśyapa",
-      "name_local": "迦葉",
-      "dates": null,
-      "role": "Buddha's senior disciple",
+      "name": "Zhao Qi",
+      "name_local": "趙岐",
+      "dates": "d. 201 CE",
+      "role": "Han Dynasty Scholar",
       "articles": [
-        "mahakasyapa-buddhist-disciple-collected-sutras"
+        "chaou-ke"
       ]
     },
     {
       "name": "The Buddha",
-      "name_local": "佛陀",
+      "name_local": "佛",
       "dates": "c.563-483 BCE",
       "role": "Founder of Buddhism",
       "articles": [
-        "light-sound-heaven-buddhist-cosmology",
-        "lotus-up-tathagata",
-        "lotus-world-buddhist-cosmology",
-        "mahakasyapa-buddhist-disciple-collected-sutras",
-        "mahasanghika-great-collection-teaching",
-        "mahasanghika",
-        "mahayana-dharani-of-compassion",
-        "king-sibi-pigeon-sacrifice"
+        "ananda-compiled-scriptures",
+        "bimbisara-king-magadha-ren-xian",
+        "bodhisattva-sacrifice-king-changshou",
+        "cakravartin-seven-treasures-buddhist-texts",
+        "changahan-jing",
+        "changahan-shi-bao-jing"
       ]
     },
     {
-      "name": "Ban He",
-      "name_local": "班額",
-      "dates": null,
-      "role": "Lotus Sutra figure",
+      "name": "Ananda",
+      "name_local": "阿難",
+      "dates": "c.5th century BCE",
+      "role": "Buddha's Attendant",
       "articles": [
-        "lotus-up-tathagata"
+        "ananda-compiled-scriptures",
+        "changahan-jing"
       ]
     },
     {
-      "name": "Bo He",
-      "name_local": "寶意",
-      "dates": null,
-      "role": "Lotus Sutra figure",
+      "name": "King Bimbisara",
+      "name_local": "頻婆娑羅王",
+      "dates": "c.5th century BCE",
+      "role": "King of Magadha",
       "articles": [
-        "lotus-up-tathagata"
-      ]
-    },
-    {
-      "name": "Baopuzi",
-      "name_local": "抱朴子",
-      "dates": "c.281-341 CE",
-      "role": "Daoist scholar",
-      "articles": [
-        "liang-zuo-shan-two-mountains-immortality-baopuzi"
-      ]
-    },
-    {
-      "name": "Burmese monks",
-      "name_local": null,
-      "dates": null,
-      "role": "Monks",
-      "articles": [
-        "mahakasyapa-buddhist-disciple-collected-sutras"
-      ]
-    },
-    {
-      "name": "Mencius",
-      "name_local": "孟子",
-      "dates": "c. 372–289 BCE",
-      "role": "Philosopher",
-      "articles": [
-        "mengzi",
-        "mind-as-organ-of-thought"
-      ]
-    },
-    {
-      "name": "King Subhūti",
-      "name_local": "妙色王",
-      "dates": null,
-      "role": "Bodhisattva incarnation of the Buddha",
-      "articles": [
-        "miaose-wang-bodhisattva-sacrifice",
-        "miaose-wang-yinyuan-jing"
+        "bimbisara-king-magadha-ren-xian",
+        "human-immortal-sutra-foshuo-renxian-jing"
       ]
     },
     {
       "name": "Mozi",
       "name_local": "墨子",
-      "dates": null,
+      "dates": "c.470-391 BCE",
       "role": "Philosopher",
       "articles": [
+        "bu-xiang-ai",
+        "fei-gong-against-attack-mozi",
+        "jian-ai",
         "mozi-banner-system-siege-defense",
         "mozi-ciguo-refraining-from-excesses",
         "mozi-cloud-ladder-defense-beiti",
@@ -963,32 +266,622 @@
         "mozi-shang-xian-upper",
         "mozi-siege-commands-hao-ling",
         "mozi-siege-defense-inventory",
-        "mozi-signal-communication-siege-defense"
+        "mozi-signal-communication-siege-defense",
+        "mozi-suo-ran-being-infected",
+        "mozi-suo-ran-dyeing-influence",
+        "mozi-suoran-on-influence",
+        "mozi-three-debates-music-governance",
+        "mozi-three-standards-three-fa",
+        "mozi-upper-canon-jing-shang",
+        "mozi-water-defense-strategies",
+        "mozi-worthy-historians-emperors",
+        "mozi-xiaoqu-logical-methodology",
+        "mozi-xiaoqu-logical-methods",
+        "mozi-xiaoqu-mohist-logic",
+        "mozi-xiu-shen-self-cultivation",
+        "mozi-yingdi-ci-qi-observation-military-divination",
+        "mozi-yingdi-ci-welcoming-enemy-rituals",
+        "mozijing",
+        "qie-ji-theft-covetous-disease",
+        "qin-guli",
+        "tian-xia-zhi-yi-righteousness-under-heaven"
+      ]
+    },
+    {
+      "name": "Bo Chengzi",
+      "name_local": "伯成子高",
+      "dates": "c.5th-4th century BCE",
+      "role": "Daoist Hermit",
+      "articles": [
+        "bo-chengzi-gao-zhuangzi"
+      ]
+    },
+    {
+      "name": "Beigongzi",
+      "name_local": "北宮子",
+      "dates": "c.4th century BCE",
+      "role": "Philosophical Figure",
+      "articles": [
+        "beigongzi-ximenzi-virtue-fate-liezi"
+      ]
+    },
+    {
+      "name": "Ximenzi",
+      "name_local": "西門子",
+      "dates": "c.4th century BCE",
+      "role": "Philosophical Figure",
+      "articles": [
+        "beigongzi-ximenzi-virtue-fate-liezi"
+      ]
+    },
+    {
+      "name": "Prince Chandana",
+      "name_local": "膽脹/旃檀",
+      "dates": "unknown",
+      "role": "Bodhisattva",
+      "articles": [
+        "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
+      ]
+    },
+    {
+      "name": "King Changshou",
+      "name_local": "長壽王",
+      "dates": "unknown",
+      "role": "Bodhisattva King",
+      "articles": [
+        "bodhisattva-sacrifice-king-changshou"
+      ]
+    },
+    {
+      "name": "Mahābrahmā",
+      "name_local": "梵天王",
+      "dates": "unknown",
+      "role": "Brahma Deity",
+      "articles": [
+        "brahma-fourfold-teaching"
+      ]
+    },
+    {
+      "name": "Bao Puzi",
+      "name_local": "抱朴子",
+      "dates": "Jin Dynasty",
+      "role": "Daoist Philosopher",
+      "articles": [
+        "confucian-daoist-ease-difficulty-comparison-bao-puzi",
+        "constellation-fate-determinism-bao-puzi",
+        "dao-ben-ru-mo-dao-as-root-confucianism-as-branch",
+        "natural-spontaneity-refutation-divine-creation-bao-puzi"
+      ]
+    },
+    {
+      "name": "Zixia",
+      "name_local": "子夏",
+      "dates": "c.507-400 BCE",
+      "role": "Confucian Disciple",
+      "articles": [
+        "confucius-at-leisure-liji"
+      ]
+    },
+    {
+      "name": "Guan Yin Zi",
+      "name_local": "關尹子",
+      "dates": "c.4th century BCE",
+      "role": "Daoist Philosopher",
+      "articles": [
+        "consciousness-recognition-guan-yin-zi",
+        "dream-reality-self-guan-yin-zi"
+      ]
+    },
+    {
+      "name": "Divākara",
+      "name_local": "地婆訶羅",
+      "dates": "7th century CE",
+      "role": "Buddhist Translator",
+      "articles": [
+        "da-cheng-li-wen-zi-pu-guang-ming-zang-jing"
+      ]
+    },
+    {
+      "name": "Laozi",
+      "name_local": "老子",
+      "dates": "c.6th century BCE",
+      "role": "Daoist Philosopher",
+      "articles": [
+        "dao-de-jing-complete",
+        "dao-de-jing-silk-manuscript",
+        "traveling-mind-origin-things-zhuangzi",
+        "wenzi-text"
+      ]
+    },
+    {
+      "name": "Prince Deguang",
+      "name_local": "德光太子",
+      "dates": null,
+      "role": "Buddhist Figure",
+      "articles": [
+        "deguang-taizi-jing-sutra"
+      ]
+    },
+    {
+      "name": "Shang Yang",
+      "name_local": "商鞅",
+      "dates": "c.390-338 BCE",
+      "role": "Legalist Reformer",
+      "articles": [
+        "ding-fen-determining-names-positions",
+        "lai-min-attracting-people",
+        "shang-jun-shu-reward-punishment-system",
+        "shang-jun-shu-volume-5",
+        "shang-xing-rewards-punishments",
+        "three-unifications-legalism-yi-shang-yi-xing-yi-jiao",
+        "using-war-to-end-war-shangjunshu-doctrine"
+      ]
+    },
+    {
+      "name": "King Ding Sheng",
+      "name_local": "頂生王",
+      "dates": null,
+      "role": "Buddhist Bodhisattva",
+      "articles": [
+        "ding-sheng-wang-king-caitanya-dhrtarastra",
+        "ding-sheng-wang-king-mahadyuti-origin-karma",
+        "king-ding-sheng-jambudvipa-expansion"
+      ]
+    },
+    {
+      "name": "King Suddhodana",
+      "name_local": "淨飯王",
+      "dates": null,
+      "role": "Buddha's Father",
+      "articles": [
+        "ding-sheng-wang-yinyuan-jing"
+      ]
+    },
+    {
+      "name": "Zisi",
+      "name_local": "子思",
+      "dates": "c.483-402 BCE",
+      "role": "Confucian Philosopher",
+      "articles": [
+        "doctrine-of-the-mean-(zhongyong)",
+        "doctrine-of-the-mean-zhongyong",
+        "doctrine-of-the-mean"
+      ]
+    },
+    {
+      "name": "Dongmen Wu",
+      "name_local": "東門吳",
+      "dates": null,
+      "role": "Literary Figure",
+      "articles": [
+        "dongmen-wu-grieflessness"
+      ]
+    },
+    {
+      "name": "Liezi",
+      "name_local": "列子",
+      "dates": "c.450-375 BCE",
+      "role": "Daoist Philosopher",
+      "articles": [
+        "dream-reality-confusion-liezi",
+        "eight-testings-six-omens-liezi",
+        "fengshi-son-perceptual-inversion-liezi",
+        "force-fate-debate-liezi",
+        "four-kingdoms-sleep-dream-liezi",
+        "four-permutations-fate-liezi",
+        "four-stages-life-liezi-tianrui",
+        "gong-yibo-strength-liezi",
+        "ji-shengzi-fighting-roosters-liezi",
+        "jiu-fang-gao-horse-divination-liezi",
+        "king-mu-spiritual-flight-liezi",
+        "kun-peng-giant-fish-bird-liezi",
+        "laochengzi-illusion-transformation-liezi",
+        "liang-xiao-er-bian-ri-two-children-sun-debate",
+        "liezi-journey-early-return",
+        "mind-solidified-form-dissolved-liezi",
+        "seeds-of-being-zhongyouji",
+        "self-generating-life-death",
+        "shangqiu-kai-faith-moves-heaven-earth-liezi",
+        "woodcutter-dream-deer-liezi",
+        "yan-person-return-homeland-liezi",
+        "yang-zhu-philosophy-liezi",
+        "yu-gong-yi-shan-yugong-moves-mountains",
+        "生子憂患死於安樂"
+      ]
+    },
+    {
+      "name": "Buddha",
+      "name_local": "佛",
+      "dates": "c.563-483 BCE",
+      "role": "Founder of Buddhism",
+      "articles": [
+        "ding-sheng-wang-king-mahadyuti-origin-karma",
+        "ding-sheng-wang-yinyuan-jing",
+        "eightfold-noble-path-human-immortal-sutra",
+        "five-bliss-food-offering-sutra",
+        "foshuo-pusa-benxing-jing",
+        "four-noble-truths"
+      ]
+    },
+    {
+      "name": "Fajü",
+      "name_local": "法炬",
+      "dates": "fl. Western Jin",
+      "role": "Buddhist Translator",
+      "articles": [
+        "fa-ju-monk"
+      ]
+    },
+    {
+      "name": "Lord Shang",
+      "name_local": "商君/商鞅",
+      "dates": "c.390-338 BCE",
+      "role": "Legalist Reformer",
+      "articles": [
+        "first-principle-shangjun-shu",
+        "five-categories-people-wumin-shangjunshu",
+        "four-battle-states-shangjun-shu",
+        "hua-ce-strategic-planning",
+        "three-eras-san世-shangjunshu",
+        "three-vermin-three-shixing-shangjunshu"
+      ]
+    },
+    {
+      "name": "Guān Yǐnzǐ",
+      "name_local": "關尹子",
+      "dates": "c.4th century BCE",
+      "role": "Taoist Sage",
+      "articles": [
+        "five-elements-transformation-mind-guanyinzi"
+      ]
+    },
+    {
+      "name": "Siddhartha",
+      "name_local": "悉達多",
+      "dates": "c.563-483 BCE",
+      "role": "Prince/Buddha",
+      "articles": [
+        "four-bases-supernatural-power-siddhartha"
+      ]
+    },
+    {
+      "name": "Gengsang Chu",
+      "name_local": "庚桑楚",
+      "dates": "c.4th century BCE",
+      "role": "Disciple of Laozi",
+      "articles": [
+        "gengsang-chu-zhuangzi",
+        "zhuangzi-gengsang-chu-chapter"
+      ]
+    },
+    {
+      "name": "Gong Yibo",
+      "name_local": "公儀伯",
+      "dates": "unknown",
+      "role": "Minor Official",
+      "articles": [
+        "gong-yibo-strength-liezi"
+      ]
+    },
+    {
+      "name": "Gautama",
+      "name_local": "羿",
+      "dates": "mythological",
+      "role": "Mythological Archer",
+      "articles": [
+        "gengsang-chu-zhuangzi"
+      ]
+    },
+    {
+      "name": "Georgi Gerganov",
+      "name_local": "Georgi Gerganov",
+      "dates": "contemporary",
+      "role": "Software Developer",
+      "articles": [
+        "gguf-model-format"
+      ]
+    },
+    {
+      "name": "Yellow Emperor",
+      "name_local": "黃帝",
+      "dates": "Legendary",
+      "role": "Mythical Emperor",
+      "articles": [
+        "huaxu-dream-liezi",
+        "huaxu-kingdom-liezi",
+        "remove-harmful-horses-governance"
+      ]
+    },
+    {
+      "name": "Guan Zhong",
+      "name_local": "管仲",
+      "dates": "c.720-645 BCE",
+      "role": "Statesman",
+      "articles": [
+        "guan-bao-friendship-liezi"
+      ]
+    },
+    {
+      "name": "Bao Shuya",
+      "name_local": "鮑叔牙",
+      "dates": "c.750-680 BCE",
+      "role": "Statesman",
+      "articles": [
+        "guan-bao-friendship-liezi"
+      ]
+    },
+    {
+      "name": "Hui Shi",
+      "name_local": "惠施",
+      "dates": "c.380-305 BCE",
+      "role": "Philosopher",
+      "articles": [
+        "hao-bridge-debate-fish-happiness"
+      ]
+    },
+    {
+      "name": "Guan Yinzǐ",
+      "name_local": "關尹子",
+      "dates": "Warring States Period",
+      "role": "Daoist Master",
+      "articles": [
+        "guan-yinzi-chapter-eight-transcendence",
+        "guan-yinzi-chapter-five-mind-intention-nature",
+        "guan-yinzi-chapter-four-essence-spirit",
+        "guan-yinzi-chapter-four-spirit-five-elements",
+        "guan-yinzi-chapter-nine-medicinal-treatment",
+        "guan-yinzi-chapter-six-self-cultivation",
+        "guan-yinzi-chapter-three-sage-way",
+        "guany-yinzi-second-chapter-cosmic-principles",
+        "guanyinzi-chapter-eight",
+        "guanyinzi-chapter-five-mind-transformation",
+        "guanyinzi-chapter-nine",
+        "guanyinzi-chapter-seven-transformation",
+        "guanyinzi-chapter-six-self-transformation",
+        "guanyinzi-chapter-three",
+        "guanyinzi-chapter-two"
+      ]
+    },
+    {
+      "name": "Wenzi",
+      "name_local": "文子",
+      "dates": "Warring States Period",
+      "role": "Daoist Master",
+      "articles": [
+        "guarding-emptiness-void-wenzi-xu",
+        "guarding-practices-wenzi-guardianship",
+        "guarding-stillness-wenzi-jing"
+      ]
+    },
+    {
+      "name": "Huzi",
+      "name_local": "壺子",
+      "dates": "Warring States Period",
+      "role": "Daoist Master",
+      "articles": [
+        "hu-zi-huzi-zhuangzi"
+      ]
+    },
+    {
+      "name": "Wheelwright",
+      "name_local": "輪扁",
+      "dates": "Warring States Period",
+      "role": "Artisan",
+      "articles": [
+        "hubin-wheelmaking-discourse-zhuangzi"
+      ]
+    },
+    {
+      "name": "King Linu",
+      "name_local": "黎拏王",
+      "dates": "Ancient India",
+      "role": "King",
+      "articles": [
+        "great-firm-brahman-backstory"
+      ]
+    },
+    {
+      "name": "Ji Shengzi",
+      "name_local": "紀渻子",
+      "dates": null,
+      "role": "Spiritual master",
+      "articles": [
+        "ji-shengzi-fighting-roosters-liezi"
+      ]
+    },
+    {
+      "name": "Shakyamuni Buddha",
+      "name_local": "釋迦牟尼佛",
+      "dates": "c.563-483 BCE",
+      "role": "Buddha",
+      "articles": [
+        "jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra",
+        "king-sibi-pigeon-sacrifice"
+      ]
+    },
+    {
+      "name": "Guanyinzi",
+      "name_local": "關尹子",
+      "dates": "Warring States period",
+      "role": "Taoist philosopher",
+      "articles": [
+        "jing-shen-hun-po-essence-spirit-soul",
+        "non-attachment-guanyinzi",
+        "pure-qi-transformation-hunqi-bianhua",
+        "wu-yuan-five-origins-guan-yin-zi",
+        "yi-wei-shi-wo-yi-yi-wei-xin-yi"
+      ]
+    },
+    {
+      "name": "King Golden-Colored",
+      "name_local": "金色王",
+      "dates": null,
+      "role": "Buddhist king",
+      "articles": [
+        "jinse-wang-jing-golden-king-sutra"
+      ]
+    },
+    {
+      "name": "Jiu Fang Gao",
+      "name_local": "九方皋",
+      "dates": "Spring and Autumn period",
+      "role": "Horse appraiser",
+      "articles": [
+        "jiu-fang-gao-horse-divination-liezi"
+      ]
+    },
+    {
+      "name": "Kangcangzi",
+      "name_local": "亢倉子",
+      "dates": null,
+      "role": "Daoist sage",
+      "articles": [
+        "kangcangzi-ear-vision-eye-hearing"
+      ]
+    },
+    {
+      "name": "King Mu of Zhou",
+      "name_local": "周穆王",
+      "dates": "10th century BCE",
+      "role": "Zhou dynasty king",
+      "articles": [
+        "king-mu-spiritual-flight-liezi"
+      ]
+    },
+    {
+      "name": "King Sibi",
+      "name_local": "尸毘王",
+      "dates": null,
+      "role": "Jataka tale king",
+      "articles": [
+        "king-sibi-pigeon-sacrifice"
+      ]
+    },
+    {
+      "name": "Kumarajiva",
+      "name_local": "鳩摩羅什",
+      "dates": "344-413 CE",
+      "role": "Buddhist translator",
+      "articles": [
+        "kumarrow-translation-commentary"
+      ]
+    },
+    {
+      "name": "Lai Zhou",
+      "name_local": "來舟法師",
+      "dates": "Qing Dynasty",
+      "role": "Buddhist monk",
+      "articles": [
+        "lai-zhou-monk-commentary-dacheng-bensheng-xindi-guanjing"
+      ]
+    },
+    {
+      "name": "Lao Chengzi",
+      "name_local": "老成子",
+      "dates": null,
+      "role": "Daoist scholar",
+      "articles": [
+        "laochengzi-illusion-transformation-liezi"
+      ]
+    },
+    {
+      "name": "Zhang Cang",
+      "name_local": "張苍",
+      "dates": "c.250-152 BCE",
+      "role": "Han Dynasty Chancellor",
+      "articles": [
+        "liang-zhang-min-zhang-cang-lactotherapy"
+      ]
+    },
+    {
+      "name": "Duke Ai of Lu",
+      "name_local": "魯哀公",
+      "dates": "5th century BCE",
+      "role": "Duke of Lu",
+      "articles": [
+        "liji-aigong-wen-duke-ai-inquires"
+      ]
+    },
+    {
+      "name": "Mahakashyapa",
+      "name_local": "迦葉",
+      "dates": "c.5th century BCE",
+      "role": "Buddha's senior disciple",
+      "articles": [
+        "mahakasyapa-buddhist-disciple-collected-sutras"
+      ]
+    },
+    {
+      "name": "Gao Zi",
+      "name_local": "告子",
+      "dates": "c.4th century BCE",
+      "role": "Philosopher",
+      "articles": [
+        "mengzi-gaozi-debate"
+      ]
+    },
+    {
+      "name": "Gongsun Chou",
+      "name_local": "公孙丑",
+      "dates": null,
+      "role": "Disciple of Mencius",
+      "articles": [
+        "mengzi-seven-chapters-gongsun-chou-part-two",
+        "mengzi-seven-chapters-structural-analysis"
+      ]
+    },
+    {
+      "name": "King Subhūti",
+      "name_local": "妙色王",
+      "dates": null,
+      "role": "Past Incarnation of Buddha",
+      "articles": [
+        "miaose-wang-bodhisattva-sacrifice",
+        "miaose-wang-yinyuan-jing",
+        "sakra-tests-king-subhuti-yaksha"
       ]
     },
     {
       "name": "Gong Meng",
-      "name_local": "公孟",
+      "name_local": "公孟子",
       "dates": null,
-      "role": "Confucian scholar",
+      "role": "Confucian Debater",
       "articles": [
         "mozi-gong-meng-chapter",
         "mozi-gong-meng-dialogue"
       ]
     },
     {
-      "name": "Gongshu Ban",
-      "name_local": "公輸班",
+      "name": "Gongshu",
+      "name_local": "公输",
       "dates": null,
-      "role": "Engineer",
+      "role": "Engineer/Architect",
       "articles": [
         "mozi-gongshu-dialogue-chapter"
       ]
     },
     {
+      "name": "Moonlight King Bodhisattva",
+      "name_local": "月光菩萨",
+      "dates": null,
+      "role": "Bodhisattva",
+      "articles": [
+        "moonlit-king-bodhisattva-sutra-yueguang-puti"
+      ]
+    },
+    {
+      "name": "Qin Guli",
+      "name_local": "禽滑釐",
+      "dates": "c.4th century BCE",
+      "role": "Disciple of Mozi, military expert",
+      "articles": [
+        "qin-guli"
+      ]
+    },
+    {
       "name": "Yao",
       "name_local": "堯",
-      "dates": null,
+      "dates": "c.24th-23rd century BCE",
       "role": "Sage King",
       "articles": [
         "mozi-sage-kings-burial-model"
@@ -997,56 +890,341 @@
     {
       "name": "Shun",
       "name_local": "舜",
-      "dates": null,
+      "dates": "c.23rd-22nd century BCE",
       "role": "Sage King",
       "articles": [
         "mozi-sage-kings-burial-model"
       ]
     },
     {
-      "name": "Buddha",
-      "name_local": "佛",
-      "dates": null,
-      "role": "Religious figure",
+      "name": "Yu the Great",
+      "name_local": "禹",
+      "dates": "c.21st century BCE",
+      "role": "Sage King, founder of Xia Dynasty",
       "articles": [
-        "moonlit-king-bodhisattva-sutra-yueguang-puti",
-        "miaose-wang-bodhisattva-sacrifice",
-        "miaose-wang-yinyuan-jing"
+        "mozi-sage-kings-burial-model"
       ]
     },
     {
-      "name": "Moonlight Bodhisattva",
-      "name_local": "月光菩薩",
+      "name": "Nanbo Ziqi",
+      "name_local": "南伯子綦",
+      "dates": "c.4th century BCE",
+      "role": "Legendary Daoist sage",
+      "articles": [
+        "nanbo-ziqi-form-dead-wood-heart-dead-ashes"
+      ]
+    },
+    {
+      "name": "Nikuda",
+      "name_local": "尼拘陀",
+      "dates": null,
+      "role": "Brahmin figure in Buddhist sutra",
+      "articles": [
+        "nikuda-brahmin-sutra",
+        "niyagrodha-brahma-sutra-discourse"
+      ]
+    },
+    {
+      "name": "Prince Ming of Zhongshan",
+      "name_local": "中山公子牟",
+      "dates": "c.4th century BCE",
+      "role": "Prince, philosophical debater",
+      "articles": [
+        "prince-ming-zhangshan-gongsun-long-liezi"
+      ]
+    },
+    {
+      "name": "Gongsun Long",
+      "name_local": "公孫龍",
+      "dates": "c.320-250 BCE",
+      "role": "Philosopher, sophist",
+      "articles": [
+        "prince-ming-zhangshan-gongsun-long-liezi"
+      ]
+    },
+    {
+      "name": "Prince Mupo",
+      "name_local": "太子慕魄",
+      "dates": null,
+      "role": "Buddhist prince figure",
+      "articles": [
+        "prince-mupo-sutra-mu-po-tai-zi"
+      ]
+    },
+    {
+      "name": "Prince Sudāna",
+      "name_local": "太子須大拏",
+      "dates": null,
+      "role": "Bodhisattva figure in Jātaka tale",
+      "articles": [
+        "prince-sudana-sutta-bodhisattva-generosity"
+      ]
+    },
+    {
+      "name": "Prince Sūjāta",
+      "name_local": "須闍提太子",
+      "dates": null,
+      "role": "Bodhisattva figure, symbol of self-sacrifice",
+      "articles": [
+        "prince-sujata-story-bodhisattva-sacrifice"
+      ]
+    },
+    {
+      "name": "King Fangji",
+      "name_local": "方迹王",
+      "dates": null,
+      "role": "King in Buddhist parable",
+      "articles": [
+        "nalai-tathagata-story-shengjing"
+      ]
+    },
+    {
+      "name": "Nalai Sage",
+      "name_local": "那賴仙人",
+      "dates": null,
+      "role": "Hermit in Buddhist parable",
+      "articles": [
+        "nalai-tathagata-story-shengjing"
+      ]
+    },
+    {
+      "name": "Rabbit King",
+      "name_local": "兔王",
+      "dates": null,
+      "role": "Bodhisattva figure in Jātaka tale",
+      "articles": [
+        "rabbit-king-self-sacrifice-hermit"
+      ]
+    },
+    {
+      "name": "Duke Shao",
+      "name_local": "邵公",
+      "dates": "c.10th-9th century BCE",
+      "role": "Zhou nobleman, political advisor",
+      "articles": [
+        "preventing-speech-damming-rivers"
+      ]
+    },
+    {
+      "name": "Faju",
+      "name_local": "法炬",
+      "dates": "c.4th-5th century CE",
+      "role": "Buddhist monk, translator",
+      "articles": [
+        "qianshi-san-zhuan-jing"
+      ]
+    },
+    {
+      "name": "Śakra",
+      "name_local": "帝釋 (因陀羅)",
+      "dates": null,
+      "role": "Deity",
+      "articles": [
+        "sakra-tests-king-subhuti-yaksha"
+      ]
+    },
+    {
+      "name": "King Sarvadāna",
+      "name_local": "一切施王",
+      "dates": null,
+      "role": "Legendary King",
+      "articles": [
+        "sarvadana-king-yiqieshi"
+      ]
+    },
+    {
+      "name": "Prince Sarvadhāna",
+      "name_local": "一切持王子",
+      "dates": null,
+      "role": "Crown Prince",
+      "articles": [
+        "sarvadhana-prince-yiqiechi"
+      ]
+    },
+    {
+      "name": "Shangqiu Kai",
+      "name_local": "商丘開",
+      "dates": null,
+      "role": "Legendary Figure",
+      "articles": [
+        "shangqiu-kai-faith-moves-heaven-earth-liezi"
+      ]
+    },
+    {
+      "name": "Guan Yinzi",
+      "name_local": "關尹子",
+      "dates": null,
+      "role": "Daoist Philosopher",
+      "articles": [
+        "self-other-illusion-dream-wakefulness-guan-yinzi",
+        "sheng-ren-zhi-dao-sages-way"
+      ]
+    },
+    {
+      "name": "Mo Zi",
+      "name_local": "墨子",
+      "dates": "c.470-391 BCE",
+      "role": "Philosopher",
+      "articles": [
+        "shang-tong-identifying-with-superiors",
+        "shang-tong-reward-punishment-maf",
+        "shang-tong-upper-unity-mozi",
+        "shang-tong-upward-conformity",
+        "shang-tong-upward-uniformity-mozi",
+        "shang-xian-esteeming-worthy-part-two",
+        "shang-xian-exalting-worthy-mozi",
+        "shang-xian-exalting-worthy",
+        "shang-xian-middle-mozi"
+      ]
+    },
+    {
+      "name": "Zhu Fahu",
+      "name_local": "竺法護",
+      "dates": "3rd century CE",
+      "role": "Buddhist Translator",
+      "articles": [
+        "sheng-jing-birth-sutras"
+      ]
+    },
+    {
+      "name": "King Siṃha-Sūdaśa",
+      "name_local": "師子素馱娑王",
+      "dates": null,
+      "role": "Legendary King",
+      "articles": [
+        "shizi-sutuo-suowa-wang-duanrou-jing"
+      ]
+    },
+    {
+      "name": "Yi Dai",
+      "name_local": "意怠",
+      "dates": null,
+      "role": "Mythological Bird",
+      "articles": [
+        "shan-mu-yi-dai-niao"
+      ]
+    },
+    {
+      "name": "Yuan Jun",
+      "name_local": "元君",
+      "dates": null,
+      "role": "Mythological Figure",
+      "articles": [
+        "shen-gui-dream-yuan-jun-zhuangzi"
+      ]
+    },
+    {
+      "name": "Sumati",
+      "name_local": "須摩提女",
+      "dates": null,
+      "role": "Buddhist Laywoman",
+      "articles": [
+        "sumati-woman-buddhist-narrative"
+      ]
+    },
+    {
+      "name": "Sun Tzu",
+      "name_local": "孫子 (Sun Wu)",
+      "dates": "c.544-496 BCE",
+      "role": "Military strategist",
+      "articles": [
+        "sun-tzu-art-of-war"
+      ]
+    },
+    {
+      "name": "Sun Shu'ao",
+      "name_local": "孫叔敖",
+      "dates": "c.7th-6th century BCE",
+      "role": "Statesman",
+      "articles": [
+        "sun-shuao-equanimity-zhuangzi"
+      ]
+    },
+    {
+      "name": "Prince Mahāsattva",
+      "name_local": "薩陲太子 (Mahāsattva)",
+      "dates": null,
+      "role": "Bodhisattva figure",
+      "articles": [
+        "throw-body-feed-tigers-jataka"
+      ]
+    },
+    {
+      "name": "Tian Zifang",
+      "name_local": "田子方",
+      "dates": "c.4th century BCE",
+      "role": "Disciple/sage",
+      "articles": [
+        "tian-zifang-chapter-zhuangzi"
+      ]
+    },
+    {
+      "name": "Tang Wan Kung",
+      "name_local": "唐宓公",
+      "dates": null,
+      "role": "Historical figure",
+      "articles": [
+        "tang-wan-kung"
+      ]
+    },
+    {
+      "name": "Vīrāma",
+      "name_local": "毘羅摩",
       "dates": null,
       "role": "Bodhisattva",
       "articles": [
-        "moonlit-king-bodhisattva-sutra-yueguang-puti"
+        "virama-bodhisattva-pusajiamo"
       ]
     },
     {
-      "name": "Liezi",
-      "name_local": "列子",
+      "name": "Buddha (Tathagata)",
+      "name_local": "如來",
+      "dates": "c.563-483 BCE",
+      "role": "Founder of Buddhism",
+      "articles": [
+        "tathagata-eight-rare-qualities",
+        "three-treasures",
+        "three-types-liberation-buddhist-uppsala",
+        "twelve-links-dependent-origination",
+        "throw-body-feed-tigers-jataka",
+        "virtue-merit-buddhism-de",
+        "upaya-expedient-means-buddhism"
+      ]
+    },
+    {
+      "name": "King Who Lit a Thousand Lamps",
+      "name_local": "以身燃千燈之王",
       "dates": null,
-      "role": "Philosopher",
+      "role": "Bodhisattva king",
       "articles": [
-        "mind-solidified-form-dissolved-liezi"
+        "thousand-lamp-body-offering-bodhisattva-practice"
       ]
     },
     {
-      "name": "Confucius",
-      "name_local": "孔子 / 仲尼",
-      "dates": "c.551-479 BCE",
-      "role": "Philosopher",
+      "name": "Yan Hui",
+      "name_local": "顏回",
+      "dates": "c.521-481 BCE",
+      "role": "Disciple of Confucius",
       "articles": [
-        "xiao-jing-classic-of-filial-piety",
-        "yan-hui",
-        "zhongni-yanji-ritual-teaching-liji",
-        "zhi-qing-relation",
-        "zigong",
-        "zilu",
-        "仁愛",
-        "仁爱",
-        "仁者"
+        "yan-hui"
+      ]
+    },
+    {
+      "name": "Hua Tuo",
+      "name_local": "華佗",
+      "dates": "c.145-208 CE",
+      "role": "Physician",
+      "articles": [
+        "wu-pu-five-animal-play-hua-tuo"
+      ]
+    },
+    {
+      "name": "Wu Pu",
+      "name_local": "吳普",
+      "dates": "c.3rd century CE",
+      "role": "Physician/Disciple of Hua Tuo",
+      "articles": [
+        "wu-pu-five-animal-play-hua-tuo"
       ]
     },
     {
@@ -1059,62 +1237,21 @@
       ]
     },
     {
-      "name": "Zhuangzi",
-      "name_local": "莊子",
-      "dates": "c.369-286 BCE",
-      "role": "Philosopher",
+      "name": "Zhang Liang",
+      "name_local": "張良",
+      "dates": "c.250-186 BCE",
+      "role": "Strategist",
       "articles": [
-        "wuyong-zhi-yong-usefulness-of-uselessness",
-        "xiang-tian-shu-he-xiang-tian-shu-zhi-jian",
-        "xing-hai-nei-wai",
-        "xinzhai-heart-fasting",
-        "xu-ji-yi-you-shi",
-        "zhihou-yan-chengzi-spiritual-progression-zhuangzi",
-        "zhili-qixing-deformed-ones-zhuangzi",
-        "zhuangzi-daozhi-chapter",
-        "zhuangzi-fables-parables-yuyan",
-        "zhuangzi-fisherman-yu-fu",
-        "zhuangzi-gengsang-chu-chapter",
-        "zhuangzi-great-skill-appears-clumsy-da-qiao-ruo-zhuo",
-        "zhuangzi-heaven-earth-chapter",
-        "zhuangzi-ke-yi-chapter",
-        "zhuangzi-shanxing-chapter",
-        "zhuangzi-supreme-joy-zhi-le",
-        "zhuangzi-thieving-box-qu-qie",
-        "zhuangzi-tianyun-chapter",
-        "zhuangzi-true-painter-anti-art",
-        "zhuangzi-turtle-story-rejection",
-        "zhuangzi-ying-di-wang",
-        "zhuangzi-zhi-bei-you-chapter"
+        "zhang-liang-daoist-cultivation-exile"
       ]
     },
     {
-      "name": "Mencius",
-      "name_local": "孟子",
-      "dates": "c.372-289 BCE",
+      "name": "Gaozi",
+      "name_local": "告子",
+      "dates": "c.420-c.350 BCE",
       "role": "Philosopher",
       "articles": [
-        "zhi-qing-relation"
-      ]
-    },
-    {
-      "name": "Liezi",
-      "name_local": "列子",
-      "dates": "c.5th century BCE",
-      "role": "Philosopher",
-      "articles": [
-        "yan-person-return-homeland-liezi",
-        "yang-zhu-philosophy-liezi",
-        "yu-gong-yi-shan-yugong-moves-mountains"
-      ]
-    },
-    {
-      "name": "Yan Hui",
-      "name_local": "顏回 / 顔回",
-      "dates": "c.521-490 BCE",
-      "role": "Disciple of Confucius",
-      "articles": [
-        "yan-hui"
+        "willow-cup-metaphor-gaozi"
       ]
     },
     {
@@ -1127,67 +1264,21 @@
       ]
     },
     {
-      "name": "Gengsang Chu",
-      "name_local": "庚桑楚",
-      "dates": "Unknown",
-      "role": "Disciple of Laozi",
-      "articles": [
-        "zhuangzi-gengsang-chu-chapter"
-      ]
-    },
-    {
-      "name": "An Shigao",
-      "name_local": "安世高",
-      "dates": "2nd century CE",
-      "role": "Buddhist Translator",
-      "articles": [
-        "七覺意注-(安世高)",
-        "五根五力注-(安世高)"
-      ]
-    },
-    {
-      "name": "Zhang Liang",
-      "name_local": "張良",
-      "dates": "c.250-186 BCE",
-      "role": "Strategist",
-      "articles": [
-        "zhang-liang-daoist-cultivation-exile"
-      ]
-    },
-    {
-      "name": "Yu Gong",
-      "name_local": "愚公",
-      "dates": "Legendary",
-      "role": "Folk Figure",
-      "articles": [
-        "yu-gong-yi-shan-yugong-moves-mountains"
-      ]
-    },
-    {
       "name": "Yan Chengzi You",
       "name_local": "顏成子游",
-      "dates": "Unknown",
-      "role": "Zhuangzi's Disciple",
+      "dates": "c.4th century BCE",
+      "role": "Disciple of Zhuangzi",
       "articles": [
         "zhihou-yan-chengzi-spiritual-progression-zhuangzi"
       ]
     },
     {
-      "name": "Zigong",
-      "name_local": "子貢",
-      "dates": "c.520-450 BCE",
-      "role": "Disciple of Confucius",
+      "name": "Robber Zhi",
+      "name_local": "盜跖",
+      "dates": "c.5th century BCE",
+      "role": "Legendary Figure",
       "articles": [
-        "zigong"
-      ]
-    },
-    {
-      "name": "Zilu",
-      "name_local": "子路",
-      "dates": "c.542-480 BCE",
-      "role": "Disciple of Confucius",
-      "articles": [
-        "zilu"
+        "zhuangzi-daozhi-chapter"
       ]
     },
     {
@@ -1202,300 +1293,461 @@
     {
       "name": "Lady Yu Ye",
       "name_local": "玉耶女",
-      "dates": "Unknown",
-      "role": "Buddhist Figure",
+      "dates": "unknown",
+      "role": "Buddhist Laywoman",
       "articles": [
         "yu-ye-nu-jing-sutra"
       ]
     },
     {
-      "name": "Moonlight Youth",
-      "name_local": "月明童子",
-      "dates": "Unknown",
-      "role": "Bodhisattva",
-      "articles": [
-        "yue-ming-tongzi-moonlight-youth-bodhisattva-sutra"
-      ]
-    },
-    {
-      "name": "Moon-Topped Tathāgata",
-      "name_local": "月上如來",
-      "dates": "Unknown",
-      "role": "Buddhist Deity",
-      "articles": [
-        "yue-shang-rulai-moon-topped-tathagata"
-      ]
-    },
-    {
-      "name": "Robber Zhi",
-      "name_local": "盜跖",
-      "dates": "c.5th century BCE",
-      "role": "Historical/Rival Figure",
-      "articles": [
-        "zhuangzi-daozhi-chapter"
-      ]
-    },
-    {
-      "name": "Confucius",
-      "name_local": "孔子",
-      "dates": "551-479 BCE",
-      "role": "Philosopher and founder of Confucianism",
-      "articles": [
-        "儒家",
-        "儒家自省",
-        "君子",
-        "子貢"
-      ]
-    },
-    {
       "name": "Zigong",
-      "name_local": "子貢",
-      "dates": "520-456 BCE",
+      "name_local": "子贡",
+      "dates": "c.520-456 BCE",
       "role": "Disciple of Confucius",
       "articles": [
+        "zigong",
         "子貢"
       ]
     },
     {
-      "name": "Mencius",
-      "name_local": "孟子",
-      "dates": "372-289 BCE",
-      "role": "Confucian philosopher",
+      "name": "Zilu",
+      "name_local": "子路",
+      "dates": "c.542-480 BCE",
+      "role": "Disciple of Confucius",
       "articles": [
-        "孟子の政治哲学"
-      ]
-    },
-    {
-      "name": "Liezi",
-      "name_local": "列子",
-      "dates": "c.5th century BCE",
-      "role": "Daoist philosopher",
-      "articles": [
-        "生子憂患死於安樂"
+        "zilu"
       ]
     },
     {
       "name": "Yin Xi",
-      "name_local": "關尹子",
-      "dates": null,
-      "role": "Daoist figure credited with receiving the Daodejing",
+      "name_local": "尹喜",
+      "dates": "c.4th century BCE",
+      "role": "Daoist Figure, Guardian of the Pass",
       "articles": [
         "關尹子"
-      ]
-    },
-    {
-      "name": "Guanyinzi",
-      "name_local": "關尹子",
-      "dates": null,
-      "role": "Daoist text attributed to Yin Xi",
-      "articles": [
-        "關尹子"
-      ]
-    },
-    {
-      "name": "The Worried Man of Qi",
-      "name_local": "杞人",
-      "dates": null,
-      "role": "Subject of the famous anecdote",
-      "articles": [
-        "杞人忧天-qiren-youtian"
       ]
     }
   ],
   "events": [
     {
-      "name": "Han Dynasty",
-      "name_local": "漢朝",
-      "date": null,
-      "description": "Historical period of Buddhist translation activity and Daoist development",
+      "name": "Han Dynasty Buddhist Translation Movement",
+      "name_local": "漢代佛經翻譯運動",
+      "date": "c.148-180 CE",
+      "description": "An Shigao's systematic translation of Buddhist sutras into Chinese",
       "articles": [
         "an-shigao-seven-places-three-contemplations",
         "an-shigao-translated-agama-zhengxing-sutra",
-        "an-shigao-translation-methodology",
-        "chaou-ke"
+        "an-shigao-translation-methodology"
       ]
     },
     {
-      "name": "Eastern Han Dynasty",
-      "name_local": "東漢",
-      "date": null,
-      "description": "Period of An Shigao's translation work",
+      "name": "Buddhist Canon Compilation",
+      "name_local": "佛經集結",
+      "date": "unknown",
+      "description": "Ananda's compilation of the Buddha's sutras",
       "articles": [
-        "an-shigao-translated-agama-zhengxing-sutra"
+        "ananda-compiled-scriptures"
+      ]
+    },
+    {
+      "name": "King Changshou's Sacrifice",
+      "name_local": "長壽王犧牲",
+      "date": "unknown",
+      "description": "Bodhisattva King Changshou's narrative of self-sacrifice for dharma",
+      "articles": [
+        "bodhisattva-sacrifice-king-changshou"
+      ]
+    },
+    {
+      "name": "Prince Chandana's Tiger Feeding",
+      "name_local": "菩薩投身餧虎",
+      "date": "unknown",
+      "description": "Prince Chandana's self-sacrifice to feed a hungry tiger",
+      "articles": [
+        "bodhisattva-throw-body-feed-tiger-stupa-fasheng"
+      ]
+    },
+    {
+      "name": "Buddhist Origin of the Four Castes",
+      "name_local": "四姓起源",
+      "date": null,
+      "description": "Buddhist cosmological account of how the four varnas originated",
+      "articles": [
+        "four-castes-origin-buddhist-cosmology"
+      ]
+    },
+    {
+      "name": "Cyclical Theory of Sage Kings",
+      "name_local": "五百年必有王者興",
+      "date": null,
+      "description": "Mencius's cyclical theory that every five hundred years a sage king will arise",
+      "articles": [
+        "five-hundred-years-sage-king-cycles"
+      ]
+    },
+    {
+      "name": "Force and Fate Debate",
+      "name_local": "力命之辯",
+      "date": null,
+      "description": "Philosophical dialogue between Force and Fate in Liezi",
+      "articles": [
+        "force-fate-debate-liezi"
+      ]
+    },
+    {
+      "name": "Perceptual Inversion Incident",
+      "name_local": "逢氏之子迷罔",
+      "date": null,
+      "description": "Story of the Feng clan son who suffered from perceptual inversion",
+      "articles": [
+        "fengshi-son-perceptual-inversion-liezi"
+      ]
+    },
+    {
+      "name": "Han Dynasty",
+      "name_local": "汉朝",
+      "date": "202 BCE - 220 CE",
+      "description": "Second imperial dynasty of China, following the Qin and preceding the Three Kingdoms",
+      "articles": [
+        "han-dynasty",
+        "han-dynasty-mencius-reception"
       ]
     },
     {
       "name": "Hao Bridge Debate",
       "name_local": "濠梁之辯",
-      "date": "c.4th century BCE",
-      "description": "Philosophical exchange between Zhuangzi and Hui Shi about fish happiness",
+      "date": "Warring States Period",
+      "description": "Famous philosophical exchange between Zhuangzi and Hui Shi on whether fish are happy",
       "articles": [
         "hao-bridge-debate-fish-happiness"
       ]
     },
     {
-      "name": "Death of Hun-tun",
-      "name_local": "渾沌之死",
-      "date": "c.4th century BCE",
-      "description": "Parable where well-intentioned ministers accidentally kill the naive Emperor Hun-tun",
-      "articles": [
-        "hun-tun-chaos-death-zhuangzi"
-      ]
-    },
-    {
-      "name": "Wheelwright's Discourse",
-      "name_local": "輪扁斲輪",
-      "date": "c.4th century BCE",
-      "description": "A wheelwright explains the ineffable nature of skill to Duke Huan of Qi",
-      "articles": [
-        "hubin-wheelmaking-discourse-zhuangzi"
-      ]
-    },
-    {
       "name": "Huaxu Dream",
       "name_local": "華胥之夢",
-      "date": "c.3rd millennium BCE",
-      "description": "The Yellow Emperor's dream journey to the utopian Huaxu Kingdom",
+      "date": "Mythical",
+      "description": "Yellow Emperor's dream journey to the utopian Huaxu Kingdom",
       "articles": [
         "huaxu-dream-liezi",
         "huaxu-kingdom-liezi"
       ]
     },
     {
-      "name": "Ji Shengzi's Cockfighting Mastery",
-      "name_local": "紀渻子養鬭雞",
-      "date": "c.4th century BCE",
-      "description": "Story of spiritual mastery through cultivating fighting roosters",
-      "articles": [
-        "ji-shengzi-fighting-roosters-liezi"
-      ]
-    },
-    {
-      "name": "Huzi's Four Transformations",
-      "name_local": "壺子四次變化",
-      "date": "c.4th century BCE",
-      "description": "Daoist master Huzi demonstrating four different manifestations to Ji Ran",
-      "articles": [
-        "hu-zi-huzi-zhuangzi"
-      ]
-    },
-    {
-      "name": "First Buddhist Council",
-      "name_local": "第一次結集",
+      "name": "First Council",
+      "name_local": null,
       "date": "c.477 BCE",
-      "description": "First council led by Mahākāśyapa assembling the Buddha's teachings",
+      "description": "First Buddhist council led by Mahakashyapa",
       "articles": [
         "mahakasyapa-buddhist-disciple-collected-sutras"
       ]
     },
     {
-      "name": "Attracting Settlers Policy",
-      "name_local": "徠民政策",
-      "date": "c.4th century BCE",
-      "description": "Shang Yang's policy to attract settlers from other states",
+      "name": "Philosophical Debate on Righteousness and Profit",
+      "name_local": "义利之辨",
+      "date": null,
+      "description": "Mencius' argument that rulers should prioritize righteousness over profit",
       "articles": [
-        "lai-min-attracting-people"
+        "mengzi-righteousness-profit-debate"
       ]
     },
     {
-      "name": "Kun Transformation",
-      "name_local": "鯤化為鵬",
+      "name": "Debate on Ritual Propriety and Necessity",
+      "name_local": "礼与食之辩",
       "date": null,
-      "description": "The legendary transformation of the giant fish Kun into the bird Peng",
+      "description": "Debate about whether ritual propriety or practical necessity should take precedence",
       "articles": [
-        "kun-peng-giant-fish-bird-liezi"
+        "mengzi-ritual-food-debate"
       ]
     },
     {
-      "name": "Capping Rite",
-      "name_local": "冠禮",
+      "name": "Mozi's Defense of Song State Against Chu",
+      "name_local": "墨子救宋",
       "date": null,
-      "description": "Coming-of-age ceremony marking adulthood",
+      "description": "Mozi's defensive consultation to prevent attack on Song state by Chu",
       "articles": [
-        "li-ji-guan-yi-meaning-capping-rite"
+        "mozi-gongshu-dialogue-chapter"
       ]
     },
     {
-      "name": "Second Dhyana Heaven",
-      "name_local": "第二禪天",
+      "name": "Mozi-Gong Meng Dialogue",
+      "name_local": "墨子与公孟子之辩",
       "date": null,
-      "description": "Light-Sound Heaven existence in Buddhist cosmology",
-      "articles": [
-        "light-sound-heaven-buddhist-cosmology"
-      ]
-    },
-    {
-      "name": "Mozi-Gong Meng Philosophical Debate",
-      "name_local": "墨子與公孟子之辯",
-      "date": null,
-      "description": "Philosophical debate between Mozi and Confucian scholar Gong Meng on key ethical and governance issues",
+      "description": "Philosophical debate between Mozi and Gong Meng on Confucian-Mohist differences",
       "articles": [
         "mozi-gong-meng-dialogue",
         "mozi-gong-meng-chapter"
       ]
     },
     {
-      "name": "Mozi-Gongshu Debate",
-      "name_local": "墨子公輸篇",
+      "name": "Mohist Critique of Confucian Ethics",
+      "name_local": "墨子非儒",
+      "date": "c.4th century BCE",
+      "description": "Mozi's philosophical critique of Confucian ethics, mourning rituals, and destiny beliefs",
+      "articles": [
+        "mozi-rejecting-confucians-fei-ru"
+      ]
+    },
+    {
+      "name": "Mohist Debate on Music",
+      "name_local": "墨子三辯",
+      "date": "c.4th century BCE",
+      "description": "Mozi's philosophical dialogue examining why rulers should reject music",
+      "articles": [
+        "mozi-three-debates-music-governance"
+      ]
+    },
+    {
+      "name": "Seven Calamities Analysis",
+      "name_local": "七患",
+      "date": "c.4th century BCE",
+      "description": "Mozi's analysis of seven types of calamities that threaten states",
+      "articles": [
+        "mozi-seven-calamities-qi-huan"
+      ]
+    },
+    {
+      "name": "Mohist Siege Defense Preparations",
+      "name_local": "墨子守城備戰",
+      "date": "c.4th century BCE",
+      "description": "Mozi's detailed military preparations and commands for defending cities under siege",
+      "articles": [
+        "mozi-siege-commands-hao-ling",
+        "mozi-siege-defense-inventory",
+        "mozi-signal-communication-siege-defense",
+        "mozi-water-defense-strategies"
+      ]
+    },
+    {
+      "name": "Military Divination Rituals",
+      "name_local": "望氣與軍事占卜",
+      "date": "c.4th century BCE",
+      "description": "Mozi's techniques for observing qi and military divination practices",
+      "articles": [
+        "mozi-yingdi-ci-qi-observation-military-divination",
+        "mozi-yingdi-ci-welcoming-enemy-rituals"
+      ]
+    },
+    {
+      "name": "Translation of Buddhist Sutras during Western Qin",
+      "name_local": "西秦佛經翻譯",
+      "date": "c.401-431 CE",
+      "description": "Period of Buddhist sutra translations during the Western Qin dynasty",
+      "articles": [
+        "qianshi-san-zhuan-jing"
+      ]
+    },
+    {
+      "name": "Prince Mupo's Past Life Remembrance",
+      "name_local": "太子慕魄經故事",
       "date": null,
-      "description": "Debate between Mozi and engineer Gongshu Ban on defensive warfare and ethics",
+      "description": "Buddhist narrative of Prince Mupo who remembered his thirteen past lives",
       "articles": [
-        "mozi-gongshu-dialogue-chapter"
+        "prince-mupo-sutra-mu-po-tai-zi"
       ]
     },
     {
-      "name": "Han's Founding",
-      "name_local": "漢朝建立",
-      "date": "206 BCE",
-      "description": "Establishment of the Han Dynasty following the fall of Qin",
+      "name": "Prince Sudāna's Act of Generosity",
+      "name_local": "太子須大拏本生",
+      "date": null,
+      "description": "Jātaka tale of Prince Sudāna's practice of generosity and giving away all possessions",
       "articles": [
-        "zhang-liang-daoist-cultivation-exile"
+        "prince-sudana-sutta-bodhisattva-generosity"
       ]
     },
     {
-      "name": "Spiritual Progression of Yan Chengzi",
+      "name": "Prince Sūjāta's Self-Sacrifice",
+      "name_local": "須闍提太子故事",
+      "date": null,
+      "description": "Buddhist narrative of Prince Sūjāta offering his own body to save his parents",
+      "articles": [
+        "prince-sujata-story-bodhisattva-sacrifice"
+      ]
+    },
+    {
+      "name": "Rabbit King's Self-Sacrifice",
+      "name_local": "兔王捨身供奉",
+      "date": null,
+      "description": "Jātaka tale of a rabbit king sacrificing himself to feed a hermit",
+      "articles": [
+        "rabbit-king-self-sacrifice-hermit"
+      ]
+    },
+    {
+      "name": "Debate on Rites versus Food",
+      "name_local": "禮與食孰重",
+      "date": null,
+      "description": "Philosophical debate in Mencius about whether rites or food are more important",
+      "articles": [
+        "rites-food-debate-gaozi"
+      ]
+    },
+    {
+      "name": "Seven Buddhas of the Current Kalpa",
+      "name_local": "七佛",
+      "date": null,
+      "description": "The seven Buddhas who have appeared in the current kalpa",
+      "articles": [
+        "seven-buddhas-current-kalpa"
+      ]
+    },
+    {
+      "name": "Karmic Retribution",
+      "name_local": "善惡報應",
+      "date": null,
+      "description": "Doctrine of karmic retribution in Chinese religion and Buddhism",
+      "articles": [
+        "shan-e-bao-ying-karmic-retribution"
+      ]
+    },
+    {
+      "name": "Faith That Moves Heaven and Earth",
+      "name_local": "至信感人",
+      "date": null,
+      "description": "Story of Shangqiu Kai demonstrating how supreme faith can accomplish seemingly impossible feats",
+      "articles": [
+        "shangqiu-kai-faith-moves-heaven-earth-liezi"
+      ]
+    },
+    {
+      "name": "The Divine Turtle Story",
+      "name_local": "神龜能見夢於元君",
+      "date": null,
+      "description": "Parable from Zhuangzi about a divine turtle appearing in dreams",
+      "articles": [
+        "shen-gui-dream-yuan-jun-zhuangzi"
+      ]
+    },
+    {
+      "name": "Three Years Mourning Period",
+      "name_local": "三年之喪",
+      "date": "Ancient period",
+      "description": "Traditional Confucian mourning period of three years for parents",
+      "articles": [
+        "three-years-mourning"
+      ]
+    },
+    {
+      "name": "Three-Day Encoffining Principle",
+      "name_local": "三日而斂",
+      "date": "Ancient period",
+      "description": "Confucian principle of waiting three days before encoffining",
+      "articles": [
+        "three-day-encoffining-principle-liji-wensang"
+      ]
+    },
+    {
+      "name": "Self-immolation Offering",
+      "name_local": "以身燃燈",
+      "date": null,
+      "description": "King's sacrifice of his body to light a thousand lamps as Buddhist offering",
+      "articles": [
+        "thousand-lamp-body-offering-bodhisattva-practice",
+        "throw-body-feed-tigers-jataka"
+      ]
+    },
+    {
+      "name": "Yan Chengzi's Nine-Year Spiritual Progression",
       "name_local": "顏成子游九年大妙",
-      "date": "Unknown",
-      "description": "Yan Chengzi's nine-year spiritual cultivation journey described in Zhuangzi",
+      "date": "c.4th century BCE",
+      "description": "Account of Yan Chengzi You's nine-year spiritual progression in Zhuangzi",
       "articles": [
         "zhihou-yan-chengzi-spiritual-progression-zhuangzi"
       ]
     },
     {
-      "name": "Eight Tathāgata Stupas",
-      "name_local": "如來八寶塔",
-      "date": null,
-      "description": "The eight sacred stupas representing key events in the Buddha's life",
+      "name": "Yu Gong Moves the Mountains",
+      "name_local": "愚公移山",
+      "date": "c.4th century BCE",
+      "description": "Famous fable from Liezi about an old man persisting to move mountains",
       "articles": [
-        "如来八寶塔-eight-tathagata-stupas"
+        "yu-gong-yi-shan-yugong-moves-mountains"
       ]
     },
     {
-      "name": "The Man Who Worried About Heaven Falling",
-      "name_local": "杞人憂天",
-      "date": null,
-      "description": "Famous anecdote about unnecessary worry over trivial matters",
+      "name": "Zhuangzi's Turtle Story",
+      "name_local": "莊子曳尾塗中",
+      "date": "c.4th century BCE",
+      "description": "Zhuangzi's famous anecdote refusing official posts to remain a turtle dragging its tail in mud",
       "articles": [
-        "杞人忧天-qiren-youtian"
+        "zhuangzi-turtle-story-rejection"
       ]
     },
     {
-      "name": "Birth through Suffering, Death through Comfort",
-      "name_local": "生於憂患，死於安樂",
-      "date": null,
-      "description": "Philosophical concept expressing that adversity breeds strength while comfort leads to downfall",
+      "name": "The Woodcutter's Dream of the Deer",
+      "name_local": "薪者夢鹿",
+      "date": "c.4th century BCE",
+      "description": "Philosophical story from Liezi about a woodcutter dreaming of a deer",
       "articles": [
-        "生子憂患死於安樂"
+        "woodcutter-dream-dee r-liezi"
+      ]
+    },
+    {
+      "name": "The Yan Person Returning Home",
+      "name_local": "燕人歸國",
+      "date": "c.4th century BCE",
+      "description": "Liezi story about a man from Yan who was ridiculed for his speech upon returning home",
+      "articles": [
+        "yan-person-return-homeland-liezi"
+      ]
+    },
+    {
+      "name": "Zhang Liang's Daoist Cultivation and Exile",
+      "name_local": "張良修道絕谷",
+      "date": "c.206 BCE",
+      "description": "Zhang Liang's period of Daoist cultivation and exile after serving Liu Bang",
+      "articles": [
+        "zhang-liang-daoist-cultivation-exile"
+      ]
+    },
+    {
+      "name": "Zhi Bei You (Northern Journey of Knowledge)",
+      "name_local": "知北遊",
+      "date": "c.4th century BCE",
+      "description": "Chapter 22 of Zhuangzi exploring the nature of knowledge and epistemology",
+      "articles": [
+        "zhuangzi-zhi-bei-you-chapter"
+      ]
+    },
+    {
+      "name": "Satori",
+      "name_local": "悟",
+      "date": null,
+      "description": "Japanese Buddhist concept of sudden awakening or enlightenment",
+      "articles": [
+        "さとり"
       ]
     }
   ],
   "places": [
     {
       "name": "Magadha",
-      "name_local": "摩揭陀",
+      "name_local": "摩揭陀國",
+      "coords": [
+        25.0,
+        85.0
+      ],
+      "articles": [
+        "bimbisara-king-magadha-ren-xian",
+        "changahan-jing"
+      ]
+    },
+    {
+      "name": "Eastern Han",
+      "name_local": "東漢",
       "coords": null,
       "articles": [
-        "bimbisara-king-magadha-ren-xian"
+        "an-shigao-translated-agama-zhengxing-sutra",
+        "an-shigao-translation-methodology",
+        "chaou-ke"
+      ]
+    },
+    {
+      "name": "Wuyue",
+      "name_local": "五嶽",
+      "coords": null,
+      "description": "Five Sacred Peaks of Taoism",
+      "articles": [
+        "five-peaks-true-form-map-wuyue-zhenxing-tu"
       ]
     },
     {
@@ -1503,8 +1755,9 @@
       "name_local": "泰山",
       "coords": [
         36.2556,
-        117.1072
+        117.1078
       ],
+      "description": "Eastern peak of the Five Sacred Mountains",
       "articles": [
         "five-peaks-true-form-map-wuyue-zhenxing-tu"
       ]
@@ -1513,9 +1766,22 @@
       "name": "Mount Hua",
       "name_local": "華山",
       "coords": [
-        34.4853,
-        110.0925
+        34.4869,
+        110.0811
       ],
+      "description": "Western peak of the Five Sacred Mountains",
+      "articles": [
+        "five-peaks-true-form-map-wuyue-zhenxing-tu"
+      ]
+    },
+    {
+      "name": "Mount Heng",
+      "name_local": "衡山",
+      "coords": [
+        27.3219,
+        112.6144
+      ],
+      "description": "Southern peak of the Five Sacred Mountains",
       "articles": [
         "five-peaks-true-form-map-wuyue-zhenxing-tu"
       ]
@@ -1524,164 +1790,59 @@
       "name": "Mount Song",
       "name_local": "嵩山",
       "coords": [
-        34.4536,
-        112.9728
+        34.4544,
+        112.9428
       ],
+      "description": "Central peak of the Five Sacred Mountains",
       "articles": [
         "five-peaks-true-form-map-wuyue-zhenxing-tu"
       ]
     },
     {
-      "name": "Mount Heng (Southern)",
-      "name_local": "衡山",
+      "name": "Mount Beidong",
+      "name_local": "北岳恆山",
       "coords": [
-        27.2989,
-        112.6078
+        39.6706,
+        113.7203
       ],
+      "description": "Northern peak of the Five Sacred Mountains",
       "articles": [
         "five-peaks-true-form-map-wuyue-zhenxing-tu"
       ]
     },
     {
-      "name": "Mount Heng (Northern)",
-      "name_local": "恒山",
-      "coords": [
-        39.6609,
-        113.6858
-      ],
-      "articles": [
-        "five-peaks-true-form-map-wuyue-zhenxing-tu"
-      ]
-    },
-    {
-      "name": "Shengjin Mountain",
-      "name_local": "勝神山",
+      "name": "Barbarian Lands",
+      "name_local": "蠻貊",
       "coords": null,
-      "articles": [
-        "five-ascetics-seven-śrāvaka-buddhist-narrative"
-      ]
-    },
-    {
-      "name": "Zhou Dynasty",
-      "name_local": "周朝",
-      "coords": [
-        34.7553,
-        113.6396
-      ],
+      "description": "Barbarian territories mentioned in ancient Chinese texts",
       "articles": [
         "five-hundred-years-sage-king-cycles"
       ]
     },
     {
-      "name": "Qin State",
-      "name_local": "秦國",
-      "coords": [
-        34.2658,
-        108.9541
-      ],
+      "name": "Hao Bridge",
+      "name_local": "濠梁",
+      "coords": null,
+      "description": "Bridge associated with the Zhuangzi-Hui Shi philosophical debate",
       "articles": [
-        "first-principle-shangjun-shu",
-        "four-battle-states-shangjun-shu"
+        "hao-bridge-debate-fish-happiness"
       ]
     },
     {
       "name": "Huaxu Kingdom",
       "name_local": "華胥氏之國",
       "coords": null,
+      "description": "Utopian kingdom in Yellow Emperor's dream",
       "articles": [
-        "huaxu-kingdom-liezi",
-        "huaxu-dream-liezi"
+        "huaxu-kingdom-liezi"
       ]
     },
     {
-      "name": "Kingdom of Qi",
-      "name_local": "齊國",
-      "coords": [
-        36.6,
-        118.3
-      ],
-      "articles": [
-        "guan-bao-friendship-liezi",
-        "hubin-wheelmaking-discourse-zhuangzi"
-      ]
-    },
-    {
-      "name": "Han Dynasty",
-      "name_local": "漢朝",
-      "coords": [
-        34.3,
-        108.9
-      ],
-      "articles": [
-        "han-dynasty",
-        "han-dynasty-mencius-reception"
-      ]
-    },
-    {
-      "name": "Kingdom of Chu",
-      "name_local": "楚國",
-      "coords": [
-        31.2,
-        112.2
-      ],
-      "articles": [
-        "ji-shengzi-fighting-roosters-liezi"
-      ]
-    },
-    {
-      "name": "Nation of Established Virtue",
-      "name_local": "建德之國",
+      "name": "Forest Hermitage",
+      "name_local": "蘭若",
       "coords": null,
       "articles": [
-        "jian-de-zhi-guo"
-      ]
-    },
-    {
-      "name": "Jambudvipa",
-      "name_local": "閻浮提",
-      "coords": null,
-      "articles": [
-        "king-ding-sheng-jambudvipa-expansion"
-      ]
-    },
-    {
-      "name": "Four Continents",
-      "name_local": "四洲",
-      "coords": null,
-      "articles": [
-        "king-ding-sheng-jambudvipa-expansion"
-      ]
-    },
-    {
-      "name": "Mount Kunlun",
-      "name_local": "昆侖山",
-      "coords": null,
-      "articles": [
-        "liang-zuo-shan-two-mountains-immortality-baopuzi"
-      ]
-    },
-    {
-      "name": "Penglai",
-      "name_local": "蓬萊",
-      "coords": null,
-      "articles": [
-        "liang-zuo-shan-two-mountains-immortality-baopuzi"
-      ]
-    },
-    {
-      "name": "Yingzhou",
-      "name_local": "瀛洲",
-      "coords": null,
-      "articles": [
-        "liang-zuo-shan-two-mountains-immortality-baopuzi"
-      ]
-    },
-    {
-      "name": "Fangzhou",
-      "name_local": "方丈",
-      "coords": null,
-      "articles": [
-        "liang-zuo-shan-two-mountains-immortality-baopuzi"
+        "lan-ruo"
       ]
     },
     {
@@ -1697,108 +1858,170 @@
       "name_local": "蓮華世界",
       "coords": null,
       "articles": [
-        "lotus-world-buddhist-cosmology",
-        "mahayana-dharani-of-compassion"
+        "mahayana-dharani-of-compassion",
+        "lotus-world-buddhist-cosmology"
       ]
     },
     {
-      "name": "Forest Hermitage",
-      "name_local": "蘭若",
+      "name": "Jambudvipa",
+      "name_local": "閻浮提",
       "coords": null,
       "articles": [
-        "lan-ruo"
+        "king-ding-sheng-jambudvipa-expansion"
       ]
     },
     {
-      "name": "Lu State",
-      "name_local": "魯國",
-      "coords": [
-        35.6,
-        116.99
-      ],
+      "name": "Song State",
+      "name_local": "宋国",
+      "coords": null,
       "articles": [
-        "liji-aigong-wen-duke-ai-inquires"
+        "mozi-gongshu-dialogue-chapter"
       ]
     },
     {
-      "name": "Qi State",
-      "name_local": "齊國",
-      "coords": [
-        36.1,
-        118.3
-      ],
+      "name": "Chu State",
+      "name_local": "楚国",
+      "coords": null,
       "articles": [
-        "liezi-journey-early-return"
+        "mozi-gongshu-dialogue-chapter"
       ]
     },
     {
-      "name": "Qufu",
-      "name_local": "曲阜",
-      "coords": [
-        35.5967,
-        116.9914
-      ],
+      "name": "Ancient China",
+      "name_local": "古代中國",
+      "coords": null,
       "articles": [
-        "xiao-jing-classic-of-filial-piety",
-        "yan-hui",
-        "zigong",
-        "zilu"
+        "mozijing",
+        "mozi-qin-shi-cherishing-scholars",
+        "mozi-rejecting-confucians-fei-ru",
+        "mozi-sage-kings-burial-model",
+        "mozi-seven-calamities-qi-huan",
+        "mozi-shang-xian-upper",
+        "mozi-siege-commands-hao-ling",
+        "mozi-siege-defense-inventory",
+        "mozi-signal-communication-siege-defense",
+        "mozi-suo-ran-being-infected",
+        "mozi-suo-ran-dyeing-influence",
+        "mozi-suoran-on-influence",
+        "mozi-three-debates-music-governance",
+        "mozi-three-standards-three-fa",
+        "mozi-upper-canon-jing-shang",
+        "mozi-water-defense-strategies",
+        "mozi-worthy-historians-emperors",
+        "mozi-xiaoqu-logical-methodology",
+        "mozi-xiaoqu-logical-methods",
+        "mozi-xiaoqu-mohist-logic",
+        "mozi-xiu-shen-self-cultivation",
+        "mozi-yingdi-ci-qi-observation-military-divination",
+        "mozi-yingdi-ci-welcoming-enemy-rituals",
+        "qie-ji-theft-covetous-disease",
+        "qin-guli"
       ]
     },
     {
-      "name": "Lu",
-      "name_local": "魯國",
+      "name": "Zhongshan",
+      "name_local": "中山",
+      "coords": null,
+      "articles": [
+        "prince-ming-zhangshan-gongsun-long-liezi"
+      ]
+    },
+    {
+      "name": "China",
+      "name_local": "中國",
+      "coords": null,
+      "articles": [
+        "rites-food-debate-gaozi",
+        "ruo-min-weakening-the-people",
+        "ruxing-confucian-conduct",
+        "san-lue-three-strategies",
+        "san-shi-shen-three-corpses",
+        "sang-da-ji-funeral-rituals-liji",
+        "sangfu-xiaoji-liji",
+        "seeds-of-being-zhongyouji",
+        "self-generating-life-death",
+        "self-other-illusion-dream-wakefulness-guan-yinzi",
+        "shan-e-bao-ying-karmic-retribution",
+        "shan-mu-yi-dai-niao",
+        "shang-jun-shu-reward-punishment-system",
+        "shang-jun-shu-volume-5",
+        "shang-tong-identifying-with-superiors",
+        "shang-tong-reward-punishment-maf",
+        "shang-tong-upper-unity-mozi",
+        "shang-tong-upward-conformity",
+        "shang-tong-upward-uniformity-mozi",
+        "shang-xian-esteeming-worthy-part-two",
+        "shang-xian-exalting-worthy-mozi",
+        "shang-xian-exalting-worthy",
+        "shang-xian-middle-mozi",
+        "shang-xing-rewards-punishments",
+        "shangqiu-kai-faith-moves-heaven-earth-liezi",
+        "shared-joy-with-the-people-yu-min-xie-le",
+        "shen-gui-dream-yuan-jun-zhuangzi",
+        "sheng-jing-birth-sutras",
+        "sheng-ren-zhi-dao-sages-way",
+        "shizi-sutuo-suowa-wang-duanrou-jing",
+        "shou-yi-zhi-dao-guarding-the-one",
+        "si-en-four-graces-buddhism",
+        "si-en",
+        "sima-fa-methods-of-the-marshal",
+        "six-mourning-principles-daxizhuan"
+      ]
+    },
+    {
+      "name": "Trayastriṃśa Heaven",
+      "name_local": "三十三天（忉利天）",
       "coords": [
-        35.8,
-        116.5
+        null
       ],
       "articles": [
-        "yan-hui",
-        "zigong",
-        "zilu"
+        "thirty-three-heavens"
+      ]
+    },
+    {
+      "name": "Tumen Tunnel Gates",
+      "name_local": "突門",
+      "coords": [
+        null
+      ],
+      "articles": [
+        "tu-men-tunnel-gates-city-defense"
+      ]
+    },
+    {
+      "name": "Zhou Kingdom",
+      "name_local": "周朝",
+      "coords": null,
+      "articles": [
+        "zhang-liang-daoist-cultivation-exile"
       ]
     },
     {
       "name": "Yan",
       "name_local": "燕國",
-      "coords": [
-        40.0,
-        116.5
-      ],
+      "coords": null,
       "articles": [
         "yan-person-return-homeland-liezi"
       ]
     },
     {
-      "name": "Qi",
-      "name_local": "齊國",
-      "coords": [
-        36.8,
-        118.3
-      ],
-      "articles": [
-        "yang-zhu-philosophy-liezi",
-        "yu-gong-yi-shan-yugong-moves-mountains"
-      ]
-    },
-    {
-      "name": "Han",
-      "name_local": "韓國",
-      "coords": [
-        34.8,
-        113.5
-      ],
-      "articles": [
-        "wu-zi"
-      ]
-    },
-    {
-      "name": "Hua Mountain",
-      "name_local": "華山",
+      "name": "Weishan Lake",
+      "name_local": "、微山湖",
       "coords": null,
-      "description": "Sacred mountain associated with the Eight Tathāgata Stupas",
       "articles": [
-        "如来八寶塔-eight-tathagata-stupas"
+        "zhuangzi-daozhi-chapter"
+      ]
+    },
+    {
+      "name": "Qi",
+      "name_local": "杞",
+      "coords": [
+        36.65,
+        115.48
+      ],
+      "description": "Ancient Chinese state; origin of the man who worried about the sky",
+      "articles": [
+        "杞人忧天-qiren-youtian"
       ]
     }
   ]
