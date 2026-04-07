@@ -190,8 +190,8 @@
       ]
     },
     {
-      "name": "The Buddha",
-      "name_local": "佛",
+      "name": "Gautama Buddha",
+      "name_local": "釋迦牟尼佛",
       "dates": "c.563-483 BCE",
       "role": "Founder of Buddhism",
       "articles": [
@@ -200,7 +200,23 @@
         "bodhisattva-sacrifice-king-changshou",
         "cakravartin-seven-treasures-buddhist-texts",
         "changahan-jing",
-        "changahan-shi-bao-jing"
+        "changahan-shi-bao-jing",
+        "ding-sheng-wang-king-mahadyuti-origin-karma",
+        "ding-sheng-wang-yinyuan-jing",
+        "eightfold-noble-path-human-immortal-sutra",
+        "five-bliss-food-offering-sutra",
+        "foshuo-pusa-benxing-jing",
+        "four-bases-supernatural-power-siddhartha",
+        "four-noble-truths",
+        "jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra",
+        "king-sibi-pigeon-sacrifice",
+        "tathagata-eight-rare-qualities",
+        "three-treasures",
+        "three-types-liberation-buddhist-uppsala",
+        "throw-body-feed-tigers-jataka",
+        "twelve-links-dependent-origination",
+        "upaya-expedient-means-buddhism",
+        "virtue-merit-buddhism-de"
       ]
     },
     {
@@ -490,20 +506,6 @@
       ]
     },
     {
-      "name": "Buddha",
-      "name_local": "佛",
-      "dates": "c.563-483 BCE",
-      "role": "Founder of Buddhism",
-      "articles": [
-        "ding-sheng-wang-king-mahadyuti-origin-karma",
-        "ding-sheng-wang-yinyuan-jing",
-        "eightfold-noble-path-human-immortal-sutra",
-        "five-bliss-food-offering-sutra",
-        "foshuo-pusa-benxing-jing",
-        "four-noble-truths"
-      ]
-    },
-    {
       "name": "Fajü",
       "name_local": "法炬",
       "dates": "fl. Western Jin",
@@ -533,15 +535,6 @@
       "role": "Taoist Sage",
       "articles": [
         "five-elements-transformation-mind-guanyinzi"
-      ]
-    },
-    {
-      "name": "Siddhartha",
-      "name_local": "悉達多",
-      "dates": "c.563-483 BCE",
-      "role": "Prince/Buddha",
-      "articles": [
-        "four-bases-supernatural-power-siddhartha"
       ]
     },
     {
@@ -687,16 +680,6 @@
       "role": "Spiritual master",
       "articles": [
         "ji-shengzi-fighting-roosters-liezi"
-      ]
-    },
-    {
-      "name": "Shakyamuni Buddha",
-      "name_local": "釋迦牟尼佛",
-      "dates": "c.563-483 BCE",
-      "role": "Buddha",
-      "articles": [
-        "jiao-qi-yin-yuan-causes-for-teaching-mahayana-mind-ground-sutra",
-        "king-sibi-pigeon-sacrifice"
       ]
     },
     {
@@ -1174,21 +1157,6 @@
       "role": "Bodhisattva",
       "articles": [
         "virama-bodhisattva-pusajiamo"
-      ]
-    },
-    {
-      "name": "Buddha (Tathagata)",
-      "name_local": "如來",
-      "dates": "c.563-483 BCE",
-      "role": "Founder of Buddhism",
-      "articles": [
-        "tathagata-eight-rare-qualities",
-        "three-treasures",
-        "three-types-liberation-buddhist-uppsala",
-        "twelve-links-dependent-origination",
-        "throw-body-feed-tigers-jataka",
-        "virtue-merit-buddhism-de",
-        "upaya-expedient-means-buddhism"
       ]
     },
     {
