@@ -39,4 +39,17 @@ fi
 ln -sfn /app/data/raw /app/raw
 ln -sfn /app/data/wiki /app/wiki
 
-exec gunicorn --bind 0.0.0.0:${PORT} --workers 1 --threads 4 --timeout 300 wsgi:app
+# /dev/shm is a tmpfs that avoids slow disk I/O for gunicorn worker heartbeat
+# files; fall back to /tmp if it isn't available or writable in this runtime.
+WORKER_TMP_DIR_ARG=""
+if [ -d /dev/shm ] && [ -w /dev/shm ]; then
+    WORKER_TMP_DIR_ARG="--worker-tmp-dir /dev/shm"
+fi
+
+exec gunicorn \
+    --bind 0.0.0.0:${PORT} \
+    --workers 2 --threads 2 \
+    --timeout 120 --graceful-timeout 30 \
+    ${WORKER_TMP_DIR_ARG} \
+    --access-logfile - \
+    wsgi:app

@@ -12,3 +12,8 @@ raw/*.pdf
 
 # These are generated
 .opencli/
+
+# Local development scratch — never commit
+.mcp.json
+backups/
+logs/
