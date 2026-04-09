@@ -1,11 +1,16 @@
 #!/bin/bash
 # /app/data is the Railway volume mount point
 
+# Always ensure the volume subtree exists (safe even on first boot)
+mkdir -p /app/data/raw \
+         /app/data/wiki/concepts \
+         /app/data/wiki/_meta \
+         /app/data/wiki/outputs
+
 if [ ! -f /app/data/.initialized ]; then
     echo "First boot: initializing persistent data volume..."
-    mkdir -p /app/data/raw /app/data/wiki/concepts /app/data/wiki/_meta /app/data/wiki/outputs
     if [ -d /app/seed/wiki ]; then
-        cp -r /app/seed/wiki/* /app/data/wiki/ 2>/dev/null || true
+        cp -r /app/seed/wiki/. /app/data/wiki/ 2>/dev/null || true
     fi
     touch /app/data/.initialized
     echo "Volume initialized."
@@ -32,12 +37,34 @@ else
     done
     # Also update wiki articles: only add new ones from seed, never overwrite
     if [ -d /app/seed/wiki/concepts ]; then
-        cp -rn /app/seed/wiki/concepts/* /app/data/wiki/concepts/ 2>/dev/null || true
+        cp -rn /app/seed/wiki/concepts/. /app/data/wiki/concepts/ 2>/dev/null || true
     fi
 fi
 
+# Defensive: a stale image layer or interrupted rebuild could leave
+# /app/raw or /app/wiki as a real directory, which would silently break
+# `ln -s` (it creates a nested symlink inside the dir instead). Wipe any
+# such dir before symlinking. The actual data lives on /app/data and is
+# unaffected.
+for d in raw wiki; do
+    if [ -e "/app/$d" ] && [ ! -L "/app/$d" ]; then
+        echo "Removing stale image-baked /app/$d before linking to volume"
+        rm -rf "/app/$d"
+    fi
+done
+
 ln -sfn /app/data/raw /app/raw
 ln -sfn /app/data/wiki /app/wiki
+
+# Verify symlinks are healthy
+if [ ! -L /app/raw ] || [ "$(readlink /app/raw)" != "/app/data/raw" ]; then
+    echo "FATAL: /app/raw is not the expected symlink to /app/data/raw" >&2
+    exit 1
+fi
+if [ ! -L /app/wiki ] || [ "$(readlink /app/wiki)" != "/app/data/wiki" ]; then
+    echo "FATAL: /app/wiki is not the expected symlink to /app/data/wiki" >&2
+    exit 1
+fi
 
 # /dev/shm is a tmpfs that avoids slow disk I/O for gunicorn worker heartbeat
 # files; fall back to /tmp if it isn't available or writable in this runtime.
