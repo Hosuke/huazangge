@@ -24,92 +24,27 @@ logger = logging.getLogger("huazangge.wsgi")
 base = Path(__file__).resolve().parent
 
 # ─── Register llmbase hooks → remote sync ──────────────────────────────────
-# llmbase core emits "ingested" / "compiled" events; we forward them
-# directly to a PostgREST-compatible sync table (Supabase). The upsert is
-# inlined here rather than calling tools.sync.push_ingested/mark_compiled,
-# because llmbase 0.2.x's helpers are missing the on_conflict query
-# parameter — see _sync_upsert() below for the workaround. Hooks are
+# llmbase core emits "ingested" / "compiled" events; we forward them to the
+# Supabase-backed sync table via llmbase's own sync helpers. Hooks are
 # best-effort — exceptions inside callbacks are caught by llmbase and
 # logged at warning, never disrupting the core ingest/compile loop.
 try:
     from tools.hooks import register
-    from datetime import datetime, timezone
-    import requests
-
-    # NOTE: llmbase 0.2.x ships tools/sync.py but its push_ingested /
-    # mark_compiled don't pass `?on_conflict=source,work_id` on the
-    # PostgREST POST, so any second write for an existing (source,work_id)
-    # row gets rejected with HTTP 409 "duplicate key violates unique
-    # constraint". That makes mark_compiled a permanent no-op against the
-    # current Supabase schema. Until llmbase upstream is patched, we do
-    # the upsert inline here with the correct on_conflict parameter.
-
-    _SYNC_URL = (os.environ.get("LLMBASE_SYNC_URL", "")
-                 or os.environ.get("SUPABASE_URL", "")).rstrip("/")
-    _SYNC_KEY = (os.environ.get("LLMBASE_SYNC_KEY", "")
-                 or os.environ.get("SUPABASE_KEY", ""))
-    _SYNC_TABLE = os.environ.get("LLMBASE_SYNC_TABLE", "huazangge_ingested")
-    _SYNC_TIMEOUT = 8
-
-    def _sync_upsert(payload: dict) -> None:
-        """Upsert one row into the remote sync table.
-
-        Best-effort: any failure (network, auth, schema mismatch) is logged
-        at warning and swallowed so a flapping Supabase cannot stall the
-        worker. The on_conflict query parameter is required for PostgREST
-        to honour the unique constraint as a merge key on POST.
-        """
-        if not (_SYNC_URL and _SYNC_KEY):
-            return
-        try:
-            resp = requests.post(
-                f"{_SYNC_URL}/rest/v1/{_SYNC_TABLE}"
-                "?on_conflict=source,work_id",
-                json=payload,
-                headers={
-                    "apikey": _SYNC_KEY,
-                    "Authorization": f"Bearer {_SYNC_KEY}",
-                    "Content-Type": "application/json",
-                    "Prefer": "resolution=merge-duplicates,return=minimal",
-                },
-                timeout=_SYNC_TIMEOUT,
-            )
-            if resp.status_code not in (200, 201, 204):
-                logger.warning(
-                    f"[hooks] sync upsert {payload.get('source')}/"
-                    f"{payload.get('work_id')} → HTTP {resp.status_code}: "
-                    f"{resp.text[:200]}"
-                )
-        except Exception as e:
-            logger.warning(
-                f"[hooks] sync upsert {payload.get('source')}/"
-                f"{payload.get('work_id')} failed: {e}"
-            )
+    from tools.sync import push_ingested, mark_compiled, is_enabled as sync_enabled
 
     def _on_ingested(source, work_id, title=None, **_):
-        _sync_upsert({
-            "source": source,
-            "work_id": work_id,
-            "title": title or None,
-            "ingested_at": datetime.now(timezone.utc).isoformat(),
-        })
+        push_ingested(source, work_id, title or "")
 
     def _on_compiled(source, work_id, **_):
-        if not work_id:
-            return
-        _sync_upsert({
-            "source": source,
-            "work_id": work_id,
-            "compiled": True,
-            "compiled_at": datetime.now(timezone.utc).isoformat(),
-        })
+        if work_id:
+            mark_compiled(source, work_id)
 
     register("ingested", _on_ingested)
     register("compiled", _on_compiled)
 
-    if _SYNC_URL and _SYNC_KEY:
-        logger.info(f"[hooks] Remote sync enabled → {_SYNC_TABLE} "
-                    "(ingested + compiled events mirrored to Supabase)")
+    if sync_enabled():
+        logger.info("[hooks] Remote sync enabled — ingested/compiled events "
+                    "will be mirrored to Supabase")
     else:
         logger.warning("[hooks] Sync env vars not set "
                        "(LLMBASE_SYNC_URL / LLMBASE_SYNC_KEY) — "
